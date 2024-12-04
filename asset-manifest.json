@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/kuunivcollege/static/css/main.aad8e2b5.css",
-    "main.js": "/kuunivcollege/static/js/main.dd2263e6.js",
+    "main.js": "/kuunivcollege/static/js/main.6bdec489.js",
     "static/js/453.b15e6f80.chunk.js": "/kuunivcollege/static/js/453.b15e6f80.chunk.js",
     "static/media/img_sub02.png": "/kuunivcollege/static/media/img_sub02.aed98f7e295a57db1fa8.png",
     "static/media/img_sub03.png": "/kuunivcollege/static/media/img_sub03.a6fb6308e3644848825a.png",
     "static/media/img_sub01.png": "/kuunivcollege/static/media/img_sub01.a9ba4254a9632286d081.png",
-    "static/media/컴퓨터학과.png": "/kuunivcollege/static/media/컴퓨터학과.2f73c9c2ad75a791df85.png",
+    "static/media/computer_science.png": "/kuunivcollege/static/media/computer_science.2f73c9c2ad75a791df85.png",
     "static/media/black2positive.gif": "/kuunivcollege/static/media/black2positive.6e78b7458b5a2dc0e355.gif",
     "static/media/logo.png": "/kuunivcollege/static/media/logo.6635bb8736518a7ea2ff.png",
     "static/media/slick.svg": "/kuunivcollege/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -15,11 +15,11 @@
     "static/media/slick.woff": "/kuunivcollege/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/kuunivcollege/index.html",
     "main.aad8e2b5.css.map": "/kuunivcollege/static/css/main.aad8e2b5.css.map",
-    "main.dd2263e6.js.map": "/kuunivcollege/static/js/main.dd2263e6.js.map",
+    "main.6bdec489.js.map": "/kuunivcollege/static/js/main.6bdec489.js.map",
     "453.b15e6f80.chunk.js.map": "/kuunivcollege/static/js/453.b15e6f80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aad8e2b5.css",
-    "static/js/main.dd2263e6.js"
+    "static/js/main.6bdec489.js"
   ]
 }
