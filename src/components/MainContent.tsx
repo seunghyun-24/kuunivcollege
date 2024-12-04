@@ -2,7 +2,7 @@ import React from "react";
 import styles from "../styles/MainContent.module.css";
 
 const departmentImages: { [key: string]: string } = {
-  컴퓨터학과: require("../assets/college/컴퓨터학과.png"),
+  컴퓨터학과: require("../assets/college/computer_science.png"),
 };
 
 interface MainContentProps {
