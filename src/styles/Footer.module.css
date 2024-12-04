@@ -1,0 +1,49 @@
+.footer {
+  background-color: #343c44;
+  color: #7c7d80;
+  margin-top: 100px;
+  padding: 20px 0;
+  text-align: left;
+  font-family: Arial, sans-serif;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  align-items: left;
+  justify-content: left;
+  max-width: 1200px;
+  margin: 0 auto;
+  gap: 20px;
+}
+
+.logo {
+  height: 80px;
+  width: auto;
+  margin: 10px 0;
+  margin-right: 20px;
+}
+
+.info p {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+.info {
+  text-align: left;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.divider {
+  border: none;
+  border-top: 1px solid #555;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.secret {
+  position: absolute;
+  font-size: 8px;
+  color: #343c44;
+}

@@ -1,0 +1,26 @@
+.mainContent {
+  flex: 1;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.departmentImage {
+  max-width: 100%;
+  max-height: 400px;
+  object-fit: contain;
+}
+
+.placeholderText {
+  font-size: 18px;
+  color: #777;
+}
+
+.errorText {
+  font-size: 16px;
+  color: red;
+}

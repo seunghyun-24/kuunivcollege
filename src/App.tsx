@@ -1,26 +1,32 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import Header from "./components/Header";
+import Sidebar from "./components/Sidebar";
+import MainContent from "./components/MainContent";
+import ImageSlider from "./components/ImageSlider";
+import Footer from "./components/Footer";
+import "./styles/App.css";
 
-function App() {
+const App: React.FC = () => {
+  // 학과 상태를 저장
+  const [selectedDepartment, setSelectedDepartment] = useState<string | null>(
+    null
+  );
+
+  const handleDepartmentClick = (department: string) => {
+    setSelectedDepartment(department);
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app">
+      <Header />
+      <ImageSlider />
+      <div className="content-container">
+        <Sidebar onDepartmentClick={handleDepartmentClick} />
+        <MainContent department={selectedDepartment} />
+      </div>
+      <Footer />
     </div>
   );
-}
+};
 
 export default App;
