@@ -1,22 +1,16 @@
 import { useEffect, useState } from "react";
-import ReactFlow, {
-  Background,
-  Controls,
-  useEdgesState,
-  useNodesState,
-} from "react-flow-renderer";
+import { useEdgesState, useNodesState } from "react-flow-renderer";
 import styles from "../styles/MainContent.module.css";
 import { getLayoutedNodesAndEdges } from "../utils/layoutEngine";
 import GraphRenderer from "./GraphRenderer";
-import AutoLayoutFlow from "./Demo";
 
 interface MainContentProps {
   department: string | null;
 }
 
 const MainContent: React.FC<MainContentProps> = ({ department }) => {
-  const [nodes, setNodes, onNodesChange] = useNodesState([]);
-  const [edges, setEdges, onEdgesChange] = useEdgesState([]);
+  const [nodes, setNodes] = useNodesState([]);
+  const [edges, setEdges] = useEdgesState([]);
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {

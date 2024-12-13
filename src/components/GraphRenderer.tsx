@@ -32,12 +32,18 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({ nodes, edges }) => {
   );
 
   const handleNodeMouseEnter = (event: any, node: any) => {
-    setHoveredNodeId(node.id);
+    const connectedEdges = edges.filter(
+      (edge) => edge.source === node.id || edge.target === node.id
+    );
 
-    const { nodes: relatedNodes, edges: relatedEdges } =
-      findConnectedNodesAndEdges(node.id, edges);
-    setConnectedNodeIds(relatedNodes);
-    setConnectedEdgeIds(relatedEdges);
+    if (connectedEdges.length > 0) {
+      setHoveredNodeId(node.id);
+
+      const { nodes: relatedNodes, edges: relatedEdges } =
+        findConnectedNodesAndEdges(node.id, edges);
+      setConnectedNodeIds(relatedNodes);
+      setConnectedEdgeIds(relatedEdges);
+    }
   };
 
   const handleNodeMouseLeave = () => {
