@@ -4,11 +4,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "../styles/ImageSlider.css"; // 슬라이더 커스텀 스타일
 
-const images = [
-  require("../assets/img_sub01.png"),
-  require("../assets/img_sub02.png"),
-  require("../assets/img_sub03.png"),
-];
+const images = [require("../assets/img_sub01.png")];
 
 const ImageSlider: React.FC = () => {
   const settings = {
