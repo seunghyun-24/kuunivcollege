@@ -5,15 +5,22 @@ export const CustomNode = ({ data }: any) => {
   return (
     <div
       style={{
-        padding: "10px",
-        border: "1px solid #ddd",
-        borderRadius: "5px",
-        background: "#fff",
+        padding: "3px",
+        //fontSize: "16px",
+        textAlign: "center",
       }}
     >
       {data.label}
-      <Handle type="target" position={Position.Left} />
-      <Handle type="source" position={Position.Right} />
+      <Handle
+        type="target"
+        position={Position.Left}
+        style={{ visibility: "hidden" }}
+      />
+      <Handle
+        type="source"
+        position={Position.Right}
+        style={{ visibility: "hidden" }}
+      />
     </div>
   );
 };

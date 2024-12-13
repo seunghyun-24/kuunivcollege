@@ -9,6 +9,7 @@ import { Tooltip } from "react-tooltip";
 import "../styles/ReactFlowStyles.css";
 import { CustomNode } from "../styles/CustomNode";
 import { findConnectedNodesAndEdges } from "../utils/calculateRelationCourses";
+import { InfomationBox } from "./InfomationBox";
 
 const nodeTypes = {
   customNode: CustomNode,
@@ -94,6 +95,7 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({ nodes, edges }) => {
           <Background color="#ddd" gap={16} />
           <Controls />
         </ReactFlow>
+        <InfomationBox />
         <Tooltip anchorSelect="[data-tooltip-id]" place="top" clickable>
           {hoveredNodeId && (
             <div>
