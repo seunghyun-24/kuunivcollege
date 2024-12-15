@@ -1,0 +1,1430 @@
+{
+    "nodes": [
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 220,
+                "y": 0
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 220,
+                "y": 70
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 220,
+                "y": 140
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 70
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 140
+            },
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS151",
+            "position": {
+                "x": 440,
+                "y": 210
+            },
+            "data": {
+                "label": "일반생물학및연습 I",
+                "학수번호": "LIBS151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS153",
+            "position": {
+                "x": 440,
+                "y": 280
+            },
+            "data": {
+                "label": "일반생물학실험 I",
+                "학수번호": "LIBS153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET151",
+            "position": {
+                "x": 440,
+                "y": 350
+            },
+            "data": {
+                "label": "화학의기초및연습 I",
+                "학수번호": "LIET151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET155",
+            "position": {
+                "x": 440,
+                "y": 420
+            },
+            "data": {
+                "label": "화학의기초실험 I",
+                "학수번호": "LIET155",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS183",
+            "position": {
+                "x": 440,
+                "y": 490
+            },
+            "data": {
+                "label": "생명물리학및연습",
+                "학수번호": "PHYS183",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS161",
+            "position": {
+                "x": 440,
+                "y": 560
+            },
+            "data": {
+                "label": "일반물리학 실험 I",
+                "학수번호": "PHYS161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 70
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS152",
+            "position": {
+                "x": 660,
+                "y": 140
+            },
+            "data": {
+                "label": "일반생물학및연습 II",
+                "학수번호": "LIBS152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS154",
+            "position": {
+                "x": 660,
+                "y": 210
+            },
+            "data": {
+                "label": "일반생물학실험 II",
+                "학수번호": "LIBS154",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET152",
+            "position": {
+                "x": 660,
+                "y": 280
+            },
+            "data": {
+                "label": "화학의기초및연습 II",
+                "학수번호": "LIET152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET156",
+            "position": {
+                "x": 660,
+                "y": 350
+            },
+            "data": {
+                "label": "화학의기초실험 II",
+                "학수번호": "LIET156",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH161",
+            "position": {
+                "x": 660,
+                "y": 420
+            },
+            "data": {
+                "label": "미적분학및연습 I",
+                "학수번호": "MATH161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET153",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "data": {
+                "label": "생물통계학",
+                "학수번호": "LIET153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS217",
+            "position": {
+                "x": 880,
+                "y": 70
+            },
+            "data": {
+                "label": "식품과학기초",
+                "학수번호": "LIFS217",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS219",
+            "position": {
+                "x": 880,
+                "y": 140
+            },
+            "data": {
+                "label": "식품미생물학I",
+                "학수번호": "LIFS219",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS221",
+            "position": {
+                "x": 880,
+                "y": 210
+            },
+            "data": {
+                "label": "식품물리화학",
+                "학수번호": "LIFS221",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS329",
+            "position": {
+                "x": 880,
+                "y": 280
+            },
+            "data": {
+                "label": "식품생화학I",
+                "학수번호": "LIFS329",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT271",
+            "position": {
+                "x": 880,
+                "y": 350
+            },
+            "data": {
+                "label": "유기화학 I",
+                "학수번호": "LIBT271",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS223",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "data": {
+                "label": "식품화학I",
+                "학수번호": "LIFS223",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS321",
+            "position": {
+                "x": 1320,
+                "y": 70
+            },
+            "data": {
+                "label": "근육식품학",
+                "학수번호": "LIFS321",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS323",
+            "position": {
+                "x": 1320,
+                "y": 140
+            },
+            "data": {
+                "label": "식품분석학",
+                "학수번호": "LIFS323",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "식품공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS325",
+            "position": {
+                "x": 1320,
+                "y": 210
+            },
+            "data": {
+                "label": "식품위생학",
+                "학수번호": "LIFS325",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS327",
+            "position": {
+                "x": 1320,
+                "y": 280
+            },
+            "data": {
+                "label": "식품법규",
+                "학수번호": "LIFS327",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS331",
+            "position": {
+                "x": 1320,
+                "y": 350
+            },
+            "data": {
+                "label": "유가공학",
+                "학수번호": "LIFS331",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS333",
+            "position": {
+                "x": 1320,
+                "y": 420
+            },
+            "data": {
+                "label": "식품공학및가공학실험I",
+                "학수번호": "LIFS333",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS337",
+            "position": {
+                "x": 1320,
+                "y": 490
+            },
+            "data": {
+                "label": "식품공학I",
+                "학수번호": "LIFS337",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS339",
+            "position": {
+                "x": 1320,
+                "y": 560
+            },
+            "data": {
+                "label": "식품위생학실험",
+                "학수번호": "LIFS339",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS343",
+            "position": {
+                "x": 1320,
+                "y": 630
+            },
+            "data": {
+                "label": "식품생화학실험",
+                "학수번호": "LIFS343",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS252",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "식품미생물학Ⅱ",
+                "학수번호": "LIFS252",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS256",
+            "position": {
+                "x": 1100,
+                "y": 70
+            },
+            "data": {
+                "label": "발효식품학",
+                "학수번호": "LIFS256",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS330",
+            "position": {
+                "x": 1100,
+                "y": 140
+            },
+            "data": {
+                "label": "식품생화학II",
+                "학수번호": "LIFS330",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS340",
+            "position": {
+                "x": 1100,
+                "y": 210
+            },
+            "data": {
+                "label": "식품미생물학실험",
+                "학수번호": "LIFS340",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT272",
+            "position": {
+                "x": 1100,
+                "y": 280
+            },
+            "data": {
+                "label": "유기화학 II",
+                "학수번호": "LIBT272",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS320",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "data": {
+                "label": "육가공학",
+                "학수번호": "LIFS320",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS324",
+            "position": {
+                "x": 1540,
+                "y": 70
+            },
+            "data": {
+                "label": "식품생물공학",
+                "학수번호": "LIFS324",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS326",
+            "position": {
+                "x": 1540,
+                "y": 140
+            },
+            "data": {
+                "label": "식품안전성",
+                "학수번호": "LIFS326",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS328",
+            "position": {
+                "x": 1540,
+                "y": 210
+            },
+            "data": {
+                "label": "식품위해요소중점관리학",
+                "학수번호": "LIFS328",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS334",
+            "position": {
+                "x": 1540,
+                "y": 280
+            },
+            "data": {
+                "label": "식품공학및가공학실험II",
+                "학수번호": "LIFS334",
+                "세부전공": null,
+                "전공역량": "자기실현",
+                "개설학과": "식품공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS338",
+            "position": {
+                "x": 1540,
+                "y": 350
+            },
+            "data": {
+                "label": "식품공학II",
+                "학수번호": "LIFS338",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "식품공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS341",
+            "position": {
+                "x": 1540,
+                "y": 420
+            },
+            "data": {
+                "label": "식품분석학실험",
+                "학수번호": "LIFS341",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "식품공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS354",
+            "position": {
+                "x": 1540,
+                "y": 490
+            },
+            "data": {
+                "label": "곡류과학",
+                "학수번호": "LIFS354",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS364",
+            "position": {
+                "x": 1540,
+                "y": 560
+            },
+            "data": {
+                "label": "식품화학Ⅱ",
+                "학수번호": "LIFS364",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS366",
+            "position": {
+                "x": 1540,
+                "y": 630
+            },
+            "data": {
+                "label": "식중독세균학",
+                "학수번호": "LIFS366",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS402",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "data": {
+                "label": "건강기능식품학",
+                "학수번호": "LIFS402",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "식품공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS404",
+            "position": {
+                "x": 1980,
+                "y": 70
+            },
+            "data": {
+                "label": "발효산업미생물학",
+                "학수번호": "LIFS404",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS464",
+            "position": {
+                "x": 1980,
+                "y": 140
+            },
+            "data": {
+                "label": "식품포장공학",
+                "학수번호": "LIFS464",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS466",
+            "position": {
+                "x": 1980,
+                "y": 210
+            },
+            "data": {
+                "label": "식품독성학",
+                "학수번호": "LIFS466",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS405",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "식품저장학",
+                "학수번호": "LIFS405",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS457",
+            "position": {
+                "x": 1760,
+                "y": 70
+            },
+            "data": {
+                "label": "과실채소류과학",
+                "학수번호": "LIFS457",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS475",
+            "position": {
+                "x": 1760,
+                "y": 140
+            },
+            "data": {
+                "label": "식품성분및재료학",
+                "학수번호": "LIFS475",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        }
+    ],
+    "edges": []
+}

@@ -21,8 +21,8 @@ interface GraphRendererProps {
 }
 
 const GraphRenderer: React.FC<GraphRendererProps> = ({ nodes, edges }) => {
-  const [styledNodes, setNodes, onNodesChange] = useNodesState(nodes);
-  const [styledEdges, setEdges, onEdgesChange] = useEdgesState(edges);
+  const [styledNodes, , onNodesChange] = useNodesState(nodes);
+  const [styledEdges, , onEdgesChange] = useEdgesState(edges);
   const [hoveredNodeId, setHoveredNodeId] = useState<string | null>(null);
   const [connectedNodeIds, setConnectedNodeIds] = useState<Set<string>>(
     new Set()
@@ -31,7 +31,7 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({ nodes, edges }) => {
     new Set()
   );
 
-  const handleNodeMouseEnter = (event: any, node: any) => {
+  const handleNodeMouseEnter = (_event: any, node: any) => {
     const connectedEdges = edges.filter(
       (edge) => edge.source === node.id || edge.target === node.id
     );

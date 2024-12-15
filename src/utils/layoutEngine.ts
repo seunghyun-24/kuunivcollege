@@ -13,9 +13,9 @@ export const getLayoutedNodesAndEdges = (
   const dagreGraph = new dagre.graphlib.Graph();
   dagreGraph.setGraph({
     rankdir: direction,
-    nodesep: 30,
-    edgesep: 30,
-    ranksep: 60,
+    nodesep: 50,
+    edgesep: 50,
+    ranksep: 100,
   });
   dagreGraph.setDefaultEdgeLabel(() => ({}));
 

@@ -3,40 +3,15 @@
         {
             "id": "GELI005",
             "position": {
-                "x": 440,
+                "x": 220,
                 "y": 0
             },
             "data": {
-                "label": "학문세계의탐구I",
+                "label": "학문세계의탐구 I",
                 "학수번호": "GELI005",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEWR002",
-            "position": {
-                "x": 440,
-                "y": 70
-            },
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -53,15 +28,140 @@
         {
             "id": "IFLS800",
             "position": {
-                "x": 440,
-                "y": 140
+                "x": 220,
+                "y": 70
             },
             "data": {
                 "label": "Academic English I",
                 "학수번호": "IFLS800",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 220,
+                "y": 140
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC201",
+            "position": {
+                "x": 220,
+                "y": 210
+            },
+            "data": {
+                "label": "심리학의기초I",
+                "학수번호": "PSYC201",
+                "세부전공": null,
+                "전공역량": "Mind&Machine",
+                "개설학과": "심리학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC202",
+            "position": {
+                "x": 220,
+                "y": 280
+            },
+            "data": {
+                "label": "심리학의기초II",
+                "학수번호": "PSYC202",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC209",
+            "position": {
+                "x": 220,
+                "y": 350
+            },
+            "data": {
+                "label": "초급심리통계",
+                "학수번호": "PSYC209",
+                "세부전공": null,
+                "전공역량": "Schema&Scale",
+                "개설학과": "심리학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -79,14 +179,14 @@
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 210
+                "y": 70
             },
             "data": {
-                "label": "[진로창업]1학년세미나Ⅰ",
+                "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS007",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -104,14 +204,14 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 280
+                "y": 140
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
                 "학수번호": "GECT002",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -121,81 +221,6 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 350
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE101",
-            "position": {
-                "x": 440,
-                "y": 420
-            },
-            "data": {
-                "label": "컴퓨터프로그래밍I",
-                "학수번호": "COSE101",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFECB3",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE111",
-            "position": {
-                "x": 440,
-                "y": 490
-            },
-            "data": {
-                "label": "전산수학I",
-                "학수번호": "COSE111",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFECB3",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -207,11 +232,11 @@
                 "y": 0
             },
             "data": {
-                "label": "[진로창업]1학년세미나 II",
+                "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS008",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -236,7 +261,7 @@
                 "학수번호": "GECT003",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
+                "개설학과": null,
                 "개설횟수": 0,
                 "내용": null,
                 "메모": null
@@ -251,142 +276,17 @@
             }
         },
         {
-            "id": "COSE102",
+            "id": "PSYC220",
             "position": {
                 "x": 660,
                 "y": 140
             },
             "data": {
-                "label": "컴퓨터프로그래밍II",
-                "학수번호": "COSE102",
+                "label": "심리학연구와활용",
+                "학수번호": "PSYC220",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFECB3",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE112",
-            "position": {
-                "x": 660,
-                "y": 210
-            },
-            "data": {
-                "label": "전산수학II",
-                "학수번호": "COSE112",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFECB3",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE213",
-            "position": {
-                "x": 880,
-                "y": 0
-            },
-            "data": {
-                "label": "자료구조",
-                "학수번호": "COSE213",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE215",
-            "position": {
-                "x": 880,
-                "y": 70
-            },
-            "data": {
-                "label": "계산이론",
-                "학수번호": "COSE215",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE281",
-            "position": {
-                "x": 880,
-                "y": 140
-            },
-            "data": {
-                "label": "공학수학",
-                "학수번호": "COSE281",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE283",
-            "position": {
-                "x": 880,
-                "y": 210
-            },
-            "data": {
-                "label": "회로이론",
-                "학수번호": "COSE283",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -401,18 +301,18 @@
             }
         },
         {
-            "id": "COSE214",
+            "id": "PSYC216",
             "position": {
-                "x": 1100,
+                "x": 880,
                 "y": 0
             },
             "data": {
-                "label": "알고리즘",
-                "학수번호": "COSE214",
+                "label": "학습심리학",
+                "학수번호": "PSYC216",
                 "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
+                "전공역량": "Schema&Scale",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null
             },
@@ -420,298 +320,23 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
+                "backgroundColor": "#F8BBD0",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE222",
+            "id": "PSYC221",
             "position": {
-                "x": 1100,
+                "x": 880,
                 "y": 70
             },
             "data": {
-                "label": "컴퓨터구조",
-                "학수번호": "COSE222",
+                "label": "감각및지각심리학",
+                "학수번호": "PSYC221",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE211",
-            "position": {
-                "x": 1100,
-                "y": 140
-            },
-            "data": {
-                "label": "이산수학",
-                "학수번호": "COSE211",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE212",
-            "position": {
-                "x": 1100,
-                "y": 210
-            },
-            "data": {
-                "label": "프로그래밍언어",
-                "학수번호": "COSE212",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE221",
-            "position": {
-                "x": 1100,
-                "y": 280
-            },
-            "data": {
-                "label": "논리설계",
-                "학수번호": "COSE221",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE242",
-            "position": {
-                "x": 1100,
-                "y": 350
-            },
-            "data": {
-                "label": "데이터통신",
-                "학수번호": "COSE242",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE284",
-            "position": {
-                "x": 1100,
-                "y": 420
-            },
-            "data": {
-                "label": "전자기학",
-                "학수번호": "COSE284",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE341",
-            "position": {
-                "x": 1320,
-                "y": 0
-            },
-            "data": {
-                "label": "운영체제",
-                "학수번호": "COSE341",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE361",
-            "position": {
-                "x": 1320,
-                "y": 70
-            },
-            "data": {
-                "label": "인공지능",
-                "학수번호": "COSE361",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE321",
-            "position": {
-                "x": 1320,
-                "y": 140
-            },
-            "data": {
-                "label": "컴퓨터시스템설계",
-                "학수번호": "COSE321",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE331",
-            "position": {
-                "x": 1320,
-                "y": 210
-            },
-            "data": {
-                "label": "컴퓨터그래픽스",
-                "학수번호": "COSE331",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE354",
-            "position": {
-                "x": 1320,
-                "y": 280
-            },
-            "data": {
-                "label": "정보보호",
-                "학수번호": "COSE354",
-                "세부전공": null,
-                "전공역량": "사회적책임",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE363",
-            "position": {
-                "x": 1320,
-                "y": 350
-            },
-            "data": {
-                "label": "정보와정보학",
-                "학수번호": "COSE363",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
+                "전공역량": "Mind&Machine",
+                "개설학과": "심리학부",
                 "개설횟수": 2,
                 "내용": null,
                 "메모": null
@@ -726,18 +351,18 @@
             }
         },
         {
-            "id": "COSE371",
+            "id": "PSYC224",
             "position": {
-                "x": 1320,
-                "y": 420
+                "x": 880,
+                "y": 140
             },
             "data": {
-                "label": "데이터베이스",
-                "학수번호": "COSE371",
+                "label": "기억심리학",
+                "학수번호": "PSYC224",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
+                "전공역량": "Mind&Machine",
+                "개설학과": "심리학부",
+                "개설횟수": 2,
                 "내용": null,
                 "메모": null
             },
@@ -751,18 +376,118 @@
             }
         },
         {
-            "id": "COSE372",
+            "id": "PSYC225",
             "position": {
-                "x": 1320,
+                "x": 880,
+                "y": 210
+            },
+            "data": {
+                "label": "인공지능의심리학",
+                "학수번호": "PSYC225",
+                "세부전공": null,
+                "전공역량": "Schema&Scale",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC241",
+            "position": {
+                "x": 880,
+                "y": 280
+            },
+            "data": {
+                "label": "산업심리학 ",
+                "학수번호": "PSYC241",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC271",
+            "position": {
+                "x": 880,
+                "y": 350
+            },
+            "data": {
+                "label": "생물심리학 ",
+                "학수번호": "PSYC271",
+                "세부전공": null,
+                "전공역량": "Schema&Scale",
+                "개설학과": "심리학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC277",
+            "position": {
+                "x": 880,
+                "y": 420
+            },
+            "data": {
+                "label": "사회심리학 ",
+                "학수번호": "PSYC277",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC279",
+            "position": {
+                "x": 880,
                 "y": 490
             },
             "data": {
-                "label": "데이터베이스시스템",
-                "학수번호": "COSE372",
+                "label": "자연지능의계산신경과학",
+                "학수번호": "PSYC279",
                 "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
+                "전공역량": "Schema&Scale",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null
             },
@@ -776,18 +501,18 @@
             }
         },
         {
-            "id": "COSE380",
+            "id": "PSYC231",
             "position": {
-                "x": 1320,
-                "y": 560
+                "x": 1100,
+                "y": 0
             },
             "data": {
-                "label": "디지털신호처리",
-                "학수번호": "COSE380",
+                "label": "성격심리학",
+                "학수번호": "PSYC231",
                 "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null
             },
@@ -801,42 +526,17 @@
             }
         },
         {
-            "id": "COSE382",
+            "id": "PSYC236",
             "position": {
-                "x": 1320,
-                "y": 630
+                "x": 1100,
+                "y": 70
             },
             "data": {
-                "label": "확률및랜덤과정",
-                "학수번호": "COSE382",
+                "label": "심리검사 ",
+                "학수번호": "PSYC236",
                 "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE385",
-            "position": {
-                "x": 1320,
-                "y": 700
-            },
-            "data": {
-                "label": "신호및시스템",
-                "학수번호": "COSE385",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
                 "개설횟수": 2,
                 "내용": null,
                 "메모": null
@@ -851,45 +551,20 @@
             }
         },
         {
-            "id": "COSE389",
+            "id": "PSYC242",
             "position": {
-                "x": 1320,
-                "y": 770
+                "x": 1100,
+                "y": 140
             },
             "data": {
-                "label": "기업가정신과리더쉽",
-                "학수번호": "COSE389",
+                "label": "조직심리학",
+                "학수번호": "PSYC242",
                 "세부전공": null,
-                "전공역량": "도전적리더",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE472",
-            "position": {
-                "x": 1320,
-                "y": 840
-            },
-            "data": {
-                "label": "정보검색",
-                "학수번호": "COSE472",
-                "세부전공": null,
-                "전공역량": "시뮬레이션능력",
-                "개설학과": "컴퓨터학과",
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
                 "개설횟수": 0,
                 "내용": null,
-                "메모": "데이터과학과 참고"
+                "메모": null
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -901,42 +576,17 @@
             }
         },
         {
-            "id": "COSE342",
+            "id": "PSYC275",
             "position": {
-                "x": 1540,
-                "y": 0
+                "x": 1100,
+                "y": 210
             },
             "data": {
-                "label": "컴퓨터네트워크",
-                "학수번호": "COSE342",
+                "label": "발달심리학",
+                "학수번호": "PSYC275",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE312",
-            "position": {
-                "x": 1540,
-                "y": 70
-            },
-            "data": {
-                "label": "컴파일러",
-                "학수번호": "COSE312",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
                 "개설횟수": 2,
                 "내용": null,
                 "메모": null
@@ -951,242 +601,17 @@
             }
         },
         {
-            "id": "COSE322",
+            "id": "PSYC321",
             "position": {
-                "x": 1540,
-                "y": 140
-            },
-            "data": {
-                "label": "시스템프로그래밍",
-                "학수번호": "COSE322",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE352",
-            "position": {
-                "x": 1540,
-                "y": 210
-            },
-            "data": {
-                "label": "소프트웨어공학",
-                "학수번호": "COSE352",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE362",
-            "position": {
-                "x": 1540,
+                "x": 1100,
                 "y": 280
             },
             "data": {
-                "label": "기계학습",
-                "학수번호": "COSE362",
+                "label": "인지심리학",
+                "학수번호": "PSYC321",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE394",
-            "position": {
-                "x": 1540,
-                "y": 350
-            },
-            "data": {
-                "label": "창의적소프트웨어창업방법론",
-                "학수번호": "COSE394",
-                "세부전공": null,
-                "전공역량": "도전적리더",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE394",
-            "position": {
-                "x": 1760,
-                "y": 0
-            },
-            "data": {
-                "label": "현장실습및창업실습I",
-                "학수번호": "COSE394",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE394",
-            "position": {
-                "x": 1760,
-                "y": 70
-            },
-            "data": {
-                "label": "현장실습및창업실습II",
-                "학수번호": "COSE394",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE394",
-            "position": {
-                "x": 1760,
-                "y": 140
-            },
-            "data": {
-                "label": "현장실습및창업실습III",
-                "학수번호": "COSE394",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE394",
-            "position": {
-                "x": 1760,
-                "y": 210
-            },
-            "data": {
-                "label": "현장실습및창업실습IV",
-                "학수번호": "COSE394",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE405",
-            "position": {
-                "x": 1760,
-                "y": 280
-            },
-            "data": {
-                "label": "컴퓨터학콜로키움",
-                "학수번호": "COSE405",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE415",
-            "position": {
-                "x": 1760,
-                "y": 350
-            },
-            "data": {
-                "label": "저전력컴퓨팅",
-                "학수번호": "COSE415",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
+                "전공역량": "Schema&Scale",
+                "개설학과": "심리학부",
                 "개설횟수": 2,
                 "내용": null,
                 "메모": null
@@ -1201,17 +626,17 @@
             }
         },
         {
-            "id": "COSE419",
+            "id": "PSYC232",
             "position": {
-                "x": 1760,
-                "y": 420
+                "x": 1540,
+                "y": 0
             },
             "data": {
-                "label": "소프트웨어검증",
-                "학수번호": "COSE419",
+                "label": "임상심리학",
+                "학수번호": "PSYC232",
                 "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -1226,18 +651,168 @@
             }
         },
         {
-            "id": "COSE421",
+            "id": "PSYC306",
             "position": {
-                "x": 1760,
+                "x": 1540,
+                "y": 70
+            },
+            "data": {
+                "label": "심리데이터과학의기초",
+                "학수번호": "PSYC306",
+                "세부전공": null,
+                "전공역량": "Mind&Machine",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC320",
+            "position": {
+                "x": 1540,
+                "y": 140
+            },
+            "data": {
+                "label": "동기의뇌신경과학",
+                "학수번호": "PSYC320",
+                "세부전공": null,
+                "전공역량": "Schema&Scale",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC326",
+            "position": {
+                "x": 1540,
+                "y": 210
+            },
+            "data": {
+                "label": "언어심리학",
+                "학수번호": "PSYC326",
+                "세부전공": null,
+                "전공역량": "Mind&Machine",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC330",
+            "position": {
+                "x": 1540,
+                "y": 280
+            },
+            "data": {
+                "label": "신경다양성",
+                "학수번호": "PSYC330",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC334",
+            "position": {
+                "x": 1540,
+                "y": 350
+            },
+            "data": {
+                "label": "상담및심리치료이론",
+                "학수번호": "PSYC334",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC336",
+            "position": {
+                "x": 1540,
+                "y": 420
+            },
+            "data": {
+                "label": "성격의측정과활용",
+                "학수번호": "PSYC336",
+                "세부전공": null,
+                "전공역량": "Schema&Scale",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC338",
+            "position": {
+                "x": 1540,
                 "y": 490
             },
             "data": {
-                "label": "임베디드시스템",
-                "학수번호": "COSE421",
+                "label": "정서의뇌신경과학",
+                "학수번호": "PSYC338",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
+                "전공역량": "Schema&Scale",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -1251,18 +826,18 @@
             }
         },
         {
-            "id": "COSE423",
+            "id": "PSYC346",
             "position": {
-                "x": 1760,
+                "x": 1540,
                 "y": 560
             },
             "data": {
-                "label": "볼록최적화입문",
-                "학수번호": "COSE423",
+                "label": "진로발달의평가",
+                "학수번호": "PSYC346",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
+                "전공역량": "Schema&Scale",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -1276,18 +851,18 @@
             }
         },
         {
-            "id": "COSE434",
+            "id": "PSYC350",
             "position": {
-                "x": 1760,
+                "x": 1540,
                 "y": 630
             },
             "data": {
-                "label": "게임프로그래밍",
-                "학수번호": "COSE434",
+                "label": "창의디자인",
+                "학수번호": "PSYC350",
                 "세부전공": null,
-                "전공역량": "다문화포용",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
+                "전공역량": "Mind&Machine",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -1301,18 +876,18 @@
             }
         },
         {
-            "id": "COSE451",
+            "id": "PSYC358",
             "position": {
-                "x": 1760,
+                "x": 1540,
                 "y": 700
             },
             "data": {
-                "label": "소프트웨어보안",
-                "학수번호": "COSE451",
+                "label": "선택의뇌과학",
+                "학수번호": "PSYC358",
                 "세부전공": null,
-                "전공역량": "사회적책임",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -1326,18 +901,18 @@
             }
         },
         {
-            "id": "COSE455",
+            "id": "PSYC360",
             "position": {
-                "x": 1760,
+                "x": 1540,
                 "y": 770
             },
             "data": {
-                "label": "스타트업프로젝트관리",
-                "학수번호": "COSE455",
+                "label": "행동경제학",
+                "학수번호": "PSYC360",
                 "세부전공": null,
-                "전공역량": "도전적리더",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -1351,18 +926,18 @@
             }
         },
         {
-            "id": "COSE461",
+            "id": "PSYC370",
             "position": {
-                "x": 1760,
+                "x": 1540,
                 "y": 840
             },
             "data": {
-                "label": "자연어처리",
-                "학수번호": "COSE461",
+                "label": "자기와정체성",
+                "학수번호": "PSYC370",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -1376,18 +951,18 @@
             }
         },
         {
-            "id": "COSE471",
+            "id": "PSYC372",
             "position": {
-                "x": 1760,
+                "x": 1540,
                 "y": 910
             },
             "data": {
-                "label": "데이터과학",
-                "학수번호": "COSE471",
+                "label": "문화의적응과교류",
+                "학수번호": "PSYC372",
                 "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
+                "전공역량": "Creativity&Culture",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -1401,18 +976,18 @@
             }
         },
         {
-            "id": "COSE480",
+            "id": "PSYC382",
             "position": {
-                "x": 1760,
+                "x": 1540,
                 "y": 980
             },
             "data": {
-                "label": "산학캡스톤디자인",
-                "학수번호": "COSE480",
+                "label": "뉴미디어심리학",
+                "학수번호": "PSYC382",
                 "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
+                "전공역량": "Creativity&Culture",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -1426,17 +1001,117 @@
             }
         },
         {
-            "id": "COSE483",
+            "id": "PSYC390",
             "position": {
-                "x": 1760,
+                "x": 1540,
                 "y": 1050
             },
             "data": {
-                "label": "무선회로설계",
-                "학수번호": "COSE483",
+                "label": "인간의비합리성",
+                "학수번호": "PSYC390",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
+                "전공역량": "Creativity&Culture",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC394",
+            "position": {
+                "x": 1540,
+                "y": 1120
+            },
+            "data": {
+                "label": "정서와관계",
+                "학수번호": "PSYC394",
+                "세부전공": null,
+                "전공역량": "Creativity&Culture",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC396",
+            "position": {
+                "x": 1540,
+                "y": 1190
+            },
+            "data": {
+                "label": "심리학과정보처리이론",
+                "학수번호": "PSYC396",
+                "세부전공": null,
+                "전공역량": "Mind&Machine",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC398",
+            "position": {
+                "x": 1540,
+                "y": 1260
+            },
+            "data": {
+                "label": "약물과중독행동",
+                "학수번호": "PSYC398",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC703",
+            "position": {
+                "x": 1540,
+                "y": 1330
+            },
+            "data": {
+                "label": "캡스톤디자인",
+                "학수번호": "PSYC703",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -1451,18 +1126,18 @@
             }
         },
         {
-            "id": "COSE485",
+            "id": "PSYC704",
             "position": {
-                "x": 1760,
-                "y": 1120
+                "x": 1540,
+                "y": 1400
             },
             "data": {
-                "label": "정보이론과추론학습",
-                "학수번호": "COSE485",
+                "label": "심리학현장실습A1",
+                "학수번호": "PSYC704",
                 "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null
             },
@@ -1476,17 +1151,792 @@
             }
         },
         {
-            "id": "COSE407",
+            "id": "PSYC705",
+            "position": {
+                "x": 1540,
+                "y": 1470
+            },
+            "data": {
+                "label": "심리학현장실습A2",
+                "학수번호": "PSYC705",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC706",
+            "position": {
+                "x": 1540,
+                "y": 1540
+            },
+            "data": {
+                "label": "심리학현장실습B1",
+                "학수번호": "PSYC706",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC707",
+            "position": {
+                "x": 1540,
+                "y": 1610
+            },
+            "data": {
+                "label": "심리학현장실습B2",
+                "학수번호": "PSYC707",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC708",
+            "position": {
+                "x": 1540,
+                "y": 1680
+            },
+            "data": {
+                "label": "심리학현장실습C",
+                "학수번호": "PSYC708",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC709",
+            "position": {
+                "x": 1540,
+                "y": 1750
+            },
+            "data": {
+                "label": "심리학현장실습D",
+                "학수번호": "PSYC709",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC317",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "data": {
+                "label": "성격의수준과영역",
+                "학수번호": "PSYC317",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC319",
+            "position": {
+                "x": 1320,
+                "y": 70
+            },
+            "data": {
+                "label": "AI기법을이용한인간행동과마음의탐구",
+                "학수번호": "PSYC319",
+                "세부전공": null,
+                "전공역량": "Mind&Machine",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC329",
+            "position": {
+                "x": 1320,
+                "y": 140
+            },
+            "data": {
+                "label": "아동이상심리학",
+                "학수번호": "PSYC329",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC331",
+            "position": {
+                "x": 1320,
+                "y": 210
+            },
+            "data": {
+                "label": "이상심리학",
+                "학수번호": "PSYC331",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC333",
+            "position": {
+                "x": 1320,
+                "y": 280
+            },
+            "data": {
+                "label": "집단상담",
+                "학수번호": "PSYC333",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC335",
+            "position": {
+                "x": 1320,
+                "y": 350
+            },
+            "data": {
+                "label": "인지치료",
+                "학수번호": "PSYC335",
+                "세부전공": null,
+                "전공역량": "Creativity&Culture",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC337",
+            "position": {
+                "x": 1320,
+                "y": 420
+            },
+            "data": {
+                "label": "정서와정신건강",
+                "학수번호": "PSYC337",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC339",
+            "position": {
+                "x": 1320,
+                "y": 490
+            },
+            "data": {
+                "label": "빈곤의심리학",
+                "학수번호": "PSYC339",
+                "세부전공": null,
+                "전공역량": "Mind&Machine",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC353",
+            "position": {
+                "x": 1320,
+                "y": 560
+            },
+            "data": {
+                "label": "소비자광고심리학",
+                "학수번호": "PSYC353",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC371",
+            "position": {
+                "x": 1320,
+                "y": 630
+            },
+            "data": {
+                "label": "문화의형성과이해",
+                "학수번호": "PSYC371",
+                "세부전공": null,
+                "전공역량": "Creativity&Culture",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC373",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "data": {
+                "label": "인간관계의이해",
+                "학수번호": "PSYC373",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC374",
+            "position": {
+                "x": 1320,
+                "y": 770
+            },
+            "data": {
+                "label": "심리학을위한프로그래밍",
+                "학수번호": "PSYC374",
+                "세부전공": null,
+                "전공역량": "Mind&Machine",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC377",
+            "position": {
+                "x": 1320,
+                "y": 840
+            },
+            "data": {
+                "label": "행동치료",
+                "학수번호": "PSYC377",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC379",
+            "position": {
+                "x": 1320,
+                "y": 910
+            },
+            "data": {
+                "label": "성격장애",
+                "학수번호": "PSYC379",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC393",
+            "position": {
+                "x": 1320,
+                "y": 980
+            },
+            "data": {
+                "label": "정서의이해",
+                "학수번호": "PSYC393",
+                "세부전공": null,
+                "전공역량": "Creativity&Culture",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC399",
+            "position": {
+                "x": 1320,
+                "y": 1050
+            },
+            "data": {
+                "label": "리더십의심리학",
+                "학수번호": "PSYC399",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC491",
+            "position": {
+                "x": 1320,
+                "y": 1120
+            },
+            "data": {
+                "label": "정서의심리학",
+                "학수번호": "PSYC491",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC422",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "인지신경과학",
+                "학수번호": "PSYC422",
+                "세부전공": null,
+                "전공역량": "Schema&Scale",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC437",
+            "position": {
+                "x": 1760,
+                "y": 70
+            },
+            "data": {
+                "label": "예술심리학",
+                "학수번호": "PSYC437",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC439",
+            "position": {
+                "x": 1760,
+                "y": 140
+            },
+            "data": {
+                "label": "사회신경과학",
+                "학수번호": "PSYC439",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC479",
+            "position": {
+                "x": 1760,
+                "y": 210
+            },
+            "data": {
+                "label": "정신사회재활",
+                "학수번호": "PSYC479",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC481",
+            "position": {
+                "x": 1760,
+                "y": 280
+            },
+            "data": {
+                "label": "뇌기능연구기법",
+                "학수번호": "PSYC481",
+                "세부전공": null,
+                "전공역량": "Mind&Machine",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC483",
+            "position": {
+                "x": 1760,
+                "y": 350
+            },
+            "data": {
+                "label": "인간의동기",
+                "학수번호": "PSYC483",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC495",
+            "position": {
+                "x": 1760,
+                "y": 420
+            },
+            "data": {
+                "label": "윤리와기술",
+                "학수번호": "PSYC495",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC497",
+            "position": {
+                "x": 1760,
+                "y": 490
+            },
+            "data": {
+                "label": "성격과사회적상황",
+                "학수번호": "PSYC497",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC701",
+            "position": {
+                "x": 1760,
+                "y": 560
+            },
+            "data": {
+                "label": "심리학과창업",
+                "학수번호": "PSYC701",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC423",
             "position": {
                 "x": 1980,
                 "y": 0
             },
             "data": {
-                "label": "개별연구프로젝트",
-                "학수번호": "COSE407",
+                "label": "주의와반응선택",
+                "학수번호": "PSYC423",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
+                "전공역량": "Schema&Scale",
+                "개설학과": "심리학부",
                 "개설횟수": 2,
                 "내용": null,
                 "메모": null
@@ -1501,17 +1951,92 @@
             }
         },
         {
-            "id": "COSE416",
+            "id": "PSYC424",
             "position": {
                 "x": 1980,
                 "y": 70
             },
             "data": {
-                "label": "인공지능과자율주행자동차",
-                "학수번호": "COSE416",
+                "label": "심리학자율연구",
+                "학수번호": "PSYC424",
                 "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
+                "전공역량": "Schema&Scale",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC468",
+            "position": {
+                "x": 1980,
+                "y": 140
+            },
+            "data": {
+                "label": "한국인의심리의식특성",
+                "학수번호": "PSYC468",
+                "세부전공": null,
+                "전공역량": "Creativity&Culture",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC472",
+            "position": {
+                "x": 1980,
+                "y": 210
+            },
+            "data": {
+                "label": "소비자트랜드분석실습",
+                "학수번호": "PSYC472",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC493",
+            "position": {
+                "x": 1980,
+                "y": 280
+            },
+            "data": {
+                "label": "사용자경험과심리학",
+                "학수번호": "PSYC493",
+                "세부전공": null,
+                "전공역량": "Mind&Machine",
+                "개설학과": "심리학부",
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -1526,93 +2051,18 @@
             }
         },
         {
-            "id": "COSE425",
-            "position": {
-                "x": 1980,
-                "y": 140
-            },
-            "data": {
-                "label": "블록체인입문및실습",
-                "학수번호": "COSE425",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE432",
-            "position": {
-                "x": 1980,
-                "y": 210
-            },
-            "data": {
-                "label": "인간컴퓨터상호작용입문",
-                "학수번호": "COSE432",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE436",
-            "position": {
-                "x": 1980,
-                "y": 280
-            },
-            "data": {
-                "label": "인터렉티브시각화",
-                "학수번호": "COSE436",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE441",
+            "id": "PSYC496",
             "position": {
                 "x": 1980,
                 "y": 350
             },
             "data": {
-                "label": "인터넷프로토콜",
-                "학수번호": "COSE441",
+                "label": "공감의기술",
+                "학수번호": "PSYC496",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -1626,168 +2076,18 @@
             }
         },
         {
-            "id": "COSE444",
+            "id": "PSYC498",
             "position": {
                 "x": 1980,
                 "y": 420
             },
             "data": {
-                "label": "클라우드컴퓨팅",
-                "학수번호": "COSE444",
+                "label": "현대사회의진로적응성",
+                "학수번호": "PSYC498",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE446",
-            "position": {
-                "x": 1980,
-                "y": 490
-            },
-            "data": {
-                "label": "모바일네트워크",
-                "학수번호": "COSE446",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
                 "개설횟수": 0,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE457",
-            "position": {
-                "x": 1980,
-                "y": 560
-            },
-            "data": {
-                "label": "실전SW프로젝트",
-                "학수번호": "COSE457",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE474",
-            "position": {
-                "x": 1980,
-                "y": 630
-            },
-            "data": {
-                "label": "딥러닝",
-                "학수번호": "COSE474",
-                "세부전공": null,
-                "전공역량": "사회적책임",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE475",
-            "position": {
-                "x": 1980,
-                "y": 700
-            },
-            "data": {
-                "label": "고급딥러닝",
-                "학수번호": "COSE475",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE484",
-            "position": {
-                "x": 1980,
-                "y": 770
-            },
-            "data": {
-                "label": "무선보안",
-                "학수번호": "COSE484",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE490",
-            "position": {
-                "x": 1980,
-                "y": 840
-            },
-            "data": {
-                "label": "전산학특강",
-                "학수번호": "COSE490",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
                 "내용": null,
                 "메모": null
             },
@@ -1801,270 +2101,5 @@
             }
         }
     ],
-    "edges": [
-        {
-            "id": "recommended-COSE101-COSE102",
-            "source": "COSE101",
-            "target": "COSE102",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE111-COSE112",
-            "source": "COSE111",
-            "target": "COSE112",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE112-COSE213",
-            "source": "COSE112",
-            "target": "COSE213",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE215-COSE214",
-            "source": "COSE215",
-            "target": "COSE214",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE221-COSE222",
-            "source": "COSE221",
-            "target": "COSE222",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE215-COSE222",
-            "source": "COSE215",
-            "target": "COSE222",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE213-COSE341",
-            "source": "COSE213",
-            "target": "COSE341",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE222-COSE341",
-            "source": "COSE222",
-            "target": "COSE341",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE215-COSE211",
-            "source": "COSE215",
-            "target": "COSE211",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE102-COSE212",
-            "source": "COSE102",
-            "target": "COSE212",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE215-COSE212",
-            "source": "COSE215",
-            "target": "COSE212",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE215-COSE221",
-            "source": "COSE215",
-            "target": "COSE221",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE112-COSE281",
-            "source": "COSE112",
-            "target": "COSE281",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE281-COSE284",
-            "source": "COSE281",
-            "target": "COSE284",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE283-COSE284",
-            "source": "COSE283",
-            "target": "COSE284",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE214-COSE371",
-            "source": "COSE214",
-            "target": "COSE371",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE281-COSE385",
-            "source": "COSE281",
-            "target": "COSE385",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE221-COSE421",
-            "source": "COSE221",
-            "target": "COSE421",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE242-COSE441",
-            "source": "COSE242",
-            "target": "COSE441",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE361-COSE461",
-            "source": "COSE361",
-            "target": "COSE461",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE213-COSE471",
-            "source": "COSE213",
-            "target": "COSE471",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE214-COSE471",
-            "source": "COSE214",
-            "target": "COSE471",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        }
-    ]
+    "edges": []
 }

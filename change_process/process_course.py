@@ -13,9 +13,12 @@ node_colors = {
 }
 
 def calculate_x_position(학년, 학기):
-    if 학기 == 0:
-        return 학년 * 200
-    return 학년 * 200 + (학기 - 1) * 100
+    # if 학기 == 0 or 학기 == 'null':
+    #     return 학년 * 440
+    # return 학년 * 440 + (학기 - 1) * 220
+    if 학기 is None or 학기 == 'null':
+        학기 = 0  
+    return 학년 * 440 + (int(학기) - 1) * 220
 
 def parse_courses(courses):
     x_groups = {}
@@ -46,6 +49,7 @@ def parse_courses(courses):
                     "세부전공": course["세부전공"],
                     "전공역량": course["전공역량"],
                     "개설학과": course["개설학과"],
+                    "개설횟수": course["개설횟수"],
                     "내용": course["내용"],
                     "메모": course["메모"],
                 },
@@ -58,7 +62,7 @@ def parse_courses(courses):
                     "padding": "10px"
                 },
             }
-            if course["학기"] == 0:
+            if (course["학기"] == 0 or course["학기"] == 'null'):
                 zero_semester_nodes.append(node)
             else:
                 nodes.append(node)
@@ -110,18 +114,22 @@ def parse_courses(courses):
     return {"nodes": nodes, "edges": edges}
 
 # Process all course files
-def process_course_files(directory):
+def process_course_files(directory, save_directory):
     for filename in os.listdir(directory):
         if filename.endswith(".json"):
-            with open(os.path.join(directory, filename), "r", encoding="utf-8") as file:
-                courses = json.load(file)
-                result = parse_courses(courses)
-                output_file = os.path.join(directory, f"{filename.split('.')[0]}_processed.json")
-                with open(output_file, "w", encoding="utf-8") as outfile:
-                    json.dump(result, outfile, ensure_ascii=False, indent=4)
-            print(f"Processed {filename} -> {output_file}")
+            try:
+                with open(os.path.join(directory, filename), "r", encoding="utf-8") as file:
+                    courses = json.load(file)
+                    result = parse_courses(courses)
+                    output_file = os.path.join(save_directory, f"{filename.split('.')[0]}.json")
+                    with open(output_file, "w", encoding="utf-8") as outfile:
+                        json.dump(result, outfile, ensure_ascii=False, indent=4)
+                print(f"Processed {filename} -> {output_file}")
+            except Exception as e:
+                print(f"Error processing {filename}: {e}")
 
 
 if __name__ == "__main__":
     directory = "./course_files" 
-    process_course_files(directory)
+    save_directory = "../src/assets/college"
+    process_course_files(directory, save_directory)

@@ -1,18 +1,18 @@
 {
     "nodes": [
         {
-            "id": "GELI005",
+            "id": "KORE201",
             "position": {
                 "x": 440,
                 "y": 0
             },
             "data": {
-                "label": "학문세계의탐구I",
-                "학수번호": "GELI005",
+                "label": "한국문학의이해",
+                "학수번호": "KORE201",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 1,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -20,7 +20,32 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#C8E6C9",
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE003",
+            "position": {
+                "x": 440,
+                "y": 70
+            },
+            "data": {
+                "label": "무제강좌",
+                "학수번호": "KORE003",
+                "세부전공": null,
+                "전공역량": "세계속의한국문화",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -29,39 +54,14 @@
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 70
+                "y": 140
             },
             "data": {
                 "label": "글쓰기",
                 "학수번호": "GEWR002",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 140
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -82,11 +82,11 @@
                 "y": 210
             },
             "data": {
-                "label": "[진로창업]1학년세미나Ⅰ",
+                "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS007",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -111,7 +111,7 @@
                 "학수번호": "GECT002",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -126,18 +126,43 @@
             }
         },
         {
-            "id": "GEBT001",
+            "id": "KORE230",
             "position": {
-                "x": 440,
-                "y": 350
+                "x": 660,
+                "y": 0
             },
             "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
+                "label": "한국어학의이해",
+                "학수번호": "KORE230",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COLA200",
+            "position": {
+                "x": 660,
+                "y": 70
+            },
+            "data": {
+                "label": "인문융합세미나",
+                "학수번호": "COLA200",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 1,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -145,57 +170,7 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE101",
-            "position": {
-                "x": 440,
-                "y": 420
-            },
-            "data": {
-                "label": "컴퓨터프로그래밍I",
-                "학수번호": "COSE101",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFECB3",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE111",
-            "position": {
-                "x": 440,
-                "y": 490
-            },
-            "data": {
-                "label": "전산수학I",
-                "학수번호": "COSE111",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFECB3",
+                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -204,14 +179,14 @@
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 0
+                "y": 140
             },
             "data": {
                 "label": "[진로창업]1학년세미나 II",
                 "학수번호": "GEKS008",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -229,14 +204,14 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 70
+                "y": 210
             },
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
+                "개설학과": null,
                 "개설횟수": 0,
                 "내용": null,
                 "메모": null
@@ -251,645 +226,20 @@
             }
         },
         {
-            "id": "COSE102",
-            "position": {
-                "x": 660,
-                "y": 140
-            },
-            "data": {
-                "label": "컴퓨터프로그래밍II",
-                "학수번호": "COSE102",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFECB3",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE112",
-            "position": {
-                "x": 660,
-                "y": 210
-            },
-            "data": {
-                "label": "전산수학II",
-                "학수번호": "COSE112",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFECB3",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE213",
-            "position": {
-                "x": 880,
-                "y": 0
-            },
-            "data": {
-                "label": "자료구조",
-                "학수번호": "COSE213",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE215",
-            "position": {
-                "x": 880,
-                "y": 70
-            },
-            "data": {
-                "label": "계산이론",
-                "학수번호": "COSE215",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE281",
-            "position": {
-                "x": 880,
-                "y": 140
-            },
-            "data": {
-                "label": "공학수학",
-                "학수번호": "COSE281",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE283",
-            "position": {
-                "x": 880,
-                "y": 210
-            },
-            "data": {
-                "label": "회로이론",
-                "학수번호": "COSE283",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE214",
-            "position": {
-                "x": 1100,
-                "y": 0
-            },
-            "data": {
-                "label": "알고리즘",
-                "학수번호": "COSE214",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE222",
-            "position": {
-                "x": 1100,
-                "y": 70
-            },
-            "data": {
-                "label": "컴퓨터구조",
-                "학수번호": "COSE222",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE211",
-            "position": {
-                "x": 1100,
-                "y": 140
-            },
-            "data": {
-                "label": "이산수학",
-                "학수번호": "COSE211",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE212",
-            "position": {
-                "x": 1100,
-                "y": 210
-            },
-            "data": {
-                "label": "프로그래밍언어",
-                "학수번호": "COSE212",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE221",
-            "position": {
-                "x": 1100,
-                "y": 280
-            },
-            "data": {
-                "label": "논리설계",
-                "학수번호": "COSE221",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE242",
-            "position": {
-                "x": 1100,
-                "y": 350
-            },
-            "data": {
-                "label": "데이터통신",
-                "학수번호": "COSE242",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE284",
-            "position": {
-                "x": 1100,
-                "y": 420
-            },
-            "data": {
-                "label": "전자기학",
-                "학수번호": "COSE284",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE341",
+            "id": "KORE208",
             "position": {
                 "x": 1320,
                 "y": 0
             },
             "data": {
-                "label": "운영체제",
-                "학수번호": "COSE341",
+                "label": "한국어정보처리",
+                "학수번호": "KORE208",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE361",
-            "position": {
-                "x": 1320,
-                "y": 70
-            },
-            "data": {
-                "label": "인공지능",
-                "학수번호": "COSE361",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE321",
-            "position": {
-                "x": 1320,
-                "y": 140
-            },
-            "data": {
-                "label": "컴퓨터시스템설계",
-                "학수번호": "COSE321",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE331",
-            "position": {
-                "x": 1320,
-                "y": 210
-            },
-            "data": {
-                "label": "컴퓨터그래픽스",
-                "학수번호": "COSE331",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE354",
-            "position": {
-                "x": 1320,
-                "y": 280
-            },
-            "data": {
-                "label": "정보보호",
-                "학수번호": "COSE354",
-                "세부전공": null,
-                "전공역량": "사회적책임",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE363",
-            "position": {
-                "x": 1320,
-                "y": 350
-            },
-            "data": {
-                "label": "정보와정보학",
-                "학수번호": "COSE363",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE371",
-            "position": {
-                "x": 1320,
-                "y": 420
-            },
-            "data": {
-                "label": "데이터베이스",
-                "학수번호": "COSE371",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE372",
-            "position": {
-                "x": 1320,
-                "y": 490
-            },
-            "data": {
-                "label": "데이터베이스시스템",
-                "학수번호": "COSE372",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE380",
-            "position": {
-                "x": 1320,
-                "y": 560
-            },
-            "data": {
-                "label": "디지털신호처리",
-                "학수번호": "COSE380",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE382",
-            "position": {
-                "x": 1320,
-                "y": 630
-            },
-            "data": {
-                "label": "확률및랜덤과정",
-                "학수번호": "COSE382",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE385",
-            "position": {
-                "x": 1320,
-                "y": 700
-            },
-            "data": {
-                "label": "신호및시스템",
-                "학수번호": "COSE385",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE389",
-            "position": {
-                "x": 1320,
-                "y": 770
-            },
-            "data": {
-                "label": "기업가정신과리더쉽",
-                "학수번호": "COSE389",
-                "세부전공": null,
-                "전공역량": "도전적리더",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE472",
-            "position": {
-                "x": 1320,
-                "y": 840
-            },
-            "data": {
-                "label": "정보검색",
-                "학수번호": "COSE472",
-                "세부전공": null,
-                "전공역량": "시뮬레이션능력",
-                "개설학과": "컴퓨터학과",
+                "전공역량": "디지털",
+                "개설학과": "국어국문학과",
                 "개설횟수": 0,
                 "내용": null,
-                "메모": "데이터과학과 참고"
+                "메모": null
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -901,43 +251,18 @@
             }
         },
         {
-            "id": "COSE342",
+            "id": "KORE227",
             "position": {
-                "x": 1540,
-                "y": 0
-            },
-            "data": {
-                "label": "컴퓨터네트워크",
-                "학수번호": "COSE342",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE312",
-            "position": {
-                "x": 1540,
+                "x": 1320,
                 "y": 70
             },
             "data": {
-                "label": "컴파일러",
-                "학수번호": "COSE312",
+                "label": "국어교과교육론",
+                "학수번호": "KORE227",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -951,18 +276,18 @@
             }
         },
         {
-            "id": "COSE322",
+            "id": "KORE236",
             "position": {
-                "x": 1540,
+                "x": 1320,
                 "y": 140
             },
             "data": {
-                "label": "시스템프로그래밍",
-                "학수번호": "COSE322",
+                "label": "한국어의미의이해",
+                "학수번호": "KORE236",
                 "세부전공": null,
                 "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -976,18 +301,18 @@
             }
         },
         {
-            "id": "COSE352",
+            "id": "KORE305",
             "position": {
-                "x": 1540,
+                "x": 1320,
                 "y": 210
             },
             "data": {
-                "label": "소프트웨어공학",
-                "학수번호": "COSE352",
+                "label": "소설창작연습",
+                "학수번호": "KORE305",
                 "세부전공": null,
                 "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -1001,18 +326,18 @@
             }
         },
         {
-            "id": "COSE362",
+            "id": "KORE309",
             "position": {
-                "x": 1540,
+                "x": 1320,
                 "y": 280
             },
             "data": {
-                "label": "기계학습",
-                "학수번호": "COSE362",
+                "label": "한국한문학개론",
+                "학수번호": "KORE309",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -1026,18 +351,18 @@
             }
         },
         {
-            "id": "COSE394",
+            "id": "KORE311",
             "position": {
-                "x": 1540,
+                "x": 1320,
                 "y": 350
             },
             "data": {
-                "label": "창의적소프트웨어창업방법론",
-                "학수번호": "COSE394",
+                "label": "고전시가강독",
+                "학수번호": "KORE311",
                 "세부전공": null,
-                "전공역량": "도전적리더",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
+                "전공역량": "문화콘텐츠",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -1051,167 +376,692 @@
             }
         },
         {
-            "id": "COSE394",
+            "id": "KORE317",
             "position": {
-                "x": 1760,
-                "y": 0
-            },
-            "data": {
-                "label": "현장실습및창업실습I",
-                "학수번호": "COSE394",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE394",
-            "position": {
-                "x": 1760,
-                "y": 70
-            },
-            "data": {
-                "label": "현장실습및창업실습II",
-                "학수번호": "COSE394",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE394",
-            "position": {
-                "x": 1760,
-                "y": 140
-            },
-            "data": {
-                "label": "현장실습및창업실습III",
-                "학수번호": "COSE394",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE394",
-            "position": {
-                "x": 1760,
-                "y": 210
-            },
-            "data": {
-                "label": "현장실습및창업실습IV",
-                "학수번호": "COSE394",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE405",
-            "position": {
-                "x": 1760,
-                "y": 280
-            },
-            "data": {
-                "label": "컴퓨터학콜로키움",
-                "학수번호": "COSE405",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE415",
-            "position": {
-                "x": 1760,
-                "y": 350
-            },
-            "data": {
-                "label": "저전력컴퓨팅",
-                "학수번호": "COSE415",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE419",
-            "position": {
-                "x": 1760,
+                "x": 1320,
                 "y": 420
             },
             "data": {
-                "label": "소프트웨어검증",
-                "학수번호": "COSE419",
+                "label": "외국어로서의한국어교육",
+                "학수번호": "KORE317",
                 "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
+                "전공역량": "세계속의한국문화",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE319",
+            "position": {
+                "x": 1320,
+                "y": 490
+            },
+            "data": {
+                "label": "한국어방언의이해",
+                "학수번호": "KORE319",
+                "세부전공": null,
+                "전공역량": "사회적변화주도",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE323",
+            "position": {
+                "x": 1320,
+                "y": 560
+            },
+            "data": {
+                "label": "작가와현대세계",
+                "학수번호": "KORE323",
+                "세부전공": null,
+                "전공역량": "세계속의한국문화",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE325",
+            "position": {
+                "x": 1320,
+                "y": 630
+            },
+            "data": {
+                "label": "문학자료와문화기획",
+                "학수번호": "KORE325",
+                "세부전공": null,
+                "전공역량": "문화콘텐츠",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE209",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "data": {
+                "label": "현대시론",
+                "학수번호": "KORE209",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE211",
+            "position": {
+                "x": 880,
+                "y": 70
+            },
+            "data": {
+                "label": "현대희곡론",
+                "학수번호": "KORE211",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE215",
+            "position": {
+                "x": 880,
+                "y": 140
+            },
+            "data": {
+                "label": "고전문학사",
+                "학수번호": "KORE215",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE217",
+            "position": {
+                "x": 880,
+                "y": 210
+            },
+            "data": {
+                "label": "구비문학론",
+                "학수번호": "KORE217",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE219",
+            "position": {
+                "x": 880,
+                "y": 280
+            },
+            "data": {
+                "label": "고전소설론",
+                "학수번호": "KORE219",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE223",
+            "position": {
+                "x": 880,
+                "y": 350
+            },
+            "data": {
+                "label": "현대소설론",
+                "학수번호": "KORE223",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE231",
+            "position": {
+                "x": 880,
+                "y": 420
+            },
+            "data": {
+                "label": "한국어음운의이해",
+                "학수번호": "KORE231",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE239",
+            "position": {
+                "x": 880,
+                "y": 490
+            },
+            "data": {
+                "label": "현대문학작품론",
+                "학수번호": "KORE239",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE425",
+            "position": {
+                "x": 880,
+                "y": 560
+            },
+            "data": {
+                "label": "한국어형태론",
+                "학수번호": "KORE425",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE210",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "현대비평론",
+                "학수번호": "KORE210",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE212",
+            "position": {
+                "x": 1100,
+                "y": 70
+            },
+            "data": {
+                "label": "한국근대문학의형성",
+                "학수번호": "KORE212",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE213",
+            "position": {
+                "x": 1100,
+                "y": 140
+            },
+            "data": {
+                "label": "현대문학사",
+                "학수번호": "KORE213",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE216",
+            "position": {
+                "x": 1100,
+                "y": 210
+            },
+            "data": {
+                "label": "한국한문학강독",
+                "학수번호": "KORE216",
+                "세부전공": null,
+                "전공역량": "문화콘텐츠",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE218",
+            "position": {
+                "x": 1100,
+                "y": 280
+            },
+            "data": {
+                "label": "근세시가론",
+                "학수번호": "KORE218",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE234",
+            "position": {
+                "x": 1100,
+                "y": 350
+            },
+            "data": {
+                "label": "한국어문법의이해",
+                "학수번호": "KORE234",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE235",
+            "position": {
+                "x": 1100,
+                "y": 420
+            },
+            "data": {
+                "label": "한국어표현론",
+                "학수번호": "KORE235",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE238",
+            "position": {
+                "x": 1100,
+                "y": 490
+            },
+            "data": {
+                "label": "한국문학과동아시아문학",
+                "학수번호": "KORE238",
+                "세부전공": null,
+                "전공역량": "세계속의한국문화",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE410",
+            "position": {
+                "x": 1100,
+                "y": 560
+            },
+            "data": {
+                "label": "고전소설강독",
+                "학수번호": "KORE410",
+                "세부전공": null,
+                "전공역량": "문화콘텐츠",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE224",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "data": {
+                "label": "전통연희론",
+                "학수번호": "KORE224",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE229",
+            "position": {
+                "x": 1540,
+                "y": 70
+            },
+            "data": {
+                "label": "국어교과논리및논술",
+                "학수번호": "KORE229",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE233",
+            "position": {
+                "x": 1540,
+                "y": 140
+            },
+            "data": {
+                "label": "한국어발달사",
+                "학수번호": "KORE233",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE237",
+            "position": {
+                "x": 1540,
+                "y": 210
+            },
+            "data": {
+                "label": "현대소설강독",
+                "학수번호": "KORE237",
+                "세부전공": null,
+                "전공역량": "문화콘텐츠",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE306",
+            "position": {
+                "x": 1540,
+                "y": 280
+            },
+            "data": {
+                "label": "시창작연습",
+                "학수번호": "KORE306",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE307",
+            "position": {
+                "x": 1540,
+                "y": 350
+            },
+            "data": {
+                "label": "현대극작가론",
+                "학수번호": "KORE307",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -1226,18 +1076,43 @@
             }
         },
         {
-            "id": "COSE421",
+            "id": "KORE312",
             "position": {
-                "x": 1760,
+                "x": 1540,
+                "y": 420
+            },
+            "data": {
+                "label": "고전산문강독",
+                "학수번호": "KORE312",
+                "세부전공": null,
+                "전공역량": "문화콘텐츠",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE314",
+            "position": {
+                "x": 1540,
                 "y": 490
             },
             "data": {
-                "label": "임베디드시스템",
-                "학수번호": "COSE421",
+                "label": "고전비평선독",
+                "학수번호": "KORE314",
                 "세부전공": null,
                 "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -1251,18 +1126,18 @@
             }
         },
         {
-            "id": "COSE423",
+            "id": "KORE320",
             "position": {
-                "x": 1760,
+                "x": 1540,
                 "y": 560
             },
             "data": {
-                "label": "볼록최적화입문",
-                "학수번호": "COSE423",
+                "label": "북한의한국어학",
+                "학수번호": "KORE320",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
+                "전공역량": "사회적변화주도",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -1276,18 +1151,18 @@
             }
         },
         {
-            "id": "COSE434",
+            "id": "KORE322",
             "position": {
-                "x": 1760,
+                "x": 1540,
                 "y": 630
             },
             "data": {
-                "label": "게임프로그래밍",
-                "학수번호": "COSE434",
+                "label": "한국어화용론",
+                "학수번호": "KORE322",
                 "세부전공": null,
-                "전공역량": "다문화포용",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -1301,18 +1176,18 @@
             }
         },
         {
-            "id": "COSE451",
+            "id": "KORE324",
             "position": {
-                "x": 1760,
+                "x": 1540,
                 "y": 700
             },
             "data": {
-                "label": "소프트웨어보안",
-                "학수번호": "COSE451",
+                "label": "디지털인문학과고전문학",
+                "학수번호": "KORE324",
                 "세부전공": null,
-                "전공역량": "사회적책임",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
+                "전공역량": "디지털",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -1326,18 +1201,18 @@
             }
         },
         {
-            "id": "COSE455",
+            "id": "KORE420",
             "position": {
-                "x": 1760,
+                "x": 1540,
                 "y": 770
             },
             "data": {
-                "label": "스타트업프로젝트관리",
-                "학수번호": "COSE455",
+                "label": "한국어음성학",
+                "학수번호": "KORE420",
                 "세부전공": null,
-                "전공역량": "도전적리더",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -1351,17 +1226,392 @@
             }
         },
         {
-            "id": "COSE461",
+            "id": "KORE228",
             "position": {
                 "x": 1760,
-                "y": 840
+                "y": 0
             },
             "data": {
-                "label": "자연어처리",
-                "학수번호": "COSE461",
+                "label": "국어교과교재연구및지도법",
+                "학수번호": "KORE228",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE411",
+            "position": {
+                "x": 1760,
+                "y": 70
+            },
+            "data": {
+                "label": "향가와고려가요",
+                "학수번호": "KORE411",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE413",
+            "position": {
+                "x": 1760,
+                "y": 140
+            },
+            "data": {
+                "label": "한문산문강독",
+                "학수번호": "KORE413",
+                "세부전공": null,
+                "전공역량": "문화콘텐츠",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE418",
+            "position": {
+                "x": 1760,
+                "y": 210
+            },
+            "data": {
+                "label": "한국어사강독",
+                "학수번호": "KORE418",
                 "세부전공": null,
                 "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE426",
+            "position": {
+                "x": 1760,
+                "y": 280
+            },
+            "data": {
+                "label": "한국어정책론",
+                "학수번호": "KORE426",
+                "세부전공": null,
+                "전공역량": "사회적변화주도",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE427",
+            "position": {
+                "x": 1760,
+                "y": 350
+            },
+            "data": {
+                "label": null,
+                "학수번호": "KORE427",
+                "세부전공": null,
+                "전공역량": "세계속의한국문화",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE429",
+            "position": {
+                "x": 1760,
+                "y": 420
+            },
+            "data": {
+                "label": "한국어문자론",
+                "학수번호": "KORE429",
+                "세부전공": null,
+                "전공역량": "세계속의한국문화",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE406",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "data": {
+                "label": "희곡창작연습",
+                "학수번호": "KORE406",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE408",
+            "position": {
+                "x": 1980,
+                "y": 70
+            },
+            "data": {
+                "label": "현대시인론",
+                "학수번호": "KORE408",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE412",
+            "position": {
+                "x": 1980,
+                "y": 140
+            },
+            "data": {
+                "label": "한국한시선독",
+                "학수번호": "KORE412",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COLA173",
+            "position": {
+                "x": 220,
+                "y": 0
+            },
+            "data": {
+                "label": "디지털인문학응용",
+                "학수번호": "COLA173",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFECB3",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 220,
+                "y": 70
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 220,
+                "y": 140
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 220,
+                "y": 210
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHIN103\t",
+            "position": {
+                "x": 220,
+                "y": 280
+            },
+            "data": {
+                "label": "교양중국어I",
+                "학수번호": "CHIN103\t",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "중어중문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHIN104",
+            "position": {
+                "x": 220,
+                "y": 350
+            },
+            "data": {
+                "label": "교양중국어II",
+                "학수번호": "CHIN104",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "중어중문학과",
                 "개설횟수": 4,
                 "내용": null,
                 "메모": null
@@ -1370,223 +1620,198 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#F8BBD0",
+                "backgroundColor": "#B3E5FC",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE471",
+            "id": "FRAN141",
             "position": {
-                "x": 1760,
+                "x": 220,
+                "y": 420
+            },
+            "data": {
+                "label": "교양프랑스어I",
+                "학수번호": "FRAN141",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "불어불문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN142",
+            "position": {
+                "x": 220,
+                "y": 490
+            },
+            "data": {
+                "label": "교양프랑스어II",
+                "학수번호": "FRAN142",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "불어불문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM161",
+            "position": {
+                "x": 220,
+                "y": 560
+            },
+            "data": {
+                "label": "교양독일어I",
+                "학수번호": "GERM161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "독어독문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM162",
+            "position": {
+                "x": 220,
+                "y": 630
+            },
+            "data": {
+                "label": "교양독일어II",
+                "학수번호": "GERM162",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "독어독문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HANM141",
+            "position": {
+                "x": 220,
+                "y": 700
+            },
+            "data": {
+                "label": "초급한문",
+                "학수번호": "HANM141",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "한문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN113",
+            "position": {
+                "x": 220,
+                "y": 770
+            },
+            "data": {
+                "label": "교양일본어I",
+                "학수번호": "JAPN113",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "일어일문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN114",
+            "position": {
+                "x": 220,
+                "y": 840
+            },
+            "data": {
+                "label": "교양일본어II",
+                "학수번호": "JAPN114",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "일어일문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "RUSS131",
+            "position": {
+                "x": 220,
                 "y": 910
             },
             "data": {
-                "label": "데이터과학",
-                "학수번호": "COSE471",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE480",
-            "position": {
-                "x": 1760,
-                "y": 980
-            },
-            "data": {
-                "label": "산학캡스톤디자인",
-                "학수번호": "COSE480",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE483",
-            "position": {
-                "x": 1760,
-                "y": 1050
-            },
-            "data": {
-                "label": "무선회로설계",
-                "학수번호": "COSE483",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE485",
-            "position": {
-                "x": 1760,
-                "y": 1120
-            },
-            "data": {
-                "label": "정보이론과추론학습",
-                "학수번호": "COSE485",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE407",
-            "position": {
-                "x": 1980,
-                "y": 0
-            },
-            "data": {
-                "label": "개별연구프로젝트",
-                "학수번호": "COSE407",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE416",
-            "position": {
-                "x": 1980,
-                "y": 70
-            },
-            "data": {
-                "label": "인공지능과자율주행자동차",
-                "학수번호": "COSE416",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE425",
-            "position": {
-                "x": 1980,
-                "y": 140
-            },
-            "data": {
-                "label": "블록체인입문및실습",
-                "학수번호": "COSE425",
+                "label": "교양러시아어I",
+                "학수번호": "RUSS131",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE432",
-            "position": {
-                "x": 1980,
-                "y": 210
-            },
-            "data": {
-                "label": "인간컴퓨터상호작용입문",
-                "학수번호": "COSE432",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE436",
-            "position": {
-                "x": 1980,
-                "y": 280
-            },
-            "data": {
-                "label": "인터렉티브시각화",
-                "학수번호": "COSE436",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
+                "개설학과": "노어노문학과",
                 "개설횟수": 4,
                 "내용": null,
                 "메모": null
@@ -1595,149 +1820,24 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#F8BBD0",
+                "backgroundColor": "#B3E5FC",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE441",
+            "id": "RUSS132",
             "position": {
-                "x": 1980,
-                "y": 350
+                "x": 220,
+                "y": 980
             },
             "data": {
-                "label": "인터넷프로토콜",
-                "학수번호": "COSE441",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE444",
-            "position": {
-                "x": 1980,
-                "y": 420
-            },
-            "data": {
-                "label": "클라우드컴퓨팅",
-                "학수번호": "COSE444",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE446",
-            "position": {
-                "x": 1980,
-                "y": 490
-            },
-            "data": {
-                "label": "모바일네트워크",
-                "학수번호": "COSE446",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE457",
-            "position": {
-                "x": 1980,
-                "y": 560
-            },
-            "data": {
-                "label": "실전SW프로젝트",
-                "학수번호": "COSE457",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE474",
-            "position": {
-                "x": 1980,
-                "y": 630
-            },
-            "data": {
-                "label": "딥러닝",
-                "학수번호": "COSE474",
-                "세부전공": null,
-                "전공역량": "사회적책임",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE475",
-            "position": {
-                "x": 1980,
-                "y": 700
-            },
-            "data": {
-                "label": "고급딥러닝",
-                "학수번호": "COSE475",
+                "label": "교양러시아어II",
+                "학수번호": "RUSS132",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 0,
+                "개설학과": "노어노문학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null
             },
@@ -1745,24 +1845,24 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#F8BBD0",
+                "backgroundColor": "#B3E5FC",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE484",
+            "id": "SPAN121",
             "position": {
-                "x": 1980,
-                "y": 770
+                "x": 220,
+                "y": 1050
             },
             "data": {
-                "label": "무선보안",
-                "학수번호": "COSE484",
+                "label": "교양스페인어I",
+                "학수번호": "SPAN121",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
+                "전공역량": null,
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null
             },
@@ -1770,24 +1870,24 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#F8BBD0",
+                "backgroundColor": "#B3E5FC",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE490",
+            "id": "SPAN122",
             "position": {
-                "x": 1980,
-                "y": 840
+                "x": 220,
+                "y": 1120
             },
             "data": {
-                "label": "전산학특강",
-                "학수번호": "COSE490",
+                "label": "교양스페인어II",
+                "학수번호": "SPAN122",
                 "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
+                "전공역량": null,
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null
             },
@@ -1795,7 +1895,7 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#F8BBD0",
+                "backgroundColor": "#B3E5FC",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1803,9 +1903,9 @@
     ],
     "edges": [
         {
-            "id": "recommended-COSE101-COSE102",
-            "source": "COSE101",
-            "target": "COSE102",
+            "id": "recommended-KORE201-KORE238",
+            "source": "KORE201",
+            "target": "KORE238",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -1815,9 +1915,9 @@
             }
         },
         {
-            "id": "recommended-COSE111-COSE112",
-            "source": "COSE111",
-            "target": "COSE112",
+            "id": "recommended-KORE201-KORE238",
+            "source": "KORE201",
+            "target": "KORE238",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -1827,9 +1927,45 @@
             }
         },
         {
-            "id": "recommended-COSE112-COSE213",
-            "source": "COSE112",
-            "target": "COSE213",
+            "id": "required-KORE230-KORE322",
+            "source": "KORE230",
+            "target": "KORE322",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-KORE230-KORE322",
+            "source": "KORE230",
+            "target": "KORE322",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-KORE230-KORE322",
+            "source": "KORE230",
+            "target": "KORE322",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-KORE236-KORE322",
+            "source": "KORE236",
+            "target": "KORE322",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -1839,9 +1975,9 @@
             }
         },
         {
-            "id": "recommended-COSE215-COSE214",
-            "source": "COSE215",
-            "target": "COSE214",
+            "id": "recommended-KORE236-KORE322",
+            "source": "KORE236",
+            "target": "KORE322",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -1851,213 +1987,9 @@
             }
         },
         {
-            "id": "recommended-COSE221-COSE222",
-            "source": "COSE221",
-            "target": "COSE222",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE215-COSE222",
-            "source": "COSE215",
-            "target": "COSE222",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE213-COSE341",
-            "source": "COSE213",
-            "target": "COSE341",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE222-COSE341",
-            "source": "COSE222",
-            "target": "COSE341",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE215-COSE211",
-            "source": "COSE215",
-            "target": "COSE211",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE102-COSE212",
-            "source": "COSE102",
-            "target": "COSE212",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE215-COSE212",
-            "source": "COSE215",
-            "target": "COSE212",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE215-COSE221",
-            "source": "COSE215",
-            "target": "COSE221",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE112-COSE281",
-            "source": "COSE112",
-            "target": "COSE281",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE281-COSE284",
-            "source": "COSE281",
-            "target": "COSE284",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE283-COSE284",
-            "source": "COSE283",
-            "target": "COSE284",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE214-COSE371",
-            "source": "COSE214",
-            "target": "COSE371",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE281-COSE385",
-            "source": "COSE281",
-            "target": "COSE385",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE221-COSE421",
-            "source": "COSE221",
-            "target": "COSE421",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE242-COSE441",
-            "source": "COSE242",
-            "target": "COSE441",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE361-COSE461",
-            "source": "COSE361",
-            "target": "COSE461",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE213-COSE471",
-            "source": "COSE213",
-            "target": "COSE471",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE214-COSE471",
-            "source": "COSE214",
-            "target": "COSE471",
+            "id": "recommended-KORE236-KORE322",
+            "source": "KORE236",
+            "target": "KORE322",
             "type": "step",
             "data": {
                 "type": "recommended"

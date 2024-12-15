@@ -3,15 +3,65 @@
         {
             "id": "GELI005",
             "position": {
-                "x": 440,
+                "x": 220,
                 "y": 0
             },
             "data": {
-                "label": "학문세계의탐구I",
+                "label": "학문세계의탐구 I",
                 "학수번호": "GELI005",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 220,
+                "y": 70
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 220,
+                "y": 140
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -29,39 +79,14 @@
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 70
+                "y": 0
             },
             "data": {
                 "label": "글쓰기",
                 "학수번호": "GEWR002",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 140
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -79,14 +104,14 @@
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 210
+                "y": 70
             },
             "data": {
-                "label": "[진로창업]1학년세미나Ⅰ",
+                "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS007",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -104,14 +129,14 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 280
+                "y": 140
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
                 "학수번호": "GECT002",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -126,18 +151,68 @@
             }
         },
         {
-            "id": "GEBT001",
+            "id": "LIBS151",
+            "position": {
+                "x": 440,
+                "y": 210
+            },
+            "data": {
+                "label": "일반생물학및연습 I",
+                "학수번호": "LIBS151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS153",
+            "position": {
+                "x": 440,
+                "y": 280
+            },
+            "data": {
+                "label": "일반생물학실험 I",
+                "학수번호": "LIBS153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET151",
             "position": {
                 "x": 440,
                 "y": 350
             },
             "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
+                "label": "화학의기초및연습 I",
+                "학수번호": "LIET151",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 1,
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null
             },
@@ -145,24 +220,24 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#C8E6C9",
+                "backgroundColor": "#B3E5FC",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE101",
+            "id": "LIET155",
             "position": {
                 "x": 440,
                 "y": 420
             },
             "data": {
-                "label": "컴퓨터프로그래밍I",
-                "학수번호": "COSE101",
+                "label": "화학의기초실험 I",
+                "학수번호": "LIET155",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
+                "전공역량": null,
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null
             },
@@ -170,24 +245,24 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFECB3",
+                "backgroundColor": "#B3E5FC",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE111",
+            "id": "PHYS183",
             "position": {
                 "x": 440,
                 "y": 490
             },
             "data": {
-                "label": "전산수학I",
-                "학수번호": "COSE111",
+                "label": "생명물리학및연습",
+                "학수번호": "PHYS183",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null
             },
@@ -195,7 +270,32 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFECB3",
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS161",
+            "position": {
+                "x": 440,
+                "y": 560
+            },
+            "data": {
+                "label": "일반물리학 실험 I",
+                "학수번호": "PHYS161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -207,11 +307,11 @@
                 "y": 0
             },
             "data": {
-                "label": "[진로창업]1학년세미나 II",
+                "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS008",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -236,7 +336,7 @@
                 "학수번호": "GECT003",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "컴퓨터학과",
+                "개설학과": null,
                 "개설횟수": 0,
                 "내용": null,
                 "메모": null
@@ -251,18 +351,18 @@
             }
         },
         {
-            "id": "COSE102",
+            "id": "LIBS152",
             "position": {
                 "x": 660,
                 "y": 140
             },
             "data": {
-                "label": "컴퓨터프로그래밍II",
-                "학수번호": "COSE102",
+                "label": "일반생물학및연습 II",
+                "학수번호": "LIBS152",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null
             },
@@ -270,48 +370,23 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFECB3",
+                "backgroundColor": "#B3E5FC",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE112",
+            "id": "LIBS154",
             "position": {
                 "x": 660,
                 "y": 210
             },
             "data": {
-                "label": "전산수학II",
-                "학수번호": "COSE112",
+                "label": "일반생물학실험 II",
+                "학수번호": "LIBS154",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFECB3",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE213",
-            "position": {
-                "x": 880,
-                "y": 0
-            },
-            "data": {
-                "label": "자료구조",
-                "학수번호": "COSE213",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
+                "전공역량": null,
+                "개설학과": "생명과학부",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null
@@ -320,198 +395,23 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
+                "backgroundColor": "#B3E5FC",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE215",
+            "id": "LIET152",
             "position": {
-                "x": 880,
-                "y": 70
-            },
-            "data": {
-                "label": "계산이론",
-                "학수번호": "COSE215",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE281",
-            "position": {
-                "x": 880,
-                "y": 140
-            },
-            "data": {
-                "label": "공학수학",
-                "학수번호": "COSE281",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE283",
-            "position": {
-                "x": 880,
-                "y": 210
-            },
-            "data": {
-                "label": "회로이론",
-                "학수번호": "COSE283",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE214",
-            "position": {
-                "x": 1100,
-                "y": 0
-            },
-            "data": {
-                "label": "알고리즘",
-                "학수번호": "COSE214",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE222",
-            "position": {
-                "x": 1100,
-                "y": 70
-            },
-            "data": {
-                "label": "컴퓨터구조",
-                "학수번호": "COSE222",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE211",
-            "position": {
-                "x": 1100,
-                "y": 140
-            },
-            "data": {
-                "label": "이산수학",
-                "학수번호": "COSE211",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE212",
-            "position": {
-                "x": 1100,
-                "y": 210
-            },
-            "data": {
-                "label": "프로그래밍언어",
-                "학수번호": "COSE212",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE221",
-            "position": {
-                "x": 1100,
+                "x": 660,
                 "y": 280
             },
             "data": {
-                "label": "논리설계",
-                "학수번호": "COSE221",
+                "label": "화학의기초및연습 II",
+                "학수번호": "LIET152",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
+                "전공역량": null,
+                "개설학과": "환경생태공학부",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null
@@ -520,23 +420,23 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#F8BBD0",
+                "backgroundColor": "#B3E5FC",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE242",
+            "id": "LIET156",
             "position": {
-                "x": 1100,
+                "x": 660,
                 "y": 350
             },
             "data": {
-                "label": "데이터통신",
-                "학수번호": "COSE242",
+                "label": "화학의기초실험 II",
+                "학수번호": "LIET156",
                 "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
+                "전공역량": null,
+                "개설학과": "환경생태공학부",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null
@@ -545,148 +445,23 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#F8BBD0",
+                "backgroundColor": "#B3E5FC",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE284",
+            "id": "MATH161",
             "position": {
-                "x": 1100,
+                "x": 660,
                 "y": 420
             },
             "data": {
-                "label": "전자기학",
-                "학수번호": "COSE284",
+                "label": "미적분학및연습 I",
+                "학수번호": "MATH161",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE341",
-            "position": {
-                "x": 1320,
-                "y": 0
-            },
-            "data": {
-                "label": "운영체제",
-                "학수번호": "COSE341",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE361",
-            "position": {
-                "x": 1320,
-                "y": 70
-            },
-            "data": {
-                "label": "인공지능",
-                "학수번호": "COSE361",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE321",
-            "position": {
-                "x": 1320,
-                "y": 140
-            },
-            "data": {
-                "label": "컴퓨터시스템설계",
-                "학수번호": "COSE321",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE331",
-            "position": {
-                "x": 1320,
-                "y": 210
-            },
-            "data": {
-                "label": "컴퓨터그래픽스",
-                "학수번호": "COSE331",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE354",
-            "position": {
-                "x": 1320,
-                "y": 280
-            },
-            "data": {
-                "label": "정보보호",
-                "학수번호": "COSE354",
-                "세부전공": null,
-                "전공역량": "사회적책임",
-                "개설학과": "컴퓨터학과",
+                "전공역량": null,
+                "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null
@@ -695,74 +470,24 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#F8BBD0",
+                "backgroundColor": "#B3E5FC",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE363",
+            "id": "ACEE226",
             "position": {
-                "x": 1320,
-                "y": 350
-            },
-            "data": {
-                "label": "정보와정보학",
-                "학수번호": "COSE363",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE371",
-            "position": {
-                "x": 1320,
-                "y": 420
-            },
-            "data": {
-                "label": "데이터베이스",
-                "학수번호": "COSE371",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE372",
-            "position": {
-                "x": 1320,
+                "x": 660,
                 "y": 490
             },
             "data": {
-                "label": "데이터베이스시스템",
-                "학수번호": "COSE372",
+                "label": "환경공학I",
+                "학수번호": "ACEE226",
                 "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
+                "전공역량": null,
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null
             },
@@ -770,148 +495,148 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#F8BBD0",
+                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE380",
+            "id": "KHES215",
             "position": {
-                "x": 1320,
+                "x": 660,
                 "y": 560
             },
             "data": {
-                "label": "디지털신호처리",
-                "학수번호": "COSE380",
+                "label": "환경보건학",
+                "학수번호": "KHES215",
                 "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE382",
-            "position": {
-                "x": 1320,
-                "y": 630
-            },
-            "data": {
-                "label": "확률및랜덤과정",
-                "학수번호": "COSE382",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE385",
-            "position": {
-                "x": 1320,
-                "y": 700
-            },
-            "data": {
-                "label": "신호및시스템",
-                "학수번호": "COSE385",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE389",
-            "position": {
-                "x": 1320,
-                "y": 770
-            },
-            "data": {
-                "label": "기업가정신과리더쉽",
-                "학수번호": "COSE389",
-                "세부전공": null,
-                "전공역량": "도전적리더",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE472",
-            "position": {
-                "x": 1320,
-                "y": 840
-            },
-            "data": {
-                "label": "정보검색",
-                "학수번호": "COSE472",
-                "세부전공": null,
-                "전공역량": "시뮬레이션능력",
-                "개설학과": "컴퓨터학과",
+                "전공역량": null,
+                "개설학과": "보건환경융합과학부",
                 "개설횟수": 0,
                 "내용": null,
-                "메모": "데이터과학과 참고"
+                "메모": null
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#F8BBD0",
+                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE342",
+            "id": "SOCI255",
             "position": {
-                "x": 1540,
+                "x": 660,
+                "y": 630
+            },
+            "data": {
+                "label": "환경사회학",
+                "학수번호": "SOCI255",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET153",
+            "position": {
+                "x": 880,
                 "y": 0
             },
             "data": {
-                "label": "컴퓨터네트워크",
-                "학수번호": "COSE342",
+                "label": "생물통계학",
+                "학수번호": "LIET153",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
+                "전공역량": null,
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET201",
+            "position": {
+                "x": 880,
+                "y": 70
+            },
+            "data": {
+                "label": "생태학",
+                "학수번호": "LIET201",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET219",
+            "position": {
+                "x": 880,
+                "y": 140
+            },
+            "data": {
+                "label": "환경조경학",
+                "학수번호": "LIET219",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET225",
+            "position": {
+                "x": 880,
+                "y": 210
+            },
+            "data": {
+                "label": "환경미생물학",
+                "학수번호": "LIET225",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
                 "개설횟수": 4,
                 "내용": null,
                 "메모": null
@@ -926,93 +651,18 @@
             }
         },
         {
-            "id": "COSE312",
+            "id": "LIET227",
             "position": {
-                "x": 1540,
-                "y": 70
-            },
-            "data": {
-                "label": "컴파일러",
-                "학수번호": "COSE312",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE322",
-            "position": {
-                "x": 1540,
-                "y": 140
-            },
-            "data": {
-                "label": "시스템프로그래밍",
-                "학수번호": "COSE322",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE352",
-            "position": {
-                "x": 1540,
-                "y": 210
-            },
-            "data": {
-                "label": "소프트웨어공학",
-                "학수번호": "COSE352",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE362",
-            "position": {
-                "x": 1540,
+                "x": 880,
                 "y": 280
             },
             "data": {
-                "label": "기계학습",
-                "학수번호": "COSE362",
+                "label": "환경과학",
+                "학수번호": "LIET227",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null
             },
@@ -1020,23 +670,23 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#F8BBD0",
+                "backgroundColor": "#D1C4E9",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE394",
+            "id": "LIET229",
             "position": {
-                "x": 1540,
+                "x": 880,
                 "y": 350
             },
             "data": {
-                "label": "창의적소프트웨어창업방법론",
-                "학수번호": "COSE394",
+                "label": "환경토양학및실험",
+                "학수번호": "LIET229",
                 "세부전공": null,
-                "전공역량": "도전적리더",
-                "개설학과": "컴퓨터학과",
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null
@@ -1045,174 +695,24 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#F8BBD0",
+                "backgroundColor": "#D1C4E9",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE394",
+            "id": "LIET235",
             "position": {
-                "x": 1760,
-                "y": 0
-            },
-            "data": {
-                "label": "현장실습및창업실습I",
-                "학수번호": "COSE394",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE394",
-            "position": {
-                "x": 1760,
-                "y": 70
-            },
-            "data": {
-                "label": "현장실습및창업실습II",
-                "학수번호": "COSE394",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE394",
-            "position": {
-                "x": 1760,
-                "y": 140
-            },
-            "data": {
-                "label": "현장실습및창업실습III",
-                "학수번호": "COSE394",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE394",
-            "position": {
-                "x": 1760,
-                "y": 210
-            },
-            "data": {
-                "label": "현장실습및창업실습IV",
-                "학수번호": "COSE394",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE405",
-            "position": {
-                "x": 1760,
-                "y": 280
-            },
-            "data": {
-                "label": "컴퓨터학콜로키움",
-                "학수번호": "COSE405",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE415",
-            "position": {
-                "x": 1760,
-                "y": 350
-            },
-            "data": {
-                "label": "저전력컴퓨팅",
-                "학수번호": "COSE415",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE419",
-            "position": {
-                "x": 1760,
+                "x": 880,
                 "y": 420
             },
             "data": {
-                "label": "소프트웨어검증",
-                "학수번호": "COSE419",
+                "label": "환경GIS및실습",
+                "학수번호": "LIET235",
                 "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 1,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null
             },
@@ -1220,24 +720,24 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#F8BBD0",
+                "backgroundColor": "#D1C4E9",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE421",
+            "id": "LIET237",
             "position": {
-                "x": 1760,
+                "x": 880,
                 "y": 490
             },
             "data": {
-                "label": "임베디드시스템",
-                "학수번호": "COSE421",
+                "label": "환경정보및계획학실습",
+                "학수번호": "LIET237",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null
             },
@@ -1245,24 +745,24 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#F8BBD0",
+                "backgroundColor": "#D1C4E9",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE423",
+            "id": "LIET241",
             "position": {
-                "x": 1760,
+                "x": 880,
                 "y": 560
             },
             "data": {
-                "label": "볼록최적화입문",
-                "학수번호": "COSE423",
+                "label": "바이오매스이용학",
+                "학수번호": "LIET241",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null
             },
@@ -1270,24 +770,24 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#F8BBD0",
+                "backgroundColor": "#D1C4E9",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE434",
+            "id": "LIET221",
             "position": {
-                "x": 1760,
+                "x": 880,
                 "y": 630
             },
             "data": {
-                "label": "게임프로그래밍",
-                "학수번호": "COSE434",
+                "label": "미생물자원학",
+                "학수번호": "LIET221",
                 "세부전공": null,
-                "전공역량": "다문화포용",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
                 "내용": null,
                 "메모": null
             },
@@ -1301,67 +801,17 @@
             }
         },
         {
-            "id": "COSE451",
+            "id": "LIET231",
             "position": {
-                "x": 1760,
+                "x": 880,
                 "y": 700
             },
             "data": {
-                "label": "소프트웨어보안",
-                "학수번호": "COSE451",
+                "label": "환경곤충학",
+                "학수번호": "LIET231",
                 "세부전공": null,
-                "전공역량": "사회적책임",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE455",
-            "position": {
-                "x": 1760,
-                "y": 770
-            },
-            "data": {
-                "label": "스타트업프로젝트관리",
-                "학수번호": "COSE455",
-                "세부전공": null,
-                "전공역량": "도전적리더",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE461",
-            "position": {
-                "x": 1760,
-                "y": 840
-            },
-            "data": {
-                "label": "자연어처리",
-                "학수번호": "COSE461",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
                 "개설횟수": 4,
                 "내용": null,
                 "메모": null
@@ -1376,17 +826,792 @@
             }
         },
         {
-            "id": "COSE471",
+            "id": "LIET239",
             "position": {
-                "x": 1760,
+                "x": 880,
+                "y": 770
+            },
+            "data": {
+                "label": "환경분석화학및실험",
+                "학수번호": "LIET239",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET253",
+            "position": {
+                "x": 880,
+                "y": 840
+            },
+            "data": {
+                "label": "연안및대양생태학",
+                "학수번호": "LIET253",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET206",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "물환경학",
+                "학수번호": "LIET206",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET222",
+            "position": {
+                "x": 1100,
+                "y": 70
+            },
+            "data": {
+                "label": "환경화학",
+                "학수번호": "LIET222",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET232",
+            "position": {
+                "x": 1100,
+                "y": 140
+            },
+            "data": {
+                "label": "환경생태학",
+                "학수번호": "LIET232",
+                "세부전공": null,
+                "전공역량": "사회적 책임",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET226",
+            "position": {
+                "x": 1100,
+                "y": 210
+            },
+            "data": {
+                "label": "환경재료과학",
+                "학수번호": "LIET226",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE327",
+            "position": {
+                "x": 1100,
+                "y": 280
+            },
+            "data": {
+                "label": "환경공학Ⅱ",
+                "학수번호": "ACEE327",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE302",
+            "position": {
+                "x": 1100,
+                "y": 350
+            },
+            "data": {
+                "label": "환경경제학",
+                "학수번호": "LESE302",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET317",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "data": {
+                "label": "생태공학",
+                "학수번호": "LIET317",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET349",
+            "position": {
+                "x": 1320,
+                "y": 70
+            },
+            "data": {
+                "label": "환경영향평가",
+                "학수번호": "LIET349",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET363",
+            "position": {
+                "x": 1320,
+                "y": 140
+            },
+            "data": {
+                "label": "환경생물공학및실험",
+                "학수번호": "LIET363",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET367",
+            "position": {
+                "x": 1320,
+                "y": 210
+            },
+            "data": {
+                "label": "환경과디자인의이해및실습",
+                "학수번호": "LIET367",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET311",
+            "position": {
+                "x": 1320,
+                "y": 280
+            },
+            "data": {
+                "label": "생태독성학",
+                "학수번호": "LIET311",
+                "세부전공": null,
+                "전공역량": "사회적 책임",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET313",
+            "position": {
+                "x": 1320,
+                "y": 350
+            },
+            "data": {
+                "label": "환경정책학",
+                "학수번호": "LIET313",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET339",
+            "position": {
+                "x": 1320,
+                "y": 420
+            },
+            "data": {
+                "label": "환경생화학",
+                "학수번호": "LIET339",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET341",
+            "position": {
+                "x": 1320,
+                "y": 490
+            },
+            "data": {
+                "label": "토양환경공학",
+                "학수번호": "LIET341",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET365",
+            "position": {
+                "x": 1320,
+                "y": 560
+            },
+            "data": {
+                "label": "목재보존과학",
+                "학수번호": "LIET365",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET377",
+            "position": {
+                "x": 1320,
+                "y": 630
+            },
+            "data": {
+                "label": "조경컴퓨터그래픽실습",
+                "학수번호": "LIET377",
+                "세부전공": null,
+                "전공역량": "도전적리더",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET322",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "data": {
+                "label": "동물다양성과보전",
+                "학수번호": "LIET322",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET370",
+            "position": {
+                "x": 1540,
+                "y": 70
+            },
+            "data": {
+                "label": "조경표현기법및실습",
+                "학수번호": "LIET370",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET372",
+            "position": {
+                "x": 1540,
+                "y": 140
+            },
+            "data": {
+                "label": "생태계생태학및실험",
+                "학수번호": "LIET372",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET374",
+            "position": {
+                "x": 1540,
+                "y": 210
+            },
+            "data": {
+                "label": "조경계획및실습",
+                "학수번호": "LIET374",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET382",
+            "position": {
+                "x": 1540,
+                "y": 280
+            },
+            "data": {
+                "label": "응용미생물학및실험",
+                "학수번호": "LIET382",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET324",
+            "position": {
+                "x": 1540,
+                "y": 350
+            },
+            "data": {
+                "label": "자원순환공학",
+                "학수번호": "LIET324",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET338",
+            "position": {
+                "x": 1540,
+                "y": 420
+            },
+            "data": {
+                "label": "생물재료화학",
+                "학수번호": "LIET338",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET342",
+            "position": {
+                "x": 1540,
+                "y": 490
+            },
+            "data": {
+                "label": "식물환경학Ⅰ",
+                "학수번호": "LIET342",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET354",
+            "position": {
+                "x": 1540,
+                "y": 560
+            },
+            "data": {
+                "label": "수서생태학",
+                "학수번호": "LIET354",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET356",
+            "position": {
+                "x": 1540,
+                "y": 630
+            },
+            "data": {
+                "label": "목질주거환경",
+                "학수번호": "LIET356",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET376",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "data": {
+                "label": "균류학및실험",
+                "학수번호": "LIET376",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET378",
+            "position": {
+                "x": 1540,
+                "y": 770
+            },
+            "data": {
+                "label": "환경원격탐사및실습",
+                "학수번호": "LIET378",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET380",
+            "position": {
+                "x": 1540,
+                "y": 840
+            },
+            "data": {
+                "label": "개체군생태학",
+                "학수번호": "LIET380",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET386",
+            "position": {
+                "x": 1540,
                 "y": 910
             },
             "data": {
-                "label": "데이터과학",
-                "학수번호": "COSE471",
+                "label": "연안및대양물질순환",
+                "학수번호": "LIET386",
                 "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
                 "개설횟수": 3,
                 "내용": null,
                 "메모": null
@@ -1401,18 +1626,18 @@
             }
         },
         {
-            "id": "COSE480",
+            "id": "LIET405",
             "position": {
                 "x": 1760,
-                "y": 980
+                "y": 0
             },
             "data": {
-                "label": "산학캡스톤디자인",
-                "학수번호": "COSE480",
+                "label": "환경생태공학세미나I",
+                "학수번호": "LIET405",
                 "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
                 "내용": null,
                 "메모": null
             },
@@ -1420,23 +1645,73 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#F8BBD0",
+                "backgroundColor": "#D1C4E9",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE483",
+            "id": "LIET414",
             "position": {
                 "x": 1760,
-                "y": 1050
+                "y": 70
             },
             "data": {
-                "label": "무선회로설계",
-                "학수번호": "COSE483",
+                "label": "생태조경설계및실습",
+                "학수번호": "LIET414",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET415",
+            "position": {
+                "x": 1760,
+                "y": 140
+            },
+            "data": {
+                "label": "식물환경학Ⅱ및실험",
+                "학수번호": "LIET415",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET469",
+            "position": {
+                "x": 1760,
+                "y": 210
+            },
+            "data": {
+                "label": "생물신소재공학",
+                "학수번호": "LIET469",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -1451,18 +1726,18 @@
             }
         },
         {
-            "id": "COSE485",
+            "id": "LIET409",
             "position": {
                 "x": 1760,
-                "y": 1120
+                "y": 280
             },
             "data": {
-                "label": "정보이론과추론학습",
-                "학수번호": "COSE485",
+                "label": "수질관리학및실험",
+                "학수번호": "LIET409",
                 "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 2,
                 "내용": null,
                 "메모": null
             },
@@ -1476,92 +1751,67 @@
             }
         },
         {
-            "id": "COSE407",
+            "id": "LIET411",
+            "position": {
+                "x": 1760,
+                "y": 350
+            },
+            "data": {
+                "label": "폐생물자원리사이클링",
+                "학수번호": "LIET411",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET453",
+            "position": {
+                "x": 1760,
+                "y": 420
+            },
+            "data": {
+                "label": "동물생태학",
+                "학수번호": "LIET453",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET406",
             "position": {
                 "x": 1980,
                 "y": 0
             },
             "data": {
-                "label": "개별연구프로젝트",
-                "학수번호": "COSE407",
+                "label": "환경생태공학세미나II",
+                "학수번호": "LIET406",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE416",
-            "position": {
-                "x": 1980,
-                "y": 70
-            },
-            "data": {
-                "label": "인공지능과자율주행자동차",
-                "학수번호": "COSE416",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE425",
-            "position": {
-                "x": 1980,
-                "y": 140
-            },
-            "data": {
-                "label": "블록체인입문및실습",
-                "학수번호": "COSE425",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE432",
-            "position": {
-                "x": 1980,
-                "y": 210
-            },
-            "data": {
-                "label": "인간컴퓨터상호작용입문",
-                "학수번호": "COSE432",
-                "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null
@@ -1570,23 +1820,73 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#F8BBD0",
+                "backgroundColor": "#D1C4E9",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE436",
+            "id": "LIET408",
             "position": {
                 "x": 1980,
-                "y": 280
+                "y": 70
             },
             "data": {
-                "label": "인터렉티브시각화",
-                "학수번호": "COSE436",
+                "label": "생태복원공학",
+                "학수번호": "LIET408",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET436",
+            "position": {
+                "x": 1980,
+                "y": 140
+            },
+            "data": {
+                "label": "시스템생태학",
+                "학수번호": "LIET436",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET490",
+            "position": {
+                "x": 1980,
+                "y": 210
+            },
+            "data": {
+                "label": "환경법규",
+                "학수번호": "LIET490",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
                 "개설횟수": 4,
                 "내용": null,
                 "메모": null
@@ -1601,18 +1901,43 @@
             }
         },
         {
-            "id": "COSE441",
+            "id": "LIET492",
+            "position": {
+                "x": 1980,
+                "y": 280
+            },
+            "data": {
+                "label": "지역및도시계획학",
+                "학수번호": "LIET492",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET430",
             "position": {
                 "x": 1980,
                 "y": 350
             },
             "data": {
-                "label": "인터넷프로토콜",
-                "학수번호": "COSE441",
+                "label": "미생물생태학",
+                "학수번호": "LIET430",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null
             },
@@ -1626,18 +1951,18 @@
             }
         },
         {
-            "id": "COSE444",
+            "id": "LIET434",
             "position": {
                 "x": 1980,
                 "y": 420
             },
             "data": {
-                "label": "클라우드컴퓨팅",
-                "학수번호": "COSE444",
+                "label": "환경유기화학",
+                "학수번호": "LIET434",
                 "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null
             },
@@ -1651,18 +1976,18 @@
             }
         },
         {
-            "id": "COSE446",
+            "id": "LIET438",
             "position": {
                 "x": 1980,
                 "y": 490
             },
             "data": {
-                "label": "모바일네트워크",
-                "학수번호": "COSE446",
+                "label": "학술림연구세미나",
+                "학수번호": "LIET438",
                 "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 0,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null
             },
@@ -1676,18 +2001,18 @@
             }
         },
         {
-            "id": "COSE457",
+            "id": "LIET454",
             "position": {
                 "x": 1980,
                 "y": 560
             },
             "data": {
-                "label": "실전SW프로젝트",
-                "학수번호": "COSE457",
+                "label": "보전생물학",
+                "학수번호": "LIET454",
                 "세부전공": null,
-                "전공역량": "융합적사고",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 2,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null
             },
@@ -1701,18 +2026,18 @@
             }
         },
         {
-            "id": "COSE474",
+            "id": "LIET456",
             "position": {
                 "x": 1980,
                 "y": 630
             },
             "data": {
-                "label": "딥러닝",
-                "학수번호": "COSE474",
+                "label": "환경위해도평가",
+                "학수번호": "LIET456",
                 "세부전공": null,
-                "전공역량": "사회적책임",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
+                "전공역량": "사회적 책임",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null
             },
@@ -1726,68 +2051,18 @@
             }
         },
         {
-            "id": "COSE475",
+            "id": "LIET494",
             "position": {
                 "x": 1980,
                 "y": 700
             },
             "data": {
-                "label": "고급딥러닝",
-                "학수번호": "COSE475",
+                "label": "경관생태학",
+                "학수번호": "LIET494",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE484",
-            "position": {
-                "x": 1980,
-                "y": 770
-            },
-            "data": {
-                "label": "무선보안",
-                "학수번호": "COSE484",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE490",
-            "position": {
-                "x": 1980,
-                "y": 840
-            },
-            "data": {
-                "label": "전산학특강",
-                "학수번호": "COSE490",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 2,
                 "내용": null,
                 "메모": null
             },
@@ -1801,270 +2076,5 @@
             }
         }
     ],
-    "edges": [
-        {
-            "id": "recommended-COSE101-COSE102",
-            "source": "COSE101",
-            "target": "COSE102",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE111-COSE112",
-            "source": "COSE111",
-            "target": "COSE112",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE112-COSE213",
-            "source": "COSE112",
-            "target": "COSE213",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE215-COSE214",
-            "source": "COSE215",
-            "target": "COSE214",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE221-COSE222",
-            "source": "COSE221",
-            "target": "COSE222",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE215-COSE222",
-            "source": "COSE215",
-            "target": "COSE222",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE213-COSE341",
-            "source": "COSE213",
-            "target": "COSE341",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE222-COSE341",
-            "source": "COSE222",
-            "target": "COSE341",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE215-COSE211",
-            "source": "COSE215",
-            "target": "COSE211",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE102-COSE212",
-            "source": "COSE102",
-            "target": "COSE212",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE215-COSE212",
-            "source": "COSE215",
-            "target": "COSE212",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE215-COSE221",
-            "source": "COSE215",
-            "target": "COSE221",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE112-COSE281",
-            "source": "COSE112",
-            "target": "COSE281",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE281-COSE284",
-            "source": "COSE281",
-            "target": "COSE284",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE283-COSE284",
-            "source": "COSE283",
-            "target": "COSE284",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE214-COSE371",
-            "source": "COSE214",
-            "target": "COSE371",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE281-COSE385",
-            "source": "COSE281",
-            "target": "COSE385",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE221-COSE421",
-            "source": "COSE221",
-            "target": "COSE421",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE242-COSE441",
-            "source": "COSE242",
-            "target": "COSE441",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE361-COSE461",
-            "source": "COSE361",
-            "target": "COSE461",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE213-COSE471",
-            "source": "COSE213",
-            "target": "COSE471",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-COSE214-COSE471",
-            "source": "COSE214",
-            "target": "COSE471",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        }
-    ]
+    "edges": []
 }
