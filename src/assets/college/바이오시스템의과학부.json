@@ -3,7 +3,7 @@
         {
             "id": "GELI005",
             "position": {
-                "x": 220,
+                "x": 440,
                 "y": 0
             },
             "data": {
@@ -26,260 +26,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 220,
-                "y": 70
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 220,
-                "y": 140
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS151",
-            "position": {
-                "x": 220,
-                "y": 210
-            },
-            "data": {
-                "label": "일반생물학및연습 I",
-                "학수번호": "LIBS151",
-                "세부전공": null,
-                "전공역량": "전문적융합적 사고| 창의적미래예측 문제해결",
-                "개설학과": "생명과학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS152",
-            "position": {
-                "x": 220,
-                "y": 280
-            },
-            "data": {
-                "label": "일반생물학및연습 II",
-                "학수번호": "LIBS152",
-                "세부전공": null,
-                "전공역량": "전문적융합적 사고| 창의적미래예측 문제해결",
-                "개설학과": "생명과학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS153",
-            "position": {
-                "x": 220,
-                "y": 350
-            },
-            "data": {
-                "label": "일반생물학실험 I",
-                "학수번호": "LIBS153",
-                "세부전공": null,
-                "전공역량": "전문적융합적 사고| 창의적미래예측 문제해결",
-                "개설학과": "생명과학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS154",
-            "position": {
-                "x": 220,
-                "y": 420
-            },
-            "data": {
-                "label": "일반생물학실험 II",
-                "학수번호": "LIBS154",
-                "세부전공": null,
-                "전공역량": "전문적융합적 사고| 창의적미래예측 문제해결",
-                "개설학과": "생명과학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM151",
-            "position": {
-                "x": 220,
-                "y": 490
-            },
-            "data": {
-                "label": "일반화학및연습 I",
-                "학수번호": "CHEM151",
-                "세부전공": null,
-                "전공역량": "전문적융합적 사고| 창의적미래예측 문제해결",
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM152",
-            "position": {
-                "x": 220,
-                "y": 560
-            },
-            "data": {
-                "label": "일반화학및연습 II",
-                "학수번호": "CHEM152",
-                "세부전공": null,
-                "전공역량": "전문적융합적 사고| 창의적미래예측 문제해결",
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM153",
-            "position": {
-                "x": 220,
-                "y": 630
-            },
-            "data": {
-                "label": "일반화학실험 I",
-                "학수번호": "CHEM153",
-                "세부전공": null,
-                "전공역량": "전문적융합적 사고| 창의적미래예측 문제해결",
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM154",
-            "position": {
-                "x": 220,
-                "y": 700
-            },
-            "data": {
-                "label": "일반화학실험 II",
-                "학수번호": "CHEM154",
-                "세부전공": null,
-                "전공역량": "전문적융합적 사고| 창의적미래예측 문제해결",
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 0
+                "y": 100
             },
             "data": {
                 "label": "글쓰기",
@@ -301,10 +51,35 @@
             }
         },
         {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 70
+                "y": 300
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -329,7 +104,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 140
+                "y": 400
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -346,6 +121,231 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS151",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "data": {
+                "label": "일반생물학및연습 I",
+                "학수번호": "LIBS151",
+                "세부전공": null,
+                "전공역량": "전문적융합적 사고| 창의적미래예측 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS152",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "data": {
+                "label": "일반생물학및연습 II",
+                "학수번호": "LIBS152",
+                "세부전공": null,
+                "전공역량": "전문적융합적 사고| 창의적미래예측 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS153",
+            "position": {
+                "x": 440,
+                "y": 800
+            },
+            "data": {
+                "label": "일반생물학실험 I",
+                "학수번호": "LIBS153",
+                "세부전공": null,
+                "전공역량": "전문적융합적 사고| 창의적미래예측 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS154",
+            "position": {
+                "x": 440,
+                "y": 900
+            },
+            "data": {
+                "label": "일반생물학실험 II",
+                "학수번호": "LIBS154",
+                "세부전공": null,
+                "전공역량": "전문적융합적 사고| 창의적미래예측 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM151",
+            "position": {
+                "x": 440,
+                "y": 1000
+            },
+            "data": {
+                "label": "일반화학및연습 I",
+                "학수번호": "CHEM151",
+                "세부전공": null,
+                "전공역량": "전문적융합적 사고| 창의적미래예측 문제해결",
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM152",
+            "position": {
+                "x": 440,
+                "y": 1100
+            },
+            "data": {
+                "label": "일반화학및연습 II",
+                "학수번호": "CHEM152",
+                "세부전공": null,
+                "전공역량": "전문적융합적 사고| 창의적미래예측 문제해결",
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM153",
+            "position": {
+                "x": 440,
+                "y": 1200
+            },
+            "data": {
+                "label": "일반화학실험 I",
+                "학수번호": "CHEM153",
+                "세부전공": null,
+                "전공역량": "전문적융합적 사고| 창의적미래예측 문제해결",
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM154",
+            "position": {
+                "x": 440,
+                "y": 1300
+            },
+            "data": {
+                "label": "일반화학실험 II",
+                "학수번호": "CHEM154",
+                "세부전공": null,
+                "전공역량": "전문적융합적 사고| 창의적미래예측 문제해결",
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -379,7 +379,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
@@ -429,7 +429,7 @@
             "id": "BSMS202",
             "position": {
                 "x": 880,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "의생명과학실험II",
@@ -454,7 +454,7 @@
             "id": "BSMS205",
             "position": {
                 "x": 880,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "유전학",
@@ -479,7 +479,7 @@
             "id": "BSMS207",
             "position": {
                 "x": 880,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "미생물학",
@@ -504,7 +504,7 @@
             "id": "BSMS211",
             "position": {
                 "x": 880,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "분자생물학",
@@ -554,7 +554,7 @@
             "id": "BSMS204",
             "position": {
                 "x": 1100,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "세포생물학",
@@ -579,7 +579,7 @@
             "id": "BSMS206",
             "position": {
                 "x": 1100,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "인체생리학",
@@ -604,7 +604,7 @@
             "id": "BSMS208",
             "position": {
                 "x": 1100,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "생화학",
@@ -629,7 +629,7 @@
             "id": "BSMS214",
             "position": {
                 "x": 1100,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "후생유전학",
@@ -654,7 +654,7 @@
             "id": "BSMS222",
             "position": {
                 "x": 1100,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "생물통계학",
@@ -679,7 +679,7 @@
             "id": "BSMS212",
             "position": {
                 "x": 1100,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "질병미생물학",
@@ -729,7 +729,7 @@
             "id": "BSMS306",
             "position": {
                 "x": 1320,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "생리활성물질",
@@ -754,7 +754,7 @@
             "id": "BSMS311",
             "position": {
                 "x": 1320,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "효소공학",
@@ -779,7 +779,7 @@
             "id": "BSMS323",
             "position": {
                 "x": 1320,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "미생물병리학",
@@ -804,7 +804,7 @@
             "id": "BSMS325",
             "position": {
                 "x": 1320,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "의생명과학실험Ⅲ",
@@ -829,7 +829,7 @@
             "id": "BSMS307",
             "position": {
                 "x": 1320,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "질병영양대사",
@@ -854,7 +854,7 @@
             "id": "BSMS315",
             "position": {
                 "x": 1320,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "조리원리",
@@ -879,7 +879,7 @@
             "id": "BSMS319",
             "position": {
                 "x": 1320,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "식품학I",
@@ -904,7 +904,7 @@
             "id": "BSMS303",
             "position": {
                 "x": 1320,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "인간발생학",
@@ -929,7 +929,7 @@
             "id": "BSMS305",
             "position": {
                 "x": 1320,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "줄기세포생물학",
@@ -979,7 +979,7 @@
             "id": "BSMS332",
             "position": {
                 "x": 1540,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "영양과건강",
@@ -1004,7 +1004,7 @@
             "id": "BSMS312",
             "position": {
                 "x": 1540,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "분자영양학",
@@ -1029,7 +1029,7 @@
             "id": "BSMS316",
             "position": {
                 "x": 1540,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "조리과학",
@@ -1054,7 +1054,7 @@
             "id": "BSMS322",
             "position": {
                 "x": 1540,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "식품학II",
@@ -1079,7 +1079,7 @@
             "id": "BSMS302",
             "position": {
                 "x": 1540,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "종양학",
@@ -1104,7 +1104,7 @@
             "id": "BSMS304",
             "position": {
                 "x": 1540,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "세균학",
@@ -1129,7 +1129,7 @@
             "id": "BSMS324",
             "position": {
                 "x": 1540,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "시스템합성생물학",
@@ -1179,7 +1179,7 @@
             "id": "BSMS408",
             "position": {
                 "x": 1980,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "식품기기분석및실험",
@@ -1204,7 +1204,7 @@
             "id": "BSMS412",
             "position": {
                 "x": 1980,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "식생활경영",
@@ -1229,7 +1229,7 @@
             "id": "BSMS402",
             "position": {
                 "x": 1980,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "항체공학",
@@ -1254,7 +1254,7 @@
             "id": "BSMS422",
             "position": {
                 "x": 1980,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "내분비학",
@@ -1279,7 +1279,7 @@
             "id": "BSMS424",
             "position": {
                 "x": 1980,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "휴먼마이크로바이옴",
@@ -1304,7 +1304,7 @@
             "id": "BSMS426",
             "position": {
                 "x": 1980,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "조직재생 및 실험",
@@ -1354,7 +1354,7 @@
             "id": "BSMS409",
             "position": {
                 "x": 1760,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "생물소재저장학",
@@ -1379,7 +1379,7 @@
             "id": "BSMS415",
             "position": {
                 "x": 1760,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "식문화및스타일링",
@@ -1404,7 +1404,7 @@
             "id": "BSMS423",
             "position": {
                 "x": 1760,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "바이오식품재료학",
@@ -1429,7 +1429,7 @@
             "id": "BSMS403",
             "position": {
                 "x": 1760,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "신경과학",
@@ -1454,7 +1454,7 @@
             "id": "BSMS405",
             "position": {
                 "x": 1760,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "바이러스학",
@@ -1479,7 +1479,7 @@
             "id": "BSMS419",
             "position": {
                 "x": 1760,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "인체정보학",

@@ -1,0 +1,2080 @@
+{
+    "nodes": [
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 70
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 140
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 210
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 280
+            },
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 350
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS151",
+            "position": {
+                "x": 440,
+                "y": 420
+            },
+            "data": {
+                "label": "일반생물학및연습 I",
+                "학수번호": "LIBS151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS153",
+            "position": {
+                "x": 440,
+                "y": 490
+            },
+            "data": {
+                "label": "일반생물학실험 I",
+                "학수번호": "LIBS153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET151",
+            "position": {
+                "x": 440,
+                "y": 560
+            },
+            "data": {
+                "label": "화학의기초및연습 I",
+                "학수번호": "LIET151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET155",
+            "position": {
+                "x": 440,
+                "y": 630
+            },
+            "data": {
+                "label": "화학의기초실험 I",
+                "학수번호": "LIET155",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS183",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "data": {
+                "label": "생명물리학및연습",
+                "학수번호": "PHYS183",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS161",
+            "position": {
+                "x": 440,
+                "y": 770
+            },
+            "data": {
+                "label": "일반물리학 실험 I",
+                "학수번호": "PHYS161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 70
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS152",
+            "position": {
+                "x": 660,
+                "y": 140
+            },
+            "data": {
+                "label": "일반생물학및연습 II",
+                "학수번호": "LIBS152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS154",
+            "position": {
+                "x": 660,
+                "y": 210
+            },
+            "data": {
+                "label": "일반생물학실험 II",
+                "학수번호": "LIBS154",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET152",
+            "position": {
+                "x": 660,
+                "y": 280
+            },
+            "data": {
+                "label": "화학의기초및연습 II",
+                "학수번호": "LIET152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET156",
+            "position": {
+                "x": 660,
+                "y": 350
+            },
+            "data": {
+                "label": "화학의기초실험 II",
+                "학수번호": "LIET156",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH161",
+            "position": {
+                "x": 660,
+                "y": 420
+            },
+            "data": {
+                "label": "미적분학및연습 I",
+                "학수번호": "MATH161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET153",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "data": {
+                "label": "생물통계학",
+                "학수번호": "LIET153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET201",
+            "position": {
+                "x": 880,
+                "y": 70
+            },
+            "data": {
+                "label": "생태학",
+                "학수번호": "LIET201",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET219",
+            "position": {
+                "x": 880,
+                "y": 140
+            },
+            "data": {
+                "label": "환경조경학",
+                "학수번호": "LIET219",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET225",
+            "position": {
+                "x": 880,
+                "y": 210
+            },
+            "data": {
+                "label": "환경미생물학",
+                "학수번호": "LIET225",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET227",
+            "position": {
+                "x": 880,
+                "y": 280
+            },
+            "data": {
+                "label": "환경과학",
+                "학수번호": "LIET227",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET229",
+            "position": {
+                "x": 880,
+                "y": 350
+            },
+            "data": {
+                "label": "환경토양학및실험",
+                "학수번호": "LIET229",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET235",
+            "position": {
+                "x": 880,
+                "y": 420
+            },
+            "data": {
+                "label": "환경GIS및실습",
+                "학수번호": "LIET235",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET237",
+            "position": {
+                "x": 880,
+                "y": 490
+            },
+            "data": {
+                "label": "환경정보및계획학실습",
+                "학수번호": "LIET237",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET241",
+            "position": {
+                "x": 880,
+                "y": 560
+            },
+            "data": {
+                "label": "바이오매스이용학",
+                "학수번호": "LIET241",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET221",
+            "position": {
+                "x": 880,
+                "y": 630
+            },
+            "data": {
+                "label": "미생물자원학",
+                "학수번호": "LIET221",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET231",
+            "position": {
+                "x": 880,
+                "y": 700
+            },
+            "data": {
+                "label": "환경곤충학",
+                "학수번호": "LIET231",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET239",
+            "position": {
+                "x": 880,
+                "y": 770
+            },
+            "data": {
+                "label": "환경분석화학및실험",
+                "학수번호": "LIET239",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET253",
+            "position": {
+                "x": 880,
+                "y": 840
+            },
+            "data": {
+                "label": "연안및대양생태학",
+                "학수번호": "LIET253",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE226",
+            "position": {
+                "x": 880,
+                "y": 910
+            },
+            "data": {
+                "label": "환경공학I",
+                "학수번호": "ACEE226",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES215",
+            "position": {
+                "x": 880,
+                "y": 980
+            },
+            "data": {
+                "label": "환경보건학",
+                "학수번호": "KHES215",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI255",
+            "position": {
+                "x": 880,
+                "y": 1050
+            },
+            "data": {
+                "label": "환경사회학",
+                "학수번호": "SOCI255",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET206",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "물환경학",
+                "학수번호": "LIET206",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET222",
+            "position": {
+                "x": 1100,
+                "y": 70
+            },
+            "data": {
+                "label": "환경화학",
+                "학수번호": "LIET222",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET232",
+            "position": {
+                "x": 1100,
+                "y": 140
+            },
+            "data": {
+                "label": "환경생태학",
+                "학수번호": "LIET232",
+                "세부전공": null,
+                "전공역량": "사회적 책임",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET226",
+            "position": {
+                "x": 1100,
+                "y": 210
+            },
+            "data": {
+                "label": "환경재료과학",
+                "학수번호": "LIET226",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET317",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "data": {
+                "label": "생태공학",
+                "학수번호": "LIET317",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET349",
+            "position": {
+                "x": 1320,
+                "y": 70
+            },
+            "data": {
+                "label": "환경영향평가",
+                "학수번호": "LIET349",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET363",
+            "position": {
+                "x": 1320,
+                "y": 140
+            },
+            "data": {
+                "label": "환경생물공학및실험",
+                "학수번호": "LIET363",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET367",
+            "position": {
+                "x": 1320,
+                "y": 210
+            },
+            "data": {
+                "label": "환경과디자인의이해및실습",
+                "학수번호": "LIET367",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET311",
+            "position": {
+                "x": 1320,
+                "y": 280
+            },
+            "data": {
+                "label": "생태독성학",
+                "학수번호": "LIET311",
+                "세부전공": null,
+                "전공역량": "사회적 책임",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET313",
+            "position": {
+                "x": 1320,
+                "y": 350
+            },
+            "data": {
+                "label": "환경정책학",
+                "학수번호": "LIET313",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET339",
+            "position": {
+                "x": 1320,
+                "y": 420
+            },
+            "data": {
+                "label": "환경생화학",
+                "학수번호": "LIET339",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET341",
+            "position": {
+                "x": 1320,
+                "y": 490
+            },
+            "data": {
+                "label": "토양환경공학",
+                "학수번호": "LIET341",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET365",
+            "position": {
+                "x": 1320,
+                "y": 560
+            },
+            "data": {
+                "label": "목재보존과학",
+                "학수번호": "LIET365",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET377",
+            "position": {
+                "x": 1320,
+                "y": 630
+            },
+            "data": {
+                "label": "조경컴퓨터그래픽실습",
+                "학수번호": "LIET377",
+                "세부전공": null,
+                "전공역량": "도전적리더",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE327",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "data": {
+                "label": "환경공학Ⅱ",
+                "학수번호": "ACEE327",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE302",
+            "position": {
+                "x": 1320,
+                "y": 770
+            },
+            "data": {
+                "label": "환경경제학",
+                "학수번호": "LESE302",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET322",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "data": {
+                "label": "동물다양성과보전",
+                "학수번호": "LIET322",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET370",
+            "position": {
+                "x": 1540,
+                "y": 70
+            },
+            "data": {
+                "label": "조경표현기법및실습",
+                "학수번호": "LIET370",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET372",
+            "position": {
+                "x": 1540,
+                "y": 140
+            },
+            "data": {
+                "label": "생태계생태학및실험",
+                "학수번호": "LIET372",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET374",
+            "position": {
+                "x": 1540,
+                "y": 210
+            },
+            "data": {
+                "label": "조경계획및실습",
+                "학수번호": "LIET374",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET382",
+            "position": {
+                "x": 1540,
+                "y": 280
+            },
+            "data": {
+                "label": "응용미생물학및실험",
+                "학수번호": "LIET382",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET324",
+            "position": {
+                "x": 1540,
+                "y": 350
+            },
+            "data": {
+                "label": "자원순환공학",
+                "학수번호": "LIET324",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET338",
+            "position": {
+                "x": 1540,
+                "y": 420
+            },
+            "data": {
+                "label": "생물재료화학",
+                "학수번호": "LIET338",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET342",
+            "position": {
+                "x": 1540,
+                "y": 490
+            },
+            "data": {
+                "label": "식물환경학Ⅰ",
+                "학수번호": "LIET342",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET354",
+            "position": {
+                "x": 1540,
+                "y": 560
+            },
+            "data": {
+                "label": "수서생태학",
+                "학수번호": "LIET354",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET356",
+            "position": {
+                "x": 1540,
+                "y": 630
+            },
+            "data": {
+                "label": "목질주거환경",
+                "학수번호": "LIET356",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET376",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "data": {
+                "label": "균류학및실험",
+                "학수번호": "LIET376",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET378",
+            "position": {
+                "x": 1540,
+                "y": 770
+            },
+            "data": {
+                "label": "환경원격탐사및실습",
+                "학수번호": "LIET378",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET380",
+            "position": {
+                "x": 1540,
+                "y": 840
+            },
+            "data": {
+                "label": "개체군생태학",
+                "학수번호": "LIET380",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET386",
+            "position": {
+                "x": 1540,
+                "y": 910
+            },
+            "data": {
+                "label": "연안및대양물질순환",
+                "학수번호": "LIET386",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET405",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "환경생태공학세미나I",
+                "학수번호": "LIET405",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET414",
+            "position": {
+                "x": 1760,
+                "y": 70
+            },
+            "data": {
+                "label": "생태조경설계및실습",
+                "학수번호": "LIET414",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET415",
+            "position": {
+                "x": 1760,
+                "y": 140
+            },
+            "data": {
+                "label": "식물환경학Ⅱ및실험",
+                "학수번호": "LIET415",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET469",
+            "position": {
+                "x": 1760,
+                "y": 210
+            },
+            "data": {
+                "label": "생물신소재공학",
+                "학수번호": "LIET469",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET409",
+            "position": {
+                "x": 1760,
+                "y": 280
+            },
+            "data": {
+                "label": "수질관리학및실험",
+                "학수번호": "LIET409",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET411",
+            "position": {
+                "x": 1760,
+                "y": 350
+            },
+            "data": {
+                "label": "폐생물자원리사이클링",
+                "학수번호": "LIET411",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET453",
+            "position": {
+                "x": 1760,
+                "y": 420
+            },
+            "data": {
+                "label": "동물생태학",
+                "학수번호": "LIET453",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET406",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "data": {
+                "label": "환경생태공학세미나II",
+                "학수번호": "LIET406",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET408",
+            "position": {
+                "x": 1980,
+                "y": 70
+            },
+            "data": {
+                "label": "생태복원공학",
+                "학수번호": "LIET408",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET436",
+            "position": {
+                "x": 1980,
+                "y": 140
+            },
+            "data": {
+                "label": "시스템생태학",
+                "학수번호": "LIET436",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET490",
+            "position": {
+                "x": 1980,
+                "y": 210
+            },
+            "data": {
+                "label": "환경법규",
+                "학수번호": "LIET490",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET492",
+            "position": {
+                "x": 1980,
+                "y": 280
+            },
+            "data": {
+                "label": "지역및도시계획학",
+                "학수번호": "LIET492",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET430",
+            "position": {
+                "x": 1980,
+                "y": 350
+            },
+            "data": {
+                "label": "미생물생태학",
+                "학수번호": "LIET430",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET434",
+            "position": {
+                "x": 1980,
+                "y": 420
+            },
+            "data": {
+                "label": "환경유기화학",
+                "학수번호": "LIET434",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET438",
+            "position": {
+                "x": 1980,
+                "y": 490
+            },
+            "data": {
+                "label": "학술림연구세미나",
+                "학수번호": "LIET438",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET454",
+            "position": {
+                "x": 1980,
+                "y": 560
+            },
+            "data": {
+                "label": "보전생물학",
+                "학수번호": "LIET454",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET456",
+            "position": {
+                "x": 1980,
+                "y": 630
+            },
+            "data": {
+                "label": "환경위해도평가",
+                "학수번호": "LIET456",
+                "세부전공": null,
+                "전공역량": "사회적 책임",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET494",
+            "position": {
+                "x": 1980,
+                "y": 700
+            },
+            "data": {
+                "label": "경관생태학",
+                "학수번호": "LIET494",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        }
+    ],
+    "edges": []
+}

@@ -3,7 +3,7 @@
         {
             "id": "GELI005",
             "position": {
-                "x": 220,
+                "x": 440,
                 "y": 0
             },
             "data": {
@@ -26,60 +26,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 220,
-                "y": 70
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 220,
-                "y": 140
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 0
+                "y": 100
             },
             "data": {
                 "label": "글쓰기",
@@ -101,10 +51,35 @@
             }
         },
         {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 70
+                "y": 300
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -129,7 +104,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 140
+                "y": 400
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -151,10 +126,35 @@
             }
         },
         {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "JMCO203",
             "position": {
                 "x": 440,
-                "y": 210
+                "y": 600
             },
             "data": {
                 "label": "미디어학입문",
@@ -179,7 +179,7 @@
             "id": "JMCO247",
             "position": {
                 "x": 440,
-                "y": 280
+                "y": 700
             },
             "data": {
                 "label": "창의적미디어기획과표현",
@@ -229,7 +229,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
@@ -254,7 +254,7 @@
             "id": "JMCO248",
             "position": {
                 "x": 660,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "미디어데이터사이언스입문",
@@ -279,7 +279,7 @@
             "id": "JMCO269",
             "position": {
                 "x": 660,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "미디어경제",
@@ -304,7 +304,7 @@
             "id": "JMCO279",
             "position": {
                 "x": 660,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "애널리틱스프로그래밍",
@@ -354,7 +354,7 @@
             "id": "JMCO252",
             "position": {
                 "x": 1100,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "미디어테크놀로지와문화",
@@ -379,7 +379,7 @@
             "id": "JMCO262",
             "position": {
                 "x": 1100,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "미디어와젠더",
@@ -404,7 +404,7 @@
             "id": "JMCO264",
             "position": {
                 "x": 1100,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "대인커뮤니케이션",
@@ -429,7 +429,7 @@
             "id": "JMCO266",
             "position": {
                 "x": 1100,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "설득커뮤니케이션",
@@ -454,7 +454,7 @@
             "id": "JMCO268",
             "position": {
                 "x": 1100,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "소비자의이해",
@@ -479,7 +479,7 @@
             "id": "JMCO272",
             "position": {
                 "x": 1100,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "방송론",
@@ -504,7 +504,7 @@
             "id": "JMCO274",
             "position": {
                 "x": 1100,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "뉴미디어영화론",
@@ -529,7 +529,7 @@
             "id": "JMCO276",
             "position": {
                 "x": 1100,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "미디어대본작성",
@@ -579,7 +579,7 @@
             "id": "JMCO255",
             "position": {
                 "x": 880,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "미디어와정치",
@@ -604,7 +604,7 @@
             "id": "JMCO257",
             "position": {
                 "x": 880,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "한국의문화와미디어",
@@ -629,7 +629,7 @@
             "id": "JMCO259",
             "position": {
                 "x": 880,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "다문화사회와미디어",
@@ -654,7 +654,7 @@
             "id": "JMCO267",
             "position": {
                 "x": 880,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "광고의이해",
@@ -679,7 +679,7 @@
             "id": "JMCO273",
             "position": {
                 "x": 880,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "영화론",
@@ -704,7 +704,7 @@
             "id": "JMCO275",
             "position": {
                 "x": 880,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "영상콘텐츠기초제작실습",
@@ -729,7 +729,7 @@
             "id": "JMCO277",
             "position": {
                 "x": 880,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "저널리즘글쓰기",
@@ -779,7 +779,7 @@
             "id": "JMCO362",
             "position": {
                 "x": 1540,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "미디어경영",
@@ -804,7 +804,7 @@
             "id": "JMCO374",
             "position": {
                 "x": 1540,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "디지털미디어와민주주의프로젝트",
@@ -829,7 +829,7 @@
             "id": "JMCO376",
             "position": {
                 "x": 1540,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "PR사례연구",
@@ -854,7 +854,7 @@
             "id": "JMCO382",
             "position": {
                 "x": 1540,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "엔터테인먼트산업",
@@ -879,7 +879,7 @@
             "id": "JMCO384",
             "position": {
                 "x": 1540,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "미디어제작기획",
@@ -904,7 +904,7 @@
             "id": "JMCO389",
             "position": {
                 "x": 1540,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "포토에세이",
@@ -929,7 +929,7 @@
             "id": "JMCO392",
             "position": {
                 "x": 1540,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "멀티미디어리포팅",
@@ -954,7 +954,7 @@
             "id": "JMCO394",
             "position": {
                 "x": 1540,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "다큐멘터리프로덕션",
@@ -979,7 +979,7 @@
             "id": "JMCO396",
             "position": {
                 "x": 1540,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "빅데이터분석과미디어",
@@ -1029,7 +1029,7 @@
             "id": "JMCO375",
             "position": {
                 "x": 1320,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "광고미디어전략과기획",
@@ -1054,7 +1054,7 @@
             "id": "JMCO377",
             "position": {
                 "x": 1320,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "미디어기술",
@@ -1079,7 +1079,7 @@
             "id": "JMCO379",
             "position": {
                 "x": 1320,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "미디어산업과융합",
@@ -1104,7 +1104,7 @@
             "id": "JMCO385",
             "position": {
                 "x": 1320,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "미디어비평",
@@ -1129,7 +1129,7 @@
             "id": "JMCO387",
             "position": {
                 "x": 1320,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "영상이론",
@@ -1154,7 +1154,7 @@
             "id": "JMCO395",
             "position": {
                 "x": 1320,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "드라마프로덕션",
@@ -1179,7 +1179,7 @@
             "id": "JMCO397",
             "position": {
                 "x": 1320,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "미디어데이터마이닝",
@@ -1229,7 +1229,7 @@
             "id": "JMCO444",
             "position": {
                 "x": 1980,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "미디어법과윤리",
@@ -1254,7 +1254,7 @@
             "id": "JMCO446",
             "position": {
                 "x": 1980,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "광고캠페인",
@@ -1279,7 +1279,7 @@
             "id": "JMCO448",
             "position": {
                 "x": 1980,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "전략커뮤니케이션리서치",
@@ -1304,7 +1304,7 @@
             "id": "JMCO452",
             "position": {
                 "x": 1980,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "미디어정책",
@@ -1329,7 +1329,7 @@
             "id": "JMCO458",
             "position": {
                 "x": 1980,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "미디어제작워크샵Ⅲ",
@@ -1354,7 +1354,7 @@
             "id": "JMCO462",
             "position": {
                 "x": 1980,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "미디어·커뮤니케이션특강Ⅱ",
@@ -1404,7 +1404,7 @@
             "id": "JMCO451",
             "position": {
                 "x": 1760,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "미디어서비스개발과창업",
@@ -1429,7 +1429,7 @@
             "id": "JMCO453",
             "position": {
                 "x": 1760,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "탐사기획보도",
@@ -1454,7 +1454,7 @@
             "id": "JMCO455",
             "position": {
                 "x": 1760,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "미디어제작워크샵Ⅰ",
@@ -1479,7 +1479,7 @@
             "id": "JMCO457",
             "position": {
                 "x": 1760,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "미디어제작워크샵Ⅱ",
@@ -1504,7 +1504,7 @@
             "id": "JMCO459",
             "position": {
                 "x": 1760,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "미디어데이터분석특강",
@@ -1529,7 +1529,7 @@
             "id": "JMCO461",
             "position": {
                 "x": 1760,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "미디어·커뮤니케이션특강Ⅰ",
@@ -1554,7 +1554,7 @@
             "id": "JMCO463",
             "position": {
                 "x": 1760,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "미디어인턴십Ⅰ",
@@ -1579,7 +1579,7 @@
             "id": "JMCO464",
             "position": {
                 "x": 1760,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "미디어인턴십Ⅱ",
@@ -1604,7 +1604,7 @@
             "id": "JMCO469",
             "position": {
                 "x": 1760,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "캡스톤디자인P",
@@ -1629,7 +1629,7 @@
             "id": "JMCO470",
             "position": {
                 "x": 1760,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "캡스톤디자인B",
@@ -1654,7 +1654,7 @@
             "id": "JMCO471",
             "position": {
                 "x": 1760,
-                "y": 770
+                "y": 1100
             },
             "data": {
                 "label": "캡스톤디자인R",

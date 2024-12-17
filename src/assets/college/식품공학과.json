@@ -3,7 +3,7 @@
         {
             "id": "GELI005",
             "position": {
-                "x": 220,
+                "x": 440,
                 "y": 0
             },
             "data": {
@@ -26,60 +26,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 220,
-                "y": 70
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 220,
-                "y": 140
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 0
+                "y": 100
             },
             "data": {
                 "label": "글쓰기",
@@ -101,10 +51,35 @@
             }
         },
         {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 70
+                "y": 300
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -129,7 +104,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 140
+                "y": 400
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -151,10 +126,35 @@
             }
         },
         {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "LIBS151",
             "position": {
                 "x": 440,
-                "y": 210
+                "y": 600
             },
             "data": {
                 "label": "일반생물학및연습 I",
@@ -179,7 +179,7 @@
             "id": "LIBS153",
             "position": {
                 "x": 440,
-                "y": 280
+                "y": 700
             },
             "data": {
                 "label": "일반생물학실험 I",
@@ -204,7 +204,7 @@
             "id": "LIET151",
             "position": {
                 "x": 440,
-                "y": 350
+                "y": 800
             },
             "data": {
                 "label": "화학의기초및연습 I",
@@ -229,7 +229,7 @@
             "id": "LIET155",
             "position": {
                 "x": 440,
-                "y": 420
+                "y": 900
             },
             "data": {
                 "label": "화학의기초실험 I",
@@ -254,7 +254,7 @@
             "id": "PHYS183",
             "position": {
                 "x": 440,
-                "y": 490
+                "y": 1000
             },
             "data": {
                 "label": "생명물리학및연습",
@@ -279,7 +279,7 @@
             "id": "PHYS161",
             "position": {
                 "x": 440,
-                "y": 560
+                "y": 1100
             },
             "data": {
                 "label": "일반물리학 실험 I",
@@ -329,7 +329,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
@@ -354,7 +354,7 @@
             "id": "LIBS152",
             "position": {
                 "x": 660,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "일반생물학및연습 II",
@@ -379,7 +379,7 @@
             "id": "LIBS154",
             "position": {
                 "x": 660,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "일반생물학실험 II",
@@ -404,7 +404,7 @@
             "id": "LIET152",
             "position": {
                 "x": 660,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "화학의기초및연습 II",
@@ -429,7 +429,7 @@
             "id": "LIET156",
             "position": {
                 "x": 660,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "화학의기초실험 II",
@@ -454,7 +454,7 @@
             "id": "MATH161",
             "position": {
                 "x": 660,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "미적분학및연습 I",
@@ -504,7 +504,7 @@
             "id": "LIFS217",
             "position": {
                 "x": 880,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "식품과학기초",
@@ -529,7 +529,7 @@
             "id": "LIFS219",
             "position": {
                 "x": 880,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "식품미생물학I",
@@ -554,7 +554,7 @@
             "id": "LIFS221",
             "position": {
                 "x": 880,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "식품물리화학",
@@ -579,7 +579,7 @@
             "id": "LIFS329",
             "position": {
                 "x": 880,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "식품생화학I",
@@ -604,7 +604,7 @@
             "id": "LIBT271",
             "position": {
                 "x": 880,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "유기화학 I",
@@ -654,7 +654,7 @@
             "id": "LIFS321",
             "position": {
                 "x": 1320,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "근육식품학",
@@ -679,7 +679,7 @@
             "id": "LIFS323",
             "position": {
                 "x": 1320,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "식품분석학",
@@ -704,7 +704,7 @@
             "id": "LIFS325",
             "position": {
                 "x": 1320,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "식품위생학",
@@ -729,7 +729,7 @@
             "id": "LIFS327",
             "position": {
                 "x": 1320,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "식품법규",
@@ -754,7 +754,7 @@
             "id": "LIFS331",
             "position": {
                 "x": 1320,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "유가공학",
@@ -779,7 +779,7 @@
             "id": "LIFS333",
             "position": {
                 "x": 1320,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "식품공학및가공학실험I",
@@ -804,7 +804,7 @@
             "id": "LIFS337",
             "position": {
                 "x": 1320,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "식품공학I",
@@ -829,7 +829,7 @@
             "id": "LIFS339",
             "position": {
                 "x": 1320,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "식품위생학실험",
@@ -854,7 +854,7 @@
             "id": "LIFS343",
             "position": {
                 "x": 1320,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "식품생화학실험",
@@ -904,7 +904,7 @@
             "id": "LIFS256",
             "position": {
                 "x": 1100,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "발효식품학",
@@ -929,7 +929,7 @@
             "id": "LIFS330",
             "position": {
                 "x": 1100,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "식품생화학II",
@@ -954,7 +954,7 @@
             "id": "LIFS340",
             "position": {
                 "x": 1100,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "식품미생물학실험",
@@ -979,7 +979,7 @@
             "id": "LIBT272",
             "position": {
                 "x": 1100,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "유기화학 II",
@@ -1029,7 +1029,7 @@
             "id": "LIFS324",
             "position": {
                 "x": 1540,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "식품생물공학",
@@ -1054,7 +1054,7 @@
             "id": "LIFS326",
             "position": {
                 "x": 1540,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "식품안전성",
@@ -1079,7 +1079,7 @@
             "id": "LIFS328",
             "position": {
                 "x": 1540,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "식품위해요소중점관리학",
@@ -1104,7 +1104,7 @@
             "id": "LIFS334",
             "position": {
                 "x": 1540,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "식품공학및가공학실험II",
@@ -1129,7 +1129,7 @@
             "id": "LIFS338",
             "position": {
                 "x": 1540,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "식품공학II",
@@ -1154,7 +1154,7 @@
             "id": "LIFS341",
             "position": {
                 "x": 1540,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "식품분석학실험",
@@ -1179,7 +1179,7 @@
             "id": "LIFS354",
             "position": {
                 "x": 1540,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "곡류과학",
@@ -1204,7 +1204,7 @@
             "id": "LIFS364",
             "position": {
                 "x": 1540,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "식품화학Ⅱ",
@@ -1229,7 +1229,7 @@
             "id": "LIFS366",
             "position": {
                 "x": 1540,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "식중독세균학",
@@ -1279,7 +1279,7 @@
             "id": "LIFS404",
             "position": {
                 "x": 1980,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "발효산업미생물학",
@@ -1304,7 +1304,7 @@
             "id": "LIFS464",
             "position": {
                 "x": 1980,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "식품포장공학",
@@ -1329,7 +1329,7 @@
             "id": "LIFS466",
             "position": {
                 "x": 1980,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "식품독성학",
@@ -1379,7 +1379,7 @@
             "id": "LIFS457",
             "position": {
                 "x": 1760,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "과실채소류과학",
@@ -1404,7 +1404,7 @@
             "id": "LIFS475",
             "position": {
                 "x": 1760,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "식품성분및재료학",

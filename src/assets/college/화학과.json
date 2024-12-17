@@ -3,7 +3,7 @@
         {
             "id": "GELI005",
             "position": {
-                "x": 220,
+                "x": 440,
                 "y": 0
             },
             "data": {
@@ -26,60 +26,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 220,
-                "y": 70
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 220,
-                "y": 140
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 0
+                "y": 100
             },
             "data": {
                 "label": "글쓰기",
@@ -101,10 +51,35 @@
             }
         },
         {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 70
+                "y": 300
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -129,7 +104,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 140
+                "y": 400
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -151,10 +126,35 @@
             }
         },
         {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "MATH161",
             "position": {
                 "x": 440,
-                "y": 210
+                "y": 600
             },
             "data": {
                 "label": "미적분학및연습I",
@@ -179,7 +179,7 @@
             "id": "CHEM151",
             "position": {
                 "x": 440,
-                "y": 280
+                "y": 700
             },
             "data": {
                 "label": "일반화학및연습 I",
@@ -204,7 +204,7 @@
             "id": "CHEM153",
             "position": {
                 "x": 440,
-                "y": 350
+                "y": 800
             },
             "data": {
                 "label": "일반화학실험 I",
@@ -229,7 +229,7 @@
             "id": "PHYS151",
             "position": {
                 "x": 440,
-                "y": 420
+                "y": 900
             },
             "data": {
                 "label": "일반물리학및연습 I",
@@ -254,7 +254,7 @@
             "id": "PHYS152",
             "position": {
                 "x": 440,
-                "y": 490
+                "y": 1000
             },
             "data": {
                 "label": "일반물리학및연습 II",
@@ -279,7 +279,7 @@
             "id": "PHYS161",
             "position": {
                 "x": 440,
-                "y": 560
+                "y": 1100
             },
             "data": {
                 "label": "일반물리학실험 I",
@@ -329,7 +329,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
@@ -354,7 +354,7 @@
             "id": "MATH162",
             "position": {
                 "x": 660,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "미적분학및연습II",
@@ -379,7 +379,7 @@
             "id": "CHEM152",
             "position": {
                 "x": 660,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "일반화학및연습 II",
@@ -404,7 +404,7 @@
             "id": "CHEM156",
             "position": {
                 "x": 660,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "화학수학",
@@ -429,7 +429,7 @@
             "id": "CHEM160",
             "position": {
                 "x": 660,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "고급일반화학실험",
@@ -454,7 +454,7 @@
             "id": "PHYS162",
             "position": {
                 "x": 660,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "일반물리학실험 II",
@@ -471,106 +471,6 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH221",
-            "position": {
-                "x": 660,
-                "y": 490
-            },
-            "data": {
-                "label": "선형대수Ⅰ및연습",
-                "학수번호": "MATH221",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH240",
-            "position": {
-                "x": 660,
-                "y": 560
-            },
-            "data": {
-                "label": "미분방정식및연습",
-                "학수번호": "MATH240",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIST201",
-            "position": {
-                "x": 660,
-                "y": 630
-            },
-            "data": {
-                "label": "세포생물학Ⅰ",
-                "학수번호": "LIST201",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명과학대학",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS233",
-            "position": {
-                "x": 660,
-                "y": 700
-            },
-            "data": {
-                "label": "수리물리학",
-                "학수번호": "PHYS233",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -604,7 +504,7 @@
             "id": "CHEM207",
             "position": {
                 "x": 880,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "분석화학Ⅰ",
@@ -629,7 +529,7 @@
             "id": "CHEM205",
             "position": {
                 "x": 880,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "유기화학Ⅰ",
@@ -646,6 +546,106 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH221",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "data": {
+                "label": "선형대수Ⅰ및연습",
+                "학수번호": "MATH221",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH240",
+            "position": {
+                "x": 880,
+                "y": 400
+            },
+            "data": {
+                "label": "미분방정식및연습",
+                "학수번호": "MATH240",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIST201",
+            "position": {
+                "x": 880,
+                "y": 500
+            },
+            "data": {
+                "label": "세포생물학Ⅰ",
+                "학수번호": "LIST201",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS233",
+            "position": {
+                "x": 880,
+                "y": 600
+            },
+            "data": {
+                "label": "수리물리학",
+                "학수번호": "PHYS233",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -679,7 +679,7 @@
             "id": "CHEM206",
             "position": {
                 "x": 1100,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "유기화학Ⅱ",
@@ -704,7 +704,7 @@
             "id": "CHEM214",
             "position": {
                 "x": 1100,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "유기화학실험",
@@ -729,7 +729,7 @@
             "id": "CHEM208",
             "position": {
                 "x": 1100,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "분석화학Ⅱ *",
@@ -746,131 +746,6 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM391",
-            "position": {
-                "x": 1100,
-                "y": 280
-            },
-            "data": {
-                "label": "화학교과교육론",
-                "학수번호": "CHEM391",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SCED303",
-            "position": {
-                "x": 1100,
-                "y": 350
-            },
-            "data": {
-                "label": "과학교과논리및논술",
-                "학수번호": "SCED303",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "이과대학",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM394",
-            "position": {
-                "x": 1100,
-                "y": 420
-            },
-            "data": {
-                "label": "화학교과교재연구및지도법",
-                "학수번호": "CHEM394",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIST301",
-            "position": {
-                "x": 1100,
-                "y": 490
-            },
-            "data": {
-                "label": "분자생물학Ⅰ",
-                "학수번호": "LIST301",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명과학대학",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS304",
-            "position": {
-                "x": 1100,
-                "y": 560
-            },
-            "data": {
-                "label": "현대물리학실험",
-                "학수번호": "PHYS304",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -904,7 +779,7 @@
             "id": "CHEM307",
             "position": {
                 "x": 1320,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "생화학Ⅰ",
@@ -929,7 +804,7 @@
             "id": "CHEM313",
             "position": {
                 "x": 1320,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "물리화학실험",
@@ -954,7 +829,7 @@
             "id": "CHEM321",
             "position": {
                 "x": 1320,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "양자화학 *",
@@ -979,7 +854,7 @@
             "id": "CHEM322",
             "position": {
                 "x": 1320,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "물리유기화학 *",
@@ -996,6 +871,131 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM391",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "data": {
+                "label": "화학교과교육론",
+                "학수번호": "CHEM391",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SCED303",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "data": {
+                "label": "과학교과논리및논술",
+                "학수번호": "SCED303",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "이과대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM394",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "data": {
+                "label": "화학교과교재연구및지도법",
+                "학수번호": "CHEM394",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIST301",
+            "position": {
+                "x": 1320,
+                "y": 800
+            },
+            "data": {
+                "label": "분자생물학Ⅰ",
+                "학수번호": "LIST301",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS304",
+            "position": {
+                "x": 1320,
+                "y": 900
+            },
+            "data": {
+                "label": "현대물리학실험",
+                "학수번호": "PHYS304",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1029,7 +1029,7 @@
             "id": "CHEM300",
             "position": {
                 "x": 1540,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "전공심화연구I",
@@ -1054,7 +1054,7 @@
             "id": "CHEM326",
             "position": {
                 "x": 1540,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "기기분석",
@@ -1079,7 +1079,7 @@
             "id": "CHEM328",
             "position": {
                 "x": 1540,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "생화학Ⅱ",
@@ -1104,7 +1104,7 @@
             "id": "CHEM452",
             "position": {
                 "x": 1540,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "계산화학",
@@ -1129,7 +1129,7 @@
             "id": "CHEM455",
             "position": {
                 "x": 1540,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "유기합성화학",
@@ -1154,7 +1154,7 @@
             "id": "CHEM461",
             "position": {
                 "x": 1540,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "고분자화학I",
@@ -1171,31 +1171,6 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS482",
-            "position": {
-                "x": 1540,
-                "y": 490
-            },
-            "data": {
-                "label": "고체물리학",
-                "학수번호": "PHYS482",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1229,7 +1204,7 @@
             "id": "CHEM310",
             "position": {
                 "x": 1760,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "전공심화연구II",
@@ -1254,7 +1229,7 @@
             "id": "CHEM453",
             "position": {
                 "x": 1760,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "유기분광화학",
@@ -1279,7 +1254,7 @@
             "id": "CHEM458",
             "position": {
                 "x": 1760,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "물리화학III",
@@ -1304,7 +1279,7 @@
             "id": "CHEM462",
             "position": {
                 "x": 1760,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "고분자화학II",
@@ -1329,7 +1304,7 @@
             "id": "CHEM464",
             "position": {
                 "x": 1760,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "의약화학",
@@ -1354,7 +1329,7 @@
             "id": "CHEM467",
             "position": {
                 "x": 1760,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "무기화학Ⅲ",
@@ -1379,7 +1354,7 @@
             "id": "CHEM469",
             "position": {
                 "x": 1760,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "재료화학",
@@ -1396,6 +1371,31 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS482",
+            "position": {
+                "x": 1760,
+                "y": 800
+            },
+            "data": {
+                "label": "고체물리학",
+                "학수번호": "PHYS482",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1429,7 +1429,7 @@
             "id": "CHEM466",
             "position": {
                 "x": 1980,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "생유기화학",

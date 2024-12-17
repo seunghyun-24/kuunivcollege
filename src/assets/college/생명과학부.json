@@ -3,7 +3,7 @@
         {
             "id": "GELI005",
             "position": {
-                "x": 220,
+                "x": 440,
                 "y": 0
             },
             "data": {
@@ -26,60 +26,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 220,
-                "y": 70
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 220,
-                "y": 140
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 0
+                "y": 100
             },
             "data": {
                 "label": "글쓰기",
@@ -101,10 +51,35 @@
             }
         },
         {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 70
+                "y": 300
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -129,7 +104,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 140
+                "y": 400
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -151,10 +126,35 @@
             }
         },
         {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "LIBS151",
             "position": {
                 "x": 440,
-                "y": 210
+                "y": 600
             },
             "data": {
                 "label": "일반생물학및연습 I",
@@ -179,7 +179,7 @@
             "id": "LIBS153",
             "position": {
                 "x": 440,
-                "y": 280
+                "y": 700
             },
             "data": {
                 "label": "일반생물학실험 I",
@@ -204,7 +204,7 @@
             "id": "LIET151",
             "position": {
                 "x": 440,
-                "y": 350
+                "y": 800
             },
             "data": {
                 "label": "화학의기초및연습 I",
@@ -229,7 +229,7 @@
             "id": "LIET155",
             "position": {
                 "x": 440,
-                "y": 420
+                "y": 900
             },
             "data": {
                 "label": "화학의기초실험 I",
@@ -254,7 +254,7 @@
             "id": "PHYS183",
             "position": {
                 "x": 440,
-                "y": 490
+                "y": 1000
             },
             "data": {
                 "label": "생명물리학및연습",
@@ -279,7 +279,7 @@
             "id": "PHYS161",
             "position": {
                 "x": 440,
-                "y": 560
+                "y": 1100
             },
             "data": {
                 "label": "일반물리학 실험 I",
@@ -329,7 +329,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
@@ -354,7 +354,7 @@
             "id": "LIBS152",
             "position": {
                 "x": 660,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "일반생물학및연습 II",
@@ -379,7 +379,7 @@
             "id": "LIBS154",
             "position": {
                 "x": 660,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "일반생물학실험 II",
@@ -404,7 +404,7 @@
             "id": "LIET152",
             "position": {
                 "x": 660,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "화학의기초및연습 II",
@@ -429,7 +429,7 @@
             "id": "LIET156",
             "position": {
                 "x": 660,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "화학의기초실험 II",
@@ -454,7 +454,7 @@
             "id": "MATH161",
             "position": {
                 "x": 660,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "미적분학및연습 I",
@@ -504,7 +504,7 @@
             "id": "LIST201",
             "position": {
                 "x": 880,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "세포생물학 I",
@@ -529,7 +529,7 @@
             "id": "LIST203",
             "position": {
                 "x": 880,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "미생물학 I",
@@ -554,7 +554,7 @@
             "id": "LIST204",
             "position": {
                 "x": 880,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "미생물학 II",
@@ -579,7 +579,7 @@
             "id": "LIBT271",
             "position": {
                 "x": 880,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "유기화학 I",
@@ -604,7 +604,7 @@
             "id": "LIBS213",
             "position": {
                 "x": 880,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "생명과학실험II(계통분류학)",
@@ -629,7 +629,7 @@
             "id": "LIBS215",
             "position": {
                 "x": 880,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "식물계통분류학",
@@ -654,7 +654,7 @@
             "id": "LIBS217",
             "position": {
                 "x": 880,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "동물계통분류학",
@@ -679,7 +679,7 @@
             "id": "LIET201",
             "position": {
                 "x": 880,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "생태학",
@@ -729,7 +729,7 @@
             "id": "LIBT272",
             "position": {
                 "x": 1100,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "유기화학 II",
@@ -754,7 +754,7 @@
             "id": "LIBS212",
             "position": {
                 "x": 1100,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "생명과학실험I(미생물학)",
@@ -779,7 +779,7 @@
             "id": "LIBS214",
             "position": {
                 "x": 1100,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "생명과학실험III(세포분자생물학)",
@@ -804,7 +804,7 @@
             "id": "LIBS284",
             "position": {
                 "x": 1100,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "생명과학과법",
@@ -821,81 +821,6 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS393",
-            "position": {
-                "x": 1100,
-                "y": 350
-            },
-            "data": {
-                "label": "생물교과교육론",
-                "학수번호": "LIBS393",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명과학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SCED303",
-            "position": {
-                "x": 1100,
-                "y": 420
-            },
-            "data": {
-                "label": "과학교과논리및논술",
-                "학수번호": "SCED303",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "이과대학",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS394",
-            "position": {
-                "x": 1100,
-                "y": 490
-            },
-            "data": {
-                "label": "생물교과교재연구및지도법",
-                "학수번호": "LIBS394",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명과학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -929,7 +854,7 @@
             "id": "LIST303",
             "position": {
                 "x": 1320,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "유전학 I",
@@ -954,7 +879,7 @@
             "id": "LIST305",
             "position": {
                 "x": 1320,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "생화학 I",
@@ -979,7 +904,7 @@
             "id": "LIBS313",
             "position": {
                 "x": 1320,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "생명과학실험V(면역학)",
@@ -1004,7 +929,7 @@
             "id": "LIBS311",
             "position": {
                 "x": 1320,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "인체분자유전학",
@@ -1029,7 +954,7 @@
             "id": "LIBS357",
             "position": {
                 "x": 1320,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "생리학I",
@@ -1054,7 +979,7 @@
             "id": "LIST307",
             "position": {
                 "x": 1320,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "기능유전체학",
@@ -1071,6 +996,81 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS393",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "data": {
+                "label": "생물교과교육론",
+                "학수번호": "LIBS393",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SCED303",
+            "position": {
+                "x": 1320,
+                "y": 800
+            },
+            "data": {
+                "label": "과학교과논리및논술",
+                "학수번호": "SCED303",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "이과대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS394",
+            "position": {
+                "x": 1320,
+                "y": 900
+            },
+            "data": {
+                "label": "생물교과교재연구및지도법",
+                "학수번호": "LIBS394",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1104,7 +1104,7 @@
             "id": "LIST304",
             "position": {
                 "x": 1540,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "유전학 II",
@@ -1129,7 +1129,7 @@
             "id": "LIST306",
             "position": {
                 "x": 1540,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "생화학 II",
@@ -1154,7 +1154,7 @@
             "id": "LIBS312",
             "position": {
                 "x": 1540,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "생명과학실험IV(생화학)",
@@ -1179,7 +1179,7 @@
             "id": "LIBS314",
             "position": {
                 "x": 1540,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "생명과학실험VI(유전학)",
@@ -1204,7 +1204,7 @@
             "id": "LIBS315",
             "position": {
                 "x": 1540,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "생명과학실험VII(신경생물학)",
@@ -1229,7 +1229,7 @@
             "id": "LIBS316",
             "position": {
                 "x": 1540,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "식물분자생물학",
@@ -1254,7 +1254,7 @@
             "id": "LIBS358",
             "position": {
                 "x": 1540,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "생리학II",
@@ -1279,7 +1279,7 @@
             "id": "LIBS364",
             "position": {
                 "x": 1540,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "구조생물학",
@@ -1329,7 +1329,7 @@
             "id": "LIBS400",
             "position": {
                 "x": 1760,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "생명과학최신동향세미나",
@@ -1354,7 +1354,7 @@
             "id": "LIBS401",
             "position": {
                 "x": 1760,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "오믹스시대의 팬데믹",
@@ -1379,7 +1379,7 @@
             "id": "LIBS403",
             "position": {
                 "x": 1760,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "인체대사학I",
@@ -1404,7 +1404,7 @@
             "id": "LIBS441",
             "position": {
                 "x": 1760,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "신경생물학",
@@ -1429,7 +1429,7 @@
             "id": "LIBS443",
             "position": {
                 "x": 1760,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "면역학I",
@@ -1454,7 +1454,7 @@
             "id": "LIBS453",
             "position": {
                 "x": 1760,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "식물생명과학",
@@ -1479,7 +1479,7 @@
             "id": "LIBS461",
             "position": {
                 "x": 1760,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "단백질생화학",
@@ -1504,7 +1504,7 @@
             "id": "LIBS483",
             "position": {
                 "x": 1760,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "나노생명과학의이해",
@@ -1529,7 +1529,7 @@
             "id": "LIBS481",
             "position": {
                 "x": 1760,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "식물발달분자생리학I",
@@ -1554,7 +1554,7 @@
             "id": "LIST401",
             "position": {
                 "x": 1760,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "암생물학",
@@ -1604,7 +1604,7 @@
             "id": "LIBS404",
             "position": {
                 "x": 1980,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "인체대사학II",
@@ -1629,7 +1629,7 @@
             "id": "LIBS442",
             "position": {
                 "x": 1980,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "시스템신경과학",
@@ -1654,7 +1654,7 @@
             "id": "LIBS444",
             "position": {
                 "x": 1980,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "면역학II",
@@ -1679,7 +1679,7 @@
             "id": "LIBS449",
             "position": {
                 "x": 1980,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "응용면역학",
@@ -1704,7 +1704,7 @@
             "id": "LIBS450",
             "position": {
                 "x": 1980,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "진화생물학",
@@ -1729,7 +1729,7 @@
             "id": "LIBS457",
             "position": {
                 "x": 1980,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "생물정보학",
@@ -1754,7 +1754,7 @@
             "id": "LIBS462",
             "position": {
                 "x": 1980,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "바이러스학",
@@ -1779,7 +1779,7 @@
             "id": "LIBS464",
             "position": {
                 "x": 1980,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "곤충학",
@@ -1804,7 +1804,7 @@
             "id": "LIBS466",
             "position": {
                 "x": 1980,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "생물안정성학",
@@ -1829,7 +1829,7 @@
             "id": "LIBS474",
             "position": {
                 "x": 1980,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "세포진호전달학",
@@ -1854,7 +1854,7 @@
             "id": "LIBS478",
             "position": {
                 "x": 1980,
-                "y": 770
+                "y": 1100
             },
             "data": {
                 "label": "염증생물학",
@@ -1879,7 +1879,7 @@
             "id": "LIBS482",
             "position": {
                 "x": 1980,
-                "y": 840
+                "y": 1200
             },
             "data": {
                 "label": "분석생명과학",
@@ -1904,7 +1904,7 @@
             "id": "LIBS488",
             "position": {
                 "x": 1980,
-                "y": 910
+                "y": 1300
             },
             "data": {
                 "label": "식물발달분자생리학II",

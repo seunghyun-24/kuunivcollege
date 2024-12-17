@@ -29,7 +29,7 @@
             "id": "POLI234",
             "position": {
                 "x": 1100,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "비교정치개설",
@@ -54,7 +54,7 @@
             "id": "POLI212",
             "position": {
                 "x": 1100,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "동양정치사상",
@@ -79,7 +79,7 @@
             "id": "POLI228",
             "position": {
                 "x": 1100,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "일본정치론",
@@ -104,7 +104,7 @@
             "id": "POLI230",
             "position": {
                 "x": 1100,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "선거와투표행태",
@@ -129,7 +129,7 @@
             "id": "POLI236",
             "position": {
                 "x": 1100,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "미국외교정책론",
@@ -154,7 +154,7 @@
             "id": "POLI238",
             "position": {
                 "x": 1100,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "법과정치사상",
@@ -179,7 +179,7 @@
             "id": "POLI239",
             "position": {
                 "x": 1100,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "의회와입법과정",
@@ -204,7 +204,7 @@
             "id": "POLI241",
             "position": {
                 "x": 1100,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "정치학을위한게임이론개설",
@@ -229,7 +229,7 @@
             "id": "POLI244",
             "position": {
                 "x": 1100,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "국제법과국제정치",
@@ -254,7 +254,7 @@
             "id": "POLI247",
             "position": {
                 "x": 1100,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "정치제도론",
@@ -279,7 +279,7 @@
             "id": "POLI250",
             "position": {
                 "x": 1100,
-                "y": 770
+                "y": 1100
             },
             "data": {
                 "label": "국제기구론",
@@ -304,7 +304,7 @@
             "id": "POLI252",
             "position": {
                 "x": 1100,
-                "y": 840
+                "y": 1200
             },
             "data": {
                 "label": "중국정치론",
@@ -329,7 +329,7 @@
             "id": "POLI255",
             "position": {
                 "x": 1100,
-                "y": 910
+                "y": 1300
             },
             "data": {
                 "label": "국가론",
@@ -340,31 +340,6 @@
                 "개설횟수": 0,
                 "내용": null,
                 "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI375",
-            "position": {
-                "x": 1100,
-                "y": 980
-            },
-            "data": {
-                "label": "인턴십프로그램I",
-                "학수번호": "POLI375",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "정치외교학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": "전공역량안적힘"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -404,7 +379,7 @@
             "id": "POLI211",
             "position": {
                 "x": 880,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "한국정치사상",
@@ -429,7 +404,7 @@
             "id": "POLI213",
             "position": {
                 "x": 880,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "서양고대.중세정치사상",
@@ -454,7 +429,7 @@
             "id": "POLI220",
             "position": {
                 "x": 880,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "시민정치론",
@@ -479,7 +454,7 @@
             "id": "POLI221",
             "position": {
                 "x": 880,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "동북아국제관계론",
@@ -504,7 +479,7 @@
             "id": "POLI223",
             "position": {
                 "x": 880,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "정치학방법론",
@@ -529,7 +504,7 @@
             "id": "POLI225",
             "position": {
                 "x": 880,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "한국정치사",
@@ -554,7 +529,7 @@
             "id": "POLI227",
             "position": {
                 "x": 880,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "정당론",
@@ -579,7 +554,7 @@
             "id": "POLI233",
             "position": {
                 "x": 880,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "외교사",
@@ -604,7 +579,7 @@
             "id": "POLI235",
             "position": {
                 "x": 880,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "중국외교정책론",
@@ -629,7 +604,7 @@
             "id": "POLI254",
             "position": {
                 "x": 880,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "사회과학적분석과글쓰기",
@@ -676,10 +651,110 @@
             }
         },
         {
+            "id": "POLI375",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "data": {
+                "label": "인턴십프로그램I",
+                "학수번호": "POLI375",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "정치외교학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "전공역량안적힘"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI414",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "정치사상특수과제연구",
+                "학수번호": "POLI414",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI424",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "data": {
+                "label": "유럽정치론",
+                "학수번호": "POLI424",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "정치외교학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 70
+                "y": 500
             },
             "data": {
                 "label": "글쓰기",
@@ -701,10 +776,35 @@
             }
         },
         {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 140
+                "y": 700
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -729,11 +829,36 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 210
+                "y": 800
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
                 "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 900
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
                 "세부전공": null,
                 "전공역량": null,
                 "개설학과": null,
@@ -779,7 +904,7 @@
             "id": "POLI336",
             "position": {
                 "x": 1540,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "한국외교정책론",
@@ -804,7 +929,7 @@
             "id": "POLI317",
             "position": {
                 "x": 1540,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "동남아시아정치론",
@@ -829,7 +954,7 @@
             "id": "POLI333",
             "position": {
                 "x": 1540,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "현대정치철학",
@@ -854,7 +979,7 @@
             "id": "POLI364",
             "position": {
                 "x": 1540,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "동아시아와세계정치",
@@ -879,7 +1004,7 @@
             "id": "POLI378",
             "position": {
                 "x": 1540,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "내전연구",
@@ -904,7 +1029,7 @@
             "id": "POLI379",
             "position": {
                 "x": 1540,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "현대국제안보론",
@@ -929,7 +1054,7 @@
             "id": "POLI383",
             "position": {
                 "x": 1540,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "개발과원조의정치",
@@ -954,7 +1079,7 @@
             "id": "POLI384",
             "position": {
                 "x": 1540,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "정치심리학",
@@ -979,7 +1104,7 @@
             "id": "POLI385",
             "position": {
                 "x": 1540,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "환경협력의정치경제",
@@ -988,56 +1113,6 @@
                 "전공역량": "사회공헌",
                 "개설학과": "정치외교학과",
                 "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI414",
-            "position": {
-                "x": 1540,
-                "y": 700
-            },
-            "data": {
-                "label": "정치사상특수과제연구",
-                "학수번호": "POLI414",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "정치외교학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI424",
-            "position": {
-                "x": 1540,
-                "y": 770
-            },
-            "data": {
-                "label": "유럽정치론",
-                "학수번호": "POLI424",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "정치외교학과",
-                "개설횟수": 0,
                 "내용": null,
                 "메모": null
             },
@@ -1079,7 +1154,7 @@
             "id": "POLI256",
             "position": {
                 "x": 1760,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "국제정치리빙랩",
@@ -1104,7 +1179,7 @@
             "id": "POLI350",
             "position": {
                 "x": 1760,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "정치가론",
@@ -1129,7 +1204,7 @@
             "id": "POLI382",
             "position": {
                 "x": 1760,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "비교정치세미나",
@@ -1154,7 +1229,7 @@
             "id": "POLI389",
             "position": {
                 "x": 1760,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "기술과국제정치",
@@ -1179,7 +1254,7 @@
             "id": "POLI391",
             "position": {
                 "x": 1760,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "민족주의와국제정치",
@@ -1204,7 +1279,7 @@
             "id": "POLI392",
             "position": {
                 "x": 1760,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "권위주의체제연구",
@@ -1229,7 +1304,7 @@
             "id": "POLI425",
             "position": {
                 "x": 1760,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "미국정치론",
@@ -1279,7 +1354,7 @@
             "id": "POLI313",
             "position": {
                 "x": 1320,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "인권",
@@ -1304,7 +1379,7 @@
             "id": "POLI320",
             "position": {
                 "x": 1320,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "정치문화",
@@ -1329,7 +1404,7 @@
             "id": "POLI321",
             "position": {
                 "x": 1320,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "정치경제론",
@@ -1354,7 +1429,7 @@
             "id": "POLI322",
             "position": {
                 "x": 1320,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "북한정치론",
@@ -1379,7 +1454,7 @@
             "id": "POLI325",
             "position": {
                 "x": 1320,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "사회주의체제연구",
@@ -1404,7 +1479,7 @@
             "id": "POLI326",
             "position": {
                 "x": 1320,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "정치과정론",
@@ -1429,7 +1504,7 @@
             "id": "POLI330",
             "position": {
                 "x": 1320,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "현대정치이론",
@@ -1454,7 +1529,7 @@
             "id": "POLI331",
             "position": {
                 "x": 1320,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "국제관계이론",
@@ -1479,7 +1554,7 @@
             "id": "POLI338",
             "position": {
                 "x": 1320,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "국제정치경제론",
@@ -1504,7 +1579,7 @@
             "id": "POLI342",
             "position": {
                 "x": 1320,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "민주주의",
@@ -1529,7 +1604,7 @@
             "id": "POLI355",
             "position": {
                 "x": 1320,
-                "y": 770
+                "y": 1100
             },
             "data": {
                 "label": "동아시아정치론",
@@ -1554,7 +1629,7 @@
             "id": "POLI367",
             "position": {
                 "x": 1320,
-                "y": 840
+                "y": 1200
             },
             "data": {
                 "label": "국제무역의정치경제",
@@ -1579,7 +1654,7 @@
             "id": "POLI433",
             "position": {
                 "x": 1320,
-                "y": 910
+                "y": 1300
             },
             "data": {
                 "label": "국제규범과제도",
@@ -1604,7 +1679,7 @@
             "id": "POLI453",
             "position": {
                 "x": 1320,
-                "y": 980
+                "y": 1400
             },
             "data": {
                 "label": "비교정치경제",
@@ -1654,7 +1729,7 @@
             "id": "POLI366",
             "position": {
                 "x": 1980,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "금융통화의국제정치경제",
@@ -1679,7 +1754,7 @@
             "id": "POLI386",
             "position": {
                 "x": 1980,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "법과정의",
@@ -1704,7 +1779,7 @@
             "id": "POLI387",
             "position": {
                 "x": 1980,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "한국헌정론",
@@ -1729,7 +1804,7 @@
             "id": "POLI388",
             "position": {
                 "x": 1980,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "헌법과정치제도",
@@ -1754,7 +1829,7 @@
             "id": "POLI390",
             "position": {
                 "x": 1980,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "법과민주주의",
@@ -1779,7 +1854,7 @@
             "id": "POLI393",
             "position": {
                 "x": 1980,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "일본과국제정치",
@@ -1804,7 +1879,7 @@
             "id": "POLI438",
             "position": {
                 "x": 1980,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "현대외교정책결정론",
@@ -1829,7 +1904,7 @@
             "id": "POLI457",
             "position": {
                 "x": 1980,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "국제정치세미나",
@@ -1854,7 +1929,7 @@
             "id": "POLI458",
             "position": {
                 "x": 1980,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "정치사상세미나",
@@ -1871,81 +1946,6 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 220,
-                "y": 0
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 220,
-                "y": 70
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 220,
-                "y": 140
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1979,7 +1979,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",

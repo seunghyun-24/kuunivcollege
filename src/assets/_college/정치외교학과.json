@@ -1,0 +1,2066 @@
+{
+    "nodes": [
+        {
+            "id": "POLI214",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "서양근대정치사상",
+                "학수번호": "POLI214",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI234",
+            "position": {
+                "x": 1100,
+                "y": 70
+            },
+            "data": {
+                "label": "비교정치개설",
+                "학수번호": "POLI234",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI212",
+            "position": {
+                "x": 1100,
+                "y": 140
+            },
+            "data": {
+                "label": "동양정치사상",
+                "학수번호": "POLI212",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI228",
+            "position": {
+                "x": 1100,
+                "y": 210
+            },
+            "data": {
+                "label": "일본정치론",
+                "학수번호": "POLI228",
+                "세부전공": null,
+                "전공역량": "갈등통합",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI230",
+            "position": {
+                "x": 1100,
+                "y": 280
+            },
+            "data": {
+                "label": "선거와투표행태",
+                "학수번호": "POLI230",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI236",
+            "position": {
+                "x": 1100,
+                "y": 350
+            },
+            "data": {
+                "label": "미국외교정책론",
+                "학수번호": "POLI236",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI238",
+            "position": {
+                "x": 1100,
+                "y": 420
+            },
+            "data": {
+                "label": "법과정치사상",
+                "학수번호": "POLI238",
+                "세부전공": null,
+                "전공역량": "갈등통합",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI239",
+            "position": {
+                "x": 1100,
+                "y": 490
+            },
+            "data": {
+                "label": "의회와입법과정",
+                "학수번호": "POLI239",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI241",
+            "position": {
+                "x": 1100,
+                "y": 560
+            },
+            "data": {
+                "label": "정치학을위한게임이론개설",
+                "학수번호": "POLI241",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI244",
+            "position": {
+                "x": 1100,
+                "y": 630
+            },
+            "data": {
+                "label": "국제법과국제정치",
+                "학수번호": "POLI244",
+                "세부전공": null,
+                "전공역량": "사회공헌",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI247",
+            "position": {
+                "x": 1100,
+                "y": 700
+            },
+            "data": {
+                "label": "정치제도론",
+                "학수번호": "POLI247",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI250",
+            "position": {
+                "x": 1100,
+                "y": 770
+            },
+            "data": {
+                "label": "국제기구론",
+                "학수번호": "POLI250",
+                "세부전공": null,
+                "전공역량": "갈등통합",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI252",
+            "position": {
+                "x": 1100,
+                "y": 840
+            },
+            "data": {
+                "label": "중국정치론",
+                "학수번호": "POLI252",
+                "세부전공": null,
+                "전공역량": "변화주도",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI255",
+            "position": {
+                "x": 1100,
+                "y": 910
+            },
+            "data": {
+                "label": "국가론",
+                "학수번호": "POLI255",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI375",
+            "position": {
+                "x": 1100,
+                "y": 980
+            },
+            "data": {
+                "label": "인턴십프로그램I",
+                "학수번호": "POLI375",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "정치외교학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "전공역량안적힘"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI231",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "data": {
+                "label": "국제정치론",
+                "학수번호": "POLI231",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI211",
+            "position": {
+                "x": 880,
+                "y": 70
+            },
+            "data": {
+                "label": "한국정치사상",
+                "학수번호": "POLI211",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI213",
+            "position": {
+                "x": 880,
+                "y": 140
+            },
+            "data": {
+                "label": "서양고대.중세정치사상",
+                "학수번호": "POLI213",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI220",
+            "position": {
+                "x": 880,
+                "y": 210
+            },
+            "data": {
+                "label": "시민정치론",
+                "학수번호": "POLI220",
+                "세부전공": null,
+                "전공역량": "사회공헌",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI221",
+            "position": {
+                "x": 880,
+                "y": 280
+            },
+            "data": {
+                "label": "동북아국제관계론",
+                "학수번호": "POLI221",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI223",
+            "position": {
+                "x": 880,
+                "y": 350
+            },
+            "data": {
+                "label": "정치학방법론",
+                "학수번호": "POLI223",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI225",
+            "position": {
+                "x": 880,
+                "y": 420
+            },
+            "data": {
+                "label": "한국정치사",
+                "학수번호": "POLI225",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI227",
+            "position": {
+                "x": 880,
+                "y": 490
+            },
+            "data": {
+                "label": "정당론",
+                "학수번호": "POLI227",
+                "세부전공": null,
+                "전공역량": "갈등통합",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI233",
+            "position": {
+                "x": 880,
+                "y": 560
+            },
+            "data": {
+                "label": "외교사",
+                "학수번호": "POLI233",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI235",
+            "position": {
+                "x": 880,
+                "y": 630
+            },
+            "data": {
+                "label": "중국외교정책론",
+                "학수번호": "POLI235",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI254",
+            "position": {
+                "x": 880,
+                "y": 700
+            },
+            "data": {
+                "label": "사회과학적분석과글쓰기",
+                "학수번호": "POLI254",
+                "세부전공": null,
+                "전공역량": "의사소통",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI215",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "정치학전공입문",
+                "학수번호": "POLI215",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 70
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 140
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 210
+            },
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI373",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "data": {
+                "label": "한국정치론",
+                "학수번호": "POLI373",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI336",
+            "position": {
+                "x": 1540,
+                "y": 70
+            },
+            "data": {
+                "label": "한국외교정책론",
+                "학수번호": "POLI336",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI317",
+            "position": {
+                "x": 1540,
+                "y": 140
+            },
+            "data": {
+                "label": "동남아시아정치론",
+                "학수번호": "POLI317",
+                "세부전공": null,
+                "전공역량": "다문화포용",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI333",
+            "position": {
+                "x": 1540,
+                "y": 210
+            },
+            "data": {
+                "label": "현대정치철학",
+                "학수번호": "POLI333",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI364",
+            "position": {
+                "x": 1540,
+                "y": 280
+            },
+            "data": {
+                "label": "동아시아와세계정치",
+                "학수번호": "POLI364",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI378",
+            "position": {
+                "x": 1540,
+                "y": 350
+            },
+            "data": {
+                "label": "내전연구",
+                "학수번호": "POLI378",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI379",
+            "position": {
+                "x": 1540,
+                "y": 420
+            },
+            "data": {
+                "label": "현대국제안보론",
+                "학수번호": "POLI379",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI383",
+            "position": {
+                "x": 1540,
+                "y": 490
+            },
+            "data": {
+                "label": "개발과원조의정치",
+                "학수번호": "POLI383",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI384",
+            "position": {
+                "x": 1540,
+                "y": 560
+            },
+            "data": {
+                "label": "정치심리학",
+                "학수번호": "POLI384",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI385",
+            "position": {
+                "x": 1540,
+                "y": 630
+            },
+            "data": {
+                "label": "환경협력의정치경제",
+                "학수번호": "POLI385",
+                "세부전공": null,
+                "전공역량": "사회공헌",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI414",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "data": {
+                "label": "정치사상특수과제연구",
+                "학수번호": "POLI414",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI424",
+            "position": {
+                "x": 1540,
+                "y": 770
+            },
+            "data": {
+                "label": "유럽정치론",
+                "학수번호": "POLI424",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "정치외교학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI253",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "시민정치리빙랩",
+                "학수번호": "POLI253",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI256",
+            "position": {
+                "x": 1760,
+                "y": 70
+            },
+            "data": {
+                "label": "국제정치리빙랩",
+                "학수번호": "POLI256",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI350",
+            "position": {
+                "x": 1760,
+                "y": 140
+            },
+            "data": {
+                "label": "정치가론",
+                "학수번호": "POLI350",
+                "세부전공": null,
+                "전공역량": "자기실헌",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI382",
+            "position": {
+                "x": 1760,
+                "y": 210
+            },
+            "data": {
+                "label": "비교정치세미나",
+                "학수번호": "POLI382",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI389",
+            "position": {
+                "x": 1760,
+                "y": 280
+            },
+            "data": {
+                "label": "기술과국제정치",
+                "학수번호": "POLI389",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI391",
+            "position": {
+                "x": 1760,
+                "y": 350
+            },
+            "data": {
+                "label": "민족주의와국제정치",
+                "학수번호": "POLI391",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI392",
+            "position": {
+                "x": 1760,
+                "y": 420
+            },
+            "data": {
+                "label": "권위주의체제연구",
+                "학수번호": "POLI392",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI425",
+            "position": {
+                "x": 1760,
+                "y": 490
+            },
+            "data": {
+                "label": "미국정치론",
+                "학수번호": "POLI425",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI312",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "data": {
+                "label": "20세기국제관계사",
+                "학수번호": "POLI312",
+                "세부전공": null,
+                "전공역량": "갈등통합",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI313",
+            "position": {
+                "x": 1320,
+                "y": 70
+            },
+            "data": {
+                "label": "인권",
+                "학수번호": "POLI313",
+                "세부전공": null,
+                "전공역량": "다문화포용",
+                "개설학과": "정치외교학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI320",
+            "position": {
+                "x": 1320,
+                "y": 140
+            },
+            "data": {
+                "label": "정치문화",
+                "학수번호": "POLI320",
+                "세부전공": null,
+                "전공역량": "다문화포용",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI321",
+            "position": {
+                "x": 1320,
+                "y": 210
+            },
+            "data": {
+                "label": "정치경제론",
+                "학수번호": "POLI321",
+                "세부전공": null,
+                "전공역량": "사회공헌",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI322",
+            "position": {
+                "x": 1320,
+                "y": 280
+            },
+            "data": {
+                "label": "북한정치론",
+                "학수번호": "POLI322",
+                "세부전공": null,
+                "전공역량": "공감력",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI325",
+            "position": {
+                "x": 1320,
+                "y": 350
+            },
+            "data": {
+                "label": "사회주의체제연구",
+                "학수번호": "POLI325",
+                "세부전공": null,
+                "전공역량": "공감력",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI326",
+            "position": {
+                "x": 1320,
+                "y": 420
+            },
+            "data": {
+                "label": "정치과정론",
+                "학수번호": "POLI326",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI330",
+            "position": {
+                "x": 1320,
+                "y": 490
+            },
+            "data": {
+                "label": "현대정치이론",
+                "학수번호": "POLI330",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI331",
+            "position": {
+                "x": 1320,
+                "y": 560
+            },
+            "data": {
+                "label": "국제관계이론",
+                "학수번호": "POLI331",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI338",
+            "position": {
+                "x": 1320,
+                "y": 630
+            },
+            "data": {
+                "label": "국제정치경제론",
+                "학수번호": "POLI338",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI342",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "data": {
+                "label": "민주주의",
+                "학수번호": "POLI342",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI355",
+            "position": {
+                "x": 1320,
+                "y": 770
+            },
+            "data": {
+                "label": "동아시아정치론",
+                "학수번호": "POLI355",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI367",
+            "position": {
+                "x": 1320,
+                "y": 840
+            },
+            "data": {
+                "label": "국제무역의정치경제",
+                "학수번호": "POLI367",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI433",
+            "position": {
+                "x": 1320,
+                "y": 910
+            },
+            "data": {
+                "label": "국제규범과제도",
+                "학수번호": "POLI433",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI453",
+            "position": {
+                "x": 1320,
+                "y": 980
+            },
+            "data": {
+                "label": "비교정치경제",
+                "학수번호": "POLI453",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI329",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "data": {
+                "label": "한국정치세미나",
+                "학수번호": "POLI329",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI366",
+            "position": {
+                "x": 1980,
+                "y": 70
+            },
+            "data": {
+                "label": "금융통화의국제정치경제",
+                "학수번호": "POLI366",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI386",
+            "position": {
+                "x": 1980,
+                "y": 140
+            },
+            "data": {
+                "label": "법과정의",
+                "학수번호": "POLI386",
+                "세부전공": null,
+                "전공역량": "공감력",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI387",
+            "position": {
+                "x": 1980,
+                "y": 210
+            },
+            "data": {
+                "label": "한국헌정론",
+                "학수번호": "POLI387",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI388",
+            "position": {
+                "x": 1980,
+                "y": 280
+            },
+            "data": {
+                "label": "헌법과정치제도",
+                "학수번호": "POLI388",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI390",
+            "position": {
+                "x": 1980,
+                "y": 350
+            },
+            "data": {
+                "label": "법과민주주의",
+                "학수번호": "POLI390",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI393",
+            "position": {
+                "x": 1980,
+                "y": 420
+            },
+            "data": {
+                "label": "일본과국제정치",
+                "학수번호": "POLI393",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI438",
+            "position": {
+                "x": 1980,
+                "y": 490
+            },
+            "data": {
+                "label": "현대외교정책결정론",
+                "학수번호": "POLI438",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI457",
+            "position": {
+                "x": 1980,
+                "y": 560
+            },
+            "data": {
+                "label": "국제정치세미나",
+                "학수번호": "POLI457",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI458",
+            "position": {
+                "x": 1980,
+                "y": 630
+            },
+            "data": {
+                "label": "정치사상세미나",
+                "학수번호": "POLI458",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 220,
+                "y": 0
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 220,
+                "y": 70
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 220,
+                "y": 140
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 II",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 70
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "recommended-POLI225-POLI387",
+            "source": "POLI225",
+            "target": "POLI387",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-POLI247-POLI387",
+            "source": "POLI247",
+            "target": "POLI387",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-POLI247-POLI388",
+            "source": "POLI247",
+            "target": "POLI388",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-POLI231-POLI389",
+            "source": "POLI231",
+            "target": "POLI389",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-POLI231-POLI391",
+            "source": "POLI231",
+            "target": "POLI391",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        }
+    ]
+}

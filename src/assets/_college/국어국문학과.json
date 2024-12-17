@@ -1,0 +1,2002 @@
+{
+    "nodes": [
+        {
+            "id": "KORE201",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "한국문학의이해",
+                "학수번호": "KORE201",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE003",
+            "position": {
+                "x": 440,
+                "y": 70
+            },
+            "data": {
+                "label": "무제강좌",
+                "학수번호": "KORE003",
+                "세부전공": null,
+                "전공역량": "세계속의한국문화",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 140
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 210
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 280
+            },
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE230",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "data": {
+                "label": "한국어학의이해",
+                "학수번호": "KORE230",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COLA200",
+            "position": {
+                "x": 660,
+                "y": 70
+            },
+            "data": {
+                "label": "인문융합세미나",
+                "학수번호": "COLA200",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 140
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 II",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 210
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE208",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "data": {
+                "label": "한국어정보처리",
+                "학수번호": "KORE208",
+                "세부전공": null,
+                "전공역량": "디지털",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE227",
+            "position": {
+                "x": 1320,
+                "y": 70
+            },
+            "data": {
+                "label": "국어교과교육론",
+                "학수번호": "KORE227",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE236",
+            "position": {
+                "x": 1320,
+                "y": 140
+            },
+            "data": {
+                "label": "한국어의미의이해",
+                "학수번호": "KORE236",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE305",
+            "position": {
+                "x": 1320,
+                "y": 210
+            },
+            "data": {
+                "label": "소설창작연습",
+                "학수번호": "KORE305",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE309",
+            "position": {
+                "x": 1320,
+                "y": 280
+            },
+            "data": {
+                "label": "한국한문학개론",
+                "학수번호": "KORE309",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE311",
+            "position": {
+                "x": 1320,
+                "y": 350
+            },
+            "data": {
+                "label": "고전시가강독",
+                "학수번호": "KORE311",
+                "세부전공": null,
+                "전공역량": "문화콘텐츠",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE317",
+            "position": {
+                "x": 1320,
+                "y": 420
+            },
+            "data": {
+                "label": "외국어로서의한국어교육",
+                "학수번호": "KORE317",
+                "세부전공": null,
+                "전공역량": "세계속의한국문화",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE319",
+            "position": {
+                "x": 1320,
+                "y": 490
+            },
+            "data": {
+                "label": "한국어방언의이해",
+                "학수번호": "KORE319",
+                "세부전공": null,
+                "전공역량": "사회적변화주도",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE323",
+            "position": {
+                "x": 1320,
+                "y": 560
+            },
+            "data": {
+                "label": "작가와현대세계",
+                "학수번호": "KORE323",
+                "세부전공": null,
+                "전공역량": "세계속의한국문화",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE325",
+            "position": {
+                "x": 1320,
+                "y": 630
+            },
+            "data": {
+                "label": "문학자료와문화기획",
+                "학수번호": "KORE325",
+                "세부전공": null,
+                "전공역량": "문화콘텐츠",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE209",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "data": {
+                "label": "현대시론",
+                "학수번호": "KORE209",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE211",
+            "position": {
+                "x": 880,
+                "y": 70
+            },
+            "data": {
+                "label": "현대희곡론",
+                "학수번호": "KORE211",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE215",
+            "position": {
+                "x": 880,
+                "y": 140
+            },
+            "data": {
+                "label": "고전문학사",
+                "학수번호": "KORE215",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE217",
+            "position": {
+                "x": 880,
+                "y": 210
+            },
+            "data": {
+                "label": "구비문학론",
+                "학수번호": "KORE217",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE219",
+            "position": {
+                "x": 880,
+                "y": 280
+            },
+            "data": {
+                "label": "고전소설론",
+                "학수번호": "KORE219",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE223",
+            "position": {
+                "x": 880,
+                "y": 350
+            },
+            "data": {
+                "label": "현대소설론",
+                "학수번호": "KORE223",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE231",
+            "position": {
+                "x": 880,
+                "y": 420
+            },
+            "data": {
+                "label": "한국어음운의이해",
+                "학수번호": "KORE231",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE239",
+            "position": {
+                "x": 880,
+                "y": 490
+            },
+            "data": {
+                "label": "현대문학작품론",
+                "학수번호": "KORE239",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE425",
+            "position": {
+                "x": 880,
+                "y": 560
+            },
+            "data": {
+                "label": "한국어형태론",
+                "학수번호": "KORE425",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE210",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "현대비평론",
+                "학수번호": "KORE210",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE212",
+            "position": {
+                "x": 1100,
+                "y": 70
+            },
+            "data": {
+                "label": "한국근대문학의형성",
+                "학수번호": "KORE212",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE213",
+            "position": {
+                "x": 1100,
+                "y": 140
+            },
+            "data": {
+                "label": "현대문학사",
+                "학수번호": "KORE213",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE216",
+            "position": {
+                "x": 1100,
+                "y": 210
+            },
+            "data": {
+                "label": "한국한문학강독",
+                "학수번호": "KORE216",
+                "세부전공": null,
+                "전공역량": "문화콘텐츠",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE218",
+            "position": {
+                "x": 1100,
+                "y": 280
+            },
+            "data": {
+                "label": "근세시가론",
+                "학수번호": "KORE218",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE234",
+            "position": {
+                "x": 1100,
+                "y": 350
+            },
+            "data": {
+                "label": "한국어문법의이해",
+                "학수번호": "KORE234",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE235",
+            "position": {
+                "x": 1100,
+                "y": 420
+            },
+            "data": {
+                "label": "한국어표현론",
+                "학수번호": "KORE235",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE238",
+            "position": {
+                "x": 1100,
+                "y": 490
+            },
+            "data": {
+                "label": "한국문학과동아시아문학",
+                "학수번호": "KORE238",
+                "세부전공": null,
+                "전공역량": "세계속의한국문화",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE410",
+            "position": {
+                "x": 1100,
+                "y": 560
+            },
+            "data": {
+                "label": "고전소설강독",
+                "학수번호": "KORE410",
+                "세부전공": null,
+                "전공역량": "문화콘텐츠",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE224",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "data": {
+                "label": "전통연희론",
+                "학수번호": "KORE224",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE229",
+            "position": {
+                "x": 1540,
+                "y": 70
+            },
+            "data": {
+                "label": "국어교과논리및논술",
+                "학수번호": "KORE229",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE233",
+            "position": {
+                "x": 1540,
+                "y": 140
+            },
+            "data": {
+                "label": "한국어발달사",
+                "학수번호": "KORE233",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE237",
+            "position": {
+                "x": 1540,
+                "y": 210
+            },
+            "data": {
+                "label": "현대소설강독",
+                "학수번호": "KORE237",
+                "세부전공": null,
+                "전공역량": "문화콘텐츠",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE306",
+            "position": {
+                "x": 1540,
+                "y": 280
+            },
+            "data": {
+                "label": "시창작연습",
+                "학수번호": "KORE306",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE307",
+            "position": {
+                "x": 1540,
+                "y": 350
+            },
+            "data": {
+                "label": "현대극작가론",
+                "학수번호": "KORE307",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE312",
+            "position": {
+                "x": 1540,
+                "y": 420
+            },
+            "data": {
+                "label": "고전산문강독",
+                "학수번호": "KORE312",
+                "세부전공": null,
+                "전공역량": "문화콘텐츠",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE314",
+            "position": {
+                "x": 1540,
+                "y": 490
+            },
+            "data": {
+                "label": "고전비평선독",
+                "학수번호": "KORE314",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE320",
+            "position": {
+                "x": 1540,
+                "y": 560
+            },
+            "data": {
+                "label": "북한의한국어학",
+                "학수번호": "KORE320",
+                "세부전공": null,
+                "전공역량": "사회적변화주도",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE322",
+            "position": {
+                "x": 1540,
+                "y": 630
+            },
+            "data": {
+                "label": "한국어화용론",
+                "학수번호": "KORE322",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE324",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "data": {
+                "label": "디지털인문학과고전문학",
+                "학수번호": "KORE324",
+                "세부전공": null,
+                "전공역량": "디지털",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE420",
+            "position": {
+                "x": 1540,
+                "y": 770
+            },
+            "data": {
+                "label": "한국어음성학",
+                "학수번호": "KORE420",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE228",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "국어교과교재연구및지도법",
+                "학수번호": "KORE228",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE411",
+            "position": {
+                "x": 1760,
+                "y": 70
+            },
+            "data": {
+                "label": "향가와고려가요",
+                "학수번호": "KORE411",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE413",
+            "position": {
+                "x": 1760,
+                "y": 140
+            },
+            "data": {
+                "label": "한문산문강독",
+                "학수번호": "KORE413",
+                "세부전공": null,
+                "전공역량": "문화콘텐츠",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE418",
+            "position": {
+                "x": 1760,
+                "y": 210
+            },
+            "data": {
+                "label": "한국어사강독",
+                "학수번호": "KORE418",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE426",
+            "position": {
+                "x": 1760,
+                "y": 280
+            },
+            "data": {
+                "label": "한국어정책론",
+                "학수번호": "KORE426",
+                "세부전공": null,
+                "전공역량": "사회적변화주도",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE427",
+            "position": {
+                "x": 1760,
+                "y": 350
+            },
+            "data": {
+                "label": null,
+                "학수번호": "KORE427",
+                "세부전공": null,
+                "전공역량": "세계속의한국문화",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE429",
+            "position": {
+                "x": 1760,
+                "y": 420
+            },
+            "data": {
+                "label": "한국어문자론",
+                "학수번호": "KORE429",
+                "세부전공": null,
+                "전공역량": "세계속의한국문화",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE406",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "data": {
+                "label": "희곡창작연습",
+                "학수번호": "KORE406",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE408",
+            "position": {
+                "x": 1980,
+                "y": 70
+            },
+            "data": {
+                "label": "현대시인론",
+                "학수번호": "KORE408",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE412",
+            "position": {
+                "x": 1980,
+                "y": 140
+            },
+            "data": {
+                "label": "한국한시선독",
+                "학수번호": "KORE412",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COLA173",
+            "position": {
+                "x": 220,
+                "y": 0
+            },
+            "data": {
+                "label": "디지털인문학응용",
+                "학수번호": "COLA173",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFECB3",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 220,
+                "y": 70
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 220,
+                "y": 140
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 220,
+                "y": 210
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHIN103\t",
+            "position": {
+                "x": 220,
+                "y": 280
+            },
+            "data": {
+                "label": "교양중국어I",
+                "학수번호": "CHIN103\t",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "중어중문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHIN104",
+            "position": {
+                "x": 220,
+                "y": 350
+            },
+            "data": {
+                "label": "교양중국어II",
+                "학수번호": "CHIN104",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "중어중문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN141",
+            "position": {
+                "x": 220,
+                "y": 420
+            },
+            "data": {
+                "label": "교양프랑스어I",
+                "학수번호": "FRAN141",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "불어불문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN142",
+            "position": {
+                "x": 220,
+                "y": 490
+            },
+            "data": {
+                "label": "교양프랑스어II",
+                "학수번호": "FRAN142",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "불어불문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM161",
+            "position": {
+                "x": 220,
+                "y": 560
+            },
+            "data": {
+                "label": "교양독일어I",
+                "학수번호": "GERM161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "독어독문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM162",
+            "position": {
+                "x": 220,
+                "y": 630
+            },
+            "data": {
+                "label": "교양독일어II",
+                "학수번호": "GERM162",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "독어독문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HANM141",
+            "position": {
+                "x": 220,
+                "y": 700
+            },
+            "data": {
+                "label": "초급한문",
+                "학수번호": "HANM141",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "한문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN113",
+            "position": {
+                "x": 220,
+                "y": 770
+            },
+            "data": {
+                "label": "교양일본어I",
+                "학수번호": "JAPN113",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "일어일문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN114",
+            "position": {
+                "x": 220,
+                "y": 840
+            },
+            "data": {
+                "label": "교양일본어II",
+                "학수번호": "JAPN114",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "일어일문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "RUSS131",
+            "position": {
+                "x": 220,
+                "y": 910
+            },
+            "data": {
+                "label": "교양러시아어I",
+                "학수번호": "RUSS131",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "노어노문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "RUSS132",
+            "position": {
+                "x": 220,
+                "y": 980
+            },
+            "data": {
+                "label": "교양러시아어II",
+                "학수번호": "RUSS132",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "노어노문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN121",
+            "position": {
+                "x": 220,
+                "y": 1050
+            },
+            "data": {
+                "label": "교양스페인어I",
+                "학수번호": "SPAN121",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN122",
+            "position": {
+                "x": 220,
+                "y": 1120
+            },
+            "data": {
+                "label": "교양스페인어II",
+                "학수번호": "SPAN122",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "recommended-KORE201-KORE238",
+            "source": "KORE201",
+            "target": "KORE238",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-KORE201-KORE238",
+            "source": "KORE201",
+            "target": "KORE238",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-KORE230-KORE322",
+            "source": "KORE230",
+            "target": "KORE322",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-KORE230-KORE322",
+            "source": "KORE230",
+            "target": "KORE322",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-KORE230-KORE322",
+            "source": "KORE230",
+            "target": "KORE322",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-KORE236-KORE322",
+            "source": "KORE236",
+            "target": "KORE322",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-KORE236-KORE322",
+            "source": "KORE236",
+            "target": "KORE322",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-KORE236-KORE322",
+            "source": "KORE236",
+            "target": "KORE322",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        }
+    ]
+}

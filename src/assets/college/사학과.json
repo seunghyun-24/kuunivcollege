@@ -1,0 +1,1705 @@
+{
+    "nodes": [
+        {
+            "id": "HOEW201",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "data": {
+                "label": "역사학개론",
+                "학수번호": "HOEW201",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW223",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "data": {
+                "label": "다민족의중국사",
+                "학수번호": "HOEW223",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW119",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "역사유산과문화콘텐츠",
+                "학수번호": "HOEW119",
+                "세부전공": null,
+                "전공역량": "창의력",
+                "개설학과": "사학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW406",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "data": {
+                "label": "한중관계사",
+                "학수번호": "HOEW406",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": "전공역량 안적힘"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW421",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "중국사특강I",
+                "학수번호": "HOEW421",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": "전공역량안적힘"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW422",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "data": {
+                "label": "중국사특강II",
+                "학수번호": "HOEW422",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": "전공역량안적힘"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW431",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "data": {
+                "label": "서양사특강I",
+                "학수번호": "HOEW431",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": "전공역량안적힘"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW432",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "서양사특강II",
+                "학수번호": "HOEW432",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": "전공역량안적힘"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW454",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "data": {
+                "label": "일본사특강",
+                "학수번호": "HOEW454",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": "전공역량안적힘"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW457",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "data": {
+                "label": "내륙아시아와중화세계",
+                "학수번호": "HOEW457",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": "전공역량안적힘"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW458",
+            "position": {
+                "x": 440,
+                "y": 800
+            },
+            "data": {
+                "label": "동아시아사세미나",
+                "학수번호": "HOEW458",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": "전공역량안적힘"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW459",
+            "position": {
+                "x": 440,
+                "y": 900
+            },
+            "data": {
+                "label": "동아시아사사료선독",
+                "학수번호": "HOEW459",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": "전공역량안적힘"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COLA173",
+            "position": {
+                "x": 440,
+                "y": 1000
+            },
+            "data": {
+                "label": "디지털인문학응용",
+                "학수번호": "COLA173",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFECB3",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COLA200",
+            "position": {
+                "x": 440,
+                "y": 1100
+            },
+            "data": {
+                "label": "인문융합세미나",
+                "학수번호": "COLA200",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 1200
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 1300
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 1400
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 1500
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 1600
+            },
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 1700
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHIN103\t",
+            "position": {
+                "x": 440,
+                "y": 1800
+            },
+            "data": {
+                "label": "교양중국어I",
+                "학수번호": "CHIN103\t",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "중어중문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHIN104",
+            "position": {
+                "x": 440,
+                "y": 1900
+            },
+            "data": {
+                "label": "교양중국어II",
+                "학수번호": "CHIN104",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "중어중문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN141",
+            "position": {
+                "x": 440,
+                "y": 2000
+            },
+            "data": {
+                "label": "교양프랑스어I",
+                "학수번호": "FRAN141",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "불어불문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN142",
+            "position": {
+                "x": 440,
+                "y": 2100
+            },
+            "data": {
+                "label": "교양프랑스어II",
+                "학수번호": "FRAN142",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "불어불문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM161",
+            "position": {
+                "x": 440,
+                "y": 2200
+            },
+            "data": {
+                "label": "교양독일어I",
+                "학수번호": "GERM161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "독어독문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM162",
+            "position": {
+                "x": 440,
+                "y": 2300
+            },
+            "data": {
+                "label": "교양독일어II",
+                "학수번호": "GERM162",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "독어독문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HANM141",
+            "position": {
+                "x": 440,
+                "y": 2400
+            },
+            "data": {
+                "label": "초급한문",
+                "학수번호": "HANM141",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "한문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN113",
+            "position": {
+                "x": 440,
+                "y": 2500
+            },
+            "data": {
+                "label": "교양일본어I",
+                "학수번호": "JAPN113",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "일어일문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN114",
+            "position": {
+                "x": 440,
+                "y": 2600
+            },
+            "data": {
+                "label": "교양일본어II",
+                "학수번호": "JAPN114",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "일어일문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "RUSS131",
+            "position": {
+                "x": 440,
+                "y": 2700
+            },
+            "data": {
+                "label": "교양러시아어I",
+                "학수번호": "RUSS131",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "노어노문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "RUSS132",
+            "position": {
+                "x": 440,
+                "y": 2800
+            },
+            "data": {
+                "label": "교양러시아어II",
+                "학수번호": "RUSS132",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "노어노문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN121",
+            "position": {
+                "x": 440,
+                "y": 2900
+            },
+            "data": {
+                "label": "교양스페인어I",
+                "학수번호": "SPAN121",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN122",
+            "position": {
+                "x": 440,
+                "y": 3000
+            },
+            "data": {
+                "label": "교양스페인어II",
+                "학수번호": "SPAN122",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW202",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "동아시아사입문",
+                "학수번호": "HOEW202",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW204",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "data": {
+                "label": "서양사입문",
+                "학수번호": "HOEW204",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW222",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "data": {
+                "label": "티베트사",
+                "학수번호": "HOEW222",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "사학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW305",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "data": {
+                "label": "중국문명과제국체제",
+                "학수번호": "HOEW305",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW307",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "data": {
+                "label": "중국근세사",
+                "학수번호": "HOEW307",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW311",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "data": {
+                "label": "서양고대사",
+                "학수번호": "HOEW311",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW313",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "data": {
+                "label": "서양근세사",
+                "학수번호": "HOEW313",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW315",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "data": {
+                "label": "서양최근세사",
+                "학수번호": "HOEW315",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW363",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "data": {
+                "label": "영국문화사",
+                "학수번호": "HOEW363",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW365",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "data": {
+                "label": "독일문화사",
+                "학수번호": "HOEW365",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW367",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "data": {
+                "label": "미국문화사",
+                "학수번호": "HOEW367",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW306",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "data": {
+                "label": "중화제국의분열과통일",
+                "학수번호": "HOEW306",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW308",
+            "position": {
+                "x": 1540,
+                "y": 100
+            },
+            "data": {
+                "label": "동아시아근대사",
+                "학수번호": "HOEW308",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW312",
+            "position": {
+                "x": 1540,
+                "y": 200
+            },
+            "data": {
+                "label": "서양중세사",
+                "학수번호": "HOEW312",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW314",
+            "position": {
+                "x": 1540,
+                "y": 300
+            },
+            "data": {
+                "label": "서양현대사",
+                "학수번호": "HOEW314",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW352",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "data": {
+                "label": "일본근대사",
+                "학수번호": "HOEW352",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW364",
+            "position": {
+                "x": 1540,
+                "y": 500
+            },
+            "data": {
+                "label": "프랑스문화사",
+                "학수번호": "HOEW364",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW366",
+            "position": {
+                "x": 1540,
+                "y": 600
+            },
+            "data": {
+                "label": "러시아문화사",
+                "학수번호": "HOEW366",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW401",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "일본사",
+                "학수번호": "HOEW401",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW403",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "data": {
+                "label": "인도사",
+                "학수번호": "HOEW403",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW409",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "data": {
+                "label": "동아시아현대사",
+                "학수번호": "HOEW409",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW417",
+            "position": {
+                "x": 1760,
+                "y": 300
+            },
+            "data": {
+                "label": "서양의자본주의와제국주의",
+                "학수번호": "HOEW417",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW435",
+            "position": {
+                "x": 1760,
+                "y": 400
+            },
+            "data": {
+                "label": "서양중세정치와근대국가",
+                "학수번호": "HOEW435",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW451",
+            "position": {
+                "x": 1760,
+                "y": 500
+            },
+            "data": {
+                "label": "중국사학사",
+                "학수번호": "HOEW451",
+                "세부전공": null,
+                "전공역량": "창의력",
+                "개설학과": "사학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW402",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "data": {
+                "label": "동남아시아사",
+                "학수번호": "HOEW402",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW412",
+            "position": {
+                "x": 1980,
+                "y": 100
+            },
+            "data": {
+                "label": "오리엔트문명사",
+                "학수번호": "HOEW412",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW420",
+            "position": {
+                "x": 1980,
+                "y": 200
+            },
+            "data": {
+                "label": "중국혁명과중국공산당",
+                "학수번호": "HOEW420",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW444",
+            "position": {
+                "x": 1980,
+                "y": 300
+            },
+            "data": {
+                "label": "냉전사",
+                "학수번호": "HOEW444",
+                "세부전공": null,
+                "전공역량": "변화주도",
+                "개설학과": "사학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW446",
+            "position": {
+                "x": 1980,
+                "y": 400
+            },
+            "data": {
+                "label": "제노사이드와홀로코스트",
+                "학수번호": "HOEW446",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "사학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW450",
+            "position": {
+                "x": 1980,
+                "y": 500
+            },
+            "data": {
+                "label": "중국문화사",
+                "학수번호": "HOEW450",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW466",
+            "position": {
+                "x": 1980,
+                "y": 600
+            },
+            "data": {
+                "label": "서양사학사",
+                "학수번호": "HOEW466",
+                "세부전공": null,
+                "전공역량": "창의력",
+                "개설학과": "사학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW468",
+            "position": {
+                "x": 1980,
+                "y": 700
+            },
+            "data": {
+                "label": "라틴아메리카근현대사",
+                "학수번호": "HOEW468",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW482",
+            "position": {
+                "x": 1980,
+                "y": 800
+            },
+            "data": {
+                "label": "젠더의역사",
+                "학수번호": "HOEW482",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "사학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 II",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 100
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        }
+    ],
+    "edges": []
+}

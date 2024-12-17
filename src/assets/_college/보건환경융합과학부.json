@@ -1,0 +1,2080 @@
+{
+    "nodes": [
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 70
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 140
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 210
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 280
+            },
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 350
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS151",
+            "position": {
+                "x": 440,
+                "y": 420
+            },
+            "data": {
+                "label": "일반생물학 및 연습Ⅰ",
+                "학수번호": "LIBS151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS153",
+            "position": {
+                "x": 440,
+                "y": 490
+            },
+            "data": {
+                "label": "일반생물학실험Ⅰ",
+                "학수번호": "LIBS153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM151",
+            "position": {
+                "x": 440,
+                "y": 560
+            },
+            "data": {
+                "label": "일반화학 및 연습Ⅰ",
+                "학수번호": "CHEM151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM152",
+            "position": {
+                "x": 440,
+                "y": 630
+            },
+            "data": {
+                "label": "일반화학 및 연습 Ⅱ",
+                "학수번호": "CHEM152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM153",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "data": {
+                "label": "일반화학실험Ⅰ",
+                "학수번호": "CHEM153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM154",
+            "position": {
+                "x": 440,
+                "y": 770
+            },
+            "data": {
+                "label": "일반화학실험II",
+                "학수번호": "CHEM154",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS151",
+            "position": {
+                "x": 440,
+                "y": 840
+            },
+            "data": {
+                "label": "일반물리학 및 연습Ⅰ",
+                "학수번호": "PHYS151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS152",
+            "position": {
+                "x": 440,
+                "y": 910
+            },
+            "data": {
+                "label": "일반물리학 및 연습Ⅱ",
+                "학수번호": "PHYS152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS161",
+            "position": {
+                "x": 440,
+                "y": 980
+            },
+            "data": {
+                "label": "일반물리학실험Ⅰ",
+                "학수번호": "PHYS161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS162 ",
+            "position": {
+                "x": 440,
+                "y": 1050
+            },
+            "data": {
+                "label": "일반물리학실험Ⅱ",
+                "학수번호": "PHYS162 ",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH161",
+            "position": {
+                "x": 440,
+                "y": 1120
+            },
+            "data": {
+                "label": "미적분학 및 연습 Ⅰ",
+                "학수번호": "MATH161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 70
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES211",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "data": {
+                "label": "보건환경독성학",
+                "학수번호": "KHES211",
+                "세부전공": "공통",
+                "전공역량": "창의적문제해결",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES215",
+            "position": {
+                "x": 880,
+                "y": 70
+            },
+            "data": {
+                "label": "환경보건학",
+                "학수번호": "KHES215",
+                "세부전공": "공통",
+                "전공역량": "사회적책임",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES221",
+            "position": {
+                "x": 880,
+                "y": 140
+            },
+            "data": {
+                "label": "보건환경생화학",
+                "학수번호": "KHES221",
+                "세부전공": "공통",
+                "전공역량": "창의적문제해결",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES229",
+            "position": {
+                "x": 880,
+                "y": 210
+            },
+            "data": {
+                "label": "보건물리학",
+                "학수번호": "KHES229",
+                "세부전공": "공통",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES231",
+            "position": {
+                "x": 880,
+                "y": 280
+            },
+            "data": {
+                "label": "기초수리학",
+                "학수번호": "KHES231",
+                "세부전공": "공통",
+                "전공역량": "창의적문제해결",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES237",
+            "position": {
+                "x": 880,
+                "y": 350
+            },
+            "data": {
+                "label": "인체해부학의이해및실습",
+                "학수번호": "KHES237",
+                "세부전공": "공통",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES239",
+            "position": {
+                "x": 880,
+                "y": 420
+            },
+            "data": {
+                "label": "보건전산학",
+                "학수번호": "KHES239",
+                "세부전공": "공통",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES213",
+            "position": {
+                "x": 880,
+                "y": 490
+            },
+            "data": {
+                "label": "산업보건학",
+                "학수번호": "KHES213",
+                "세부전공": "환경보건안전",
+                "전공역량": "공감소통",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES225",
+            "position": {
+                "x": 880,
+                "y": 560
+            },
+            "data": {
+                "label": "진단화학및실험",
+                "학수번호": "KHES225",
+                "세부전공": "보건의로",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES233",
+            "position": {
+                "x": 880,
+                "y": 630
+            },
+            "data": {
+                "label": "의학용어",
+                "학수번호": "KHES233",
+                "세부전공": "보건의로",
+                "전공역량": "공감소통",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES226",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "전염병및백신학",
+                "학수번호": "KHES226",
+                "세부전공": "공통",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES227",
+            "position": {
+                "x": 1100,
+                "y": 70
+            },
+            "data": {
+                "label": "방사선과학",
+                "학수번호": "KHES227",
+                "세부전공": "공통",
+                "전공역량": "사회적책임",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES228",
+            "position": {
+                "x": 1100,
+                "y": 140
+            },
+            "data": {
+                "label": "방사선보건관리",
+                "학수번호": "KHES228",
+                "세부전공": "공통",
+                "전공역량": "사회적책임",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES232",
+            "position": {
+                "x": 1100,
+                "y": 210
+            },
+            "data": {
+                "label": "원자력안전규제",
+                "학수번호": "KHES232",
+                "세부전공": "공통",
+                "전공역량": "사회적책임",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES234",
+            "position": {
+                "x": 1100,
+                "y": 280
+            },
+            "data": {
+                "label": "공중보건학",
+                "학수번호": "KHES234",
+                "세부전공": "공통",
+                "전공역량": "사회적책임",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES238",
+            "position": {
+                "x": 1100,
+                "y": 350
+            },
+            "data": {
+                "label": "해부생리학 및 실습",
+                "학수번호": "KHES238",
+                "세부전공": "공통",
+                "전공역량": "글로벌역량",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES206",
+            "position": {
+                "x": 1100,
+                "y": 420
+            },
+            "data": {
+                "label": "방사선과환경",
+                "학수번호": "KHES206",
+                "세부전공": "환경보건안전",
+                "전공역량": "사회적책임",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES212",
+            "position": {
+                "x": 1100,
+                "y": 490
+            },
+            "data": {
+                "label": "물환경관리",
+                "학수번호": "KHES212",
+                "세부전공": "환경보건안전",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES214",
+            "position": {
+                "x": 1100,
+                "y": 560
+            },
+            "data": {
+                "label": "위해독성평가및실험",
+                "학수번호": "KHES214",
+                "세부전공": "환경보건안전",
+                "전공역량": "창의적문제해결",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES216",
+            "position": {
+                "x": 1100,
+                "y": 630
+            },
+            "data": {
+                "label": "작업환경관리",
+                "학수번호": "KHES216",
+                "세부전공": "환경보건안전",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES218",
+            "position": {
+                "x": 1100,
+                "y": 700
+            },
+            "data": {
+                "label": "공기질평가및실험",
+                "학수번호": "KHES218",
+                "세부전공": "환경보건안전",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES246",
+            "position": {
+                "x": 1100,
+                "y": 770
+            },
+            "data": {
+                "label": "환경물리화학",
+                "학수번호": "KHES246",
+                "세부전공": "환경보건안전",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES224",
+            "position": {
+                "x": 1100,
+                "y": 840
+            },
+            "data": {
+                "label": "방사선상호작용",
+                "학수번호": "KHES224",
+                "세부전공": "보건의로",
+                "전공역량": "사회적책임",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES242",
+            "position": {
+                "x": 1100,
+                "y": 910
+            },
+            "data": {
+                "label": "임상신경과학",
+                "학수번호": "KHES242",
+                "세부전공": "보건의로",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES311",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "data": {
+                "label": "분석화학및실험",
+                "학수번호": "KHES311",
+                "세부전공": "공통",
+                "전공역량": "창의적문제해결",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES319",
+            "position": {
+                "x": 1320,
+                "y": 70
+            },
+            "data": {
+                "label": "보건과학과인공지능",
+                "학수번호": "KHES319",
+                "세부전공": "공통",
+                "전공역량": "창의적문제해결",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES335",
+            "position": {
+                "x": 1320,
+                "y": 140
+            },
+            "data": {
+                "label": "감염안전관리학",
+                "학수번호": "KHES335",
+                "세부전공": "공통",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES339",
+            "position": {
+                "x": 1320,
+                "y": 210
+            },
+            "data": {
+                "label": "생태계와건강",
+                "학수번호": "KHES339",
+                "세부전공": "공통",
+                "전공역량": "창의적문제해결",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES345",
+            "position": {
+                "x": 1320,
+                "y": 280
+            },
+            "data": {
+                "label": "원자력기초이론",
+                "학수번호": "KHES345",
+                "세부전공": "공통",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES313",
+            "position": {
+                "x": 1320,
+                "y": 350
+            },
+            "data": {
+                "label": "실내환경학",
+                "학수번호": "KHES313",
+                "세부전공": "환경보건안전",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES315",
+            "position": {
+                "x": 1320,
+                "y": 420
+            },
+            "data": {
+                "label": "수질오염제어",
+                "학수번호": "KHES315",
+                "세부전공": "환경보건안전",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES317",
+            "position": {
+                "x": 1320,
+                "y": 490
+            },
+            "data": {
+                "label": "대기질관리",
+                "학수번호": "KHES317",
+                "세부전공": "환경보건안전",
+                "전공역량": "창의적문제해결",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES337",
+            "position": {
+                "x": 1320,
+                "y": 560
+            },
+            "data": {
+                "label": "유해화학물질관리",
+                "학수번호": "KHES337",
+                "세부전공": "환경보건안전",
+                "전공역량": "도전적리더",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES301",
+            "position": {
+                "x": 1320,
+                "y": 630
+            },
+            "data": {
+                "label": "방사선생명과학",
+                "학수번호": "KHES301",
+                "세부전공": "보건의로",
+                "전공역량": "사회적책임",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES329",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "data": {
+                "label": "신체방어시스템검사",
+                "학수번호": "KHES329",
+                "세부전공": "보건의로",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES331",
+            "position": {
+                "x": 1320,
+                "y": 770
+            },
+            "data": {
+                "label": "방사선안전분석",
+                "학수번호": "KHES331",
+                "세부전공": "보건의로",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES343",
+            "position": {
+                "x": 1320,
+                "y": 840
+            },
+            "data": {
+                "label": "건강과장애",
+                "학수번호": "KHES343",
+                "세부전공": "보건의로",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES347",
+            "position": {
+                "x": 1320,
+                "y": 910
+            },
+            "data": {
+                "label": "재활과학개론",
+                "학수번호": "KHES347",
+                "세부전공": "보건의로",
+                "전공역량": "공감소통",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES352",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "data": {
+                "label": "보건환경융합과학특강",
+                "학수번호": "KHES352",
+                "세부전공": "공통",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES354",
+            "position": {
+                "x": 1540,
+                "y": 70
+            },
+            "data": {
+                "label": "보건환경융합진로및창업세미나",
+                "학수번호": "KHES354",
+                "세부전공": "공통",
+                "전공역량": "글로벌역량",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES312",
+            "position": {
+                "x": 1540,
+                "y": 140
+            },
+            "data": {
+                "label": "환경위해성평가",
+                "학수번호": "KHES312",
+                "세부전공": "환경보건안전",
+                "전공역량": "사회적책임",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES314",
+            "position": {
+                "x": 1540,
+                "y": 210
+            },
+            "data": {
+                "label": "산업환기",
+                "학수번호": "KHES314",
+                "세부전공": "환경보건안전",
+                "전공역량": "창의적문제해결",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES336",
+            "position": {
+                "x": 1540,
+                "y": 280
+            },
+            "data": {
+                "label": "환경과식품독성",
+                "학수번호": "KHES336",
+                "세부전공": "환경보건안전",
+                "전공역량": "창의적문제해결",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES304",
+            "position": {
+                "x": 1540,
+                "y": 350
+            },
+            "data": {
+                "label": "의료기기시스템",
+                "학수번호": "KHES304",
+                "세부전공": "보건의로",
+                "전공역량": "사회적책임",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES318",
+            "position": {
+                "x": 1540,
+                "y": 420
+            },
+            "data": {
+                "label": "방사선센서",
+                "학수번호": "KHES318",
+                "세부전공": "보건의로",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES334",
+            "position": {
+                "x": 1540,
+                "y": 490
+            },
+            "data": {
+                "label": "진단혈액학 및 실험",
+                "학수번호": "KHES334",
+                "세부전공": "보건의로",
+                "전공역량": "창의적문제해결",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES338",
+            "position": {
+                "x": 1540,
+                "y": 560
+            },
+            "data": {
+                "label": "노인보건학및실습",
+                "학수번호": "KHES338",
+                "세부전공": "보건의로",
+                "전공역량": "공감소통",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES346",
+            "position": {
+                "x": 1540,
+                "y": 630
+            },
+            "data": {
+                "label": "임상운동생리학",
+                "학수번호": "KHES346",
+                "세부전공": "보건의로",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES348",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "data": {
+                "label": "재활운동학 및 실습",
+                "학수번호": "KHES348",
+                "세부전공": "보건의로",
+                "전공역량": "공감소통",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES435",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "나노기술과건강",
+                "학수번호": "KHES435",
+                "세부전공": "공통",
+                "전공역량": "창의적문제해결",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES413",
+            "position": {
+                "x": 1760,
+                "y": 70
+            },
+            "data": {
+                "label": "융합보건청정기술",
+                "학수번호": "KHES413",
+                "세부전공": "환경보건안전",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES417",
+            "position": {
+                "x": 1760,
+                "y": 140
+            },
+            "data": {
+                "label": "환경및식품위생학",
+                "학수번호": "KHES417",
+                "세부전공": "환경보건안전",
+                "전공역량": "창의적문제해결",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES431",
+            "position": {
+                "x": 1760,
+                "y": 210
+            },
+            "data": {
+                "label": "작업환경측정및실험",
+                "학수번호": "KHES431",
+                "세부전공": "환경보건안전",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES443",
+            "position": {
+                "x": 1760,
+                "y": 280
+            },
+            "data": {
+                "label": "위해분석환경안전및실험",
+                "학수번호": "KHES443",
+                "세부전공": "환경보건안전",
+                "전공역량": "창의적문제해결",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES405",
+            "position": {
+                "x": 1760,
+                "y": 350
+            },
+            "data": {
+                "label": "방사선안전관리학",
+                "학수번호": "KHES405",
+                "세부전공": "보건의로",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES437",
+            "position": {
+                "x": 1760,
+                "y": 420
+            },
+            "data": {
+                "label": "조직재생및치료인자",
+                "학수번호": "KHES437",
+                "세부전공": "보건의로",
+                "전공역량": "창의적문제해결",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHPM414",
+            "position": {
+                "x": 1760,
+                "y": 490
+            },
+            "data": {
+                "label": "보건의료관계법규",
+                "학수번호": "KHPM414",
+                "세부전공": "보건의로",
+                "전공역량": null,
+                "개설학과": "보건정책관리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES412",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "data": {
+                "label": "산업안전관리",
+                "학수번호": "KHES412",
+                "세부전공": "환경보건안전",
+                "전공역량": "도전적리더",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES414",
+            "position": {
+                "x": 1980,
+                "y": 70
+            },
+            "data": {
+                "label": "수질평가및실험",
+                "학수번호": "KHES414",
+                "세부전공": "환경보건안전",
+                "전공역량": "사회적책임",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES432",
+            "position": {
+                "x": 1980,
+                "y": 140
+            },
+            "data": {
+                "label": "식품환경보건학",
+                "학수번호": "KHES432",
+                "세부전공": "환경보건안전",
+                "전공역량": "창의적문제해결",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES422",
+            "position": {
+                "x": 1980,
+                "y": 210
+            },
+            "data": {
+                "label": "분자세포생물학",
+                "학수번호": "KHES422",
+                "세부전공": "보건의로",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES424",
+            "position": {
+                "x": 1980,
+                "y": 280
+            },
+            "data": {
+                "label": "진단생리학및실험",
+                "학수번호": "KHES424",
+                "세부전공": "보건의로",
+                "전공역량": "도전적리더",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES426",
+            "position": {
+                "x": 1980,
+                "y": 350
+            },
+            "data": {
+                "label": "최신진단의과학",
+                "학수번호": "KHES426",
+                "세부전공": "보건의로",
+                "전공역량": "글로벌역량",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES428",
+            "position": {
+                "x": 1980,
+                "y": 420
+            },
+            "data": {
+                "label": "방사선안전평가",
+                "학수번호": "KHES428",
+                "세부전공": "보건의로",
+                "전공역량": "융합적사고",
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        }
+    ],
+    "edges": []
+}

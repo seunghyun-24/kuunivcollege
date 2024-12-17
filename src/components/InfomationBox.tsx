@@ -12,6 +12,7 @@ export const InfomationBox = () => {
     // { border: "2px solid #000000", label: "실험실습" },
     { type: "edge", color: "#ff0000", label: "필수 선수과목" },
     { type: "edge", color: "#333", label: "권장 선수과목" },
+    { type: "gauge", color: "#FF0000", label: "최근 5년 간 개설 정도" }, // 게이지 바 설명 추가
   ];
 
   return (
@@ -33,6 +34,17 @@ export const InfomationBox = () => {
                   // strokeWidth={item.color === "#000" ? 2 : 1} // 필수와 권장 두께 구분
                 />
               </svg>
+            ) : item.type === "gauge" ? (
+              <div style={{ display: "flex", alignItems: "center" }}>
+                <div
+                  style={{
+                    width: "50px",
+                    height: "5px",
+                    backgroundColor: item.color,
+                    marginRight: "10px",
+                  }}
+                />
+              </div>
             ) : (
               <div
                 style={{

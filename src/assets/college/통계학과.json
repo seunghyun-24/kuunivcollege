@@ -1,0 +1,1943 @@
+{
+    "nodes": [
+        {
+            "id": "STAT221",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "data": {
+                "label": "확률론입문",
+                "학수번호": "STAT221",
+                "세부전공": null,
+                "전공역량": "수리과학",
+                "개설학과": "통계학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT232",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "수리통계학",
+                "학수번호": "STAT232",
+                "세부전공": null,
+                "전공역량": "수리과학",
+                "개설학과": "통계학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT342",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "data": {
+                "label": "회귀분석",
+                "학수번호": "STAT342",
+                "세부전공": null,
+                "전공역량": "데이터 분석",
+                "개설학과": "통계학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT204",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "data": {
+                "label": "통계계산프로그래밍",
+                "학수번호": "STAT204",
+                "세부전공": null,
+                "전공역량": "통계적 의사소통",
+                "개설학과": "통계학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT311",
+            "position": {
+                "x": 1100,
+                "y": 300
+            },
+            "data": {
+                "label": "통계조사론입문",
+                "학수번호": "STAT311",
+                "세부전공": null,
+                "전공역량": "통계적 의사소통",
+                "개설학과": "통계학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT180",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "data": {
+                "label": "통계계산소프트웨어",
+                "학수번호": "STAT180",
+                "세부전공": null,
+                "전공역량": "통계적 의사소통",
+                "개설학과": "통계학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT241",
+            "position": {
+                "x": 660,
+                "y": 100
+            },
+            "data": {
+                "label": "행렬이론",
+                "학수번호": "STAT241",
+                "세부전공": null,
+                "전공역량": "수리과학",
+                "개설학과": "통계학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT243",
+            "position": {
+                "x": 660,
+                "y": 200
+            },
+            "data": {
+                "label": "사회과학을위한데이터과학",
+                "학수번호": "STAT243",
+                "세부전공": null,
+                "전공역량": "통계적 윤리책임",
+                "개설학과": "통계학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 300
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 II",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 400
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT201",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "통계수학",
+                "학수번호": "STAT201",
+                "세부전공": null,
+                "전공역량": "수리과학",
+                "개설학과": "통계학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON301",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "data": {
+                "label": "계량경제학I",
+                "학수번호": "ECON301",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON302",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "계량경제학II",
+                "학수번호": "ECON302",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH211",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "data": {
+                "label": "해석학I및연습",
+                "학수번호": "MATH211",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH212",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "data": {
+                "label": "해석학II및연습",
+                "학수번호": "MATH212",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH221",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "선형대수I및연습",
+                "학수번호": "MATH221",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH222",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "data": {
+                "label": "선형대수II및연습",
+                "학수번호": "MATH222",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH240",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "data": {
+                "label": "미분방정식및연습",
+                "학수번호": "MATH240",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH342",
+            "position": {
+                "x": 440,
+                "y": 800
+            },
+            "data": {
+                "label": "수치해석및연습",
+                "학수번호": "MATH342",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH344",
+            "position": {
+                "x": 440,
+                "y": 900
+            },
+            "data": {
+                "label": "확률과정개론",
+                "학수번호": "MATH344",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH453",
+            "position": {
+                "x": 440,
+                "y": 1000
+            },
+            "data": {
+                "label": "실해석학",
+                "학수번호": "MATH453",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IMEN216",
+            "position": {
+                "x": 440,
+                "y": 1100
+            },
+            "data": {
+                "label": "OR-I및 실습",
+                "학수번호": "IMEN216",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "산업경영공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IMEN319",
+            "position": {
+                "x": 440,
+                "y": 1200
+            },
+            "data": {
+                "label": "OR-II 및 실습",
+                "학수번호": "IMEN319",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "산업경영공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE212",
+            "position": {
+                "x": 440,
+                "y": 1300
+            },
+            "data": {
+                "label": "프로그래밍언어",
+                "학수번호": "COSE212",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "컴퓨터학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE213",
+            "position": {
+                "x": 440,
+                "y": 1400
+            },
+            "data": {
+                "label": "자료구조",
+                "학수번호": "COSE213",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "컴퓨터학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE214",
+            "position": {
+                "x": 440,
+                "y": 1500
+            },
+            "data": {
+                "label": "알고리즘",
+                "학수번호": "COSE214",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "컴퓨터학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 1600
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 1700
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 1800
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 1900
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 2000
+            },
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 2100
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT302",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "data": {
+                "label": "시계열분석",
+                "학수번호": "STAT302",
+                "세부전공": null,
+                "전공역량": "데이터 분석",
+                "개설학과": "통계학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT332",
+            "position": {
+                "x": 1540,
+                "y": 100
+            },
+            "data": {
+                "label": "비모수통계학",
+                "학수번호": "STAT332",
+                "세부전공": null,
+                "전공역량": "데이터 분석",
+                "개설학과": "통계학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT344",
+            "position": {
+                "x": 1540,
+                "y": 200
+            },
+            "data": {
+                "label": "보험통계학",
+                "학수번호": "STAT344",
+                "세부전공": null,
+                "전공역량": "통계적 윤리책임",
+                "개설학과": "통계학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT346",
+            "position": {
+                "x": 1540,
+                "y": 300
+            },
+            "data": {
+                "label": "통계적데이터과학I",
+                "학수번호": "STAT346",
+                "세부전공": null,
+                "전공역량": "통계적 의사소통",
+                "개설학과": "통계학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT404",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "data": {
+                "label": "베이즈통계입문",
+                "학수번호": "STAT404",
+                "세부전공": null,
+                "전공역량": "통합적 의사결정",
+                "개설학과": "통계학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT424",
+            "position": {
+                "x": 1540,
+                "y": 500
+            },
+            "data": {
+                "label": "통계적머신러닝",
+                "학수번호": "STAT424",
+                "세부전공": null,
+                "전공역량": "통합적 의사결정",
+                "개설학과": "통계학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT323",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "data": {
+                "label": "통계계산방법",
+                "학수번호": "STAT323",
+                "세부전공": null,
+                "전공역량": "통합적 의사결정",
+                "개설학과": "통계학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT341",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "data": {
+                "label": "실험계획법",
+                "학수번호": "STAT341",
+                "세부전공": null,
+                "전공역량": "데이터 분석",
+                "개설학과": "통계학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT343",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "data": {
+                "label": "범주형자료분석",
+                "학수번호": "STAT343",
+                "세부전공": null,
+                "전공역량": "데이터 분석",
+                "개설학과": "통계학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT413",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "data": {
+                "label": "금융통계학",
+                "학수번호": "STAT413",
+                "세부전공": null,
+                "전공역량": "통계적 윤리책임",
+                "개설학과": "통계학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT375",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "글로벌통계실무교육인턴십I",
+                "학수번호": "STAT375",
+                "세부전공": null,
+                "전공역량": "통계적 의사소통",
+                "개설학과": "통계학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT401",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "data": {
+                "label": "다변량통계분석",
+                "학수번호": "STAT401",
+                "세부전공": null,
+                "전공역량": "데이터 분석",
+                "개설학과": "통계학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT409",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "data": {
+                "label": "통계적데이터과학II",
+                "학수번호": "STAT409",
+                "세부전공": null,
+                "전공역량": "통계적 의사소통",
+                "개설학과": "통계학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT423",
+            "position": {
+                "x": 1760,
+                "y": 300
+            },
+            "data": {
+                "label": "생명과학을위한데이터과학",
+                "학수번호": "STAT423",
+                "세부전공": null,
+                "전공역량": "통계적 윤리책임",
+                "개설학과": "통계학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT433",
+            "position": {
+                "x": 1760,
+                "y": 400
+            },
+            "data": {
+                "label": "딥러닝을위한통계적모델링",
+                "학수번호": "STAT433",
+                "세부전공": null,
+                "전공역량": "통합적 의사결정",
+                "개설학과": "통계학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT443",
+            "position": {
+                "x": 1760,
+                "y": 500
+            },
+            "data": {
+                "label": "선형방법론",
+                "학수번호": "STAT443",
+                "세부전공": null,
+                "전공역량": "수리과학",
+                "개설학과": "통계학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT376",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "data": {
+                "label": "글로벌통계실무교육인턴십II",
+                "학수번호": "STAT376",
+                "세부전공": null,
+                "전공역량": "통계적 의사소통",
+                "개설학과": "통계학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT402",
+            "position": {
+                "x": 1980,
+                "y": 100
+            },
+            "data": {
+                "label": "데이터마이닝입문",
+                "학수번호": "STAT402",
+                "세부전공": null,
+                "전공역량": "통합적 의사결정",
+                "개설학과": "통계학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT407",
+            "position": {
+                "x": 1980,
+                "y": 200
+            },
+            "data": {
+                "label": "인과추론",
+                "학수번호": "STAT407",
+                "세부전공": null,
+                "전공역량": "통합적 의사결정",
+                "개설학과": "통계학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT412",
+            "position": {
+                "x": 1980,
+                "y": 300
+            },
+            "data": {
+                "label": "수리통계학특강",
+                "학수번호": "STAT412",
+                "세부전공": null,
+                "전공역량": "수리과학",
+                "개설학과": "통계학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT436",
+            "position": {
+                "x": 1980,
+                "y": 400
+            },
+            "data": {
+                "label": "강화학습을위한확률과정과표집",
+                "학수번호": "STAT436",
+                "세부전공": null,
+                "전공역량": "통합적 의사결정",
+                "개설학과": "통계학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "recommended-STAT151-STAT221",
+            "source": "STAT151",
+            "target": "STAT221",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT201-STAT221",
+            "source": "STAT201",
+            "target": "STAT221",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT201-STAT232",
+            "source": "STAT201",
+            "target": "STAT232",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT221-STAT232",
+            "source": "STAT221",
+            "target": "STAT232",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT202-STAT342",
+            "source": "STAT202",
+            "target": "STAT342",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT241-STAT342",
+            "source": "STAT241",
+            "target": "STAT342",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT170-STAT204",
+            "source": "STAT170",
+            "target": "STAT204",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT180-STAT204",
+            "source": "STAT180",
+            "target": "STAT204",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT241-STAT302",
+            "source": "STAT241",
+            "target": "STAT302",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT342-STAT302",
+            "source": "STAT342",
+            "target": "STAT302",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT151-STAT311",
+            "source": "STAT151",
+            "target": "STAT311",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT202-STAT311",
+            "source": "STAT202",
+            "target": "STAT311",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT221-STAT311",
+            "source": "STAT221",
+            "target": "STAT311",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT180-STAT323",
+            "source": "STAT180",
+            "target": "STAT323",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT204-STAT323",
+            "source": "STAT204",
+            "target": "STAT323",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT151-STAT332",
+            "source": "STAT151",
+            "target": "STAT332",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT151-STAT341",
+            "source": "STAT151",
+            "target": "STAT341",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT202-STAT341",
+            "source": "STAT202",
+            "target": "STAT341",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT342-STAT343",
+            "source": "STAT342",
+            "target": "STAT343",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-MATH343-STAT344",
+            "source": "MATH343",
+            "target": "STAT344",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT221-STAT344",
+            "source": "STAT221",
+            "target": "STAT344",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT180-STAT346",
+            "source": "STAT180",
+            "target": "STAT346",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT201-STAT346",
+            "source": "STAT201",
+            "target": "STAT346",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT241-STAT346",
+            "source": "STAT241",
+            "target": "STAT346",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT323-STAT346",
+            "source": "STAT323",
+            "target": "STAT346",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT232-STAT401",
+            "source": "STAT232",
+            "target": "STAT401",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT241-STAT401",
+            "source": "STAT241",
+            "target": "STAT401",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT342-STAT401",
+            "source": "STAT342",
+            "target": "STAT401",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT301-STAT402",
+            "source": "STAT301",
+            "target": "STAT402",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT401-STAT402",
+            "source": "STAT401",
+            "target": "STAT402",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT180-STAT409",
+            "source": "STAT180",
+            "target": "STAT409",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT232-STAT409",
+            "source": "STAT232",
+            "target": "STAT409",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT241-STAT409",
+            "source": "STAT241",
+            "target": "STAT409",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT342-STAT409",
+            "source": "STAT342",
+            "target": "STAT409",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT346-STAT409",
+            "source": "STAT346",
+            "target": "STAT409",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT232-STAT412",
+            "source": "STAT232",
+            "target": "STAT412",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-MATH343-STAT413",
+            "source": "MATH343",
+            "target": "STAT413",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-STAT221-STAT413",
+            "source": "STAT221",
+            "target": "STAT413",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT342-STAT424",
+            "source": "STAT342",
+            "target": "STAT424",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT343-STAT424",
+            "source": "STAT343",
+            "target": "STAT424",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT401-STAT424",
+            "source": "STAT401",
+            "target": "STAT424",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT221-STAT443",
+            "source": "STAT221",
+            "target": "STAT443",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT232-STAT443",
+            "source": "STAT232",
+            "target": "STAT443",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT241-STAT443",
+            "source": "STAT241",
+            "target": "STAT443",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT342-STAT443",
+            "source": "STAT342",
+            "target": "STAT443",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON301-ECON302",
+            "source": "ECON301",
+            "target": "ECON302",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-IMEN151-IMEN216",
+            "source": "IMEN151",
+            "target": "IMEN216",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-IMEN151-IMEN216",
+            "source": "IMEN151",
+            "target": "IMEN216",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-IMEN151-IMEN319",
+            "source": "IMEN151",
+            "target": "IMEN319",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-IMEN213-IMEN319",
+            "source": "IMEN213",
+            "target": "IMEN319",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-IMEN213-IMEN319",
+            "source": "IMEN213",
+            "target": "IMEN319",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        }
+    ]
+}

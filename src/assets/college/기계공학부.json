@@ -3,7 +3,7 @@
         {
             "id": "GELI005",
             "position": {
-                "x": 220,
+                "x": 440,
                 "y": 0
             },
             "data": {
@@ -26,85 +26,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 220,
-                "y": 70
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 220,
-                "y": 140
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS150",
-            "position": {
-                "x": 220,
-                "y": 210
-            },
-            "data": {
-                "label": "생명과학",
-                "학수번호": "LIBS150",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명과학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 0
+                "y": 100
             },
             "data": {
                 "label": "글쓰기",
@@ -126,10 +51,35 @@
             }
         },
         {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 70
+                "y": 300
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -154,7 +104,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 140
+                "y": 400
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -176,10 +126,35 @@
             }
         },
         {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "MATH161",
             "position": {
                 "x": 440,
-                "y": 210
+                "y": 600
             },
             "data": {
                 "label": "미적분학및연습 I",
@@ -204,7 +179,7 @@
             "id": "PHYS151",
             "position": {
                 "x": 440,
-                "y": 280
+                "y": 700
             },
             "data": {
                 "label": "일반물리학및연습Ⅰ",
@@ -229,7 +204,7 @@
             "id": "PHYS161",
             "position": {
                 "x": 440,
-                "y": 350
+                "y": 800
             },
             "data": {
                 "label": "일반물리학실험Ⅰ",
@@ -254,7 +229,7 @@
             "id": "CHEM150",
             "position": {
                 "x": 440,
-                "y": 420
+                "y": 900
             },
             "data": {
                 "label": "일반화학및연습",
@@ -279,7 +254,7 @@
             "id": "CHEM155",
             "position": {
                 "x": 440,
-                "y": 490
+                "y": 1000
             },
             "data": {
                 "label": "일반화학실험",
@@ -287,6 +262,31 @@
                 "세부전공": null,
                 "전공역량": null,
                 "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS150",
+            "position": {
+                "x": 440,
+                "y": 1100
+            },
+            "data": {
+                "label": "생명과학",
+                "학수번호": "LIBS150",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null
@@ -329,7 +329,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
@@ -354,7 +354,7 @@
             "id": "MATH162",
             "position": {
                 "x": 660,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "미적분학및연습 Ⅱ",
@@ -379,7 +379,7 @@
             "id": "PHYS152",
             "position": {
                 "x": 660,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "일반물리학및연습Ⅱ",
@@ -404,7 +404,7 @@
             "id": "PHYS162",
             "position": {
                 "x": 660,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "일반물리학실험Ⅱ",
@@ -429,7 +429,7 @@
             "id": "EGRN103",
             "position": {
                 "x": 660,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "창의설계",
@@ -479,7 +479,7 @@
             "id": "MECH205",
             "position": {
                 "x": 880,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "고체역학I",
@@ -504,7 +504,7 @@
             "id": "MECH209",
             "position": {
                 "x": 880,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "기계제작법및실습",
@@ -529,7 +529,7 @@
             "id": "MECH210",
             "position": {
                 "x": 880,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "전산기이용기계제도",
@@ -554,7 +554,7 @@
             "id": "MECH211",
             "position": {
                 "x": 880,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "기구학",
@@ -579,7 +579,7 @@
             "id": "MECH226",
             "position": {
                 "x": 880,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "동역학",
@@ -604,7 +604,7 @@
             "id": "MECH215",
             "position": {
                 "x": 880,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "공업수학I",
@@ -629,7 +629,7 @@
             "id": "MECH323",
             "position": {
                 "x": 880,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "유체역학II",
@@ -679,7 +679,7 @@
             "id": "MECH300",
             "position": {
                 "x": 1100,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "창의적기계설계:캡스톤디자인",
@@ -704,7 +704,7 @@
             "id": "MECH329",
             "position": {
                 "x": 1100,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "기계공학실험I",
@@ -729,7 +729,7 @@
             "id": "MECH216",
             "position": {
                 "x": 1100,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "공업수학II",
@@ -754,7 +754,7 @@
             "id": "MECH222",
             "position": {
                 "x": 1100,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "열역학II",
@@ -779,7 +779,7 @@
             "id": "MECH236",
             "position": {
                 "x": 1100,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "고체역학Ⅱ",
@@ -804,7 +804,7 @@
             "id": "EGRN242",
             "position": {
                 "x": 1100,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "데이터학습과지능",
@@ -854,7 +854,7 @@
             "id": "MECH330",
             "position": {
                 "x": 1320,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "기계공학실험II",
@@ -879,7 +879,7 @@
             "id": "MECH311",
             "position": {
                 "x": 1320,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "열전달",
@@ -904,7 +904,7 @@
             "id": "MECH320",
             "position": {
                 "x": 1320,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "유체기계",
@@ -929,7 +929,7 @@
             "id": "MECH373",
             "position": {
                 "x": 1320,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "기계진동학",
@@ -954,7 +954,7 @@
             "id": "MECH389",
             "position": {
                 "x": 1320,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "공학현장실습Ⅰ",
@@ -979,7 +979,7 @@
             "id": "MECH399",
             "position": {
                 "x": 1320,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "공학현장실습Ⅱ",
@@ -1004,7 +1004,7 @@
             "id": "EGRN332",
             "position": {
                 "x": 1320,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "기술과창업",
@@ -1054,7 +1054,7 @@
             "id": "MECH318",
             "position": {
                 "x": 1540,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "냉동",
@@ -1079,7 +1079,7 @@
             "id": "MECH328",
             "position": {
                 "x": 1540,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "기계요소설계",
@@ -1104,7 +1104,7 @@
             "id": "MECH334",
             "position": {
                 "x": 1540,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "유한요소법",
@@ -1129,7 +1129,7 @@
             "id": "MECH352",
             "position": {
                 "x": 1540,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "전산기응용설계",
@@ -1154,7 +1154,7 @@
             "id": "MECH386",
             "position": {
                 "x": 1540,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "전기전자공학개론",
@@ -1179,7 +1179,7 @@
             "id": "MECH387",
             "position": {
                 "x": 1540,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "자동제어",
@@ -1188,31 +1188,6 @@
                 "전공역량": "창의적사고력",
                 "개설학과": "기계공학부",
                 "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "NEIK424",
-            "position": {
-                "x": 1540,
-                "y": 490
-            },
-            "data": {
-                "label": "열에너지변환공학",
-                "학수번호": "NEIK424",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "에너지신산업",
-                "개설횟수": 3,
                 "내용": null,
                 "메모": null
             },
@@ -1254,7 +1229,7 @@
             "id": "MECH415",
             "position": {
                 "x": 1760,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "공기조화",
@@ -1279,7 +1254,7 @@
             "id": "MECH419",
             "position": {
                 "x": 1760,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "에너지공학",
@@ -1304,7 +1279,7 @@
             "id": "MECH421",
             "position": {
                 "x": 1760,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "내연기관",
@@ -1329,7 +1304,7 @@
             "id": "MECH431",
             "position": {
                 "x": 1760,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "생체공학",
@@ -1354,7 +1329,7 @@
             "id": "MECH437",
             "position": {
                 "x": 1760,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "메카트로닉스",
@@ -1379,7 +1354,7 @@
             "id": "MECH457",
             "position": {
                 "x": 1760,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "수치해석",
@@ -1404,7 +1379,7 @@
             "id": "MECH463",
             "position": {
                 "x": 1760,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "마이크로프로세서프로그래밍",
@@ -1429,7 +1404,7 @@
             "id": "MECH471",
             "position": {
                 "x": 1760,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "종합설계",
@@ -1438,6 +1413,31 @@
                 "전공역량": "전공지식",
                 "개설학과": "기계공학부",
                 "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "NEIK424",
+            "position": {
+                "x": 1760,
+                "y": 900
+            },
+            "data": {
+                "label": "열에너지변환공학",
+                "학수번호": "NEIK424",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "에너지신산업",
+                "개설횟수": 3,
                 "내용": null,
                 "메모": null
             },
@@ -1479,7 +1479,7 @@
             "id": "MECH436",
             "position": {
                 "x": 1980,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "응용유체역학",
@@ -1504,7 +1504,7 @@
             "id": "MECH446",
             "position": {
                 "x": 1980,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "재료거동학",
@@ -1529,7 +1529,7 @@
             "id": "MECH460",
             "position": {
                 "x": 1980,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "생산공학",
@@ -1554,7 +1554,7 @@
             "id": "MECH482",
             "position": {
                 "x": 1980,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "나노공학입문",
@@ -1579,7 +1579,7 @@
             "id": "MECH483",
             "position": {
                 "x": 1980,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "로봇공학",
@@ -1604,7 +1604,7 @@
             "id": "MECH492",
             "position": {
                 "x": 1980,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "자동차공학",
@@ -1629,7 +1629,7 @@
             "id": "MECH498",
             "position": {
                 "x": 1980,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "학부논문연구",
@@ -1654,7 +1654,7 @@
             "id": "EGRN430",
             "position": {
                 "x": 1980,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "공학인턴십Ⅰ",
@@ -1679,7 +1679,7 @@
             "id": "EGRN440",
             "position": {
                 "x": 1980,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "공학인턴십Ⅱ",

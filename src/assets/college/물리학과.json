@@ -3,7 +3,7 @@
         {
             "id": "GELI005",
             "position": {
-                "x": 220,
+                "x": 440,
                 "y": 0
             },
             "data": {
@@ -26,60 +26,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 220,
-                "y": 70
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 220,
-                "y": 140
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 0
+                "y": 100
             },
             "data": {
                 "label": "글쓰기",
@@ -101,10 +51,35 @@
             }
         },
         {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 70
+                "y": 300
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -129,7 +104,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 140
+                "y": 400
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -151,10 +126,35 @@
             }
         },
         {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "MATH161",
             "position": {
                 "x": 440,
-                "y": 210
+                "y": 600
             },
             "data": {
                 "label": "미적분학및연습I",
@@ -179,7 +179,7 @@
             "id": "PHYS151",
             "position": {
                 "x": 440,
-                "y": 280
+                "y": 700
             },
             "data": {
                 "label": "일반물리학연습 I",
@@ -204,7 +204,7 @@
             "id": "PHYS161",
             "position": {
                 "x": 440,
-                "y": 350
+                "y": 800
             },
             "data": {
                 "label": "일반물리학실험 I",
@@ -229,7 +229,7 @@
             "id": "CHEM151",
             "position": {
                 "x": 440,
-                "y": 420
+                "y": 900
             },
             "data": {
                 "label": "일반화학및연습 I",
@@ -254,7 +254,7 @@
             "id": "CHEM153",
             "position": {
                 "x": 440,
-                "y": 490
+                "y": 1000
             },
             "data": {
                 "label": "일반화학실험 I",
@@ -279,7 +279,7 @@
             "id": "EAES151",
             "position": {
                 "x": 440,
-                "y": 560
+                "y": 1100
             },
             "data": {
                 "label": "지구환경과학및연습 I",
@@ -304,7 +304,7 @@
             "id": "EAES153",
             "position": {
                 "x": 440,
-                "y": 630
+                "y": 1200
             },
             "data": {
                 "label": "지구환경과학실험 I",
@@ -329,7 +329,7 @@
             "id": "LIBS151",
             "position": {
                 "x": 440,
-                "y": 700
+                "y": 1300
             },
             "data": {
                 "label": "일반생물학및연습 I",
@@ -354,7 +354,7 @@
             "id": "LIBS153",
             "position": {
                 "x": 440,
-                "y": 770
+                "y": 1400
             },
             "data": {
                 "label": "일반생물학실험 I",
@@ -371,6 +371,381 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH211",
+            "position": {
+                "x": 440,
+                "y": 1500
+            },
+            "data": {
+                "label": "해석학I및연습",
+                "학수번호": "MATH211",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH212",
+            "position": {
+                "x": 440,
+                "y": 1600
+            },
+            "data": {
+                "label": "해석학II및연습",
+                "학수번호": "MATH212",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH221",
+            "position": {
+                "x": 440,
+                "y": 1700
+            },
+            "data": {
+                "label": "선형대수I및연습",
+                "학수번호": "MATH221",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH222",
+            "position": {
+                "x": 440,
+                "y": 1800
+            },
+            "data": {
+                "label": "선형대수II및연습",
+                "학수번호": "MATH222",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH240",
+            "position": {
+                "x": 440,
+                "y": 1900
+            },
+            "data": {
+                "label": "미분방정식및연습",
+                "학수번호": "MATH240",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH331",
+            "position": {
+                "x": 440,
+                "y": 2000
+            },
+            "data": {
+                "label": "미분기하학I",
+                "학수번호": "MATH331",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH372",
+            "position": {
+                "x": 440,
+                "y": 2100
+            },
+            "data": {
+                "label": "미분기하학II",
+                "학수번호": "MATH372",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH315",
+            "position": {
+                "x": 440,
+                "y": 2200
+            },
+            "data": {
+                "label": "복소해석학I",
+                "학수번호": "MATH315",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH358",
+            "position": {
+                "x": 440,
+                "y": 2300
+            },
+            "data": {
+                "label": "복소해석학II",
+                "학수번호": "MATH358",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM201",
+            "position": {
+                "x": 440,
+                "y": 2400
+            },
+            "data": {
+                "label": "물리화학I",
+                "학수번호": "CHEM201",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM202",
+            "position": {
+                "x": 440,
+                "y": 2500
+            },
+            "data": {
+                "label": "물리화학II",
+                "학수번호": "CHEM202",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE221",
+            "position": {
+                "x": 440,
+                "y": 2600
+            },
+            "data": {
+                "label": "논리설계",
+                "학수번호": "COSE221",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "컴퓨터학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KECE212",
+            "position": {
+                "x": 440,
+                "y": 2700
+            },
+            "data": {
+                "label": "물성전자공학",
+                "학수번호": "KECE212",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "전기전자공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KECE331",
+            "position": {
+                "x": 440,
+                "y": 2800
+            },
+            "data": {
+                "label": "반도체공학I",
+                "학수번호": "KECE331",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "전기전자공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KECE415",
+            "position": {
+                "x": 440,
+                "y": 2900
+            },
+            "data": {
+                "label": "나노전자공학",
+                "학수번호": "KECE415",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "전기전자공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -404,7 +779,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
@@ -429,7 +804,7 @@
             "id": "MATH162",
             "position": {
                 "x": 660,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "미적분학및연습II",
@@ -454,7 +829,7 @@
             "id": "PHYS152",
             "position": {
                 "x": 660,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "일반물리학연습 II",
@@ -479,7 +854,7 @@
             "id": "PHYS162",
             "position": {
                 "x": 660,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "일반물리학실험 II",
@@ -504,7 +879,7 @@
             "id": "CHEM152",
             "position": {
                 "x": 660,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "일반화학및연습 II",
@@ -529,7 +904,7 @@
             "id": "CHEM154",
             "position": {
                 "x": 660,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "일반화학실험 II",
@@ -554,7 +929,7 @@
             "id": "EAES152",
             "position": {
                 "x": 660,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "지구환경과학및연습 II",
@@ -579,7 +954,7 @@
             "id": "EAES154",
             "position": {
                 "x": 660,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "지구환경과학실험 II",
@@ -604,7 +979,7 @@
             "id": "LIBS152",
             "position": {
                 "x": 660,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "일반생물학및연습 II",
@@ -629,7 +1004,7 @@
             "id": "LIBS154",
             "position": {
                 "x": 660,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "일반생물학실험 II",
@@ -646,231 +1021,6 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH211",
-            "position": {
-                "x": 660,
-                "y": 770
-            },
-            "data": {
-                "label": "해석학I및연습",
-                "학수번호": "MATH211",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH212",
-            "position": {
-                "x": 660,
-                "y": 840
-            },
-            "data": {
-                "label": "해석학II및연습",
-                "학수번호": "MATH212",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH221",
-            "position": {
-                "x": 660,
-                "y": 910
-            },
-            "data": {
-                "label": "선형대수I및연습",
-                "학수번호": "MATH221",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH222",
-            "position": {
-                "x": 660,
-                "y": 980
-            },
-            "data": {
-                "label": "선형대수II및연습",
-                "학수번호": "MATH222",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH240",
-            "position": {
-                "x": 660,
-                "y": 1050
-            },
-            "data": {
-                "label": "미분방정식및연습",
-                "학수번호": "MATH240",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM201",
-            "position": {
-                "x": 660,
-                "y": 1120
-            },
-            "data": {
-                "label": "물리화학I",
-                "학수번호": "CHEM201",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM202",
-            "position": {
-                "x": 660,
-                "y": 1190
-            },
-            "data": {
-                "label": "물리화학II",
-                "학수번호": "CHEM202",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE221",
-            "position": {
-                "x": 660,
-                "y": 1260
-            },
-            "data": {
-                "label": "논리설계",
-                "학수번호": "COSE221",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "KECE212",
-            "position": {
-                "x": 660,
-                "y": 1330
-            },
-            "data": {
-                "label": "물성전자공학",
-                "학수번호": "KECE212",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "전기전자공학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -904,7 +1054,7 @@
             "id": "PHYS220",
             "position": {
                 "x": 880,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "고전역학",
@@ -929,7 +1079,7 @@
             "id": "PHYS233",
             "position": {
                 "x": 880,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "수리물리학",
@@ -979,7 +1129,7 @@
             "id": "PHYS224",
             "position": {
                 "x": 1100,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "전자기학I",
@@ -1004,7 +1154,7 @@
             "id": "PHYS234",
             "position": {
                 "x": 1100,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "수리역학",
@@ -1021,156 +1171,6 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SCED303",
-            "position": {
-                "x": 1100,
-                "y": 210
-            },
-            "data": {
-                "label": "과학교과논리및논술",
-                "학수번호": "SCED303",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "이과대학",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH331",
-            "position": {
-                "x": 1100,
-                "y": 280
-            },
-            "data": {
-                "label": "미분기하학I",
-                "학수번호": "MATH331",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH372",
-            "position": {
-                "x": 1100,
-                "y": 350
-            },
-            "data": {
-                "label": "미분기하학II",
-                "학수번호": "MATH372",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH315",
-            "position": {
-                "x": 1100,
-                "y": 420
-            },
-            "data": {
-                "label": "복소해석학I",
-                "학수번호": "MATH315",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH358",
-            "position": {
-                "x": 1100,
-                "y": 490
-            },
-            "data": {
-                "label": "복소해석학II",
-                "학수번호": "MATH358",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "KECE331",
-            "position": {
-                "x": 1100,
-                "y": 560
-            },
-            "data": {
-                "label": "반도체공학I",
-                "학수번호": "KECE331",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "전기전자공학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1204,7 +1204,7 @@
             "id": "PHYS331",
             "position": {
                 "x": 1320,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "전자기학II",
@@ -1229,7 +1229,7 @@
             "id": "PHYS361",
             "position": {
                 "x": 1320,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "양자역학I",
@@ -1254,7 +1254,7 @@
             "id": "PHYS391",
             "position": {
                 "x": 1320,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "물리교과교육론",
@@ -1263,6 +1263,31 @@
                 "전공역량": "과학적 내용의 표현과 전달",
                 "개설학과": "물리학과",
                 "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SCED303",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "data": {
+                "label": "과학교과논리및논술",
+                "학수번호": "SCED303",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "이과대학",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null
             },
@@ -1304,7 +1329,7 @@
             "id": "PHYS362",
             "position": {
                 "x": 1540,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "양자역학II",
@@ -1329,7 +1354,7 @@
             "id": "PHYS370",
             "position": {
                 "x": 1540,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "물리학탐구I",
@@ -1354,7 +1379,7 @@
             "id": "PHYS470",
             "position": {
                 "x": 1540,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "물리학탐구II",
@@ -1379,7 +1404,7 @@
             "id": "PHYS394",
             "position": {
                 "x": 1540,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "물리교과교재연구및지도법",
@@ -1387,31 +1412,6 @@
                 "세부전공": null,
                 "전공역량": "과학적 내용의 표현과 전달",
                 "개설학과": "물리학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "KECE415",
-            "position": {
-                "x": 1540,
-                "y": 350
-            },
-            "data": {
-                "label": "나노전자공학",
-                "학수번호": "KECE415",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "전기전자공학부",
                 "개설횟수": 4,
                 "내용": null,
                 "메모": null
@@ -1454,7 +1454,7 @@
             "id": "PHYS461",
             "position": {
                 "x": 1760,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "전산물리학및실습",
@@ -1479,7 +1479,7 @@
             "id": "PHYS463",
             "position": {
                 "x": 1760,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "양자정보물리학",
@@ -1504,7 +1504,7 @@
             "id": "PHYS481",
             "position": {
                 "x": 1760,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "광학",
@@ -1529,7 +1529,7 @@
             "id": "PHYS491",
             "position": {
                 "x": 1760,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "생물물리학",
@@ -1579,7 +1579,7 @@
             "id": "PHYS466",
             "position": {
                 "x": 1980,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "인공지능물리학",
@@ -1604,7 +1604,7 @@
             "id": "PHYS468",
             "position": {
                 "x": 1980,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "우주론",
@@ -1629,7 +1629,7 @@
             "id": "PHYS482",
             "position": {
                 "x": 1980,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "고체물리학",
@@ -1654,7 +1654,7 @@
             "id": "PHYS492",
             "position": {
                 "x": 1980,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "핵및입자물리학",

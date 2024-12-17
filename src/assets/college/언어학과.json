@@ -1,0 +1,1680 @@
+{
+    "nodes": [
+        {
+            "id": "LING003",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "data": {
+                "label": "무제강좌",
+                "학수번호": "LING003",
+                "세부전공": null,
+                "전공역량": "통합능력",
+                "개설학과": "언어학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING201",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "data": {
+                "label": "일반언어학",
+                "학수번호": "LING201",
+                "세부전공": null,
+                "전공역량": "통합능력",
+                "개설학과": "언어학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING221",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "data": {
+                "label": "기호학",
+                "학수번호": "LING221",
+                "세부전공": null,
+                "전공역량": "전문성 ",
+                "개설학과": "언어학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING251",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "data": {
+                "label": "언어와첨단과학",
+                "학수번호": "LING251",
+                "세부전공": null,
+                "전공역량": "통합능력",
+                "개설학과": "언어학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING202",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "음성학",
+                "학수번호": "LING202",
+                "세부전공": null,
+                "전공역량": "전문성 ",
+                "개설학과": "언어학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING212",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "data": {
+                "label": "의미론",
+                "학수번호": "LING212",
+                "세부전공": null,
+                "전공역량": "의사소통",
+                "개설학과": "언어학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING222",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "data": {
+                "label": "세계의언어",
+                "학수번호": "LING222",
+                "세부전공": null,
+                "전공역량": "전문성 ",
+                "개설학과": "언어학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING262",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "data": {
+                "label": "언어와통계",
+                "학수번호": "LING262",
+                "세부전공": null,
+                "전공역량": "통합능력",
+                "개설학과": "언어학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 100
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 II",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 200
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING301",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "data": {
+                "label": "음운론",
+                "학수번호": "LING301",
+                "세부전공": null,
+                "전공역량": "통합능력",
+                "개설학과": "언어학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING303",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "data": {
+                "label": "언어학사",
+                "학수번호": "LING303",
+                "세부전공": null,
+                "전공역량": "다문화포용",
+                "개설학과": "언어학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING311",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "data": {
+                "label": "통사론",
+                "학수번호": "LING311",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "언어학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING313",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "data": {
+                "label": "언어와논리",
+                "학수번호": "LING313",
+                "세부전공": null,
+                "전공역량": "통합능력",
+                "개설학과": "언어학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING321",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "data": {
+                "label": "화용론",
+                "학수번호": "LING321",
+                "세부전공": null,
+                "전공역량": "의사소통",
+                "개설학과": "언어학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING333",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "data": {
+                "label": "인지언어학",
+                "학수번호": "LING333",
+                "세부전공": null,
+                "전공역량": "통합능력",
+                "개설학과": "언어학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING375",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "data": {
+                "label": "문자학",
+                "학수번호": "LING375",
+                "세부전공": null,
+                "전공역량": "통합능력",
+                "개설학과": "언어학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING383",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "data": {
+                "label": "디자인기호학의이해",
+                "학수번호": "LING383",
+                "세부전공": null,
+                "전공역량": "창의력",
+                "개설학과": "언어학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING304",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "data": {
+                "label": "언어자료와컴퓨터",
+                "학수번호": "LING304",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "언어학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING322",
+            "position": {
+                "x": 1540,
+                "y": 100
+            },
+            "data": {
+                "label": "형태론",
+                "학수번호": "LING322",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "언어학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING332",
+            "position": {
+                "x": 1540,
+                "y": 200
+            },
+            "data": {
+                "label": "담화분석",
+                "학수번호": "LING332",
+                "세부전공": null,
+                "전공역량": "의사소통",
+                "개설학과": "언어학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING342",
+            "position": {
+                "x": 1540,
+                "y": 300
+            },
+            "data": {
+                "label": "언어유형론",
+                "학수번호": "LING342",
+                "세부전공": null,
+                "전공역량": "통합능력",
+                "개설학과": "언어학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING372",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "data": {
+                "label": "시각기호학",
+                "학수번호": "LING372",
+                "세부전공": null,
+                "전공역량": "전문성 ",
+                "개설학과": "언어학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING382",
+            "position": {
+                "x": 1540,
+                "y": 500
+            },
+            "data": {
+                "label": "언어병리학",
+                "학수번호": "LING382",
+                "세부전공": null,
+                "전공역량": "통합능력",
+                "개설학과": "언어학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING405",
+            "position": {
+                "x": 1540,
+                "y": 600
+            },
+            "data": {
+                "label": "언어와컴퓨터I",
+                "학수번호": "LING405",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "언어학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING402",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "data": {
+                "label": "역사비교언어학",
+                "학수번호": "LING402",
+                "세부전공": null,
+                "전공역량": "통합능력",
+                "개설학과": "언어학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING406",
+            "position": {
+                "x": 1980,
+                "y": 100
+            },
+            "data": {
+                "label": "언어와컴퓨터II",
+                "학수번호": "LING406",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "언어학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING412",
+            "position": {
+                "x": 1980,
+                "y": 200
+            },
+            "data": {
+                "label": "개별언어II",
+                "학수번호": "LING412",
+                "세부전공": null,
+                "전공역량": "의사소통",
+                "개설학과": "언어학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING421",
+            "position": {
+                "x": 1980,
+                "y": 300
+            },
+            "data": {
+                "label": "언어와미디어",
+                "학수번호": "LING421",
+                "세부전공": null,
+                "전공역량": "전문성 ",
+                "개설학과": "언어학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING422",
+            "position": {
+                "x": 1980,
+                "y": 400
+            },
+            "data": {
+                "label": "생성문법",
+                "학수번호": "LING422",
+                "세부전공": null,
+                "전공역량": "통합능력",
+                "개설학과": "언어학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING424",
+            "position": {
+                "x": 1980,
+                "y": 500
+            },
+            "data": {
+                "label": "법언어학",
+                "학수번호": "LING424",
+                "세부전공": null,
+                "전공역량": "통합능력",
+                "개설학과": "언어학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING425",
+            "position": {
+                "x": 1980,
+                "y": 600
+            },
+            "data": {
+                "label": "언어학과문학",
+                "학수번호": "LING425",
+                "세부전공": null,
+                "전공역량": "통합능력",
+                "개설학과": "언어학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING454",
+            "position": {
+                "x": 1980,
+                "y": 700
+            },
+            "data": {
+                "label": "언어학강독II",
+                "학수번호": "LING454",
+                "세부전공": null,
+                "전공역량": "통합능력",
+                "개설학과": "언어학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING471",
+            "position": {
+                "x": 1980,
+                "y": 800
+            },
+            "data": {
+                "label": "응용기호학",
+                "학수번호": "LING471",
+                "세부전공": null,
+                "전공역량": "전문성 ",
+                "개설학과": "언어학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING472",
+            "position": {
+                "x": 1980,
+                "y": 900
+            },
+            "data": {
+                "label": "사회언어학",
+                "학수번호": "LING472",
+                "세부전공": null,
+                "전공역량": "다문화포용",
+                "개설학과": "언어학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING475",
+            "position": {
+                "x": 1980,
+                "y": 1000
+            },
+            "data": {
+                "label": "언어와시각예술",
+                "학수번호": "LING475",
+                "세부전공": null,
+                "전공역량": "전문성 ",
+                "개설학과": "언어학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING482",
+            "position": {
+                "x": 1980,
+                "y": 1100
+            },
+            "data": {
+                "label": "언어습득",
+                "학수번호": "LING482",
+                "세부전공": null,
+                "전공역량": "다문화포용",
+                "개설학과": "언어학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING492",
+            "position": {
+                "x": 1980,
+                "y": 1200
+            },
+            "data": {
+                "label": "언어학특강II",
+                "학수번호": "LING492",
+                "세부전공": null,
+                "전공역량": "통합능력",
+                "개설학과": "언어학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING403",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "언어학이론응용",
+                "학수번호": "LING403",
+                "세부전공": null,
+                "전공역량": "창의력",
+                "개설학과": "언어학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING414",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "data": {
+                "label": "언어와인공지능",
+                "학수번호": "LING414",
+                "세부전공": null,
+                "전공역량": "창의력",
+                "개설학과": "언어학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING431",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "data": {
+                "label": "개별언어I",
+                "학수번호": "LING431",
+                "세부전공": null,
+                "전공역량": "의사소통",
+                "개설학과": "언어학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING453",
+            "position": {
+                "x": 1760,
+                "y": 300
+            },
+            "data": {
+                "label": "언어학연습I",
+                "학수번호": "LING453",
+                "세부전공": null,
+                "전공역량": "창의력",
+                "개설학과": "언어학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING461",
+            "position": {
+                "x": 1760,
+                "y": 400
+            },
+            "data": {
+                "label": "문법론",
+                "학수번호": "LING461",
+                "세부전공": null,
+                "전공역량": "통합능력",
+                "개설학과": "언어학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING481",
+            "position": {
+                "x": 1760,
+                "y": 500
+            },
+            "data": {
+                "label": "언어학특강I",
+                "학수번호": "LING481",
+                "세부전공": null,
+                "전공역량": "통합능력",
+                "개설학과": "언어학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING491",
+            "position": {
+                "x": 1760,
+                "y": 600
+            },
+            "data": {
+                "label": "언어학강독I",
+                "학수번호": "LING491",
+                "세부전공": null,
+                "전공역량": "통합능력",
+                "개설학과": "언어학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LING485",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "언어습득실습",
+                "학수번호": "LING485",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "언어학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": "전공역량안적힘"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COLA173",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "data": {
+                "label": "디지털인문학응용",
+                "학수번호": "COLA173",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFECB3",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COLA200",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "인문융합세미나",
+                "학수번호": "COLA200",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 800
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHIN103\t",
+            "position": {
+                "x": 440,
+                "y": 900
+            },
+            "data": {
+                "label": "교양중국어I",
+                "학수번호": "CHIN103\t",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "중어중문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHIN104",
+            "position": {
+                "x": 440,
+                "y": 1000
+            },
+            "data": {
+                "label": "교양중국어II",
+                "학수번호": "CHIN104",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "중어중문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN141",
+            "position": {
+                "x": 440,
+                "y": 1100
+            },
+            "data": {
+                "label": "교양프랑스어I",
+                "학수번호": "FRAN141",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "불어불문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN142",
+            "position": {
+                "x": 440,
+                "y": 1200
+            },
+            "data": {
+                "label": "교양프랑스어II",
+                "학수번호": "FRAN142",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "불어불문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM161",
+            "position": {
+                "x": 440,
+                "y": 1300
+            },
+            "data": {
+                "label": "교양독일어I",
+                "학수번호": "GERM161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "독어독문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM162",
+            "position": {
+                "x": 440,
+                "y": 1400
+            },
+            "data": {
+                "label": "교양독일어II",
+                "학수번호": "GERM162",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "독어독문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HANM141",
+            "position": {
+                "x": 440,
+                "y": 1500
+            },
+            "data": {
+                "label": "초급한문",
+                "학수번호": "HANM141",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "한문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN113",
+            "position": {
+                "x": 440,
+                "y": 1600
+            },
+            "data": {
+                "label": "교양일본어I",
+                "학수번호": "JAPN113",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "일어일문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN114",
+            "position": {
+                "x": 440,
+                "y": 1700
+            },
+            "data": {
+                "label": "교양일본어II",
+                "학수번호": "JAPN114",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "일어일문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "RUSS131",
+            "position": {
+                "x": 440,
+                "y": 1800
+            },
+            "data": {
+                "label": "교양러시아어I",
+                "학수번호": "RUSS131",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "노어노문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "RUSS132",
+            "position": {
+                "x": 440,
+                "y": 1900
+            },
+            "data": {
+                "label": "교양러시아어II",
+                "학수번호": "RUSS132",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "노어노문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN121",
+            "position": {
+                "x": 440,
+                "y": 2000
+            },
+            "data": {
+                "label": "교양스페인어I",
+                "학수번호": "SPAN121",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN122",
+            "position": {
+                "x": 440,
+                "y": 2100
+            },
+            "data": {
+                "label": "교양스페인어II",
+                "학수번호": "SPAN122",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        }
+    ],
+    "edges": []
+}

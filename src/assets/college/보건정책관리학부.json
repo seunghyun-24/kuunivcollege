@@ -3,7 +3,7 @@
         {
             "id": "GELI005",
             "position": {
-                "x": 220,
+                "x": 440,
                 "y": 0
             },
             "data": {
@@ -26,60 +26,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 220,
-                "y": 70
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 220,
-                "y": 140
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 0
+                "y": 100
             },
             "data": {
                 "label": "글쓰기",
@@ -101,10 +51,35 @@
             }
         },
         {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 70
+                "y": 300
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -129,7 +104,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 140
+                "y": 400
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -151,10 +126,35 @@
             }
         },
         {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "KHPM101",
             "position": {
                 "x": 440,
-                "y": 210
+                "y": 600
             },
             "data": {
                 "label": "사회와건강",
@@ -179,7 +179,7 @@
             "id": "KHPM107",
             "position": {
                 "x": 440,
-                "y": 280
+                "y": 700
             },
             "data": {
                 "label": "국제보건론",
@@ -204,7 +204,7 @@
             "id": "KHPM109",
             "position": {
                 "x": 440,
-                "y": 350
+                "y": 800
             },
             "data": {
                 "label": "건강정의론",
@@ -254,7 +254,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
@@ -279,7 +279,7 @@
             "id": "KHPM102",
             "position": {
                 "x": 660,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "공중보건학",
@@ -304,7 +304,7 @@
             "id": "KHPM104",
             "position": {
                 "x": 660,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "보건의료경영",
@@ -329,7 +329,7 @@
             "id": "KHPM204",
             "position": {
                 "x": 660,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "보건학도를위한의학개론",
@@ -354,7 +354,7 @@
             "id": "KHPM221",
             "position": {
                 "x": 660,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "인간과생명",
@@ -404,7 +404,7 @@
             "id": "KHPM203",
             "position": {
                 "x": 880,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "보건통계학개론",
@@ -429,7 +429,7 @@
             "id": "KHPM205",
             "position": {
                 "x": 880,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "법과보건정책관리",
@@ -454,7 +454,7 @@
             "id": "KHPM213",
             "position": {
                 "x": 880,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "보건의료조직관리론",
@@ -479,7 +479,7 @@
             "id": "KHPM215",
             "position": {
                 "x": 880,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "보건의료정보관리학",
@@ -504,7 +504,7 @@
             "id": "KHPM219",
             "position": {
                 "x": 880,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "치아와건강",
@@ -529,7 +529,7 @@
             "id": "KHPM223",
             "position": {
                 "x": 880,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "보건의료전산학",
@@ -554,7 +554,7 @@
             "id": "KHPM225",
             "position": {
                 "x": 880,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "보건데이터분석R기초",
@@ -604,7 +604,7 @@
             "id": "KHPM206",
             "position": {
                 "x": 1100,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "중급보건통계학",
@@ -629,7 +629,7 @@
             "id": "KHPM208",
             "position": {
                 "x": 1100,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "의료보장론",
@@ -654,7 +654,7 @@
             "id": "KHPM212",
             "position": {
                 "x": 1100,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "보건정보시스템",
@@ -679,7 +679,7 @@
             "id": "KHPM216",
             "position": {
                 "x": 1100,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "구강보건학",
@@ -704,7 +704,7 @@
             "id": "KHPM218",
             "position": {
                 "x": 1100,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "의료회계및원가관리",
@@ -729,7 +729,7 @@
             "id": "KHPM226",
             "position": {
                 "x": 1100,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "보건인구학",
@@ -754,7 +754,7 @@
             "id": "KHPM228",
             "position": {
                 "x": 1100,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "보건데이터코딩파이선기초",
@@ -804,7 +804,7 @@
             "id": "KHPM304",
             "position": {
                 "x": 1540,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "보건정책변동론",
@@ -829,7 +829,7 @@
             "id": "KHPM306",
             "position": {
                 "x": 1540,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "건강형평성연구",
@@ -854,7 +854,7 @@
             "id": "KHPM308",
             "position": {
                 "x": 1540,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "보건데이터베이스",
@@ -879,7 +879,7 @@
             "id": "KHPM316",
             "position": {
                 "x": 1540,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "보건의료BI",
@@ -904,7 +904,7 @@
             "id": "KHPM318",
             "position": {
                 "x": 1540,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "환경과건강",
@@ -929,7 +929,7 @@
             "id": "KHPM322",
             "position": {
                 "x": 1540,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "보건의료인적자원관리",
@@ -954,7 +954,7 @@
             "id": "KHPM323",
             "position": {
                 "x": 1540,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "비교의료제도론",
@@ -979,7 +979,7 @@
             "id": "KHPM324",
             "position": {
                 "x": 1540,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "현대인의만성질환",
@@ -1004,7 +1004,7 @@
             "id": "KHPM326",
             "position": {
                 "x": 1540,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "지속가능발전과환경",
@@ -1029,7 +1029,7 @@
             "id": "KHPM332",
             "position": {
                 "x": 1540,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "국제보건거버넌스",
@@ -1079,7 +1079,7 @@
             "id": "KHPM309",
             "position": {
                 "x": 1320,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "보건경제학",
@@ -1104,7 +1104,7 @@
             "id": "KHPM311",
             "position": {
                 "x": 1320,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "의료재무관리",
@@ -1129,7 +1129,7 @@
             "id": "KHPM313",
             "position": {
                 "x": 1320,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "보건의료서비스질관리",
@@ -1154,7 +1154,7 @@
             "id": "KHPM319",
             "position": {
                 "x": 1320,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "건강증진학",
@@ -1179,7 +1179,7 @@
             "id": "KHPM327",
             "position": {
                 "x": 1320,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "보건정책학",
@@ -1229,7 +1229,7 @@
             "id": "KHPM409",
             "position": {
                 "x": 1760,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "헬스커뮤니케이션",
@@ -1254,7 +1254,7 @@
             "id": "KHPM411",
             "position": {
                 "x": 1760,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "보건의료마케팅론",
@@ -1279,7 +1279,7 @@
             "id": "KHPM413",
             "position": {
                 "x": 1760,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "유헬스케어",
@@ -1304,7 +1304,7 @@
             "id": "KHPM417",
             "position": {
                 "x": 1760,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "보건산업론",
@@ -1329,7 +1329,7 @@
             "id": "KHPM421",
             "position": {
                 "x": 1760,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "보건프로그램계획및평가",
@@ -1354,7 +1354,7 @@
             "id": "KHPM423",
             "position": {
                 "x": 1760,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "보건정책분석및평가",
@@ -1379,7 +1379,7 @@
             "id": "KHPM427",
             "position": {
                 "x": 1760,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "보건의료전문가양성실습",
@@ -1429,7 +1429,7 @@
             "id": "KHPM408",
             "position": {
                 "x": 1980,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "보건의료전략경영론",
@@ -1454,7 +1454,7 @@
             "id": "KHPM410",
             "position": {
                 "x": 1980,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "보건의료데이터사이언스",
@@ -1479,7 +1479,7 @@
             "id": "KHPM412",
             "position": {
                 "x": 1980,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "지역사회건강증진실습",
@@ -1504,7 +1504,7 @@
             "id": "KHPM414",
             "position": {
                 "x": 1980,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "보건의료관계법규",
@@ -1529,7 +1529,7 @@
             "id": "KHPM422",
             "position": {
                 "x": 1980,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "보건정책관리학캡스톤",
@@ -1554,7 +1554,7 @@
             "id": "KHPM424",
             "position": {
                 "x": 1980,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "사회정책과건강",
@@ -1579,7 +1579,7 @@
             "id": "KHPM428",
             "position": {
                 "x": 1980,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "만성병역학",

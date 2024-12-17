@@ -1,0 +1,1715 @@
+{
+    "nodes": [
+        {
+            "id": "CPSE100",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "사회과학융합세미나",
+                "학수번호": "CPSE100",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "정경대학",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": "개설학과-정경대학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA305",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "data": {
+                "label": "행정법총론",
+                "학수번호": "JURA305",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP201",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "data": {
+                "label": "조사방법론",
+                "학수번호": "PAPP201",
+                "세부전공": null,
+                "전공역량": "공감력",
+                "개설학과": "행정학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP203",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "data": {
+                "label": "정책학",
+                "학수번호": "PAPP203",
+                "세부전공": null,
+                "전공역량": "공감력",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP233",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "data": {
+                "label": "인사행정",
+                "학수번호": "PAPP233",
+                "세부전공": null,
+                "전공역량": "혁신적사고",
+                "개설학과": "행정학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP239",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "data": {
+                "label": "예산과재무관리",
+                "학수번호": "PAPP239",
+                "세부전공": null,
+                "전공역량": "혁신적사고",
+                "개설학과": "행정학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP241",
+            "position": {
+                "x": 880,
+                "y": 400
+            },
+            "data": {
+                "label": "공공철학과윤리",
+                "학수번호": "PAPP241",
+                "세부전공": null,
+                "전공역량": "공감력",
+                "개설학과": "행정학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP245",
+            "position": {
+                "x": 880,
+                "y": 500
+            },
+            "data": {
+                "label": "국가디자인론",
+                "학수번호": "PAPP245",
+                "세부전공": null,
+                "전공역량": "공감력",
+                "개설학과": "행정학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP250",
+            "position": {
+                "x": 880,
+                "y": 600
+            },
+            "data": {
+                "label": "공공행정과민주적거버넌스",
+                "학수번호": "PAPP250",
+                "세부전공": null,
+                "전공역량": "통섭력",
+                "개설학과": "행정학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP346",
+            "position": {
+                "x": 880,
+                "y": 700
+            },
+            "data": {
+                "label": "공공부문의경제적분석",
+                "학수번호": "PAPP346",
+                "세부전공": null,
+                "전공역량": "통섭력",
+                "개설학과": "행정학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP371",
+            "position": {
+                "x": 880,
+                "y": 800
+            },
+            "data": {
+                "label": "공공관리자를위한행정법I",
+                "학수번호": "PAPP371",
+                "세부전공": null,
+                "전공역량": "통섭력",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP209",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "data": {
+                "label": "행정이론",
+                "학수번호": "PAPP209",
+                "세부전공": null,
+                "전공역량": "혁신적사고",
+                "개설학과": "행정학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP211",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "data": {
+                "label": "한국행정론",
+                "학수번호": "PAPP211",
+                "세부전공": null,
+                "전공역량": "혁신적사고",
+                "개설학과": "행정학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP319",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "data": {
+                "label": "복지정책",
+                "학수번호": "PAPP319",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "행정학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP330",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "data": {
+                "label": "정책기획론",
+                "학수번호": "PAPP330",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "행정학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP347",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "data": {
+                "label": "공공관리",
+                "학수번호": "PAPP347",
+                "세부전공": null,
+                "전공역량": "혁신적사고",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP363",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "data": {
+                "label": "행정과법",
+                "학수번호": "PAPP363",
+                "세부전공": null,
+                "전공역량": "통섭력",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP366",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "data": {
+                "label": "정책분석및평가",
+                "학수번호": "PAPP366",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "행정학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP373",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "data": {
+                "label": "정책평가론",
+                "학수번호": "PAPP373",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "행정학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP377",
+            "position": {
+                "x": 1320,
+                "y": 800
+            },
+            "data": {
+                "label": "행정데이터분석을위한프로그래밍",
+                "학수번호": "PAPP377",
+                "세부전공": null,
+                "전공역량": "변화주도",
+                "개설학과": "행정학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP379",
+            "position": {
+                "x": 1320,
+                "y": 900
+            },
+            "data": {
+                "label": "공공부문의양적분석",
+                "학수번호": "PAPP379",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "행정학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP213",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "data": {
+                "label": "지방행정",
+                "학수번호": "PAPP213",
+                "세부전공": null,
+                "전공역량": "혁신적사고",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP336",
+            "position": {
+                "x": 1540,
+                "y": 100
+            },
+            "data": {
+                "label": "정책의규범적분석",
+                "학수번호": "PAPP336",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "행정학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP338",
+            "position": {
+                "x": 1540,
+                "y": 200
+            },
+            "data": {
+                "label": "복지국가론",
+                "학수번호": "PAPP338",
+                "세부전공": null,
+                "전공역량": "통섭력",
+                "개설학과": "행정학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP344",
+            "position": {
+                "x": 1540,
+                "y": 300
+            },
+            "data": {
+                "label": "정부와시장",
+                "학수번호": "PAPP344",
+                "세부전공": null,
+                "전공역량": "통섭력",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP348",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "data": {
+                "label": "정부회계와감사",
+                "학수번호": "PAPP348",
+                "세부전공": null,
+                "전공역량": "혁신적사고",
+                "개설학과": "행정학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP350",
+            "position": {
+                "x": 1540,
+                "y": 500
+            },
+            "data": {
+                "label": "도시계획론",
+                "학수번호": "PAPP350",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP354",
+            "position": {
+                "x": 1540,
+                "y": 600
+            },
+            "data": {
+                "label": "정부관료제",
+                "학수번호": "PAPP354",
+                "세부전공": null,
+                "전공역량": "혁신적사고",
+                "개설학과": "행정학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP355",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "data": {
+                "label": "도시관리와정책",
+                "학수번호": "PAPP355",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "행정학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP357",
+            "position": {
+                "x": 1540,
+                "y": 800
+            },
+            "data": {
+                "label": "환경정책",
+                "학수번호": "PAPP357",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP378",
+            "position": {
+                "x": 1540,
+                "y": 900
+            },
+            "data": {
+                "label": "기계학습과행정혁신",
+                "학수번호": "PAPP378",
+                "세부전공": null,
+                "전공역량": "혁신적사고",
+                "개설학과": "행정학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP380",
+            "position": {
+                "x": 1540,
+                "y": 1000
+            },
+            "data": {
+                "label": "사회정책",
+                "학수번호": "PAPP380",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "행정학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP381",
+            "position": {
+                "x": 1540,
+                "y": 1100
+            },
+            "data": {
+                "label": "디지털기술과데이터기반정부",
+                "학수번호": "PAPP381",
+                "세부전공": null,
+                "전공역량": "혁신적사고",
+                "개설학과": "행정학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP382",
+            "position": {
+                "x": 1540,
+                "y": 1200
+            },
+            "data": {
+                "label": "행정학특강III",
+                "학수번호": "PAPP382",
+                "세부전공": null,
+                "전공역량": "통섭력",
+                "개설학과": "행정학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP225",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "행정학특강I",
+                "학수번호": "PAPP225",
+                "세부전공": null,
+                "전공역량": "변화주도",
+                "개설학과": "행정학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP314",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "data": {
+                "label": "과학기술정책",
+                "학수번호": "PAPP314",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP361",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "data": {
+                "label": "행정사례분석",
+                "학수번호": "PAPP361",
+                "세부전공": null,
+                "전공역량": "변화주도",
+                "개설학과": "행정학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP368",
+            "position": {
+                "x": 1760,
+                "y": 300
+            },
+            "data": {
+                "label": "정보관리와전자정부",
+                "학수번호": "PAPP368",
+                "세부전공": null,
+                "전공역량": "혁신적사고",
+                "개설학과": "행정학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP369",
+            "position": {
+                "x": 1760,
+                "y": 400
+            },
+            "data": {
+                "label": "지역개발론",
+                "학수번호": "PAPP369",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "행정학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP375",
+            "position": {
+                "x": 1760,
+                "y": 500
+            },
+            "data": {
+                "label": "공공기관인턴십I",
+                "학수번호": "PAPP375",
+                "세부전공": null,
+                "전공역량": "변화주도",
+                "개설학과": "행정학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP226",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "data": {
+                "label": "행정학특강II",
+                "학수번호": "PAPP226",
+                "세부전공": null,
+                "전공역량": "변화주도",
+                "개설학과": "행정학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP343",
+            "position": {
+                "x": 1980,
+                "y": 100
+            },
+            "data": {
+                "label": "비교정부",
+                "학수번호": "PAPP343",
+                "세부전공": null,
+                "전공역량": "통섭력",
+                "개설학과": "행정학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP356",
+            "position": {
+                "x": 1980,
+                "y": 200
+            },
+            "data": {
+                "label": "행정과리더십",
+                "학수번호": "PAPP356",
+                "세부전공": null,
+                "전공역량": "혁신적사고",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP362",
+            "position": {
+                "x": 1980,
+                "y": 300
+            },
+            "data": {
+                "label": "위험사회와정책",
+                "학수번호": "PAPP362",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP364",
+            "position": {
+                "x": 1980,
+                "y": 400
+            },
+            "data": {
+                "label": "정책사례분석",
+                "학수번호": "PAPP364",
+                "세부전공": null,
+                "전공역량": "변화주도",
+                "개설학과": "행정학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP365",
+            "position": {
+                "x": 1980,
+                "y": 500
+            },
+            "data": {
+                "label": "갈등관리와협상",
+                "학수번호": "PAPP365",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "행정학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP376",
+            "position": {
+                "x": 1980,
+                "y": 600
+            },
+            "data": {
+                "label": "공공기관인턴십II",
+                "학수번호": "PAPP376",
+                "세부전공": null,
+                "전공역량": "변화주도",
+                "개설학과": "행정학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP240",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "data": {
+                "label": "조직이론",
+                "학수번호": "PAPP240",
+                "세부전공": null,
+                "전공역량": "공감력",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP244",
+            "position": {
+                "x": 660,
+                "y": 100
+            },
+            "data": {
+                "label": "민주주의와행정",
+                "학수번호": "PAPP244",
+                "세부전공": null,
+                "전공역량": "공감력",
+                "개설학과": "행정학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP352",
+            "position": {
+                "x": 660,
+                "y": 200
+            },
+            "data": {
+                "label": "통치제도와정책",
+                "학수번호": "PAPP352",
+                "세부전공": null,
+                "전공역량": "통섭력",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 300
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 II",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 400
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP242",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "행정통계분석",
+                "학수번호": "PAPP242",
+                "세부전공": null,
+                "전공역량": "변화주도",
+                "개설학과": "행정학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP246",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "data": {
+                "label": "소수자정책",
+                "학수번호": "PAPP246",
+                "세부전공": null,
+                "전공역량": "통섭력",
+                "개설학과": "행정학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP345",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "data": {
+                "label": "정부와시민사회",
+                "학수번호": "PAPP345",
+                "세부전공": null,
+                "전공역량": "통섭력",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP351",
+            "position": {
+                "x": 1100,
+                "y": 300
+            },
+            "data": {
+                "label": "정부부패",
+                "학수번호": "PAPP351",
+                "세부전공": null,
+                "전공역량": "혁신적사고",
+                "개설학과": "행정학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP353",
+            "position": {
+                "x": 1100,
+                "y": 400
+            },
+            "data": {
+                "label": "공공정책형성",
+                "학수번호": "PAPP353",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP358",
+            "position": {
+                "x": 1100,
+                "y": 500
+            },
+            "data": {
+                "label": "조직행태론",
+                "학수번호": "PAPP358",
+                "세부전공": null,
+                "전공역량": "혁신적사고",
+                "개설학과": "행정학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP372",
+            "position": {
+                "x": 1100,
+                "y": 600
+            },
+            "data": {
+                "label": "공공관리자를위한행정법II",
+                "학수번호": "PAPP372",
+                "세부전공": null,
+                "전공역량": "통섭력",
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "recommended-PAPP151-PAPP250",
+            "source": "PAPP151",
+            "target": "PAPP250",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-PAPP354-PAPP250",
+            "source": "PAPP354",
+            "target": "PAPP250",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-PAPP377-PAPP378",
+            "source": "PAPP377",
+            "target": "PAPP378",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-PAPP242-PAPP379",
+            "source": "PAPP242",
+            "target": "PAPP379",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-PAPP346-PAPP380",
+            "source": "PAPP346",
+            "target": "PAPP380",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-PAPP330-PAPP381",
+            "source": "PAPP330",
+            "target": "PAPP381",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-PAPP368-PAPP381",
+            "source": "PAPP368",
+            "target": "PAPP381",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        }
+    ]
+}

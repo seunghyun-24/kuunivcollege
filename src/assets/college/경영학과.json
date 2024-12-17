@@ -29,7 +29,7 @@
             "id": "BUSS207",
             "position": {
                 "x": 880,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "재무관리",
@@ -54,7 +54,7 @@
             "id": "BUSS211",
             "position": {
                 "x": 880,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "오퍼레이션스관리",
@@ -79,7 +79,7 @@
             "id": "BUSS213",
             "position": {
                 "x": 880,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "중급회계I",
@@ -104,7 +104,7 @@
             "id": "BUSS215",
             "position": {
                 "x": 880,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "경영정보시스템",
@@ -129,7 +129,7 @@
             "id": "BUSS202",
             "position": {
                 "x": 880,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "사회적가치와지속가능경영",
@@ -154,7 +154,7 @@
             "id": "BUSS204",
             "position": {
                 "x": 880,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "세계경제와기업",
@@ -179,7 +179,7 @@
             "id": "BUSS216",
             "position": {
                 "x": 880,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "비즈니스애널리틱스I",
@@ -204,7 +204,7 @@
             "id": "BUSS236",
             "position": {
                 "x": 880,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "ESG경영",
@@ -229,7 +229,7 @@
             "id": "BUSS259",
             "position": {
                 "x": 880,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "벤처경영",
@@ -279,7 +279,7 @@
             "id": "BUSS313",
             "position": {
                 "x": 1320,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "국제경영론",
@@ -304,7 +304,7 @@
             "id": "BUSS302",
             "position": {
                 "x": 1320,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "파이낸셜애널리틱스",
@@ -329,7 +329,7 @@
             "id": "BUSS306",
             "position": {
                 "x": 1320,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "전략적기술사업화",
@@ -354,7 +354,7 @@
             "id": "BUSS316",
             "position": {
                 "x": 1320,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "오퍼레이션스애널리틱스",
@@ -379,7 +379,7 @@
             "id": "BUSS317",
             "position": {
                 "x": 1320,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "소셜미디어애널리틱스",
@@ -404,7 +404,7 @@
             "id": "BUSS321",
             "position": {
                 "x": 1320,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "지역연구(중국)",
@@ -429,7 +429,7 @@
             "id": "BUSS325",
             "position": {
                 "x": 1320,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "Korean Business & Management in the Global Context",
@@ -454,7 +454,7 @@
             "id": "BUSS331",
             "position": {
                 "x": 1320,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "국제무역론",
@@ -479,7 +479,7 @@
             "id": "BUSS335",
             "position": {
                 "x": 1320,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "IT기반비즈니스모델",
@@ -504,7 +504,7 @@
             "id": "BUSS342",
             "position": {
                 "x": 1320,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "소비자행동",
@@ -529,7 +529,7 @@
             "id": "BUSS354",
             "position": {
                 "x": 1320,
-                "y": 770
+                "y": 1100
             },
             "data": {
                 "label": "회계학이론",
@@ -554,7 +554,7 @@
             "id": "BUSS356",
             "position": {
                 "x": 1320,
-                "y": 840
+                "y": 1200
             },
             "data": {
                 "label": "혁신과전략",
@@ -579,7 +579,7 @@
             "id": "BUSS361",
             "position": {
                 "x": 1320,
-                "y": 910
+                "y": 1300
             },
             "data": {
                 "label": "고급회계",
@@ -604,7 +604,7 @@
             "id": "BUSS363",
             "position": {
                 "x": 1320,
-                "y": 980
+                "y": 1400
             },
             "data": {
                 "label": "마케팅전략",
@@ -629,7 +629,7 @@
             "id": "BUSS364",
             "position": {
                 "x": 1320,
-                "y": 1050
+                "y": 1500
             },
             "data": {
                 "label": "기업윤리",
@@ -654,7 +654,7 @@
             "id": "BUSS365",
             "position": {
                 "x": 1320,
-                "y": 1120
+                "y": 1600
             },
             "data": {
                 "label": "조직디자인과경쟁우위",
@@ -679,7 +679,7 @@
             "id": "BUSS377",
             "position": {
                 "x": 1320,
-                "y": 1190
+                "y": 1700
             },
             "data": {
                 "label": "전략적수요및수익관리",
@@ -704,7 +704,7 @@
             "id": "BUSS382",
             "position": {
                 "x": 1320,
-                "y": 1260
+                "y": 1800
             },
             "data": {
                 "label": "보험과위험관리",
@@ -729,7 +729,7 @@
             "id": "BUSS384",
             "position": {
                 "x": 1320,
-                "y": 1330
+                "y": 1900
             },
             "data": {
                 "label": "기업재무",
@@ -754,7 +754,7 @@
             "id": "BUSS385",
             "position": {
                 "x": 1320,
-                "y": 1400
+                "y": 2000
             },
             "data": {
                 "label": "정보보안관리",
@@ -779,7 +779,7 @@
             "id": "BUSS390",
             "position": {
                 "x": 1320,
-                "y": 1470
+                "y": 2100
             },
             "data": {
                 "label": "Business-to-Business마케팅",
@@ -804,7 +804,7 @@
             "id": "BUSS393",
             "position": {
                 "x": 1320,
-                "y": 1540
+                "y": 2200
             },
             "data": {
                 "label": "현대기아차글로벌마케팅전략",
@@ -829,7 +829,7 @@
             "id": "BUSS397",
             "position": {
                 "x": 1320,
-                "y": 1610
+                "y": 2300
             },
             "data": {
                 "label": "벤처투자운용론",
@@ -879,7 +879,7 @@
             "id": "BUSS407",
             "position": {
                 "x": 1760,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "신상품개발과마케팅",
@@ -904,7 +904,7 @@
             "id": "BUSS409",
             "position": {
                 "x": 1760,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "소셜벤처창업",
@@ -929,7 +929,7 @@
             "id": "BUSS410",
             "position": {
                 "x": 1760,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "기술혁신관리:성공적Entrepreneurship의기초",
@@ -954,7 +954,7 @@
             "id": "BUSS413",
             "position": {
                 "x": 1760,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "기업지배구조의이론과실제",
@@ -979,7 +979,7 @@
             "id": "BUSS414",
             "position": {
                 "x": 1760,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "채권론",
@@ -1004,7 +1004,7 @@
             "id": "BUSS416",
             "position": {
                 "x": 1760,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "기업가치평가",
@@ -1029,7 +1029,7 @@
             "id": "BUSS417",
             "position": {
                 "x": 1760,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "고급투자론",
@@ -1054,7 +1054,7 @@
             "id": "BUSS418",
             "position": {
                 "x": 1760,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "기업의인수합병과구조조정",
@@ -1079,7 +1079,7 @@
             "id": "BUSS420",
             "position": {
                 "x": 1760,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "리더쉽:이론과실제",
@@ -1104,7 +1104,7 @@
             "id": "BUSS431",
             "position": {
                 "x": 1760,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "회계감사",
@@ -1129,7 +1129,7 @@
             "id": "BUSS435",
             "position": {
                 "x": 1760,
-                "y": 770
+                "y": 1100
             },
             "data": {
                 "label": "경영의철학적이해",
@@ -1154,7 +1154,7 @@
             "id": "BUSS439",
             "position": {
                 "x": 1760,
-                "y": 840
+                "y": 1200
             },
             "data": {
                 "label": "마케팅신조류",
@@ -1179,7 +1179,7 @@
             "id": "BUSS442",
             "position": {
                 "x": 1760,
-                "y": 910
+                "y": 1300
             },
             "data": {
                 "label": "품질경영",
@@ -1204,7 +1204,7 @@
             "id": "BUSS447",
             "position": {
                 "x": 1760,
-                "y": 980
+                "y": 1400
             },
             "data": {
                 "label": "로지스틱스관리",
@@ -1229,7 +1229,7 @@
             "id": "BUSS448",
             "position": {
                 "x": 1760,
-                "y": 1050
+                "y": 1500
             },
             "data": {
                 "label": "오퍼레이션스전략",
@@ -1254,7 +1254,7 @@
             "id": "BUSS453",
             "position": {
                 "x": 1760,
-                "y": 1120
+                "y": 1600
             },
             "data": {
                 "label": "데이터관리와지적경영",
@@ -1279,7 +1279,7 @@
             "id": "BUSS475",
             "position": {
                 "x": 1760,
-                "y": 1190
+                "y": 1700
             },
             "data": {
                 "label": "인터넷마케팅",
@@ -1304,7 +1304,7 @@
             "id": "BUSS484",
             "position": {
                 "x": 1760,
-                "y": 1260
+                "y": 1800
             },
             "data": {
                 "label": "글로벌CEO특강",
@@ -1329,7 +1329,7 @@
             "id": "BUSS491",
             "position": {
                 "x": 1760,
-                "y": 1330
+                "y": 1900
             },
             "data": {
                 "label": "국내경영현장실습Ⅳ",
@@ -1354,7 +1354,7 @@
             "id": "BUSS492",
             "position": {
                 "x": 1760,
-                "y": 1400
+                "y": 2000
             },
             "data": {
                 "label": "국내경영현장실습Ⅴ",
@@ -1379,7 +1379,7 @@
             "id": "BUSS493",
             "position": {
                 "x": 1760,
-                "y": 1470
+                "y": 2100
             },
             "data": {
                 "label": "국제경영현장실습Ⅳ",
@@ -1404,7 +1404,7 @@
             "id": "BUSS494",
             "position": {
                 "x": 1760,
-                "y": 1540
+                "y": 2200
             },
             "data": {
                 "label": "국제경영현장실습Ⅴ",
@@ -1428,7 +1428,7 @@
         {
             "id": "BUSS003",
             "position": {
-                "x": 220,
+                "x": 440,
                 "y": 0
             },
             "data": {
@@ -1451,135 +1451,10 @@
             }
         },
         {
-            "id": "PAPP151",
-            "position": {
-                "x": 220,
-                "y": 70
-            },
-            "data": {
-                "label": "행정학원론",
-                "학수번호": "PAPP151",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "행정학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ENGL121",
-            "position": {
-                "x": 220,
-                "y": 140
-            },
-            "data": {
-                "label": "기업영어실습",
-                "학수번호": "ENGL121",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "영어영문학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 220,
-                "y": 210
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 220,
-                "y": 280
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 220,
-                "y": 350
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "BUSS165",
             "position": {
                 "x": 440,
-                "y": 0
+                "y": 100
             },
             "data": {
                 "label": "창업가의마인드셋",
@@ -1601,10 +1476,310 @@
             }
         },
         {
+            "id": "PAPP151",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "행정학원론",
+                "학수번호": "PAPP151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA204",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "data": {
+                "label": "회사법",
+                "학수번호": "JURA204",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA251",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "data": {
+                "label": "행정법",
+                "학수번호": "JURA251",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA301",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "상법",
+                "학수번호": "JURA301",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ENGL121",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "data": {
+                "label": "기업영어실습",
+                "학수번호": "ENGL121",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "영어영문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS309",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "data": {
+                "label": "비즈니스영어",
+                "학수번호": "IFLS309",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제어학원",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON201",
+            "position": {
+                "x": 440,
+                "y": 800
+            },
+            "data": {
+                "label": "미시경제이론",
+                "학수번호": "ECON201",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON202",
+            "position": {
+                "x": 440,
+                "y": 900
+            },
+            "data": {
+                "label": "거시경제이론",
+                "학수번호": "ECON202",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON333",
+            "position": {
+                "x": 440,
+                "y": 1000
+            },
+            "data": {
+                "label": "재정학",
+                "학수번호": "ECON333",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON334",
+            "position": {
+                "x": 440,
+                "y": 1100
+            },
+            "data": {
+                "label": "조세론",
+                "학수번호": "ECON334",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON335",
+            "position": {
+                "x": 440,
+                "y": 1200
+            },
+            "data": {
+                "label": "국제금융론",
+                "학수번호": "ECON335",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EGRN322",
+            "position": {
+                "x": 440,
+                "y": 1300
+            },
+            "data": {
+                "label": "창업과경영을위한공학기술경향",
+                "학수번호": "EGRN322",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "공과대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "BUSS164",
             "position": {
                 "x": 440,
-                "y": 70
+                "y": 1400
             },
             "data": {
                 "label": "경영과사회",
@@ -1626,10 +1801,35 @@
             }
         },
         {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 1500
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 140
+                "y": 1600
             },
             "data": {
                 "label": "글쓰기",
@@ -1651,10 +1851,35 @@
             }
         },
         {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 1700
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 210
+                "y": 1800
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -1679,11 +1904,36 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 280
+                "y": 1900
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
                 "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 2000
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
                 "세부전공": null,
                 "전공역량": null,
                 "개설학과": null,
@@ -1729,7 +1979,7 @@
             "id": "BUSS214",
             "position": {
                 "x": 1100,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "중급회계II",
@@ -1754,7 +2004,7 @@
             "id": "BUSS217",
             "position": {
                 "x": 1100,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "비즈니스애널리틱스II",
@@ -1779,7 +2029,7 @@
             "id": "BUSS238",
             "position": {
                 "x": 1100,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "광고론",
@@ -1804,7 +2054,7 @@
             "id": "BUSS244",
             "position": {
                 "x": 1100,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "관리회계",
@@ -1829,7 +2079,7 @@
             "id": "BUSS246",
             "position": {
                 "x": 1100,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "경영과학",
@@ -1854,7 +2104,7 @@
             "id": "BUSS248",
             "position": {
                 "x": 1100,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "기업경제학",
@@ -1879,7 +2129,7 @@
             "id": "BUSS252",
             "position": {
                 "x": 1100,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "마케팅조사론",
@@ -1904,7 +2154,7 @@
             "id": "BUSS254",
             "position": {
                 "x": 1100,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "투자론",
@@ -1929,7 +2179,7 @@
             "id": "BUSS256",
             "position": {
                 "x": 1100,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "빅데이터분석과해석의기초",
@@ -1946,156 +2196,6 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JURA301",
-            "position": {
-                "x": 1100,
-                "y": 700
-            },
-            "data": {
-                "label": "상법",
-                "학수번호": "JURA301",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "법학전문대학원",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS309",
-            "position": {
-                "x": 1100,
-                "y": 770
-            },
-            "data": {
-                "label": "비즈니스영어",
-                "학수번호": "IFLS309",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "국제어학원",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON333",
-            "position": {
-                "x": 1100,
-                "y": 840
-            },
-            "data": {
-                "label": "재정학",
-                "학수번호": "ECON333",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON334",
-            "position": {
-                "x": 1100,
-                "y": 910
-            },
-            "data": {
-                "label": "조세론",
-                "학수번호": "ECON334",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON335",
-            "position": {
-                "x": 1100,
-                "y": 980
-            },
-            "data": {
-                "label": "국제금융론",
-                "학수번호": "ECON335",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EGRN322",
-            "position": {
-                "x": 1100,
-                "y": 1050
-            },
-            "data": {
-                "label": "창업과경영을위한공학기술경향",
-                "학수번호": "EGRN322",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "공과대학",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -2129,7 +2229,7 @@
             "id": "BUSS303",
             "position": {
                 "x": 1540,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "디자인씽킹과디지털혁신",
@@ -2154,7 +2254,7 @@
             "id": "BUSS305",
             "position": {
                 "x": 1540,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "인공지능과비즈니스",
@@ -2179,7 +2279,7 @@
             "id": "BUSS307",
             "position": {
                 "x": 1540,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "플랫폼비즈니스모델과디지털대전환",
@@ -2204,7 +2304,7 @@
             "id": "BUSS322",
             "position": {
                 "x": 1540,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "지역연구(일본)",
@@ -2229,7 +2329,7 @@
             "id": "BUSS328",
             "position": {
                 "x": 1540,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "거시경제와글로벌비즈니스이해",
@@ -2254,7 +2354,7 @@
             "id": "BUSS330",
             "position": {
                 "x": 1540,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "중국경제론",
@@ -2279,7 +2379,7 @@
             "id": "BUSS340",
             "position": {
                 "x": 1540,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "국제마케팅론",
@@ -2304,7 +2404,7 @@
             "id": "BUSS344",
             "position": {
                 "x": 1540,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "국제금융론",
@@ -2329,7 +2429,7 @@
             "id": "BUSS352",
             "position": {
                 "x": 1540,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "세무회계",
@@ -2354,7 +2454,7 @@
             "id": "BUSS355",
             "position": {
                 "x": 1540,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "노사관계론",
@@ -2379,7 +2479,7 @@
             "id": "BUSS358",
             "position": {
                 "x": 1540,
-                "y": 770
+                "y": 1100
             },
             "data": {
                 "label": "인적자원관리",
@@ -2404,7 +2504,7 @@
             "id": "BUSS362",
             "position": {
                 "x": 1540,
-                "y": 840
+                "y": 1200
             },
             "data": {
                 "label": "유통관리",
@@ -2429,7 +2529,7 @@
             "id": "BUSS367",
             "position": {
                 "x": 1540,
-                "y": 910
+                "y": 1300
             },
             "data": {
                 "label": "국제재무관리",
@@ -2454,7 +2554,7 @@
             "id": "BUSS376",
             "position": {
                 "x": 1540,
-                "y": 980
+                "y": 1400
             },
             "data": {
                 "label": "서비스운영관리",
@@ -2479,7 +2579,7 @@
             "id": "BUSS386",
             "position": {
                 "x": 1540,
-                "y": 1050
+                "y": 1500
             },
             "data": {
                 "label": "선물옵션",
@@ -2504,7 +2604,7 @@
             "id": "BUSS392",
             "position": {
                 "x": 1540,
-                "y": 1120
+                "y": 1600
             },
             "data": {
                 "label": "서비스마케팅",
@@ -2529,7 +2629,7 @@
             "id": "BUSS394",
             "position": {
                 "x": 1540,
-                "y": 1190
+                "y": 1700
             },
             "data": {
                 "label": "비즈니스협상",
@@ -2554,7 +2654,7 @@
             "id": "BUSS395",
             "position": {
                 "x": 1540,
-                "y": 1260
+                "y": 1800
             },
             "data": {
                 "label": "마케팅애널리틱스",
@@ -2604,7 +2704,7 @@
             "id": "BUSS415",
             "position": {
                 "x": 1980,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "위험관리",
@@ -2629,7 +2729,7 @@
             "id": "BUSS425",
             "position": {
                 "x": 1980,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "소셜네트워크와경쟁우위",
@@ -2654,7 +2754,7 @@
             "id": "BUSS438",
             "position": {
                 "x": 1980,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "금융기관경영론",
@@ -2679,7 +2779,7 @@
             "id": "BUSS454",
             "position": {
                 "x": 1980,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "제품및브랜드관리",
@@ -2704,7 +2804,7 @@
             "id": "BUSS456",
             "position": {
                 "x": 1980,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "금융회계",
@@ -2729,7 +2829,7 @@
             "id": "BUSS467",
             "position": {
                 "x": 1980,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "국내경영현장실습I",
@@ -2754,7 +2854,7 @@
             "id": "BUSS468",
             "position": {
                 "x": 1980,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "국내경영현장실습II",
@@ -2779,7 +2879,7 @@
             "id": "BUSS469",
             "position": {
                 "x": 1980,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "국내경영현장실습Ⅲ",
@@ -2804,7 +2904,7 @@
             "id": "BUSS470",
             "position": {
                 "x": 1980,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "국제경영현장실습I",
@@ -2829,7 +2929,7 @@
             "id": "BUSS471",
             "position": {
                 "x": 1980,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "국제경영현장실습II",
@@ -2854,7 +2954,7 @@
             "id": "BUSS472",
             "position": {
                 "x": 1980,
-                "y": 770
+                "y": 1100
             },
             "data": {
                 "label": "국제경영현장실습Ⅲ",
@@ -2879,7 +2979,7 @@
             "id": "BUSS488",
             "position": {
                 "x": 1980,
-                "y": 840
+                "y": 1200
             },
             "data": {
                 "label": "구매,공급관리",
@@ -2904,7 +3004,7 @@
             "id": "BUSS490",
             "position": {
                 "x": 1980,
-                "y": 910
+                "y": 1300
             },
             "data": {
                 "label": "국내경영현장실습Ⅵ",
@@ -2929,7 +3029,7 @@
             "id": "BUSS495",
             "position": {
                 "x": 1980,
-                "y": 980
+                "y": 1400
             },
             "data": {
                 "label": "국내경영현장실습Ⅶ",
@@ -2954,7 +3054,7 @@
             "id": "BUSS496",
             "position": {
                 "x": 1980,
-                "y": 1050
+                "y": 1500
             },
             "data": {
                 "label": "국내경영현장실습Ⅷ",
@@ -2979,7 +3079,7 @@
             "id": "BUSS497",
             "position": {
                 "x": 1980,
-                "y": 1120
+                "y": 1600
             },
             "data": {
                 "label": "국제경영현장실습Ⅵ",
@@ -3004,7 +3104,7 @@
             "id": "BUSS498",
             "position": {
                 "x": 1980,
-                "y": 1190
+                "y": 1700
             },
             "data": {
                 "label": "국제경영현장실습Ⅶ",
@@ -3029,7 +3129,7 @@
             "id": "BUSS499",
             "position": {
                 "x": 1980,
-                "y": 1260
+                "y": 1800
             },
             "data": {
                 "label": "국제경영현장실습Ⅷ",
@@ -3051,110 +3151,10 @@
             }
         },
         {
-            "id": "JURA204",
-            "position": {
-                "x": 660,
-                "y": 0
-            },
-            "data": {
-                "label": "회사법",
-                "학수번호": "JURA204",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "법학전문대학원",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JURA251",
-            "position": {
-                "x": 660,
-                "y": 70
-            },
-            "data": {
-                "label": "행정법",
-                "학수번호": "JURA251",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "법학전문대학원",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON201",
-            "position": {
-                "x": 660,
-                "y": 140
-            },
-            "data": {
-                "label": "미시경제이론",
-                "학수번호": "ECON201",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON202",
-            "position": {
-                "x": 660,
-                "y": 210
-            },
-            "data": {
-                "label": "거시경제이론",
-                "학수번호": "ECON202",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "BUSS152",
             "position": {
                 "x": 660,
-                "y": 280
+                "y": 0
             },
             "data": {
                 "label": "회계학원리",
@@ -3179,7 +3179,7 @@
             "id": "BUSS154",
             "position": {
                 "x": 660,
-                "y": 350
+                "y": 100
             },
             "data": {
                 "label": "경영통계",
@@ -3204,7 +3204,7 @@
             "id": "BUSS166",
             "position": {
                 "x": 660,
-                "y": 420
+                "y": 200
             },
             "data": {
                 "label": "통합적사고와경영학입문",
@@ -3229,7 +3229,7 @@
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 490
+                "y": 300
             },
             "data": {
                 "label": "[진로창업]1학년세미나 II",
@@ -3254,7 +3254,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 560
+                "y": 400
             },
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",

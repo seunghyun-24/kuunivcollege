@@ -3,7 +3,7 @@
         {
             "id": "GELI005",
             "position": {
-                "x": 220,
+                "x": 440,
                 "y": 0
             },
             "data": {
@@ -26,60 +26,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 220,
-                "y": 70
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 220,
-                "y": 140
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 0
+                "y": 100
             },
             "data": {
                 "label": "글쓰기",
@@ -101,10 +51,35 @@
             }
         },
         {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 70
+                "y": 300
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -129,7 +104,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 140
+                "y": 400
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -151,10 +126,35 @@
             }
         },
         {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "LIBS151",
             "position": {
                 "x": 440,
-                "y": 210
+                "y": 600
             },
             "data": {
                 "label": "일반생물학및연습 I",
@@ -179,7 +179,7 @@
             "id": "LIBS153",
             "position": {
                 "x": 440,
-                "y": 280
+                "y": 700
             },
             "data": {
                 "label": "일반생물학실험 I",
@@ -204,7 +204,7 @@
             "id": "LIET151",
             "position": {
                 "x": 440,
-                "y": 350
+                "y": 800
             },
             "data": {
                 "label": "화학의기초및연습 I",
@@ -229,7 +229,7 @@
             "id": "LIET155",
             "position": {
                 "x": 440,
-                "y": 420
+                "y": 900
             },
             "data": {
                 "label": "화학의기초실험 I",
@@ -254,7 +254,7 @@
             "id": "PHYS183",
             "position": {
                 "x": 440,
-                "y": 490
+                "y": 1000
             },
             "data": {
                 "label": "생명물리학및연습",
@@ -279,7 +279,7 @@
             "id": "PHYS161",
             "position": {
                 "x": 440,
-                "y": 560
+                "y": 1100
             },
             "data": {
                 "label": "일반물리학 실험 I",
@@ -329,7 +329,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
@@ -354,7 +354,7 @@
             "id": "LIBS152",
             "position": {
                 "x": 660,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "일반생물학및연습 II",
@@ -379,7 +379,7 @@
             "id": "LIBS154",
             "position": {
                 "x": 660,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "일반생물학실험 II",
@@ -404,7 +404,7 @@
             "id": "LIET152",
             "position": {
                 "x": 660,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "화학의기초및연습 II",
@@ -429,7 +429,7 @@
             "id": "LIET156",
             "position": {
                 "x": 660,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "화학의기초실험 II",
@@ -454,7 +454,7 @@
             "id": "MATH161",
             "position": {
                 "x": 660,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "미적분학및연습 I",
@@ -471,106 +471,6 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT223",
-            "position": {
-                "x": 660,
-                "y": 490
-            },
-            "data": {
-                "label": "해부조직학",
-                "학수번호": "LIBT223",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT240",
-            "position": {
-                "x": 660,
-                "y": 560
-            },
-            "data": {
-                "label": "식물번식공학",
-                "학수번호": "LIBT240",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT256",
-            "position": {
-                "x": 660,
-                "y": 630
-            },
-            "data": {
-                "label": "식물의학개론",
-                "학수번호": "LIBT256",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT276",
-            "position": {
-                "x": 660,
-                "y": 700
-            },
-            "data": {
-                "label": "미생물생리학",
-                "학수번호": "LIBT276",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -604,7 +504,7 @@
             "id": "LIBT201",
             "position": {
                 "x": 880,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "생명공학개론",
@@ -629,7 +529,7 @@
             "id": "LIBT215",
             "position": {
                 "x": 880,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "동물생리학",
@@ -654,7 +554,7 @@
             "id": "LIBT217",
             "position": {
                 "x": 880,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "동물분자유전학",
@@ -676,10 +576,60 @@
             }
         },
         {
+            "id": "LIBT223",
+            "position": {
+                "x": 880,
+                "y": 400
+            },
+            "data": {
+                "label": "해부조직학",
+                "학수번호": "LIBT223",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT240",
+            "position": {
+                "x": 880,
+                "y": 500
+            },
+            "data": {
+                "label": "식물번식공학",
+                "학수번호": "LIBT240",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "LIBT243",
             "position": {
                 "x": 880,
-                "y": 280
+                "y": 600
             },
             "data": {
                 "label": "식물생리학",
@@ -704,7 +654,7 @@
             "id": "LIBT245",
             "position": {
                 "x": 880,
-                "y": 350
+                "y": 700
             },
             "data": {
                 "label": "식물생명공학",
@@ -729,7 +679,7 @@
             "id": "LIBT247",
             "position": {
                 "x": 880,
-                "y": 420
+                "y": 800
             },
             "data": {
                 "label": "식물병리학",
@@ -751,10 +701,35 @@
             }
         },
         {
+            "id": "LIBT256",
+            "position": {
+                "x": 880,
+                "y": 900
+            },
+            "data": {
+                "label": "식물의학개론",
+                "학수번호": "LIBT256",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "LIBT271",
             "position": {
                 "x": 880,
-                "y": 490
+                "y": 1000
             },
             "data": {
                 "label": "유기화학Ⅰ",
@@ -776,10 +751,35 @@
             }
         },
         {
+            "id": "LIBT276",
+            "position": {
+                "x": 880,
+                "y": 1100
+            },
+            "data": {
+                "label": "미생물생리학",
+                "학수번호": "LIBT276",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "LIST201",
             "position": {
                 "x": 880,
-                "y": 560
+                "y": 1200
             },
             "data": {
                 "label": "세포생물학Ⅰ",
@@ -804,7 +804,7 @@
             "id": "LIST203",
             "position": {
                 "x": 880,
-                "y": 630
+                "y": 1300
             },
             "data": {
                 "label": "미생물학Ⅰ",
@@ -854,7 +854,7 @@
             "id": "LIBT210",
             "position": {
                 "x": 1100,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "생명공학기초 및 실험",
@@ -879,7 +879,7 @@
             "id": "LIBT272",
             "position": {
                 "x": 1100,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "유기화학Ⅱ",
@@ -904,7 +904,7 @@
             "id": "LIBT274",
             "position": {
                 "x": 1100,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "효소학",
@@ -926,210 +926,10 @@
             }
         },
         {
-            "id": "LIBT325",
-            "position": {
-                "x": 1100,
-                "y": 280
-            },
-            "data": {
-                "label": "대사조절학",
-                "학수번호": "LIBT325",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT332",
-            "position": {
-                "x": 1100,
-                "y": 350
-            },
-            "data": {
-                "label": "동물분자육종학",
-                "학수번호": "LIBT332",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT338",
-            "position": {
-                "x": 1100,
-                "y": 420
-            },
-            "data": {
-                "label": "식물조직배양공학",
-                "학수번호": "LIBT338",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT344",
-            "position": {
-                "x": 1100,
-                "y": 490
-            },
-            "data": {
-                "label": "식물분자육종학",
-                "학수번호": "LIBT344",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT360",
-            "position": {
-                "x": 1100,
-                "y": 560
-            },
-            "data": {
-                "label": "식물이차대사조절학",
-                "학수번호": "LIBT360",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT361",
-            "position": {
-                "x": 1100,
-                "y": 630
-            },
-            "data": {
-                "label": "식물진균학",
-                "학수번호": "LIBT361",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT368",
-            "position": {
-                "x": 1100,
-                "y": 700
-            },
-            "data": {
-                "label": "식물병제어학",
-                "학수번호": "LIBT368",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT371",
-            "position": {
-                "x": 1100,
-                "y": 770
-            },
-            "data": {
-                "label": "미생물생명공학Ⅰ",
-                "학수번호": "LIBT371",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "LIST202",
             "position": {
                 "x": 1100,
-                "y": 840
+                "y": 400
             },
             "data": {
                 "label": "세포생물학Ⅱ",
@@ -1154,7 +954,7 @@
             "id": "LIST204",
             "position": {
                 "x": 1100,
-                "y": 910
+                "y": 500
             },
             "data": {
                 "label": "미생물학Ⅱ",
@@ -1204,7 +1004,7 @@
             "id": "LIBT311",
             "position": {
                 "x": 1320,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "세포및조직공학",
@@ -1226,10 +1026,35 @@
             }
         },
         {
+            "id": "LIBT325",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "data": {
+                "label": "대사조절학",
+                "학수번호": "LIBT325",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "LIBT327",
             "position": {
                 "x": 1320,
-                "y": 140
+                "y": 300
             },
             "data": {
                 "label": "면역공학",
@@ -1251,10 +1076,85 @@
             }
         },
         {
+            "id": "LIBT332",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "data": {
+                "label": "동물분자육종학",
+                "학수번호": "LIBT332",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT338",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "data": {
+                "label": "식물조직배양공학",
+                "학수번호": "LIBT338",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT344",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "data": {
+                "label": "식물분자육종학",
+                "학수번호": "LIBT344",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "LIBT359",
             "position": {
                 "x": 1320,
-                "y": 210
+                "y": 700
             },
             "data": {
                 "label": "천연물공학",
@@ -1276,10 +1176,60 @@
             }
         },
         {
+            "id": "LIBT360",
+            "position": {
+                "x": 1320,
+                "y": 800
+            },
+            "data": {
+                "label": "식물이차대사조절학",
+                "학수번호": "LIBT360",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT361",
+            "position": {
+                "x": 1320,
+                "y": 900
+            },
+            "data": {
+                "label": "식물진균학",
+                "학수번호": "LIBT361",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "LIBT367",
             "position": {
                 "x": 1320,
-                "y": 280
+                "y": 1000
             },
             "data": {
                 "label": "식물공장학",
@@ -1301,10 +1251,35 @@
             }
         },
         {
+            "id": "LIBT368",
+            "position": {
+                "x": 1320,
+                "y": 1100
+            },
+            "data": {
+                "label": "식물병제어학",
+                "학수번호": "LIBT368",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "LIBT369",
             "position": {
                 "x": 1320,
-                "y": 350
+                "y": 1200
             },
             "data": {
                 "label": "식물세균학및실험",
@@ -1326,10 +1301,35 @@
             }
         },
         {
+            "id": "LIBT371",
+            "position": {
+                "x": 1320,
+                "y": 1300
+            },
+            "data": {
+                "label": "미생물생명공학Ⅰ",
+                "학수번호": "LIBT371",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "LIBT373",
             "position": {
                 "x": 1320,
-                "y": 420
+                "y": 1400
             },
             "data": {
                 "label": "분자생명공학 및 실험",
@@ -1354,7 +1354,7 @@
             "id": "LIBT379",
             "position": {
                 "x": 1320,
-                "y": 490
+                "y": 1500
             },
             "data": {
                 "label": "인체대사생리학",
@@ -1379,7 +1379,7 @@
             "id": "LIBT377",
             "position": {
                 "x": 1320,
-                "y": 560
+                "y": 1600
             },
             "data": {
                 "label": "합성생물학",
@@ -1404,7 +1404,7 @@
             "id": "LIBT381",
             "position": {
                 "x": 1320,
-                "y": 630
+                "y": 1700
             },
             "data": {
                 "label": "생물물리학",
@@ -1429,7 +1429,7 @@
             "id": "LIBT389",
             "position": {
                 "x": 1320,
-                "y": 700
+                "y": 1800
             },
             "data": {
                 "label": "극지생명공학",
@@ -1454,7 +1454,7 @@
             "id": "LIBT391",
             "position": {
                 "x": 1320,
-                "y": 770
+                "y": 1900
             },
             "data": {
                 "label": "분자바이러스생명공학",
@@ -1479,7 +1479,7 @@
             "id": "LIST301",
             "position": {
                 "x": 1320,
-                "y": 840
+                "y": 2000
             },
             "data": {
                 "label": "분자생물학Ⅰ",
@@ -1504,7 +1504,7 @@
             "id": "LIST303",
             "position": {
                 "x": 1320,
-                "y": 910
+                "y": 2100
             },
             "data": {
                 "label": "유전학Ⅰ",
@@ -1529,7 +1529,7 @@
             "id": "LIST305",
             "position": {
                 "x": 1320,
-                "y": 980
+                "y": 2200
             },
             "data": {
                 "label": "생화학Ⅰ",
@@ -1554,7 +1554,7 @@
             "id": "LIST307",
             "position": {
                 "x": 1320,
-                "y": 1050
+                "y": 2300
             },
             "data": {
                 "label": "기능유전체학",
@@ -1604,7 +1604,7 @@
             "id": "LIBT328",
             "position": {
                 "x": 1540,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "분자진단기술 및 실험",
@@ -1629,7 +1629,7 @@
             "id": "LIBT330",
             "position": {
                 "x": 1540,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "유전자공학및실험",
@@ -1654,7 +1654,7 @@
             "id": "LIBT354",
             "position": {
                 "x": 1540,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "채소및허브학",
@@ -1679,7 +1679,7 @@
             "id": "LIBT366",
             "position": {
                 "x": 1540,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "기기분석학및실험",
@@ -1701,35 +1701,10 @@
             }
         },
         {
-            "id": "LIBT416",
-            "position": {
-                "x": 1540,
-                "y": 350
-            },
-            "data": {
-                "label": "줄기세포공학",
-                "학수번호": "LIBT416",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "LIBT417",
             "position": {
                 "x": 1540,
-                "y": 420
+                "y": 500
             },
             "data": {
                 "label": "유전자치료공학",
@@ -1751,135 +1726,10 @@
             }
         },
         {
-            "id": "LIBT436",
-            "position": {
-                "x": 1540,
-                "y": 490
-            },
-            "data": {
-                "label": "생명정보공학",
-                "학수번호": "LIBT436",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT461",
-            "position": {
-                "x": 1540,
-                "y": 560
-            },
-            "data": {
-                "label": "독성생화학",
-                "학수번호": "LIBT461",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBT475",
-            "position": {
-                "x": 1540,
-                "y": 630
-            },
-            "data": {
-                "label": "산업미생물학",
-                "학수번호": "LIBT475",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명공학부",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS474",
-            "position": {
-                "x": 1540,
-                "y": 700
-            },
-            "data": {
-                "label": "세포신호전달학",
-                "학수번호": "LIBS474",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명과학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS478",
-            "position": {
-                "x": 1540,
-                "y": 770
-            },
-            "data": {
-                "label": "염증생물학",
-                "학수번호": "LIBS478",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명과학부",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "LIST302",
             "position": {
                 "x": 1540,
-                "y": 840
+                "y": 600
             },
             "data": {
                 "label": "분자생물학Ⅱ",
@@ -1904,7 +1754,7 @@
             "id": "LIST304",
             "position": {
                 "x": 1540,
-                "y": 910
+                "y": 700
             },
             "data": {
                 "label": "유전학Ⅱ",
@@ -1929,7 +1779,7 @@
             "id": "LIST306",
             "position": {
                 "x": 1540,
-                "y": 980
+                "y": 800
             },
             "data": {
                 "label": "생화학Ⅱ",
@@ -1979,7 +1829,7 @@
             "id": "LIBT438",
             "position": {
                 "x": 1980,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "리보핵산공학",
@@ -2004,7 +1854,7 @@
             "id": "LIBT454",
             "position": {
                 "x": 1980,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "작물수확후관리학 및 실험",
@@ -2029,7 +1879,7 @@
             "id": "LIBT474",
             "position": {
                 "x": 1980,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "바이오매스및바이오에너지공학",
@@ -2054,7 +1904,7 @@
             "id": "LIBT476",
             "position": {
                 "x": 1980,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "면역치료공학",
@@ -2101,10 +1951,60 @@
             }
         },
         {
+            "id": "LIBT416",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "data": {
+                "label": "줄기세포공학",
+                "학수번호": "LIBT416",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT436",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "data": {
+                "label": "생명정보공학",
+                "학수번호": "LIBT436",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "LIBT439",
             "position": {
                 "x": 1760,
-                "y": 70
+                "y": 300
             },
             "data": {
                 "label": "동물생명공학세미나",
@@ -2129,7 +2029,7 @@
             "id": "LIBT453",
             "position": {
                 "x": 1760,
-                "y": 140
+                "y": 400
             },
             "data": {
                 "label": "식물바이러스학",
@@ -2151,10 +2051,110 @@
             }
         },
         {
+            "id": "LIBT461",
+            "position": {
+                "x": 1760,
+                "y": 500
+            },
+            "data": {
+                "label": "독성생화학",
+                "학수번호": "LIBT461",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT475",
+            "position": {
+                "x": 1760,
+                "y": 600
+            },
+            "data": {
+                "label": "산업미생물학",
+                "학수번호": "LIBT475",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS474",
+            "position": {
+                "x": 1760,
+                "y": 700
+            },
+            "data": {
+                "label": "세포신호전달학",
+                "학수번호": "LIBS474",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS478",
+            "position": {
+                "x": 1760,
+                "y": 800
+            },
+            "data": {
+                "label": "염증생물학",
+                "학수번호": "LIBS478",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "LIST401",
             "position": {
                 "x": 1760,
-                "y": 210
+                "y": 900
             },
             "data": {
                 "label": "암생물학",

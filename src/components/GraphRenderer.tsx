@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useCallback, useEffect, useState } from "react";
 import ReactFlow, {
   Background,
   Controls,
@@ -18,9 +18,14 @@ const nodeTypes = {
 interface GraphRendererProps {
   nodes: any[];
   edges: any[];
+  onBoundsChange: (bounds: { width: number; height: number }) => void;
 }
 
-const GraphRenderer: React.FC<GraphRendererProps> = ({ nodes, edges }) => {
+const GraphRenderer: React.FC<GraphRendererProps> = ({
+  nodes,
+  edges,
+  onBoundsChange,
+}) => {
   const [styledNodes, , onNodesChange] = useNodesState(nodes);
   const [styledEdges, , onEdgesChange] = useEdgesState(edges);
   const [hoveredNodeId, setHoveredNodeId] = useState<string | null>(null);
@@ -80,9 +85,30 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({ nodes, edges }) => {
     animated: hoveredNodeId !== null && connectedEdgeIds.has(edge.id),
   }));
 
+  const calculateGraphBounds = useCallback(() => {
+    const maxX = Math.max(
+      ...styledNodes.map((node) => node.position.x + 200),
+      1000
+    );
+    const maxY = Math.max(
+      ...styledNodes.map((node) => node.position.y + 100),
+      500
+    );
+    return { width: maxX, height: maxY };
+  }, [styledNodes]); // styledNodes에 의존
+
+  useEffect(() => {
+    const bounds = calculateGraphBounds();
+    onBoundsChange(bounds); // 부모 컴포넌트에 그래프 크기 전달
+  }, [calculateGraphBounds, onBoundsChange]);
+
+  const handleInit = (instance: any) => {
+    instance.fitView({ padding: 0.05 });
+  };
+
   return (
     <>
-      <div style={{ width: "100%", height: "500px" }}>
+      <div className="reactflow-wrapper">
         <ReactFlow
           nodes={styledNodesWithHighlight}
           edges={styledEdgesWithHighlight}
@@ -90,10 +116,12 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({ nodes, edges }) => {
           onEdgesChange={onEdgesChange}
           onNodeMouseEnter={handleNodeMouseEnter}
           onNodeMouseLeave={handleNodeMouseLeave}
+          onInit={handleInit}
+          // fitViewOptions={{ padding: 0.1 }}
           nodeTypes={nodeTypes}
-          fitView
-          zoomOnScroll={false}
-          panOnDrag={false}
+          // zoomOnScroll={false}
+          // panOnDrag={false}
+          maxZoom={1.0}
           nodesConnectable={false}
           nodesDraggable={false}
           attributionPosition={undefined}

@@ -12,6 +12,7 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
   const [nodes, setNodes] = useNodesState([]);
   const [edges, setEdges] = useEdgesState([]);
   const [loading, setLoading] = useState(false);
+  const [graphBounds, setGraphBounds] = useState({ width: 1000, height: 500 }); // 기본 높이와 너비
 
   useEffect(() => {
     if (department) {
@@ -23,9 +24,6 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
             edges: layoutedEdges,
             // columnPositions,
           } = getLayoutedNodesAndEdges(data.nodes, data.edges);
-
-          console.log("Converted nodes:", layoutedNodes); // 디버깅
-          console.log("Converted edges:", layoutedEdges); // 디버깅
 
           setNodes(layoutedNodes);
           setEdges(layoutedEdges);
@@ -40,12 +38,23 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
   }, [department]);
 
   return (
-    <div className={styles.mainContent}>
+    <div
+      className={styles.mainContent}
+      style={{
+        width: `${graphBounds.width}px`,
+        height: `${graphBounds.height}px`,
+        overflow: "auto",
+      }}
+    >
       {department ? (
         loading ? (
           <p>로딩 중...</p>
         ) : nodes.length > 0 ? (
-          <GraphRenderer nodes={nodes} edges={edges} />
+          <GraphRenderer
+            nodes={nodes}
+            edges={edges}
+            onBoundsChange={(bounds) => setGraphBounds(bounds)} // 그래프 크기 업데이트
+          />
         ) : (
           // <AutoLayoutFlow />
           <p className={styles.errorText}>

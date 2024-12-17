@@ -29,7 +29,7 @@
             "id": "CHIN205",
             "position": {
                 "x": 880,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "중급중국어강독I",
@@ -54,7 +54,7 @@
             "id": "CHIN211",
             "position": {
                 "x": 880,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "현대중국어문법I",
@@ -79,7 +79,7 @@
             "id": "CHIN223",
             "position": {
                 "x": 880,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "중국고전문학사I",
@@ -104,7 +104,7 @@
             "id": "CHIN233",
             "position": {
                 "x": 880,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "중국뉴미디어문화I",
@@ -154,7 +154,7 @@
             "id": "CHIN206",
             "position": {
                 "x": 1100,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "중급중국어강독II",
@@ -179,7 +179,7 @@
             "id": "CHIN212",
             "position": {
                 "x": 1100,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "현대중국어문법II",
@@ -204,7 +204,7 @@
             "id": "CHIN224",
             "position": {
                 "x": 1100,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "중국고전문학사II",
@@ -229,7 +229,7 @@
             "id": "CHIN232",
             "position": {
                 "x": 1100,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "중국현대문학사",
@@ -254,7 +254,7 @@
             "id": "CHIN234",
             "position": {
                 "x": 1100,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "중국뉴미디어문화II",
@@ -279,7 +279,7 @@
             "id": "CHIN241",
             "position": {
                 "x": 1100,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "현대중국사회의이해",
@@ -304,7 +304,7 @@
             "id": "CHIN341",
             "position": {
                 "x": 1100,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "중국고전소설I",
@@ -354,7 +354,7 @@
             "id": "CHIN303",
             "position": {
                 "x": 1320,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "중국어작문I",
@@ -379,7 +379,7 @@
             "id": "CHIN311",
             "position": {
                 "x": 1320,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "중국어의이해I",
@@ -404,7 +404,7 @@
             "id": "CHIN313",
             "position": {
                 "x": 1320,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "중국언어학주제탐구I",
@@ -429,7 +429,7 @@
             "id": "CHIN327",
             "position": {
                 "x": 1320,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "중국고전강독I",
@@ -454,7 +454,7 @@
             "id": "CHIN329",
             "position": {
                 "x": 1320,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "중국고전시가I",
@@ -479,7 +479,7 @@
             "id": "CHIN331",
             "position": {
                 "x": 1320,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "중국현대소설",
@@ -504,7 +504,7 @@
             "id": "CHIN342",
             "position": {
                 "x": 1320,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "중국고전소설II",
@@ -529,7 +529,7 @@
             "id": "CHIN383",
             "position": {
                 "x": 1320,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "중국의공연예술",
@@ -554,7 +554,7 @@
             "id": "CHIN397",
             "position": {
                 "x": 1320,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "중국인문지리",
@@ -604,7 +604,7 @@
             "id": "CHIN304",
             "position": {
                 "x": 1540,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "중국어작문II",
@@ -629,7 +629,7 @@
             "id": "CHIN312",
             "position": {
                 "x": 1540,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "중국어의이해II",
@@ -654,7 +654,7 @@
             "id": "CHIN314",
             "position": {
                 "x": 1540,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "중국언어학주제탐구II",
@@ -679,7 +679,7 @@
             "id": "CHIN328",
             "position": {
                 "x": 1540,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "중국고전강독II",
@@ -704,7 +704,7 @@
             "id": "CHIN330",
             "position": {
                 "x": 1540,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "중국고전시가II",
@@ -729,7 +729,7 @@
             "id": "CHIN332",
             "position": {
                 "x": 1540,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "중국현대시",
@@ -754,7 +754,7 @@
             "id": "CHIN394",
             "position": {
                 "x": 1540,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "인물로보는중국문화",
@@ -804,7 +804,7 @@
             "id": "CHIN451",
             "position": {
                 "x": 1760,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "중국어세미나I",
@@ -829,7 +829,7 @@
             "id": "CHIN453",
             "position": {
                 "x": 1760,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "중국어통역연습",
@@ -854,7 +854,7 @@
             "id": "CHIN481",
             "position": {
                 "x": 1760,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "중국현대문학비평",
@@ -879,7 +879,7 @@
             "id": "CHIN485",
             "position": {
                 "x": 1760,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "중국문학과영상문화",
@@ -904,7 +904,7 @@
             "id": "CHIN489",
             "position": {
                 "x": 1760,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "중국어교과교육론",
@@ -954,7 +954,7 @@
             "id": "CHIN452",
             "position": {
                 "x": 1980,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "중국어세미나II",
@@ -979,7 +979,7 @@
             "id": "CHIN482",
             "position": {
                 "x": 1980,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "중국현대산문",
@@ -1004,7 +1004,7 @@
             "id": "CHIN494",
             "position": {
                 "x": 1980,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "중국어교과교재연구및지도법",
@@ -1029,7 +1029,7 @@
             "id": "CHIN496",
             "position": {
                 "x": 1980,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "중국어교과논리및논술",
@@ -1076,10 +1076,85 @@
             }
         },
         {
+            "id": "COLA173",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "data": {
+                "label": "디지털인문학응용",
+                "학수번호": "COLA173",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFECB3",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COLA200",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "인문융합세미나",
+                "학수번호": "COLA200",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 70
+                "y": 400
             },
             "data": {
                 "label": "글쓰기",
@@ -1101,10 +1176,35 @@
             }
         },
         {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 140
+                "y": 600
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -1129,7 +1229,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 210
+                "y": 700
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -1151,85 +1251,10 @@
             }
         },
         {
-            "id": "COLA173",
-            "position": {
-                "x": 220,
-                "y": 0
-            },
-            "data": {
-                "label": "디지털인문학응용",
-                "학수번호": "COLA173",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "문과대학",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFECB3",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 220,
-                "y": 70
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 220,
-                "y": 140
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEBT001",
             "position": {
-                "x": 220,
-                "y": 210
+                "x": 440,
+                "y": 800
             },
             "data": {
                 "label": "[진로창업]생명과학의세계",
@@ -1253,8 +1278,8 @@
         {
             "id": "CHIN103\t",
             "position": {
-                "x": 220,
-                "y": 280
+                "x": 440,
+                "y": 900
             },
             "data": {
                 "label": "교양중국어I",
@@ -1278,8 +1303,8 @@
         {
             "id": "CHIN104",
             "position": {
-                "x": 220,
-                "y": 350
+                "x": 440,
+                "y": 1000
             },
             "data": {
                 "label": "교양중국어II",
@@ -1303,8 +1328,8 @@
         {
             "id": "FRAN141",
             "position": {
-                "x": 220,
-                "y": 420
+                "x": 440,
+                "y": 1100
             },
             "data": {
                 "label": "교양프랑스어I",
@@ -1328,8 +1353,8 @@
         {
             "id": "FRAN142",
             "position": {
-                "x": 220,
-                "y": 490
+                "x": 440,
+                "y": 1200
             },
             "data": {
                 "label": "교양프랑스어II",
@@ -1353,8 +1378,8 @@
         {
             "id": "GERM161",
             "position": {
-                "x": 220,
-                "y": 560
+                "x": 440,
+                "y": 1300
             },
             "data": {
                 "label": "교양독일어I",
@@ -1378,8 +1403,8 @@
         {
             "id": "GERM162",
             "position": {
-                "x": 220,
-                "y": 630
+                "x": 440,
+                "y": 1400
             },
             "data": {
                 "label": "교양독일어II",
@@ -1403,8 +1428,8 @@
         {
             "id": "HANM141",
             "position": {
-                "x": 220,
-                "y": 700
+                "x": 440,
+                "y": 1500
             },
             "data": {
                 "label": "초급한문",
@@ -1428,8 +1453,8 @@
         {
             "id": "JAPN113",
             "position": {
-                "x": 220,
-                "y": 770
+                "x": 440,
+                "y": 1600
             },
             "data": {
                 "label": "교양일본어I",
@@ -1453,8 +1478,8 @@
         {
             "id": "JAPN114",
             "position": {
-                "x": 220,
-                "y": 840
+                "x": 440,
+                "y": 1700
             },
             "data": {
                 "label": "교양일본어II",
@@ -1478,8 +1503,8 @@
         {
             "id": "RUSS131",
             "position": {
-                "x": 220,
-                "y": 910
+                "x": 440,
+                "y": 1800
             },
             "data": {
                 "label": "교양러시아어I",
@@ -1503,8 +1528,8 @@
         {
             "id": "RUSS132",
             "position": {
-                "x": 220,
-                "y": 980
+                "x": 440,
+                "y": 1900
             },
             "data": {
                 "label": "교양러시아어II",
@@ -1528,8 +1553,8 @@
         {
             "id": "SPAN121",
             "position": {
-                "x": 220,
-                "y": 1050
+                "x": 440,
+                "y": 2000
             },
             "data": {
                 "label": "교양스페인어I",
@@ -1553,8 +1578,8 @@
         {
             "id": "SPAN122",
             "position": {
-                "x": 220,
-                "y": 1120
+                "x": 440,
+                "y": 2100
             },
             "data": {
                 "label": "교양스페인어II",
@@ -1601,35 +1626,10 @@
             }
         },
         {
-            "id": "COLA200",
-            "position": {
-                "x": 660,
-                "y": 70
-            },
-            "data": {
-                "label": "인문융합세미나",
-                "학수번호": "COLA200",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "문과대학",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 140
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]1학년세미나 II",
@@ -1654,7 +1654,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 210
+                "y": 200
             },
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",

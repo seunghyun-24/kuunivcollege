@@ -3,7 +3,7 @@
         {
             "id": "GELI005",
             "position": {
-                "x": 220,
+                "x": 440,
                 "y": 0
             },
             "data": {
@@ -26,135 +26,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 220,
-                "y": 70
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 220,
-                "y": 140
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC201",
-            "position": {
-                "x": 220,
-                "y": 210
-            },
-            "data": {
-                "label": "심리학의기초I",
-                "학수번호": "PSYC201",
-                "세부전공": null,
-                "전공역량": "Mind&Machine",
-                "개설학과": "심리학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC202",
-            "position": {
-                "x": 220,
-                "y": 280
-            },
-            "data": {
-                "label": "심리학의기초II",
-                "학수번호": "PSYC202",
-                "세부전공": null,
-                "전공역량": "Wellness&Wellbeing",
-                "개설학과": "심리학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC209",
-            "position": {
-                "x": 220,
-                "y": 350
-            },
-            "data": {
-                "label": "초급심리통계",
-                "학수번호": "PSYC209",
-                "세부전공": null,
-                "전공역량": "Schema&Scale",
-                "개설학과": "심리학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 0
+                "y": 100
             },
             "data": {
                 "label": "글쓰기",
@@ -176,10 +51,35 @@
             }
         },
         {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 70
+                "y": 300
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -204,7 +104,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 140
+                "y": 400
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -221,6 +121,106 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC201",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "data": {
+                "label": "심리학의기초I",
+                "학수번호": "PSYC201",
+                "세부전공": null,
+                "전공역량": "Mind&Machine",
+                "개설학과": "심리학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC202",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "data": {
+                "label": "심리학의기초II",
+                "학수번호": "PSYC202",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC209",
+            "position": {
+                "x": 440,
+                "y": 800
+            },
+            "data": {
+                "label": "초급심리통계",
+                "학수번호": "PSYC209",
+                "세부전공": null,
+                "전공역량": "Schema&Scale",
+                "개설학과": "심리학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -254,7 +254,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
@@ -279,7 +279,7 @@
             "id": "PSYC220",
             "position": {
                 "x": 660,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "심리학연구와활용",
@@ -329,7 +329,7 @@
             "id": "PSYC221",
             "position": {
                 "x": 880,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "감각및지각심리학",
@@ -354,7 +354,7 @@
             "id": "PSYC224",
             "position": {
                 "x": 880,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "기억심리학",
@@ -379,7 +379,7 @@
             "id": "PSYC225",
             "position": {
                 "x": 880,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "인공지능의심리학",
@@ -404,7 +404,7 @@
             "id": "PSYC241",
             "position": {
                 "x": 880,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "산업심리학 ",
@@ -429,7 +429,7 @@
             "id": "PSYC271",
             "position": {
                 "x": 880,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "생물심리학 ",
@@ -454,7 +454,7 @@
             "id": "PSYC277",
             "position": {
                 "x": 880,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "사회심리학 ",
@@ -479,7 +479,7 @@
             "id": "PSYC279",
             "position": {
                 "x": 880,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "자연지능의계산신경과학",
@@ -529,7 +529,7 @@
             "id": "PSYC236",
             "position": {
                 "x": 1100,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "심리검사 ",
@@ -554,7 +554,7 @@
             "id": "PSYC242",
             "position": {
                 "x": 1100,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "조직심리학",
@@ -579,7 +579,7 @@
             "id": "PSYC275",
             "position": {
                 "x": 1100,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "발달심리학",
@@ -604,7 +604,7 @@
             "id": "PSYC321",
             "position": {
                 "x": 1100,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "인지심리학",
@@ -654,7 +654,7 @@
             "id": "PSYC306",
             "position": {
                 "x": 1540,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "심리데이터과학의기초",
@@ -679,7 +679,7 @@
             "id": "PSYC320",
             "position": {
                 "x": 1540,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "동기의뇌신경과학",
@@ -704,7 +704,7 @@
             "id": "PSYC326",
             "position": {
                 "x": 1540,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "언어심리학",
@@ -729,7 +729,7 @@
             "id": "PSYC330",
             "position": {
                 "x": 1540,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "신경다양성",
@@ -754,7 +754,7 @@
             "id": "PSYC334",
             "position": {
                 "x": 1540,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "상담및심리치료이론",
@@ -779,7 +779,7 @@
             "id": "PSYC336",
             "position": {
                 "x": 1540,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "성격의측정과활용",
@@ -804,7 +804,7 @@
             "id": "PSYC338",
             "position": {
                 "x": 1540,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "정서의뇌신경과학",
@@ -829,7 +829,7 @@
             "id": "PSYC346",
             "position": {
                 "x": 1540,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "진로발달의평가",
@@ -854,7 +854,7 @@
             "id": "PSYC350",
             "position": {
                 "x": 1540,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "창의디자인",
@@ -879,7 +879,7 @@
             "id": "PSYC358",
             "position": {
                 "x": 1540,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "선택의뇌과학",
@@ -904,7 +904,7 @@
             "id": "PSYC360",
             "position": {
                 "x": 1540,
-                "y": 770
+                "y": 1100
             },
             "data": {
                 "label": "행동경제학",
@@ -929,7 +929,7 @@
             "id": "PSYC370",
             "position": {
                 "x": 1540,
-                "y": 840
+                "y": 1200
             },
             "data": {
                 "label": "자기와정체성",
@@ -954,7 +954,7 @@
             "id": "PSYC372",
             "position": {
                 "x": 1540,
-                "y": 910
+                "y": 1300
             },
             "data": {
                 "label": "문화의적응과교류",
@@ -979,7 +979,7 @@
             "id": "PSYC382",
             "position": {
                 "x": 1540,
-                "y": 980
+                "y": 1400
             },
             "data": {
                 "label": "뉴미디어심리학",
@@ -1004,7 +1004,7 @@
             "id": "PSYC390",
             "position": {
                 "x": 1540,
-                "y": 1050
+                "y": 1500
             },
             "data": {
                 "label": "인간의비합리성",
@@ -1029,7 +1029,7 @@
             "id": "PSYC394",
             "position": {
                 "x": 1540,
-                "y": 1120
+                "y": 1600
             },
             "data": {
                 "label": "정서와관계",
@@ -1054,7 +1054,7 @@
             "id": "PSYC396",
             "position": {
                 "x": 1540,
-                "y": 1190
+                "y": 1700
             },
             "data": {
                 "label": "심리학과정보처리이론",
@@ -1079,186 +1079,11 @@
             "id": "PSYC398",
             "position": {
                 "x": 1540,
-                "y": 1260
+                "y": 1800
             },
             "data": {
                 "label": "약물과중독행동",
                 "학수번호": "PSYC398",
-                "세부전공": null,
-                "전공역량": "Leadership&Link",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC703",
-            "position": {
-                "x": 1540,
-                "y": 1330
-            },
-            "data": {
-                "label": "캡스톤디자인",
-                "학수번호": "PSYC703",
-                "세부전공": null,
-                "전공역량": "Leadership&Link",
-                "개설학과": "심리학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC704",
-            "position": {
-                "x": 1540,
-                "y": 1400
-            },
-            "data": {
-                "label": "심리학현장실습A1",
-                "학수번호": "PSYC704",
-                "세부전공": null,
-                "전공역량": "Leadership&Link",
-                "개설학과": "심리학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC705",
-            "position": {
-                "x": 1540,
-                "y": 1470
-            },
-            "data": {
-                "label": "심리학현장실습A2",
-                "학수번호": "PSYC705",
-                "세부전공": null,
-                "전공역량": "Leadership&Link",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC706",
-            "position": {
-                "x": 1540,
-                "y": 1540
-            },
-            "data": {
-                "label": "심리학현장실습B1",
-                "학수번호": "PSYC706",
-                "세부전공": null,
-                "전공역량": "Leadership&Link",
-                "개설학과": "심리학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC707",
-            "position": {
-                "x": 1540,
-                "y": 1610
-            },
-            "data": {
-                "label": "심리학현장실습B2",
-                "학수번호": "PSYC707",
-                "세부전공": null,
-                "전공역량": "Leadership&Link",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC708",
-            "position": {
-                "x": 1540,
-                "y": 1680
-            },
-            "data": {
-                "label": "심리학현장실습C",
-                "학수번호": "PSYC708",
-                "세부전공": null,
-                "전공역량": "Leadership&Link",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC709",
-            "position": {
-                "x": 1540,
-                "y": 1750
-            },
-            "data": {
-                "label": "심리학현장실습D",
-                "학수번호": "PSYC709",
                 "세부전공": null,
                 "전공역량": "Leadership&Link",
                 "개설학과": "심리학부",
@@ -1304,7 +1129,7 @@
             "id": "PSYC319",
             "position": {
                 "x": 1320,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "AI기법을이용한인간행동과마음의탐구",
@@ -1329,7 +1154,7 @@
             "id": "PSYC329",
             "position": {
                 "x": 1320,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "아동이상심리학",
@@ -1354,7 +1179,7 @@
             "id": "PSYC331",
             "position": {
                 "x": 1320,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "이상심리학",
@@ -1379,7 +1204,7 @@
             "id": "PSYC333",
             "position": {
                 "x": 1320,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "집단상담",
@@ -1404,7 +1229,7 @@
             "id": "PSYC335",
             "position": {
                 "x": 1320,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "인지치료",
@@ -1429,7 +1254,7 @@
             "id": "PSYC337",
             "position": {
                 "x": 1320,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "정서와정신건강",
@@ -1454,7 +1279,7 @@
             "id": "PSYC339",
             "position": {
                 "x": 1320,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "빈곤의심리학",
@@ -1479,7 +1304,7 @@
             "id": "PSYC353",
             "position": {
                 "x": 1320,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "소비자광고심리학",
@@ -1504,7 +1329,7 @@
             "id": "PSYC371",
             "position": {
                 "x": 1320,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "문화의형성과이해",
@@ -1529,7 +1354,7 @@
             "id": "PSYC373",
             "position": {
                 "x": 1320,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "인간관계의이해",
@@ -1554,7 +1379,7 @@
             "id": "PSYC374",
             "position": {
                 "x": 1320,
-                "y": 770
+                "y": 1100
             },
             "data": {
                 "label": "심리학을위한프로그래밍",
@@ -1579,7 +1404,7 @@
             "id": "PSYC377",
             "position": {
                 "x": 1320,
-                "y": 840
+                "y": 1200
             },
             "data": {
                 "label": "행동치료",
@@ -1604,7 +1429,7 @@
             "id": "PSYC379",
             "position": {
                 "x": 1320,
-                "y": 910
+                "y": 1300
             },
             "data": {
                 "label": "성격장애",
@@ -1629,7 +1454,7 @@
             "id": "PSYC393",
             "position": {
                 "x": 1320,
-                "y": 980
+                "y": 1400
             },
             "data": {
                 "label": "정서의이해",
@@ -1654,7 +1479,7 @@
             "id": "PSYC399",
             "position": {
                 "x": 1320,
-                "y": 1050
+                "y": 1500
             },
             "data": {
                 "label": "리더십의심리학",
@@ -1679,7 +1504,7 @@
             "id": "PSYC491",
             "position": {
                 "x": 1320,
-                "y": 1120
+                "y": 1600
             },
             "data": {
                 "label": "정서의심리학",
@@ -1729,7 +1554,7 @@
             "id": "PSYC437",
             "position": {
                 "x": 1760,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "예술심리학",
@@ -1754,7 +1579,7 @@
             "id": "PSYC439",
             "position": {
                 "x": 1760,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "사회신경과학",
@@ -1779,7 +1604,7 @@
             "id": "PSYC479",
             "position": {
                 "x": 1760,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "정신사회재활",
@@ -1804,7 +1629,7 @@
             "id": "PSYC481",
             "position": {
                 "x": 1760,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "뇌기능연구기법",
@@ -1829,7 +1654,7 @@
             "id": "PSYC483",
             "position": {
                 "x": 1760,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "인간의동기",
@@ -1854,7 +1679,7 @@
             "id": "PSYC495",
             "position": {
                 "x": 1760,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "윤리와기술",
@@ -1879,7 +1704,7 @@
             "id": "PSYC497",
             "position": {
                 "x": 1760,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "성격과사회적상황",
@@ -1904,11 +1729,186 @@
             "id": "PSYC701",
             "position": {
                 "x": 1760,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "심리학과창업",
                 "학수번호": "PSYC701",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC703",
+            "position": {
+                "x": 1760,
+                "y": 900
+            },
+            "data": {
+                "label": "캡스톤디자인",
+                "학수번호": "PSYC703",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC704",
+            "position": {
+                "x": 1760,
+                "y": 1000
+            },
+            "data": {
+                "label": "심리학현장실습A1",
+                "학수번호": "PSYC704",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC705",
+            "position": {
+                "x": 1760,
+                "y": 1100
+            },
+            "data": {
+                "label": "심리학현장실습A2",
+                "학수번호": "PSYC705",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC706",
+            "position": {
+                "x": 1760,
+                "y": 1200
+            },
+            "data": {
+                "label": "심리학현장실습B1",
+                "학수번호": "PSYC706",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC707",
+            "position": {
+                "x": 1760,
+                "y": 1300
+            },
+            "data": {
+                "label": "심리학현장실습B2",
+                "학수번호": "PSYC707",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC708",
+            "position": {
+                "x": 1760,
+                "y": 1400
+            },
+            "data": {
+                "label": "심리학현장실습C",
+                "학수번호": "PSYC708",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC709",
+            "position": {
+                "x": 1760,
+                "y": 1500
+            },
+            "data": {
+                "label": "심리학현장실습D",
+                "학수번호": "PSYC709",
                 "세부전공": null,
                 "전공역량": "Leadership&Link",
                 "개설학과": "심리학부",
@@ -1954,7 +1954,7 @@
             "id": "PSYC424",
             "position": {
                 "x": 1980,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "심리학자율연구",
@@ -1979,7 +1979,7 @@
             "id": "PSYC468",
             "position": {
                 "x": 1980,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "한국인의심리의식특성",
@@ -2004,7 +2004,7 @@
             "id": "PSYC472",
             "position": {
                 "x": 1980,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "소비자트랜드분석실습",
@@ -2029,7 +2029,7 @@
             "id": "PSYC493",
             "position": {
                 "x": 1980,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "사용자경험과심리학",
@@ -2054,7 +2054,7 @@
             "id": "PSYC496",
             "position": {
                 "x": 1980,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "공감의기술",
@@ -2079,7 +2079,7 @@
             "id": "PSYC498",
             "position": {
                 "x": 1980,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "현대사회의진로적응성",

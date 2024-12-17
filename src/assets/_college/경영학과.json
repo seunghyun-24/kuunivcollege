@@ -1,0 +1,4397 @@
+{
+    "nodes": [
+        {
+            "id": "BUSS205",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "data": {
+                "label": "마케팅원론",
+                "학수번호": "BUSS205",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS207",
+            "position": {
+                "x": 880,
+                "y": 70
+            },
+            "data": {
+                "label": "재무관리",
+                "학수번호": "BUSS207",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS211",
+            "position": {
+                "x": 880,
+                "y": 140
+            },
+            "data": {
+                "label": "오퍼레이션스관리",
+                "학수번호": "BUSS211",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS213",
+            "position": {
+                "x": 880,
+                "y": 210
+            },
+            "data": {
+                "label": "중급회계I",
+                "학수번호": "BUSS213",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS215",
+            "position": {
+                "x": 880,
+                "y": 280
+            },
+            "data": {
+                "label": "경영정보시스템",
+                "학수번호": "BUSS215",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS202",
+            "position": {
+                "x": 880,
+                "y": 350
+            },
+            "data": {
+                "label": "사회적가치와지속가능경영",
+                "학수번호": "BUSS202",
+                "세부전공": null,
+                "전공역량": "사회적책임",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS204",
+            "position": {
+                "x": 880,
+                "y": 420
+            },
+            "data": {
+                "label": "세계경제와기업",
+                "학수번호": "BUSS204",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS216",
+            "position": {
+                "x": 880,
+                "y": 490
+            },
+            "data": {
+                "label": "비즈니스애널리틱스I",
+                "학수번호": "BUSS216",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS236",
+            "position": {
+                "x": 880,
+                "y": 560
+            },
+            "data": {
+                "label": "ESG경영",
+                "학수번호": "BUSS236",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS259",
+            "position": {
+                "x": 880,
+                "y": 630
+            },
+            "data": {
+                "label": "벤처경영",
+                "학수번호": "BUSS259",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS311",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "data": {
+                "label": "조직행동론",
+                "학수번호": "BUSS311",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS313",
+            "position": {
+                "x": 1320,
+                "y": 70
+            },
+            "data": {
+                "label": "국제경영론",
+                "학수번호": "BUSS313",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS302",
+            "position": {
+                "x": 1320,
+                "y": 140
+            },
+            "data": {
+                "label": "파이낸셜애널리틱스",
+                "학수번호": "BUSS302",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS306",
+            "position": {
+                "x": 1320,
+                "y": 210
+            },
+            "data": {
+                "label": "전략적기술사업화",
+                "학수번호": "BUSS306",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS316",
+            "position": {
+                "x": 1320,
+                "y": 280
+            },
+            "data": {
+                "label": "오퍼레이션스애널리틱스",
+                "학수번호": "BUSS316",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS317",
+            "position": {
+                "x": 1320,
+                "y": 350
+            },
+            "data": {
+                "label": "소셜미디어애널리틱스",
+                "학수번호": "BUSS317",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS321",
+            "position": {
+                "x": 1320,
+                "y": 420
+            },
+            "data": {
+                "label": "지역연구(중국)",
+                "학수번호": "BUSS321",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "경영학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS325",
+            "position": {
+                "x": 1320,
+                "y": 490
+            },
+            "data": {
+                "label": "Korean Business & Management in the Global Context",
+                "학수번호": "BUSS325",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS331",
+            "position": {
+                "x": 1320,
+                "y": 560
+            },
+            "data": {
+                "label": "국제무역론",
+                "학수번호": "BUSS331",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS335",
+            "position": {
+                "x": 1320,
+                "y": 630
+            },
+            "data": {
+                "label": "IT기반비즈니스모델",
+                "학수번호": "BUSS335",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS342",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "data": {
+                "label": "소비자행동",
+                "학수번호": "BUSS342",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS354",
+            "position": {
+                "x": 1320,
+                "y": 770
+            },
+            "data": {
+                "label": "회계학이론",
+                "학수번호": "BUSS354",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS356",
+            "position": {
+                "x": 1320,
+                "y": 840
+            },
+            "data": {
+                "label": "혁신과전략",
+                "학수번호": "BUSS356",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS361",
+            "position": {
+                "x": 1320,
+                "y": 910
+            },
+            "data": {
+                "label": "고급회계",
+                "학수번호": "BUSS361",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS363",
+            "position": {
+                "x": 1320,
+                "y": 980
+            },
+            "data": {
+                "label": "마케팅전략",
+                "학수번호": "BUSS363",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS364",
+            "position": {
+                "x": 1320,
+                "y": 1050
+            },
+            "data": {
+                "label": "기업윤리",
+                "학수번호": "BUSS364",
+                "세부전공": null,
+                "전공역량": "사회적책임",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS365",
+            "position": {
+                "x": 1320,
+                "y": 1120
+            },
+            "data": {
+                "label": "조직디자인과경쟁우위",
+                "학수번호": "BUSS365",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS377",
+            "position": {
+                "x": 1320,
+                "y": 1190
+            },
+            "data": {
+                "label": "전략적수요및수익관리",
+                "학수번호": "BUSS377",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS382",
+            "position": {
+                "x": 1320,
+                "y": 1260
+            },
+            "data": {
+                "label": "보험과위험관리",
+                "학수번호": "BUSS382",
+                "세부전공": null,
+                "전공역량": "사회적책임",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS384",
+            "position": {
+                "x": 1320,
+                "y": 1330
+            },
+            "data": {
+                "label": "기업재무",
+                "학수번호": "BUSS384",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS385",
+            "position": {
+                "x": 1320,
+                "y": 1400
+            },
+            "data": {
+                "label": "정보보안관리",
+                "학수번호": "BUSS385",
+                "세부전공": null,
+                "전공역량": "사회적책임",
+                "개설학과": "경영학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS390",
+            "position": {
+                "x": 1320,
+                "y": 1470
+            },
+            "data": {
+                "label": "Business-to-Business마케팅",
+                "학수번호": "BUSS390",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS393",
+            "position": {
+                "x": 1320,
+                "y": 1540
+            },
+            "data": {
+                "label": "현대기아차글로벌마케팅전략",
+                "학수번호": "BUSS393",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS397",
+            "position": {
+                "x": 1320,
+                "y": 1610
+            },
+            "data": {
+                "label": "벤처투자운용론",
+                "학수번호": "BUSS397",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS402",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "경영전략",
+                "학수번호": "BUSS402",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS407",
+            "position": {
+                "x": 1760,
+                "y": 70
+            },
+            "data": {
+                "label": "신상품개발과마케팅",
+                "학수번호": "BUSS407",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS409",
+            "position": {
+                "x": 1760,
+                "y": 140
+            },
+            "data": {
+                "label": "소셜벤처창업",
+                "학수번호": "BUSS409",
+                "세부전공": null,
+                "전공역량": "사회적책임",
+                "개설학과": "경영학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS410",
+            "position": {
+                "x": 1760,
+                "y": 210
+            },
+            "data": {
+                "label": "기술혁신관리:성공적Entrepreneurship의기초",
+                "학수번호": "BUSS410",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS413",
+            "position": {
+                "x": 1760,
+                "y": 280
+            },
+            "data": {
+                "label": "기업지배구조의이론과실제",
+                "학수번호": "BUSS413",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS414",
+            "position": {
+                "x": 1760,
+                "y": 350
+            },
+            "data": {
+                "label": "채권론",
+                "학수번호": "BUSS414",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS416",
+            "position": {
+                "x": 1760,
+                "y": 420
+            },
+            "data": {
+                "label": "기업가치평가",
+                "학수번호": "BUSS416",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS417",
+            "position": {
+                "x": 1760,
+                "y": 490
+            },
+            "data": {
+                "label": "고급투자론",
+                "학수번호": "BUSS417",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS418",
+            "position": {
+                "x": 1760,
+                "y": 560
+            },
+            "data": {
+                "label": "기업의인수합병과구조조정",
+                "학수번호": "BUSS418",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS420",
+            "position": {
+                "x": 1760,
+                "y": 630
+            },
+            "data": {
+                "label": "리더쉽:이론과실제",
+                "학수번호": "BUSS420",
+                "세부전공": null,
+                "전공역량": "도전적리더",
+                "개설학과": "경영학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS431",
+            "position": {
+                "x": 1760,
+                "y": 700
+            },
+            "data": {
+                "label": "회계감사",
+                "학수번호": "BUSS431",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS435",
+            "position": {
+                "x": 1760,
+                "y": 770
+            },
+            "data": {
+                "label": "경영의철학적이해",
+                "학수번호": "BUSS435",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS439",
+            "position": {
+                "x": 1760,
+                "y": 840
+            },
+            "data": {
+                "label": "마케팅신조류",
+                "학수번호": "BUSS439",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS442",
+            "position": {
+                "x": 1760,
+                "y": 910
+            },
+            "data": {
+                "label": "품질경영",
+                "학수번호": "BUSS442",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS447",
+            "position": {
+                "x": 1760,
+                "y": 980
+            },
+            "data": {
+                "label": "로지스틱스관리",
+                "학수번호": "BUSS447",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS448",
+            "position": {
+                "x": 1760,
+                "y": 1050
+            },
+            "data": {
+                "label": "오퍼레이션스전략",
+                "학수번호": "BUSS448",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS453",
+            "position": {
+                "x": 1760,
+                "y": 1120
+            },
+            "data": {
+                "label": "데이터관리와지적경영",
+                "학수번호": "BUSS453",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS475",
+            "position": {
+                "x": 1760,
+                "y": 1190
+            },
+            "data": {
+                "label": "인터넷마케팅",
+                "학수번호": "BUSS475",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS484",
+            "position": {
+                "x": 1760,
+                "y": 1260
+            },
+            "data": {
+                "label": "글로벌CEO특강",
+                "학수번호": "BUSS484",
+                "세부전공": null,
+                "전공역량": "도전적리더",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS491",
+            "position": {
+                "x": 1760,
+                "y": 1330
+            },
+            "data": {
+                "label": "국내경영현장실습Ⅳ",
+                "학수번호": "BUSS491",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS492",
+            "position": {
+                "x": 1760,
+                "y": 1400
+            },
+            "data": {
+                "label": "국내경영현장실습Ⅴ",
+                "학수번호": "BUSS492",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS493",
+            "position": {
+                "x": 1760,
+                "y": 1470
+            },
+            "data": {
+                "label": "국제경영현장실습Ⅳ",
+                "학수번호": "BUSS493",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "경영학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS494",
+            "position": {
+                "x": 1760,
+                "y": 1540
+            },
+            "data": {
+                "label": "국제경영현장실습Ⅴ",
+                "학수번호": "BUSS494",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "경영학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS003",
+            "position": {
+                "x": 220,
+                "y": 0
+            },
+            "data": {
+                "label": "Topic Course",
+                "학수번호": "BUSS003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP151",
+            "position": {
+                "x": 220,
+                "y": 70
+            },
+            "data": {
+                "label": "행정학원론",
+                "학수번호": "PAPP151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ENGL121",
+            "position": {
+                "x": 220,
+                "y": 140
+            },
+            "data": {
+                "label": "기업영어실습",
+                "학수번호": "ENGL121",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "영어영문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 220,
+                "y": 210
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 220,
+                "y": 280
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 220,
+                "y": 350
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS165",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "창업가의마인드셋",
+                "학수번호": "BUSS165",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS164",
+            "position": {
+                "x": 440,
+                "y": 70
+            },
+            "data": {
+                "label": "경영과사회",
+                "학수번호": "BUSS164",
+                "세부전공": null,
+                "전공역량": "사회적책임",
+                "개설학과": "경영학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFECB3",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 140
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 210
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 280
+            },
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS203",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "경영수학",
+                "학수번호": "BUSS203",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS214",
+            "position": {
+                "x": 1100,
+                "y": 70
+            },
+            "data": {
+                "label": "중급회계II",
+                "학수번호": "BUSS214",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS217",
+            "position": {
+                "x": 1100,
+                "y": 140
+            },
+            "data": {
+                "label": "비즈니스애널리틱스II",
+                "학수번호": "BUSS217",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS238",
+            "position": {
+                "x": 1100,
+                "y": 210
+            },
+            "data": {
+                "label": "광고론",
+                "학수번호": "BUSS238",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS244",
+            "position": {
+                "x": 1100,
+                "y": 280
+            },
+            "data": {
+                "label": "관리회계",
+                "학수번호": "BUSS244",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS246",
+            "position": {
+                "x": 1100,
+                "y": 350
+            },
+            "data": {
+                "label": "경영과학",
+                "학수번호": "BUSS246",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS248",
+            "position": {
+                "x": 1100,
+                "y": 420
+            },
+            "data": {
+                "label": "기업경제학",
+                "학수번호": "BUSS248",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS252",
+            "position": {
+                "x": 1100,
+                "y": 490
+            },
+            "data": {
+                "label": "마케팅조사론",
+                "학수번호": "BUSS252",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS254",
+            "position": {
+                "x": 1100,
+                "y": 560
+            },
+            "data": {
+                "label": "투자론",
+                "학수번호": "BUSS254",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS256",
+            "position": {
+                "x": 1100,
+                "y": 630
+            },
+            "data": {
+                "label": "빅데이터분석과해석의기초",
+                "학수번호": "BUSS256",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA301",
+            "position": {
+                "x": 1100,
+                "y": 700
+            },
+            "data": {
+                "label": "상법",
+                "학수번호": "JURA301",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS309",
+            "position": {
+                "x": 1100,
+                "y": 770
+            },
+            "data": {
+                "label": "비즈니스영어",
+                "학수번호": "IFLS309",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제어학원",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON333",
+            "position": {
+                "x": 1100,
+                "y": 840
+            },
+            "data": {
+                "label": "재정학",
+                "학수번호": "ECON333",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON334",
+            "position": {
+                "x": 1100,
+                "y": 910
+            },
+            "data": {
+                "label": "조세론",
+                "학수번호": "ECON334",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON335",
+            "position": {
+                "x": 1100,
+                "y": 980
+            },
+            "data": {
+                "label": "국제금융론",
+                "학수번호": "ECON335",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EGRN322",
+            "position": {
+                "x": 1100,
+                "y": 1050
+            },
+            "data": {
+                "label": "창업과경영을위한공학기술경향",
+                "학수번호": "EGRN322",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "공과대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS301",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "data": {
+                "label": "사회적가치프로젝트",
+                "학수번호": "BUSS301",
+                "세부전공": null,
+                "전공역량": "도전적리더",
+                "개설학과": "경영학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS303",
+            "position": {
+                "x": 1540,
+                "y": 70
+            },
+            "data": {
+                "label": "디자인씽킹과디지털혁신",
+                "학수번호": "BUSS303",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS305",
+            "position": {
+                "x": 1540,
+                "y": 140
+            },
+            "data": {
+                "label": "인공지능과비즈니스",
+                "학수번호": "BUSS305",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS307",
+            "position": {
+                "x": 1540,
+                "y": 210
+            },
+            "data": {
+                "label": "플랫폼비즈니스모델과디지털대전환",
+                "학수번호": "BUSS307",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS322",
+            "position": {
+                "x": 1540,
+                "y": 280
+            },
+            "data": {
+                "label": "지역연구(일본)",
+                "학수번호": "BUSS322",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS328",
+            "position": {
+                "x": 1540,
+                "y": 350
+            },
+            "data": {
+                "label": "거시경제와글로벌비즈니스이해",
+                "학수번호": "BUSS328",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS330",
+            "position": {
+                "x": 1540,
+                "y": 420
+            },
+            "data": {
+                "label": "중국경제론",
+                "학수번호": "BUSS330",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS340",
+            "position": {
+                "x": 1540,
+                "y": 490
+            },
+            "data": {
+                "label": "국제마케팅론",
+                "학수번호": "BUSS340",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS344",
+            "position": {
+                "x": 1540,
+                "y": 560
+            },
+            "data": {
+                "label": "국제금융론",
+                "학수번호": "BUSS344",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS352",
+            "position": {
+                "x": 1540,
+                "y": 630
+            },
+            "data": {
+                "label": "세무회계",
+                "학수번호": "BUSS352",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS355",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "data": {
+                "label": "노사관계론",
+                "학수번호": "BUSS355",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS358",
+            "position": {
+                "x": 1540,
+                "y": 770
+            },
+            "data": {
+                "label": "인적자원관리",
+                "학수번호": "BUSS358",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS362",
+            "position": {
+                "x": 1540,
+                "y": 840
+            },
+            "data": {
+                "label": "유통관리",
+                "학수번호": "BUSS362",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS367",
+            "position": {
+                "x": 1540,
+                "y": 910
+            },
+            "data": {
+                "label": "국제재무관리",
+                "학수번호": "BUSS367",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS376",
+            "position": {
+                "x": 1540,
+                "y": 980
+            },
+            "data": {
+                "label": "서비스운영관리",
+                "학수번호": "BUSS376",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS386",
+            "position": {
+                "x": 1540,
+                "y": 1050
+            },
+            "data": {
+                "label": "선물옵션",
+                "학수번호": "BUSS386",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS392",
+            "position": {
+                "x": 1540,
+                "y": 1120
+            },
+            "data": {
+                "label": "서비스마케팅",
+                "학수번호": "BUSS392",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS394",
+            "position": {
+                "x": 1540,
+                "y": 1190
+            },
+            "data": {
+                "label": "비즈니스협상",
+                "학수번호": "BUSS394",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS395",
+            "position": {
+                "x": 1540,
+                "y": 1260
+            },
+            "data": {
+                "label": "마케팅애널리틱스",
+                "학수번호": "BUSS395",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS405",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "data": {
+                "label": "마케팅과혁신",
+                "학수번호": "BUSS405",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS415",
+            "position": {
+                "x": 1980,
+                "y": 70
+            },
+            "data": {
+                "label": "위험관리",
+                "학수번호": "BUSS415",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS425",
+            "position": {
+                "x": 1980,
+                "y": 140
+            },
+            "data": {
+                "label": "소셜네트워크와경쟁우위",
+                "학수번호": "BUSS425",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS438",
+            "position": {
+                "x": 1980,
+                "y": 210
+            },
+            "data": {
+                "label": "금융기관경영론",
+                "학수번호": "BUSS438",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS454",
+            "position": {
+                "x": 1980,
+                "y": 280
+            },
+            "data": {
+                "label": "제품및브랜드관리",
+                "학수번호": "BUSS454",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS456",
+            "position": {
+                "x": 1980,
+                "y": 350
+            },
+            "data": {
+                "label": "금융회계",
+                "학수번호": "BUSS456",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS467",
+            "position": {
+                "x": 1980,
+                "y": 420
+            },
+            "data": {
+                "label": "국내경영현장실습I",
+                "학수번호": "BUSS467",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS468",
+            "position": {
+                "x": 1980,
+                "y": 490
+            },
+            "data": {
+                "label": "국내경영현장실습II",
+                "학수번호": "BUSS468",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS469",
+            "position": {
+                "x": 1980,
+                "y": 560
+            },
+            "data": {
+                "label": "국내경영현장실습Ⅲ",
+                "학수번호": "BUSS469",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS470",
+            "position": {
+                "x": 1980,
+                "y": 630
+            },
+            "data": {
+                "label": "국제경영현장실습I",
+                "학수번호": "BUSS470",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "경영학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS471",
+            "position": {
+                "x": 1980,
+                "y": 700
+            },
+            "data": {
+                "label": "국제경영현장실습II",
+                "학수번호": "BUSS471",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "경영학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS472",
+            "position": {
+                "x": 1980,
+                "y": 770
+            },
+            "data": {
+                "label": "국제경영현장실습Ⅲ",
+                "학수번호": "BUSS472",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "경영학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS488",
+            "position": {
+                "x": 1980,
+                "y": 840
+            },
+            "data": {
+                "label": "구매,공급관리",
+                "학수번호": "BUSS488",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS490",
+            "position": {
+                "x": 1980,
+                "y": 910
+            },
+            "data": {
+                "label": "국내경영현장실습Ⅵ",
+                "학수번호": "BUSS490",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS495",
+            "position": {
+                "x": 1980,
+                "y": 980
+            },
+            "data": {
+                "label": "국내경영현장실습Ⅶ",
+                "학수번호": "BUSS495",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS496",
+            "position": {
+                "x": 1980,
+                "y": 1050
+            },
+            "data": {
+                "label": "국내경영현장실습Ⅷ",
+                "학수번호": "BUSS496",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS497",
+            "position": {
+                "x": 1980,
+                "y": 1120
+            },
+            "data": {
+                "label": "국제경영현장실습Ⅵ",
+                "학수번호": "BUSS497",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "경영학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS498",
+            "position": {
+                "x": 1980,
+                "y": 1190
+            },
+            "data": {
+                "label": "국제경영현장실습Ⅶ",
+                "학수번호": "BUSS498",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "경영학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS499",
+            "position": {
+                "x": 1980,
+                "y": 1260
+            },
+            "data": {
+                "label": "국제경영현장실습Ⅷ",
+                "학수번호": "BUSS499",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "경영학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA204",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "data": {
+                "label": "회사법",
+                "학수번호": "JURA204",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA251",
+            "position": {
+                "x": 660,
+                "y": 70
+            },
+            "data": {
+                "label": "행정법",
+                "학수번호": "JURA251",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON201",
+            "position": {
+                "x": 660,
+                "y": 140
+            },
+            "data": {
+                "label": "미시경제이론",
+                "학수번호": "ECON201",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON202",
+            "position": {
+                "x": 660,
+                "y": 210
+            },
+            "data": {
+                "label": "거시경제이론",
+                "학수번호": "ECON202",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS152",
+            "position": {
+                "x": 660,
+                "y": 280
+            },
+            "data": {
+                "label": "회계학원리",
+                "학수번호": "BUSS152",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFECB3",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS154",
+            "position": {
+                "x": 660,
+                "y": 350
+            },
+            "data": {
+                "label": "경영통계",
+                "학수번호": "BUSS154",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "경영학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFECB3",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS166",
+            "position": {
+                "x": 660,
+                "y": 420
+            },
+            "data": {
+                "label": "통합적사고와경영학입문",
+                "학수번호": "BUSS166",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "경영학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFECB3",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 490
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 II",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 560
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "recommended-BUSS152-BUSS207",
+            "source": "BUSS152",
+            "target": "BUSS207",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS154-BUSS207",
+            "source": "BUSS154",
+            "target": "BUSS207",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS152-BUSS213",
+            "source": "BUSS152",
+            "target": "BUSS213",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS151-BUSS215",
+            "source": "BUSS151",
+            "target": "BUSS215",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON203-BUSS313",
+            "source": "ECON203",
+            "target": "BUSS313",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS164-BUSS202",
+            "source": "BUSS164",
+            "target": "BUSS202",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS152-BUSS214",
+            "source": "BUSS152",
+            "target": "BUSS214",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS154-BUSS216",
+            "source": "BUSS154",
+            "target": "BUSS216",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS154-BUSS217",
+            "source": "BUSS154",
+            "target": "BUSS217",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS215-BUSS217",
+            "source": "BUSS215",
+            "target": "BUSS217",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS205-BUSS238",
+            "source": "BUSS205",
+            "target": "BUSS238",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS152-BUSS244",
+            "source": "BUSS152",
+            "target": "BUSS244",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS205-BUSS252",
+            "source": "BUSS205",
+            "target": "BUSS252",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS254",
+            "source": "BUSS207",
+            "target": "BUSS254",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS164-BUSS301",
+            "source": "BUSS164",
+            "target": "BUSS301",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS202-BUSS301",
+            "source": "BUSS202",
+            "target": "BUSS301",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS216-BUSS302",
+            "source": "BUSS216",
+            "target": "BUSS302",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS216-BUSS302",
+            "source": "BUSS216",
+            "target": "BUSS302",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS217-BUSS302",
+            "source": "BUSS217",
+            "target": "BUSS302",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS254-BUSS302",
+            "source": "BUSS254",
+            "target": "BUSS302",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS217-BUSS302",
+            "source": "BUSS217",
+            "target": "BUSS302",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS254-BUSS302",
+            "source": "BUSS254",
+            "target": "BUSS302",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS215-BUSS303",
+            "source": "BUSS215",
+            "target": "BUSS303",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS217-BUSS305",
+            "source": "BUSS217",
+            "target": "BUSS305",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS453-BUSS305",
+            "source": "BUSS453",
+            "target": "BUSS305",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS165-BUSS306",
+            "source": "BUSS165",
+            "target": "BUSS306",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS259-BUSS306",
+            "source": "BUSS259",
+            "target": "BUSS306",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS215-BUSS307",
+            "source": "BUSS215",
+            "target": "BUSS307",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS256-BUSS307",
+            "source": "BUSS256",
+            "target": "BUSS307",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS154-BUSS316",
+            "source": "BUSS154",
+            "target": "BUSS316",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS215-BUSS317",
+            "source": "BUSS215",
+            "target": "BUSS317",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON120-BUSS331",
+            "source": "ECON120",
+            "target": "BUSS331",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS205-BUSS342",
+            "source": "BUSS205",
+            "target": "BUSS342",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS152-BUSS352",
+            "source": "BUSS152",
+            "target": "BUSS352",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS152-BUSS354",
+            "source": "BUSS152",
+            "target": "BUSS354",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS152-BUSS361",
+            "source": "BUSS152",
+            "target": "BUSS361",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS205-BUSS362",
+            "source": "BUSS205",
+            "target": "BUSS362",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS205-BUSS363",
+            "source": "BUSS205",
+            "target": "BUSS363",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS311-BUSS365",
+            "source": "BUSS311",
+            "target": "BUSS365",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS367",
+            "source": "BUSS207",
+            "target": "BUSS367",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS207-BUSS382",
+            "source": "BUSS207",
+            "target": "BUSS382",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS384",
+            "source": "BUSS207",
+            "target": "BUSS384",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS215-BUSS385",
+            "source": "BUSS215",
+            "target": "BUSS385",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS386",
+            "source": "BUSS207",
+            "target": "BUSS386",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS386",
+            "source": "BUSS207",
+            "target": "BUSS386",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS254-BUSS386",
+            "source": "BUSS254",
+            "target": "BUSS386",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS254-BUSS386",
+            "source": "BUSS254",
+            "target": "BUSS386",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS205-BUSS390",
+            "source": "BUSS205",
+            "target": "BUSS390",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS205-BUSS392",
+            "source": "BUSS205",
+            "target": "BUSS392",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS205-BUSS393",
+            "source": "BUSS205",
+            "target": "BUSS393",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS311-BUSS394",
+            "source": "BUSS311",
+            "target": "BUSS394",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS205-BUSS395",
+            "source": "BUSS205",
+            "target": "BUSS395",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS205-BUSS405",
+            "source": "BUSS205",
+            "target": "BUSS405",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS205-BUSS407",
+            "source": "BUSS205",
+            "target": "BUSS407",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS152-BUSS409",
+            "source": "BUSS152",
+            "target": "BUSS409",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS205-BUSS409",
+            "source": "BUSS205",
+            "target": "BUSS409",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS207-BUSS409",
+            "source": "BUSS207",
+            "target": "BUSS409",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS413",
+            "source": "BUSS207",
+            "target": "BUSS413",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS414",
+            "source": "BUSS207",
+            "target": "BUSS414",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS414",
+            "source": "BUSS207",
+            "target": "BUSS414",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS203-BUSS414",
+            "source": "BUSS203",
+            "target": "BUSS414",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS203-BUSS414",
+            "source": "BUSS203",
+            "target": "BUSS414",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS415",
+            "source": "BUSS207",
+            "target": "BUSS415",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS415",
+            "source": "BUSS207",
+            "target": "BUSS415",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS203-BUSS415",
+            "source": "BUSS203",
+            "target": "BUSS415",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS203-BUSS415",
+            "source": "BUSS203",
+            "target": "BUSS415",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required- -BUSS416",
+            "source": " ",
+            "target": "BUSS416",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS152-BUSS416",
+            "source": "BUSS152",
+            "target": "BUSS416",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS417",
+            "source": "BUSS207",
+            "target": "BUSS417",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS254-BUSS417",
+            "source": "BUSS254",
+            "target": "BUSS417",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS417",
+            "source": "BUSS207",
+            "target": "BUSS417",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS254-BUSS417",
+            "source": "BUSS254",
+            "target": "BUSS417",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS203-BUSS417",
+            "source": "BUSS203",
+            "target": "BUSS417",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS203-BUSS417",
+            "source": "BUSS203",
+            "target": "BUSS417",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS311-BUSS420",
+            "source": "BUSS311",
+            "target": "BUSS420",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS311-BUSS425",
+            "source": "BUSS311",
+            "target": "BUSS425",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS152-BUSS431",
+            "source": "BUSS152",
+            "target": "BUSS431",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS438",
+            "source": "BUSS207",
+            "target": "BUSS438",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS205-BUSS439",
+            "source": "BUSS205",
+            "target": "BUSS439",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS203-BUSS447",
+            "source": "BUSS203",
+            "target": "BUSS447",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS205-BUSS454",
+            "source": "BUSS205",
+            "target": "BUSS454",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS152-BUSS456",
+            "source": "BUSS152",
+            "target": "BUSS456",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS205-BUSS475",
+            "source": "BUSS205",
+            "target": "BUSS475",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON151-ECON201",
+            "source": "ECON151",
+            "target": "ECON201",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON171-ECON201",
+            "source": "ECON171",
+            "target": "ECON201",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON151-ECON202",
+            "source": "ECON151",
+            "target": "ECON202",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON172-ECON202",
+            "source": "ECON172",
+            "target": "ECON202",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ISC203A-ECON202",
+            "source": "ISC203A",
+            "target": "ECON202",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ISC203B-ECON202",
+            "source": "ISC203B",
+            "target": "ECON202",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON201-ECON333",
+            "source": "ECON201",
+            "target": "ECON333",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON201-ECON334",
+            "source": "ECON201",
+            "target": "ECON334",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON201-ECON335",
+            "source": "ECON201",
+            "target": "ECON335",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON202-ECON335",
+            "source": "ECON202",
+            "target": "ECON335",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        }
+    ]
+}

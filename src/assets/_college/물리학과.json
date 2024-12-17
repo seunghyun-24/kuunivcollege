@@ -1,0 +1,1680 @@
+{
+    "nodes": [
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 220,
+                "y": 0
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 220,
+                "y": 70
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 220,
+                "y": 140
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 70
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 140
+            },
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH161",
+            "position": {
+                "x": 440,
+                "y": 210
+            },
+            "data": {
+                "label": "미적분학및연습I",
+                "학수번호": "MATH161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS151",
+            "position": {
+                "x": 440,
+                "y": 280
+            },
+            "data": {
+                "label": "일반물리학연습 I",
+                "학수번호": "PHYS151",
+                "세부전공": null,
+                "전공역량": "이론학습을 통한 기초물리법칙의 이해",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS161",
+            "position": {
+                "x": 440,
+                "y": 350
+            },
+            "data": {
+                "label": "일반물리학실험 I",
+                "학수번호": "PHYS161",
+                "세부전공": null,
+                "전공역량": "실험방법의 습득을 통한 문제해결",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM151",
+            "position": {
+                "x": 440,
+                "y": 420
+            },
+            "data": {
+                "label": "일반화학및연습 I",
+                "학수번호": "CHEM151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM153",
+            "position": {
+                "x": 440,
+                "y": 490
+            },
+            "data": {
+                "label": "일반화학실험 I",
+                "학수번호": "CHEM153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES151",
+            "position": {
+                "x": 440,
+                "y": 560
+            },
+            "data": {
+                "label": "지구환경과학및연습 I",
+                "학수번호": "EAES151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES153",
+            "position": {
+                "x": 440,
+                "y": 630
+            },
+            "data": {
+                "label": "지구환경과학실험 I",
+                "학수번호": "EAES153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS151",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "data": {
+                "label": "일반생물학및연습 I",
+                "학수번호": "LIBS151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS153",
+            "position": {
+                "x": 440,
+                "y": 770
+            },
+            "data": {
+                "label": "일반생물학실험 I",
+                "학수번호": "LIBS153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 70
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH162",
+            "position": {
+                "x": 660,
+                "y": 140
+            },
+            "data": {
+                "label": "미적분학및연습II",
+                "학수번호": "MATH162",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS152",
+            "position": {
+                "x": 660,
+                "y": 210
+            },
+            "data": {
+                "label": "일반물리학연습 II",
+                "학수번호": "PHYS152",
+                "세부전공": null,
+                "전공역량": "이론학습을 통한 기초물리법칙의 이해",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS162",
+            "position": {
+                "x": 660,
+                "y": 280
+            },
+            "data": {
+                "label": "일반물리학실험 II",
+                "학수번호": "PHYS162",
+                "세부전공": null,
+                "전공역량": "실험방법의 습득을 통한 문제해결",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM152",
+            "position": {
+                "x": 660,
+                "y": 350
+            },
+            "data": {
+                "label": "일반화학및연습 II",
+                "학수번호": "CHEM152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM154",
+            "position": {
+                "x": 660,
+                "y": 420
+            },
+            "data": {
+                "label": "일반화학실험 II",
+                "학수번호": "CHEM154",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES152",
+            "position": {
+                "x": 660,
+                "y": 490
+            },
+            "data": {
+                "label": "지구환경과학및연습 II",
+                "학수번호": "EAES152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES154",
+            "position": {
+                "x": 660,
+                "y": 560
+            },
+            "data": {
+                "label": "지구환경과학실험 II",
+                "학수번호": "EAES154",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS152",
+            "position": {
+                "x": 660,
+                "y": 630
+            },
+            "data": {
+                "label": "일반생물학및연습 II",
+                "학수번호": "LIBS152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS154",
+            "position": {
+                "x": 660,
+                "y": 700
+            },
+            "data": {
+                "label": "일반생물학실험 II",
+                "학수번호": "LIBS154",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH211",
+            "position": {
+                "x": 660,
+                "y": 770
+            },
+            "data": {
+                "label": "해석학I및연습",
+                "학수번호": "MATH211",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH212",
+            "position": {
+                "x": 660,
+                "y": 840
+            },
+            "data": {
+                "label": "해석학II및연습",
+                "학수번호": "MATH212",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH221",
+            "position": {
+                "x": 660,
+                "y": 910
+            },
+            "data": {
+                "label": "선형대수I및연습",
+                "학수번호": "MATH221",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH222",
+            "position": {
+                "x": 660,
+                "y": 980
+            },
+            "data": {
+                "label": "선형대수II및연습",
+                "학수번호": "MATH222",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH240",
+            "position": {
+                "x": 660,
+                "y": 1050
+            },
+            "data": {
+                "label": "미분방정식및연습",
+                "학수번호": "MATH240",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM201",
+            "position": {
+                "x": 660,
+                "y": 1120
+            },
+            "data": {
+                "label": "물리화학I",
+                "학수번호": "CHEM201",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM202",
+            "position": {
+                "x": 660,
+                "y": 1190
+            },
+            "data": {
+                "label": "물리화학II",
+                "학수번호": "CHEM202",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE221",
+            "position": {
+                "x": 660,
+                "y": 1260
+            },
+            "data": {
+                "label": "논리설계",
+                "학수번호": "COSE221",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "컴퓨터학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KECE212",
+            "position": {
+                "x": 660,
+                "y": 1330
+            },
+            "data": {
+                "label": "물성전자공학",
+                "학수번호": "KECE212",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "전기전자공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS203",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "data": {
+                "label": "전자물리학및실험",
+                "학수번호": "PHYS203",
+                "세부전공": null,
+                "전공역량": "실험방법의 습득을 통한 문제해결",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS220",
+            "position": {
+                "x": 880,
+                "y": 70
+            },
+            "data": {
+                "label": "고전역학",
+                "학수번호": "PHYS220",
+                "세부전공": null,
+                "전공역량": "이론학습을 통한 기초물리법칙의 이해",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS233",
+            "position": {
+                "x": 880,
+                "y": 140
+            },
+            "data": {
+                "label": "수리물리학",
+                "학수번호": "PHYS233",
+                "세부전공": null,
+                "전공역량": "수학에 기반을 둔 정량적분석",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS204",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "기초물리학실험I",
+                "학수번호": "PHYS204",
+                "세부전공": null,
+                "전공역량": "실험방법의 습득을 통한 문제해결",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS224",
+            "position": {
+                "x": 1100,
+                "y": 70
+            },
+            "data": {
+                "label": "전자기학I",
+                "학수번호": "PHYS224",
+                "세부전공": null,
+                "전공역량": "이론학습을 통한 기초물리법칙의 이해",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS234",
+            "position": {
+                "x": 1100,
+                "y": 140
+            },
+            "data": {
+                "label": "수리역학",
+                "학수번호": "PHYS234",
+                "세부전공": null,
+                "전공역량": "수학에 기반을 둔 정량적분석",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SCED303",
+            "position": {
+                "x": 1100,
+                "y": 210
+            },
+            "data": {
+                "label": "과학교과논리및논술",
+                "학수번호": "SCED303",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "이과대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH331",
+            "position": {
+                "x": 1100,
+                "y": 280
+            },
+            "data": {
+                "label": "미분기하학I",
+                "학수번호": "MATH331",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH372",
+            "position": {
+                "x": 1100,
+                "y": 350
+            },
+            "data": {
+                "label": "미분기하학II",
+                "학수번호": "MATH372",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH315",
+            "position": {
+                "x": 1100,
+                "y": 420
+            },
+            "data": {
+                "label": "복소해석학I",
+                "학수번호": "MATH315",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH358",
+            "position": {
+                "x": 1100,
+                "y": 490
+            },
+            "data": {
+                "label": "복소해석학II",
+                "학수번호": "MATH358",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KECE331",
+            "position": {
+                "x": 1100,
+                "y": 560
+            },
+            "data": {
+                "label": "반도체공학I",
+                "학수번호": "KECE331",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "전기전자공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS303",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "data": {
+                "label": "기초물리학실험II",
+                "학수번호": "PHYS303",
+                "세부전공": null,
+                "전공역량": "실험방법의 습득을 통한 문제해결",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS331",
+            "position": {
+                "x": 1320,
+                "y": 70
+            },
+            "data": {
+                "label": "전자기학II",
+                "학수번호": "PHYS331",
+                "세부전공": null,
+                "전공역량": "이론학습을 통한 기초물리법칙의 이해",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS361",
+            "position": {
+                "x": 1320,
+                "y": 140
+            },
+            "data": {
+                "label": "양자역학I",
+                "학수번호": "PHYS361",
+                "세부전공": null,
+                "전공역량": "이론학습을 통한 기초물리법칙의 이해",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS391",
+            "position": {
+                "x": 1320,
+                "y": 210
+            },
+            "data": {
+                "label": "물리교과교육론",
+                "학수번호": "PHYS391",
+                "세부전공": null,
+                "전공역량": "과학적 내용의 표현과 전달",
+                "개설학과": "물리학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS344",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "data": {
+                "label": "통계물리학I",
+                "학수번호": "PHYS344",
+                "세부전공": null,
+                "전공역량": "이론학습을 통한 기초물리법칙의 이해",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS362",
+            "position": {
+                "x": 1540,
+                "y": 70
+            },
+            "data": {
+                "label": "양자역학II",
+                "학수번호": "PHYS362",
+                "세부전공": null,
+                "전공역량": "이론학습을 통한 기초물리법칙의 이해",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS370",
+            "position": {
+                "x": 1540,
+                "y": 140
+            },
+            "data": {
+                "label": "물리학탐구I",
+                "학수번호": "PHYS370",
+                "세부전공": null,
+                "전공역량": "물리법칙을 응용한 독립적 문제해결",
+                "개설학과": "물리학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS470",
+            "position": {
+                "x": 1540,
+                "y": 210
+            },
+            "data": {
+                "label": "물리학탐구II",
+                "학수번호": "PHYS470",
+                "세부전공": null,
+                "전공역량": "물리법칙을 응용한 독립적 문제해결",
+                "개설학과": "물리학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS394",
+            "position": {
+                "x": 1540,
+                "y": 280
+            },
+            "data": {
+                "label": "물리교과교재연구및지도법",
+                "학수번호": "PHYS394",
+                "세부전공": null,
+                "전공역량": "과학적 내용의 표현과 전달",
+                "개설학과": "물리학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KECE415",
+            "position": {
+                "x": 1540,
+                "y": 350
+            },
+            "data": {
+                "label": "나노전자공학",
+                "학수번호": "KECE415",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "전기전자공학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS433",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "통계물리학II",
+                "학수번호": "PHYS433",
+                "세부전공": null,
+                "전공역량": "이론학습을 통한 기초물리법칙의 이해",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS461",
+            "position": {
+                "x": 1760,
+                "y": 70
+            },
+            "data": {
+                "label": "전산물리학및실습",
+                "학수번호": "PHYS461",
+                "세부전공": null,
+                "전공역량": "IT 지식과 기술을 활용한 탐구 및 문제해결",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS463",
+            "position": {
+                "x": 1760,
+                "y": 140
+            },
+            "data": {
+                "label": "양자정보물리학",
+                "학수번호": "PHYS463",
+                "세부전공": null,
+                "전공역량": "IT 지식과 기술을 활용한 탐구 및 문제해결",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS481",
+            "position": {
+                "x": 1760,
+                "y": 210
+            },
+            "data": {
+                "label": "광학",
+                "학수번호": "PHYS481",
+                "세부전공": null,
+                "전공역량": "물리법칙을 응용한 독립적 문제해결",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS491",
+            "position": {
+                "x": 1760,
+                "y": 280
+            },
+            "data": {
+                "label": "생물물리학",
+                "학수번호": "PHYS491",
+                "세부전공": null,
+                "전공역량": "물리법칙을 응용한 독립적 문제해결",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS462",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "data": {
+                "label": "원자물리학",
+                "학수번호": "PHYS462",
+                "세부전공": null,
+                "전공역량": "물리법칙을 응용한 독립적 문제해결",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS466",
+            "position": {
+                "x": 1980,
+                "y": 70
+            },
+            "data": {
+                "label": "인공지능물리학",
+                "학수번호": "PHYS466",
+                "세부전공": null,
+                "전공역량": "IT 지식과 기술을 활용한 탐구 및 문제해결",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS468",
+            "position": {
+                "x": 1980,
+                "y": 140
+            },
+            "data": {
+                "label": "우주론",
+                "학수번호": "PHYS468",
+                "세부전공": null,
+                "전공역량": "물리법칙을 응용한 독립적 문제해결",
+                "개설학과": "물리학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS482",
+            "position": {
+                "x": 1980,
+                "y": 210
+            },
+            "data": {
+                "label": "고체물리학",
+                "학수번호": "PHYS482",
+                "세부전공": null,
+                "전공역량": "물리법칙을 응용한 독립적 문제해결",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS492",
+            "position": {
+                "x": 1980,
+                "y": 280
+            },
+            "data": {
+                "label": "핵및입자물리학",
+                "학수번호": "PHYS492",
+                "세부전공": null,
+                "전공역량": "물리법칙을 응용한 독립적 문제해결",
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        }
+    ],
+    "edges": []
+}

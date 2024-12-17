@@ -1,0 +1,1505 @@
+{
+    "nodes": [
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 70
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 140
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 210
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 280
+            },
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 350
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH161",
+            "position": {
+                "x": 440,
+                "y": 420
+            },
+            "data": {
+                "label": "미적분학및연습I",
+                "학수번호": "MATH161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES151",
+            "position": {
+                "x": 440,
+                "y": 490
+            },
+            "data": {
+                "label": "지구환경과학및연습 I",
+                "학수번호": "EAES151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES153",
+            "position": {
+                "x": 440,
+                "y": 560
+            },
+            "data": {
+                "label": "지구환경과학실험 I",
+                "학수번호": "EAES153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS151",
+            "position": {
+                "x": 440,
+                "y": 630
+            },
+            "data": {
+                "label": "일반물리학연습 I",
+                "학수번호": "PHYS151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS161",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "data": {
+                "label": "일반물리학실험 I",
+                "학수번호": "PHYS161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM151",
+            "position": {
+                "x": 440,
+                "y": 770
+            },
+            "data": {
+                "label": "일반화학및연습 I",
+                "학수번호": "CHEM151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM153",
+            "position": {
+                "x": 440,
+                "y": 840
+            },
+            "data": {
+                "label": "일반화학실험 I",
+                "학수번호": "CHEM153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 70
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH162",
+            "position": {
+                "x": 660,
+                "y": 140
+            },
+            "data": {
+                "label": "미적분학및연습II",
+                "학수번호": "MATH162",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES152",
+            "position": {
+                "x": 660,
+                "y": 210
+            },
+            "data": {
+                "label": "지구환경과학및연습 II",
+                "학수번호": "EAES152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES154",
+            "position": {
+                "x": 660,
+                "y": 280
+            },
+            "data": {
+                "label": "지구환경과학실험 II",
+                "학수번호": "EAES154",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS152",
+            "position": {
+                "x": 660,
+                "y": 350
+            },
+            "data": {
+                "label": "일반물리학연습 II",
+                "학수번호": "PHYS152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS162",
+            "position": {
+                "x": 660,
+                "y": 420
+            },
+            "data": {
+                "label": "일반물리학실험 II",
+                "학수번호": "PHYS162",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM152",
+            "position": {
+                "x": 660,
+                "y": 490
+            },
+            "data": {
+                "label": "일반화학및연습 II",
+                "학수번호": "CHEM152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM154",
+            "position": {
+                "x": 660,
+                "y": 560
+            },
+            "data": {
+                "label": "일반화학실험 II",
+                "학수번호": "CHEM154",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES201",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "data": {
+                "label": "지구물질과학",
+                "학수번호": "EAES201",
+                "세부전공": null,
+                "전공역량": "의사소통",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES203",
+            "position": {
+                "x": 880,
+                "y": 70
+            },
+            "data": {
+                "label": "지구화학",
+                "학수번호": "EAES203",
+                "세부전공": null,
+                "전공역량": "전문가적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES205",
+            "position": {
+                "x": 880,
+                "y": 140
+            },
+            "data": {
+                "label": "대기화학",
+                "학수번호": "EAES205",
+                "세부전공": null,
+                "전공역량": "전문가적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES208",
+            "position": {
+                "x": 880,
+                "y": 210
+            },
+            "data": {
+                "label": "해양환경학",
+                "학수번호": "EAES208",
+                "세부전공": null,
+                "전공역량": "전문가적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES209",
+            "position": {
+                "x": 880,
+                "y": 280
+            },
+            "data": {
+                "label": "대기과학",
+                "학수번호": "EAES209",
+                "세부전공": null,
+                "전공역량": "전문가적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES202",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "화성암석학",
+                "학수번호": "EAES202",
+                "세부전공": null,
+                "전공역량": "의사소통",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES204",
+            "position": {
+                "x": 1100,
+                "y": 70
+            },
+            "data": {
+                "label": "지구물리학",
+                "학수번호": "EAES204",
+                "세부전공": null,
+                "전공역량": "의사소통",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES206",
+            "position": {
+                "x": 1100,
+                "y": 140
+            },
+            "data": {
+                "label": "자연수지구화학",
+                "학수번호": "EAES206",
+                "세부전공": null,
+                "전공역량": "전문가적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES207",
+            "position": {
+                "x": 1100,
+                "y": 210
+            },
+            "data": {
+                "label": "수리지질학",
+                "학수번호": "EAES207",
+                "세부전공": null,
+                "전공역량": "전문가적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES301",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "data": {
+                "label": "구조지질학",
+                "학수번호": "EAES301",
+                "세부전공": null,
+                "전공역량": "전문가적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES307",
+            "position": {
+                "x": 1320,
+                "y": 70
+            },
+            "data": {
+                "label": "퇴적시스템",
+                "학수번호": "EAES307",
+                "세부전공": null,
+                "전공역량": "전문가적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES315",
+            "position": {
+                "x": 1320,
+                "y": 140
+            },
+            "data": {
+                "label": "지진학",
+                "학수번호": "EAES315",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES305",
+            "position": {
+                "x": 1320,
+                "y": 210
+            },
+            "data": {
+                "label": "변성암석학",
+                "학수번호": "EAES305",
+                "세부전공": null,
+                "전공역량": "전문가적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES311",
+            "position": {
+                "x": 1320,
+                "y": 280
+            },
+            "data": {
+                "label": "지질학",
+                "학수번호": "EAES311",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES391",
+            "position": {
+                "x": 1320,
+                "y": 350
+            },
+            "data": {
+                "label": "지구과학교과교육론",
+                "학수번호": "EAES391",
+                "세부전공": null,
+                "전공역량": "의사소통",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SCED303",
+            "position": {
+                "x": 1320,
+                "y": 420
+            },
+            "data": {
+                "label": "과학교과논리및논술",
+                "학수번호": "SCED303",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "이과대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES304",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "data": {
+                "label": "광물에너지자원학",
+                "학수번호": "EAES304",
+                "세부전공": null,
+                "전공역량": "전문가적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES313",
+            "position": {
+                "x": 1540,
+                "y": 70
+            },
+            "data": {
+                "label": "토양환경광물학",
+                "학수번호": "EAES313",
+                "세부전공": null,
+                "전공역량": "전문가적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES302",
+            "position": {
+                "x": 1540,
+                "y": 140
+            },
+            "data": {
+                "label": "지체구조학",
+                "학수번호": "EAES302",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES308",
+            "position": {
+                "x": 1540,
+                "y": 210
+            },
+            "data": {
+                "label": "지하수환경학",
+                "학수번호": "EAES308",
+                "세부전공": null,
+                "전공역량": "전문가적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES312",
+            "position": {
+                "x": 1540,
+                "y": 280
+            },
+            "data": {
+                "label": "석유지질학",
+                "학수번호": "EAES312",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES314",
+            "position": {
+                "x": 1540,
+                "y": 350
+            },
+            "data": {
+                "label": "지구환경Data",
+                "학수번호": "EAES314",
+                "세부전공": null,
+                "전공역량": "창의적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES394",
+            "position": {
+                "x": 1540,
+                "y": 420
+            },
+            "data": {
+                "label": "지구과학교과교재연구및지도법",
+                "학수번호": "EAES394",
+                "세부전공": null,
+                "전공역량": "의사소통",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES402",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "data": {
+                "label": "지질공학",
+                "학수번호": "EAES402",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES414",
+            "position": {
+                "x": 1980,
+                "y": 70
+            },
+            "data": {
+                "label": "야외지질학실습",
+                "학수번호": "EAES414",
+                "세부전공": null,
+                "전공역량": "창의적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES404",
+            "position": {
+                "x": 1980,
+                "y": 140
+            },
+            "data": {
+                "label": "지화학탐사",
+                "학수번호": "EAES404",
+                "세부전공": null,
+                "전공역량": "창의적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES408",
+            "position": {
+                "x": 1980,
+                "y": 210
+            },
+            "data": {
+                "label": "원격탐사/GIS",
+                "학수번호": "EAES408",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES418",
+            "position": {
+                "x": 1980,
+                "y": 280
+            },
+            "data": {
+                "label": "오염조사/복원",
+                "학수번호": "EAES418",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES420",
+            "position": {
+                "x": 1980,
+                "y": 350
+            },
+            "data": {
+                "label": "지구환경과학연구Ⅱ",
+                "학수번호": "EAES420",
+                "세부전공": null,
+                "전공역량": "글로벌 리더십",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES422",
+            "position": {
+                "x": 1980,
+                "y": 420
+            },
+            "data": {
+                "label": "현장실습Ⅱ",
+                "학수번호": "EAES422",
+                "세부전공": null,
+                "전공역량": "글로벌 리더십",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES412",
+            "position": {
+                "x": 1980,
+                "y": 490
+            },
+            "data": {
+                "label": "우주과학",
+                "학수번호": "EAES412",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES403",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "환경과학실습 ",
+                "학수번호": "EAES403",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES423",
+            "position": {
+                "x": 1760,
+                "y": 70
+            },
+            "data": {
+                "label": "행성지질학",
+                "학수번호": "EAES423",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES405",
+            "position": {
+                "x": 1760,
+                "y": 140
+            },
+            "data": {
+                "label": "응용광물학",
+                "학수번호": "EAES405",
+                "세부전공": null,
+                "전공역량": "창의적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES407",
+            "position": {
+                "x": 1760,
+                "y": 210
+            },
+            "data": {
+                "label": "지구원소순환",
+                "학수번호": "EAES407",
+                "세부전공": null,
+                "전공역량": "글로벌 리더십",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES417",
+            "position": {
+                "x": 1760,
+                "y": 280
+            },
+            "data": {
+                "label": "지질방재공학",
+                "학수번호": "EAES417",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES419",
+            "position": {
+                "x": 1760,
+                "y": 350
+            },
+            "data": {
+                "label": "지구환경과학연구Ⅰ",
+                "학수번호": "EAES419",
+                "세부전공": null,
+                "전공역량": "글로벌 리더십",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES421",
+            "position": {
+                "x": 1760,
+                "y": 420
+            },
+            "data": {
+                "label": "현장실습Ⅰ",
+                "학수번호": "EAES421",
+                "세부전공": null,
+                "전공역량": "글로벌 리더십",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        }
+    ],
+    "edges": []
+}

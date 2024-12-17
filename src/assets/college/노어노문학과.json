@@ -26,10 +26,35 @@
             }
         },
         {
+            "id": "COLA173",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "data": {
+                "label": "디지털인문학응용",
+                "학수번호": "COLA173",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFECB3",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "RUSS215",
             "position": {
                 "x": 440,
-                "y": 70
+                "y": 200
             },
             "data": {
                 "label": "러시아민담과민속",
@@ -51,10 +76,110 @@
             }
         },
         {
+            "id": "RUSS260",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "data": {
+                "label": "러시아어번역연습",
+                "학수번호": "RUSS260",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "노어노문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": "전공역량안적힘"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "RUSS411",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "data": {
+                "label": "러시아어와코퍼스언어학",
+                "학수번호": "RUSS411",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "노어노문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "전공역량안적힘"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COLA200",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "인문융합세미나",
+                "학수번호": "COLA200",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 140
+                "y": 700
             },
             "data": {
                 "label": "글쓰기",
@@ -76,10 +201,35 @@
             }
         },
         {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 800
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 210
+                "y": 900
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -104,7 +254,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 280
+                "y": 1000
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -126,110 +276,10 @@
             }
         },
         {
-            "id": "RUSS131",
-            "position": {
-                "x": 440,
-                "y": 350
-            },
-            "data": {
-                "label": "교양러시아어I",
-                "학수번호": "RUSS131",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "노어노문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COLA173",
-            "position": {
-                "x": 220,
-                "y": 0
-            },
-            "data": {
-                "label": "디지털인문학응용",
-                "학수번호": "COLA173",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "문과대학",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFECB3",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 220,
-                "y": 70
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 220,
-                "y": 140
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEBT001",
             "position": {
-                "x": 220,
-                "y": 210
+                "x": 440,
+                "y": 1100
             },
             "data": {
                 "label": "[진로창업]생명과학의세계",
@@ -246,6 +296,31 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "RUSS131",
+            "position": {
+                "x": 440,
+                "y": 1200
+            },
+            "data": {
+                "label": "교양러시아어I",
+                "학수번호": "RUSS131",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "노어노문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -276,35 +351,10 @@
             }
         },
         {
-            "id": "RUSS260",
-            "position": {
-                "x": 660,
-                "y": 70
-            },
-            "data": {
-                "label": "러시아어번역연습",
-                "학수번호": "RUSS260",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "노어노문학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": "전공역량안적힘"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "RUSS450",
             "position": {
                 "x": 660,
-                "y": 140
+                "y": 100
             },
             "data": {
                 "label": "푸슈킨",
@@ -326,35 +376,10 @@
             }
         },
         {
-            "id": "COLA200",
-            "position": {
-                "x": 660,
-                "y": 210
-            },
-            "data": {
-                "label": "인문융합세미나",
-                "학수번호": "COLA200",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "문과대학",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 280
+                "y": 200
             },
             "data": {
                 "label": "[진로창업]1학년세미나 II",
@@ -379,7 +404,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 350
+                "y": 300
             },
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
@@ -404,7 +429,7 @@
             "id": "RUSS132",
             "position": {
                 "x": 660,
-                "y": 420
+                "y": 400
             },
             "data": {
                 "label": "교양러시아어II",
@@ -454,7 +479,7 @@
             "id": "RUSS205",
             "position": {
                 "x": 880,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "러시아문학기행",
@@ -479,7 +504,7 @@
             "id": "RUSS207",
             "position": {
                 "x": 880,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "중급러시아어회화I",
@@ -504,7 +529,7 @@
             "id": "RUSS213",
             "position": {
                 "x": 880,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "러시아어의구조",
@@ -529,7 +554,7 @@
             "id": "RUSS255",
             "position": {
                 "x": 880,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "러시아인문지리",
@@ -554,7 +579,7 @@
             "id": "RUSS259",
             "position": {
                 "x": 880,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "러시아역사세미나",
@@ -579,7 +604,7 @@
             "id": "RUSS325",
             "position": {
                 "x": 880,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "근대러시아소설",
@@ -604,7 +629,7 @@
             "id": "RUSS370",
             "position": {
                 "x": 880,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "러시아문학사I",
@@ -654,7 +679,7 @@
             "id": "RUSS208",
             "position": {
                 "x": 1100,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "중급러시아어회화II",
@@ -679,7 +704,7 @@
             "id": "RUSS216",
             "position": {
                 "x": 1100,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "러시아문학의전통과진화",
@@ -704,7 +729,7 @@
             "id": "RUSS257",
             "position": {
                 "x": 1100,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "러시아정교와사상",
@@ -729,7 +754,7 @@
             "id": "RUSS258",
             "position": {
                 "x": 1100,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "러시아대중문화",
@@ -754,7 +779,7 @@
             "id": "RUSS326",
             "position": {
                 "x": 1100,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "현대러시아소설",
@@ -779,7 +804,7 @@
             "id": "RUSS371",
             "position": {
                 "x": 1100,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "러시아문학사II",
@@ -804,7 +829,7 @@
             "id": "RUSS478",
             "position": {
                 "x": 1100,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "러시아지역학",
@@ -854,7 +879,7 @@
             "id": "RUSS218",
             "position": {
                 "x": 1320,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "러시아문학과영상예술I",
@@ -879,7 +904,7 @@
             "id": "RUSS327",
             "position": {
                 "x": 1320,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "러시아어와우리말",
@@ -904,7 +929,7 @@
             "id": "RUSS363",
             "position": {
                 "x": 1320,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "고급러시아어회화I",
@@ -929,7 +954,7 @@
             "id": "RUSS365",
             "position": {
                 "x": 1320,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "근대러시아문화와시",
@@ -954,7 +979,7 @@
             "id": "RUSS369",
             "position": {
                 "x": 1320,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "러시아사회의이해",
@@ -979,7 +1004,7 @@
             "id": "RUSS381",
             "position": {
                 "x": 1320,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "러시아문화사",
@@ -1004,7 +1029,7 @@
             "id": "RUSS451",
             "position": {
                 "x": 1320,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "도스토예프스키",
@@ -1029,7 +1054,7 @@
             "id": "RUSS468",
             "position": {
                 "x": 1320,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "다인종다문화사회",
@@ -1054,7 +1079,7 @@
             "id": "RUSS483",
             "position": {
                 "x": 1320,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "러시아어토르플I",
@@ -1104,7 +1129,7 @@
             "id": "RUSS219",
             "position": {
                 "x": 1540,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "러시아문학과영상예술II",
@@ -1129,7 +1154,7 @@
             "id": "RUSS334",
             "position": {
                 "x": 1540,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "러시아드라마와공연예술",
@@ -1154,7 +1179,7 @@
             "id": "RUSS364",
             "position": {
                 "x": 1540,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "고급러시아어회화II",
@@ -1179,7 +1204,7 @@
             "id": "RUSS366",
             "position": {
                 "x": 1540,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "현대러시아문화와시",
@@ -1204,7 +1229,7 @@
             "id": "RUSS377",
             "position": {
                 "x": 1540,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "러시아정치와국제관계",
@@ -1229,7 +1254,7 @@
             "id": "RUSS378",
             "position": {
                 "x": 1540,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "러시아경제와국제통상",
@@ -1251,35 +1276,10 @@
             }
         },
         {
-            "id": "RUSS411",
-            "position": {
-                "x": 1540,
-                "y": 490
-            },
-            "data": {
-                "label": "러시아어와코퍼스언어학",
-                "학수번호": "RUSS411",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "노어노문학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": "전공역량안적힘"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "RUSS452",
             "position": {
                 "x": 1540,
-                "y": 560
+                "y": 700
             },
             "data": {
                 "label": "톨스토이",
@@ -1304,7 +1304,7 @@
             "id": "RUSS463",
             "position": {
                 "x": 1540,
-                "y": 630
+                "y": 800
             },
             "data": {
                 "label": "러시아어교과교육론",
@@ -1329,7 +1329,7 @@
             "id": "RUSS481",
             "position": {
                 "x": 1540,
-                "y": 700
+                "y": 900
             },
             "data": {
                 "label": "CIS지역학",
@@ -1354,7 +1354,7 @@
             "id": "RUSS484",
             "position": {
                 "x": 1540,
-                "y": 770
+                "y": 1000
             },
             "data": {
                 "label": "러시아어토르플II",
@@ -1404,7 +1404,7 @@
             "id": "RUSS333",
             "position": {
                 "x": 1760,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "비즈니스러시아어",
@@ -1429,7 +1429,7 @@
             "id": "RUSS362",
             "position": {
                 "x": 1760,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "디지털문화와러시아어",
@@ -1454,7 +1454,7 @@
             "id": "RUSS408",
             "position": {
                 "x": 1760,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "한러관계의이슈와전망",
@@ -1479,7 +1479,7 @@
             "id": "RUSS410",
             "position": {
                 "x": 1760,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "러시아문학과한국문학",
@@ -1504,7 +1504,7 @@
             "id": "RUSS485",
             "position": {
                 "x": 1760,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "러시아어교과논리및논술",
@@ -1529,7 +1529,7 @@
             "id": "RUSS487",
             "position": {
                 "x": 1760,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "우크라이나언어와사회",
@@ -1579,7 +1579,7 @@
             "id": "RUSS409",
             "position": {
                 "x": 1980,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "러시아작가론",
@@ -1604,7 +1604,7 @@
             "id": "RUSS456",
             "position": {
                 "x": 1980,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "매스컴러시아어",
@@ -1629,7 +1629,7 @@
             "id": "RUSS460",
             "position": {
                 "x": 1980,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "슬라브사회와문화",
@@ -1654,7 +1654,7 @@
             "id": "RUSS462",
             "position": {
                 "x": 1980,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "러시아어와멘탈리티",
@@ -1679,7 +1679,7 @@
             "id": "RUSS486",
             "position": {
                 "x": 1980,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "러시아어교과교재연구및지도법",
@@ -1704,7 +1704,7 @@
             "id": "RUSS490",
             "position": {
                 "x": 1980,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "러시아예술과문화산업",

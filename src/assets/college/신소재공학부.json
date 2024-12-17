@@ -3,7 +3,7 @@
         {
             "id": "GELI005",
             "position": {
-                "x": 220,
+                "x": 440,
                 "y": 0
             },
             "data": {
@@ -26,460 +26,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 220,
-                "y": 70
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 220,
-                "y": 140
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS151",
-            "position": {
-                "x": 220,
-                "y": 210
-            },
-            "data": {
-                "label": "일반물리학연습 I",
-                "학수번호": "PHYS151",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS152",
-            "position": {
-                "x": 220,
-                "y": 280
-            },
-            "data": {
-                "label": "일반물리학연습 II",
-                "학수번호": "PHYS152",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS161",
-            "position": {
-                "x": 220,
-                "y": 350
-            },
-            "data": {
-                "label": "일반물리학실험 I",
-                "학수번호": "PHYS161",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS162",
-            "position": {
-                "x": 220,
-                "y": 420
-            },
-            "data": {
-                "label": "일반물리학실험 II",
-                "학수번호": "PHYS162",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "물리학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM151",
-            "position": {
-                "x": 220,
-                "y": 490
-            },
-            "data": {
-                "label": "일반화학및연습 I",
-                "학수번호": "CHEM151",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM152",
-            "position": {
-                "x": 220,
-                "y": 560
-            },
-            "data": {
-                "label": "일반화학및연습 II",
-                "학수번호": "CHEM152",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM153",
-            "position": {
-                "x": 220,
-                "y": 630
-            },
-            "data": {
-                "label": "일반화학실험 I",
-                "학수번호": "CHEM153",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM154",
-            "position": {
-                "x": 220,
-                "y": 700
-            },
-            "data": {
-                "label": "일반화학실험 II",
-                "학수번호": "CHEM154",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "화학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EAES151",
-            "position": {
-                "x": 220,
-                "y": 770
-            },
-            "data": {
-                "label": "지구환경과학및연습 I",
-                "학수번호": "EAES151",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "지구환경과학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EAES152",
-            "position": {
-                "x": 220,
-                "y": 840
-            },
-            "data": {
-                "label": "지구환경과학및연습 II",
-                "학수번호": "EAES152",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "지구환경과학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EAES153",
-            "position": {
-                "x": 220,
-                "y": 910
-            },
-            "data": {
-                "label": "지구환경과학실험 I",
-                "학수번호": "EAES153",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "지구환경과학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EAES154",
-            "position": {
-                "x": 220,
-                "y": 980
-            },
-            "data": {
-                "label": "지구환경과학실험 II",
-                "학수번호": "EAES154",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "지구환경과학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS151",
-            "position": {
-                "x": 220,
-                "y": 1050
-            },
-            "data": {
-                "label": "일반생물학및연습 I",
-                "학수번호": "LIBS151",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명과학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS152",
-            "position": {
-                "x": 220,
-                "y": 1120
-            },
-            "data": {
-                "label": "일반생물학및연습 II",
-                "학수번호": "LIBS152",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명과학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS153",
-            "position": {
-                "x": 220,
-                "y": 1190
-            },
-            "data": {
-                "label": "일반생물학실험 I",
-                "학수번호": "LIBS153",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명과학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS154",
-            "position": {
-                "x": 220,
-                "y": 1260
-            },
-            "data": {
-                "label": "일반생물학실험 II",
-                "학수번호": "LIBS154",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "생명과학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 0
+                "y": 100
             },
             "data": {
                 "label": "글쓰기",
@@ -501,10 +51,35 @@
             }
         },
         {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 70
+                "y": 300
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -529,7 +104,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 140
+                "y": 400
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -551,10 +126,35 @@
             }
         },
         {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "MATH161",
             "position": {
                 "x": 440,
-                "y": 210
+                "y": 600
             },
             "data": {
                 "label": "미적분학및연습I",
@@ -562,6 +162,406 @@
                 "세부전공": null,
                 "전공역량": null,
                 "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS151",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "data": {
+                "label": "일반물리학연습 I",
+                "학수번호": "PHYS151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS152",
+            "position": {
+                "x": 440,
+                "y": 800
+            },
+            "data": {
+                "label": "일반물리학연습 II",
+                "학수번호": "PHYS152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS161",
+            "position": {
+                "x": 440,
+                "y": 900
+            },
+            "data": {
+                "label": "일반물리학실험 I",
+                "학수번호": "PHYS161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS162",
+            "position": {
+                "x": 440,
+                "y": 1000
+            },
+            "data": {
+                "label": "일반물리학실험 II",
+                "학수번호": "PHYS162",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM151",
+            "position": {
+                "x": 440,
+                "y": 1100
+            },
+            "data": {
+                "label": "일반화학및연습 I",
+                "학수번호": "CHEM151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM152",
+            "position": {
+                "x": 440,
+                "y": 1200
+            },
+            "data": {
+                "label": "일반화학및연습 II",
+                "학수번호": "CHEM152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM153",
+            "position": {
+                "x": 440,
+                "y": 1300
+            },
+            "data": {
+                "label": "일반화학실험 I",
+                "학수번호": "CHEM153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM154",
+            "position": {
+                "x": 440,
+                "y": 1400
+            },
+            "data": {
+                "label": "일반화학실험 II",
+                "학수번호": "CHEM154",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "화학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES151",
+            "position": {
+                "x": 440,
+                "y": 1500
+            },
+            "data": {
+                "label": "지구환경과학및연습 I",
+                "학수번호": "EAES151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES152",
+            "position": {
+                "x": 440,
+                "y": 1600
+            },
+            "data": {
+                "label": "지구환경과학및연습 II",
+                "학수번호": "EAES152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES153",
+            "position": {
+                "x": 440,
+                "y": 1700
+            },
+            "data": {
+                "label": "지구환경과학실험 I",
+                "학수번호": "EAES153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES154",
+            "position": {
+                "x": 440,
+                "y": 1800
+            },
+            "data": {
+                "label": "지구환경과학실험 II",
+                "학수번호": "EAES154",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS151",
+            "position": {
+                "x": 440,
+                "y": 1900
+            },
+            "data": {
+                "label": "일반생물학및연습 I",
+                "학수번호": "LIBS151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS152",
+            "position": {
+                "x": 440,
+                "y": 2000
+            },
+            "data": {
+                "label": "일반생물학및연습 II",
+                "학수번호": "LIBS152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS153",
+            "position": {
+                "x": 440,
+                "y": 2100
+            },
+            "data": {
+                "label": "일반생물학실험 I",
+                "학수번호": "LIBS153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS154",
+            "position": {
+                "x": 440,
+                "y": 2200
+            },
+            "data": {
+                "label": "일반생물학실험 II",
+                "학수번호": "LIBS154",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null
@@ -604,7 +604,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
@@ -629,7 +629,7 @@
             "id": "MATH162",
             "position": {
                 "x": 660,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "미적분학및연습II",
@@ -679,7 +679,7 @@
             "id": "MATH212",
             "position": {
                 "x": 1100,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "해석학Ⅱ및연습",
@@ -704,7 +704,7 @@
             "id": "MATH222",
             "position": {
                 "x": 1100,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "선형대수Ⅱ및연습",
@@ -729,7 +729,7 @@
             "id": "MATH232",
             "position": {
                 "x": 1100,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "기하학개론",
@@ -754,7 +754,7 @@
             "id": "MATH240",
             "position": {
                 "x": 1100,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "미분방정식및연습",
@@ -779,7 +779,7 @@
             "id": "MATH282",
             "position": {
                 "x": 1100,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "미분방정식론",
@@ -804,7 +804,7 @@
             "id": "MATH292",
             "position": {
                 "x": 1100,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "인공지능의수학적기초",
@@ -854,7 +854,7 @@
             "id": "MATH221",
             "position": {
                 "x": 880,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "선형대수Ⅰ및연습",
@@ -879,7 +879,7 @@
             "id": "MATH201",
             "position": {
                 "x": 880,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "집합론",
@@ -904,7 +904,7 @@
             "id": "MATH203",
             "position": {
                 "x": 880,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "이산수학",
@@ -929,7 +929,7 @@
             "id": "MATH223",
             "position": {
                 "x": 880,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "정수론",
@@ -979,7 +979,7 @@
             "id": "MATH321",
             "position": {
                 "x": 1320,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "대수학Ⅰ",
@@ -1004,7 +1004,7 @@
             "id": "MATH331",
             "position": {
                 "x": 1320,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "미분기하학Ⅰ",
@@ -1029,7 +1029,7 @@
             "id": "MATH333",
             "position": {
                 "x": 1320,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "위상수학Ⅰ",
@@ -1054,7 +1054,7 @@
             "id": "MATH343",
             "position": {
                 "x": 1320,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "확률과통계및연습",
@@ -1079,7 +1079,7 @@
             "id": "MATH391",
             "position": {
                 "x": 1320,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "딥러닝의수학",
@@ -1129,7 +1129,7 @@
             "id": "MATH344",
             "position": {
                 "x": 1540,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "확률과정개론",
@@ -1154,7 +1154,7 @@
             "id": "MATH358",
             "position": {
                 "x": 1540,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "복소해석학II",
@@ -1179,7 +1179,7 @@
             "id": "MATH362",
             "position": {
                 "x": 1540,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "대수학Ⅱ",
@@ -1204,7 +1204,7 @@
             "id": "MATH372",
             "position": {
                 "x": 1540,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "미분기하학Ⅱ",
@@ -1229,7 +1229,7 @@
             "id": "MATH374",
             "position": {
                 "x": 1540,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "위상수학II",
@@ -1254,7 +1254,7 @@
             "id": "MATH392",
             "position": {
                 "x": 1540,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "강화학습의수학",
@@ -1304,7 +1304,7 @@
             "id": "MATH469",
             "position": {
                 "x": 1760,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "대수학특강",
@@ -1329,7 +1329,7 @@
             "id": "MATH481",
             "position": {
                 "x": 1760,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "편미분방정식및연습",
@@ -1354,7 +1354,7 @@
             "id": "MATH483",
             "position": {
                 "x": 1760,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "금융수학",
@@ -1379,7 +1379,7 @@
             "id": "MATH491",
             "position": {
                 "x": 1760,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "인공지능의수학적기법",
@@ -1429,7 +1429,7 @@
             "id": "MATH462",
             "position": {
                 "x": 1980,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "응용정수론",
@@ -1454,7 +1454,7 @@
             "id": "MATH464",
             "position": {
                 "x": 1980,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "조합론",
@@ -1479,7 +1479,7 @@
             "id": "MATH484",
             "position": {
                 "x": 1980,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "보험수학",
@@ -1504,7 +1504,7 @@
             "id": "MATH487",
             "position": {
                 "x": 1980,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "응용수학특강",
@@ -1529,7 +1529,7 @@
             "id": "MATH488",
             "position": {
                 "x": 1980,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "확률론특강",

@@ -29,7 +29,7 @@
             "id": "PHIL191",
             "position": {
                 "x": 440,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "서양철학개론",
@@ -51,10 +51,85 @@
             }
         },
         {
+            "id": "PHIL355",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "언어철학",
+                "학수번호": "PHIL355",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "철학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": "전공역량 안적혀있음"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COLA200",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "data": {
+                "label": "인문융합세미나",
+                "학수번호": "COLA200",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 140
+                "y": 500
             },
             "data": {
                 "label": "글쓰기",
@@ -76,10 +151,35 @@
             }
         },
         {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 210
+                "y": 700
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -104,11 +204,36 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 280
+                "y": 800
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
                 "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 900
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
                 "세부전공": null,
                 "전공역량": null,
                 "개설학과": null,
@@ -154,7 +279,7 @@
             "id": "PHIL207",
             "position": {
                 "x": 1100,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "형이상학",
@@ -179,7 +304,7 @@
             "id": "PHIL220",
             "position": {
                 "x": 1100,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "윤리학",
@@ -204,7 +329,7 @@
             "id": "PHIL224",
             "position": {
                 "x": 1100,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "유가철학",
@@ -229,7 +354,7 @@
             "id": "PHIL225",
             "position": {
                 "x": 1100,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "도가철학",
@@ -254,7 +379,7 @@
             "id": "PHIL311",
             "position": {
                 "x": 1100,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "한국성리학",
@@ -279,7 +404,7 @@
             "id": "PHIL312",
             "position": {
                 "x": 1100,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "한국철학사",
@@ -304,7 +429,7 @@
             "id": "PHIL332",
             "position": {
                 "x": 1100,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "중국양한위진철학",
@@ -329,7 +454,7 @@
             "id": "PHIL334",
             "position": {
                 "x": 1100,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "중국송명철학",
@@ -354,7 +479,7 @@
             "id": "PHIL344",
             "position": {
                 "x": 1100,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "서양근세철학",
@@ -379,7 +504,7 @@
             "id": "PHIL353",
             "position": {
                 "x": 1100,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "철학적인간학",
@@ -401,35 +526,10 @@
             }
         },
         {
-            "id": "PHIL355",
-            "position": {
-                "x": 1100,
-                "y": 770
-            },
-            "data": {
-                "label": "언어철학",
-                "학수번호": "PHIL355",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": "전공역량 안적혀있음"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "PHIL358",
             "position": {
                 "x": 1100,
-                "y": 840
+                "y": 1100
             },
             "data": {
                 "label": "미학",
@@ -454,7 +554,7 @@
             "id": "PHIL395",
             "position": {
                 "x": 1100,
-                "y": 910
+                "y": 1200
             },
             "data": {
                 "label": "귀납논리",
@@ -479,7 +579,7 @@
             "id": "PHIL456",
             "position": {
                 "x": 1100,
-                "y": 980
+                "y": 1300
             },
             "data": {
                 "label": "철학교과교재연구및지도법",
@@ -504,7 +604,7 @@
             "id": "PHIL458",
             "position": {
                 "x": 1100,
-                "y": 1050
+                "y": 1400
             },
             "data": {
                 "label": "철학교과논리및논술",
@@ -551,35 +651,10 @@
             }
         },
         {
-            "id": "COLA200",
-            "position": {
-                "x": 660,
-                "y": 70
-            },
-            "data": {
-                "label": "인문융합세미나",
-                "학수번호": "COLA200",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "문과대학",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEKS008",
             "position": {
                 "x": 660,
-                "y": 140
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]1학년세미나 II",
@@ -604,7 +679,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 210
+                "y": 200
             },
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
@@ -654,7 +729,7 @@
             "id": "PHIL226",
             "position": {
                 "x": 880,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "불교철학",
@@ -679,7 +754,7 @@
             "id": "PHIL321",
             "position": {
                 "x": 880,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "서양고대철학",
@@ -704,7 +779,7 @@
             "id": "PHIL322",
             "position": {
                 "x": 880,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "서양중세철학",
@@ -729,7 +804,7 @@
             "id": "PHIL331",
             "position": {
                 "x": 880,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "중국선진철학",
@@ -754,7 +829,7 @@
             "id": "PHIL335",
             "position": {
                 "x": 880,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "인도철학사",
@@ -779,7 +854,7 @@
             "id": "PHIL345",
             "position": {
                 "x": 880,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "독일고전철학",
@@ -804,7 +879,7 @@
             "id": "PHIL346",
             "position": {
                 "x": 880,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "현대유럽철학",
@@ -829,7 +904,7 @@
             "id": "PHIL347",
             "position": {
                 "x": 880,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "현대영미철학",
@@ -854,7 +929,7 @@
             "id": "PHIL349",
             "position": {
                 "x": 880,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "중국근현대철학",
@@ -879,7 +954,7 @@
             "id": "PHIL351",
             "position": {
                 "x": 880,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "심리철학",
@@ -904,7 +979,7 @@
             "id": "PHIL356",
             "position": {
                 "x": 880,
-                "y": 770
+                "y": 1100
             },
             "data": {
                 "label": "과학철학",
@@ -929,7 +1004,7 @@
             "id": "PHIL381",
             "position": {
                 "x": 880,
-                "y": 840
+                "y": 1200
             },
             "data": {
                 "label": "해석학",
@@ -954,7 +1029,7 @@
             "id": "PHIL386",
             "position": {
                 "x": 880,
-                "y": 910
+                "y": 1300
             },
             "data": {
                 "label": "정치철학강의",
@@ -979,7 +1054,7 @@
             "id": "PHIL459",
             "position": {
                 "x": 880,
-                "y": 980
+                "y": 1400
             },
             "data": {
                 "label": "철학교과교육론",
@@ -1029,7 +1104,7 @@
             "id": "PHIL365",
             "position": {
                 "x": 1540,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "동양윤리와법사상",
@@ -1054,7 +1129,7 @@
             "id": "PHIL367",
             "position": {
                 "x": 1540,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "법철학",
@@ -1079,7 +1154,7 @@
             "id": "PHIL391",
             "position": {
                 "x": 1540,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "사회철학",
@@ -1104,7 +1179,7 @@
             "id": "PHIL394",
             "position": {
                 "x": 1540,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "응용윤리학",
@@ -1129,7 +1204,7 @@
             "id": "PHIL413",
             "position": {
                 "x": 1540,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "한국철학특강",
@@ -1154,7 +1229,7 @@
             "id": "PHIL420",
             "position": {
                 "x": 1540,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "독일고전철학특강",
@@ -1179,7 +1254,7 @@
             "id": "PHIL447",
             "position": {
                 "x": 1540,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "동양철학원전연구",
@@ -1204,7 +1279,7 @@
             "id": "PHIL450",
             "position": {
                 "x": 1540,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "유가철학특강",
@@ -1229,7 +1304,7 @@
             "id": "PHIL452",
             "position": {
                 "x": 1540,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "도가철학특강",
@@ -1254,7 +1329,7 @@
             "id": "PHIL454",
             "position": {
                 "x": 1540,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "한국철학연습",
@@ -1304,7 +1379,7 @@
             "id": "PHIL376",
             "position": {
                 "x": 1320,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "고급논리",
@@ -1329,7 +1404,7 @@
             "id": "PHIL398",
             "position": {
                 "x": 1320,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "수리철학",
@@ -1354,7 +1429,7 @@
             "id": "PHIL414",
             "position": {
                 "x": 1320,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "불교철학특강",
@@ -1379,7 +1454,7 @@
             "id": "PHIL418",
             "position": {
                 "x": 1320,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "서양고대철학특강",
@@ -1404,7 +1479,7 @@
             "id": "PHIL419",
             "position": {
                 "x": 1320,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "서양근세철학특강",
@@ -1429,7 +1504,7 @@
             "id": "PHIL424",
             "position": {
                 "x": 1320,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "서양현대철학특강",
@@ -1454,7 +1529,7 @@
             "id": "PHIL431",
             "position": {
                 "x": 1320,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "이론철학연습",
@@ -1479,7 +1554,7 @@
             "id": "PHIL432",
             "position": {
                 "x": 1320,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "실천철학연습",
@@ -1504,7 +1579,7 @@
             "id": "PHIL435",
             "position": {
                 "x": 1320,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "동양철학연습",
@@ -1529,7 +1604,7 @@
             "id": "PHIL436",
             "position": {
                 "x": 1320,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "서양고대철학연습",
@@ -1554,7 +1629,7 @@
             "id": "PHIL446",
             "position": {
                 "x": 1320,
-                "y": 770
+                "y": 1100
             },
             "data": {
                 "label": "서양철학원전연구",
@@ -1604,7 +1679,7 @@
             "id": "PHIL449",
             "position": {
                 "x": 1760,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "서양고대철학원전연구",
@@ -1629,7 +1704,7 @@
             "id": "PHIL460",
             "position": {
                 "x": 1760,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "철학연구방법론",
@@ -1679,7 +1754,7 @@
             "id": "PHIL453",
             "position": {
                 "x": 1980,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "중국신유학특강",
@@ -1696,81 +1771,6 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 220,
-                "y": 0
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 220,
-                "y": 70
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 220,
-                "y": 140
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
                 "borderRadius": "5px",
                 "padding": "10px"
             }

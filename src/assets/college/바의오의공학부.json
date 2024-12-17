@@ -3,7 +3,7 @@
         {
             "id": "GELI005",
             "position": {
-                "x": 220,
+                "x": 440,
                 "y": 0
             },
             "data": {
@@ -26,60 +26,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 220,
-                "y": 70
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 220,
-                "y": 140
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 0
+                "y": 100
             },
             "data": {
                 "label": "글쓰기",
@@ -101,10 +51,35 @@
             }
         },
         {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 70
+                "y": 300
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -129,7 +104,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 140
+                "y": 400
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -151,10 +126,35 @@
             }
         },
         {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "CHEM150",
             "position": {
                 "x": 440,
-                "y": 210
+                "y": 600
             },
             "data": {
                 "label": "일반화학및연습",
@@ -179,7 +179,7 @@
             "id": "CHEM155",
             "position": {
                 "x": 440,
-                "y": 280
+                "y": 700
             },
             "data": {
                 "label": "일반화학실험",
@@ -204,7 +204,7 @@
             "id": "PHYS151",
             "position": {
                 "x": 440,
-                "y": 350
+                "y": 800
             },
             "data": {
                 "label": "일반물리학및연습 I",
@@ -229,7 +229,7 @@
             "id": "PHYS161",
             "position": {
                 "x": 440,
-                "y": 420
+                "y": 900
             },
             "data": {
                 "label": "일반물리학실험 I",
@@ -254,7 +254,7 @@
             "id": "MATH161",
             "position": {
                 "x": 440,
-                "y": 490
+                "y": 1000
             },
             "data": {
                 "label": "미적분학및연습 I",
@@ -304,7 +304,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
@@ -329,7 +329,7 @@
             "id": "PHYS152",
             "position": {
                 "x": 660,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "일반물리학및연습 II",
@@ -354,7 +354,7 @@
             "id": "PHYS162",
             "position": {
                 "x": 660,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "일반물리학실험 II",
@@ -379,7 +379,7 @@
             "id": "MATH162",
             "position": {
                 "x": 660,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "미적분학및연습 II",
@@ -404,7 +404,7 @@
             "id": "LIBS150",
             "position": {
                 "x": 660,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "생명과학",
@@ -454,7 +454,7 @@
             "id": "BMED208",
             "position": {
                 "x": 1100,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "생체유체역학",
@@ -479,7 +479,7 @@
             "id": "BMED212",
             "position": {
                 "x": 1100,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "기초광학",
@@ -504,7 +504,7 @@
             "id": "BMED218",
             "position": {
                 "x": 1100,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "생리학",
@@ -529,7 +529,7 @@
             "id": "BMED224",
             "position": {
                 "x": 1100,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "물리화학",
@@ -554,7 +554,7 @@
             "id": "BMED228",
             "position": {
                 "x": 1100,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "의공학의이해",
@@ -579,7 +579,7 @@
             "id": "BMED230",
             "position": {
                 "x": 1100,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "전자회로",
@@ -629,7 +629,7 @@
             "id": "BMED329",
             "position": {
                 "x": 1320,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "의공학실험Ⅲ",
@@ -654,7 +654,7 @@
             "id": "BMED301",
             "position": {
                 "x": 1320,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "생화학",
@@ -679,7 +679,7 @@
             "id": "BMED303",
             "position": {
                 "x": 1320,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "분자생물학",
@@ -704,7 +704,7 @@
             "id": "BMED307",
             "position": {
                 "x": 1320,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "생체전달시스템",
@@ -729,7 +729,7 @@
             "id": "BMED309",
             "position": {
                 "x": 1320,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "의료영상",
@@ -754,7 +754,7 @@
             "id": "BMED311",
             "position": {
                 "x": 1320,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "생체신호처리",
@@ -779,7 +779,7 @@
             "id": "BMED313",
             "position": {
                 "x": 1320,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "생체재료",
@@ -804,7 +804,7 @@
             "id": "BMED321",
             "position": {
                 "x": 1320,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "디지털시스템",
@@ -829,7 +829,7 @@
             "id": "BMED325",
             "position": {
                 "x": 1320,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "생체데이터과학",
@@ -879,7 +879,7 @@
             "id": "BMED306",
             "position": {
                 "x": 1540,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "세포생물학",
@@ -904,7 +904,7 @@
             "id": "BMED312",
             "position": {
                 "x": 1540,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "생체정보계측",
@@ -929,7 +929,7 @@
             "id": "BMED318",
             "position": {
                 "x": 1540,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "의학영상처리",
@@ -954,7 +954,7 @@
             "id": "BMED328",
             "position": {
                 "x": 1540,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "수치해석의생체응용",
@@ -979,7 +979,7 @@
             "id": "BMED332",
             "position": {
                 "x": 1540,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "생체정보학",
@@ -1004,7 +1004,7 @@
             "id": "BMED334",
             "position": {
                 "x": 1540,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "의학물리",
@@ -1029,7 +1029,7 @@
             "id": "BMED336",
             "position": {
                 "x": 1540,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "바이오메디컬빅데이터",
@@ -1079,7 +1079,7 @@
             "id": "BMED211",
             "position": {
                 "x": 880,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "생체역학",
@@ -1104,7 +1104,7 @@
             "id": "BMED215",
             "position": {
                 "x": 880,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "해부학",
@@ -1129,7 +1129,7 @@
             "id": "BMED217",
             "position": {
                 "x": 880,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "회로이론",
@@ -1154,7 +1154,7 @@
             "id": "BMED219",
             "position": {
                 "x": 880,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "유기화학",
@@ -1179,7 +1179,7 @@
             "id": "BMED223",
             "position": {
                 "x": 880,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "의공학프로그래밍",
@@ -1229,7 +1229,7 @@
             "id": "BMED403",
             "position": {
                 "x": 1760,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "바이오포토닉스",
@@ -1254,7 +1254,7 @@
             "id": "BMED419",
             "position": {
                 "x": 1760,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "생체적합성",
@@ -1279,7 +1279,7 @@
             "id": "BMED423",
             "position": {
                 "x": 1760,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "현대방사선치료학",
@@ -1304,7 +1304,7 @@
             "id": "BMED429",
             "position": {
                 "x": 1760,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "바이오마이크로나노기기",
@@ -1329,7 +1329,7 @@
             "id": "BMED431",
             "position": {
                 "x": 1760,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "의공학특강Ⅰ",
@@ -1354,7 +1354,7 @@
             "id": "BMED433",
             "position": {
                 "x": 1760,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "의공학프로젝트: 캡스톤디자인Ⅰ",
@@ -1379,7 +1379,7 @@
             "id": "BMED434",
             "position": {
                 "x": 1760,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "의공학프로젝트: 캡스톤디자인Ⅱ",
@@ -1404,7 +1404,7 @@
             "id": "BMED435",
             "position": {
                 "x": 1760,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "바이오메디컬인공지능Ⅰ",
@@ -1454,7 +1454,7 @@
             "id": "BMED420",
             "position": {
                 "x": 1980,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "바이오메디컬통계학",
@@ -1479,7 +1479,7 @@
             "id": "BMED422",
             "position": {
                 "x": 1980,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "바이오인공장기",
@@ -1504,7 +1504,7 @@
             "id": "BMED424",
             "position": {
                 "x": 1980,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "의공학특강Ⅱ",
@@ -1529,7 +1529,7 @@
             "id": "BMED432",
             "position": {
                 "x": 1980,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "의료기기법제도와기술사업화",
@@ -1554,7 +1554,7 @@
             "id": "BMED436",
             "position": {
                 "x": 1980,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "의료로봇",
@@ -1579,7 +1579,7 @@
             "id": "BMED438",
             "position": {
                 "x": 1980,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "바이오메디컬인공지능Ⅱ",
@@ -1604,7 +1604,7 @@
             "id": "BMED440",
             "position": {
                 "x": 1980,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "의료산업및비즈니스모델",

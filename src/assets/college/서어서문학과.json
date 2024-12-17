@@ -1,0 +1,2005 @@
+{
+    "nodes": [
+        {
+            "id": "SPAN201",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "data": {
+                "label": "시청각스페인어I",
+                "학수번호": "SPAN201",
+                "세부전공": null,
+                "전공역량": "외국어구사능력",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN211",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "data": {
+                "label": "중급스페인어연습I",
+                "학수번호": "SPAN211",
+                "세부전공": null,
+                "전공역량": "외국어구사능력",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN213",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "data": {
+                "label": "스페인어산문강독",
+                "학수번호": "SPAN213",
+                "세부전공": null,
+                "전공역량": "외국어구사능력",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN218",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "data": {
+                "label": "라틴아메리카단편소설강독",
+                "학수번호": "SPAN218",
+                "세부전공": null,
+                "전공역량": "외국어구사능력",
+                "개설학과": "서어서문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN202",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "시청각스페인어II",
+                "학수번호": "SPAN202",
+                "세부전공": null,
+                "전공역량": "외국어구사능력",
+                "개설학과": "서어서문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN212",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "data": {
+                "label": "중급스페인어연습II",
+                "학수번호": "SPAN212",
+                "세부전공": null,
+                "전공역량": "외국어구사능력",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN220",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "data": {
+                "label": "라틴아메리카사회와영화",
+                "학수번호": "SPAN220",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN216",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "data": {
+                "label": "고급스페인어회화",
+                "학수번호": "SPAN216",
+                "세부전공": null,
+                "전공역량": "외국어구사능력",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN301",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "data": {
+                "label": "스페인어학개론",
+                "학수번호": "SPAN301",
+                "세부전공": null,
+                "전공역량": "디지털기술활용",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN303",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "data": {
+                "label": "스페인어어원및계통론",
+                "학수번호": "SPAN303",
+                "세부전공": null,
+                "전공역량": "종합적사고",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN313",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "data": {
+                "label": "서중남미지역학I",
+                "학수번호": "SPAN313",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN315",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "data": {
+                "label": "라틴아메리카문화사",
+                "학수번호": "SPAN315",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN321",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "data": {
+                "label": "서문학사",
+                "학수번호": "SPAN321",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN323",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "data": {
+                "label": "스페인시",
+                "학수번호": "SPAN323",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN327",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "data": {
+                "label": "스페인소설",
+                "학수번호": "SPAN327",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN329",
+            "position": {
+                "x": 1320,
+                "y": 800
+            },
+            "data": {
+                "label": "라틴아메리카소설",
+                "학수번호": "SPAN329",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN337",
+            "position": {
+                "x": 1320,
+                "y": 900
+            },
+            "data": {
+                "label": "라틴아메리카식민지시대연구",
+                "학수번호": "SPAN337",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN339",
+            "position": {
+                "x": 1320,
+                "y": 1000
+            },
+            "data": {
+                "label": "스페인·라틴아메리카경제와사회발전",
+                "학수번호": "SPAN339",
+                "세부전공": null,
+                "전공역량": "종합적사고",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN351",
+            "position": {
+                "x": 1320,
+                "y": 1100
+            },
+            "data": {
+                "label": "스페인어번역및통역",
+                "학수번호": "SPAN351",
+                "세부전공": null,
+                "전공역량": "외국어구사능력",
+                "개설학과": "서어서문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN353",
+            "position": {
+                "x": 1320,
+                "y": 1200
+            },
+            "data": {
+                "label": "스페인어방언학",
+                "학수번호": "SPAN353",
+                "세부전공": null,
+                "전공역량": "종합적사고",
+                "개설학과": "서어서문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN357",
+            "position": {
+                "x": 1320,
+                "y": 1300
+            },
+            "data": {
+                "label": "스페인어구조의이해",
+                "학수번호": "SPAN357",
+                "세부전공": null,
+                "전공역량": "디지털기술활용",
+                "개설학과": "서어서문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN361",
+            "position": {
+                "x": 1320,
+                "y": 1400
+            },
+            "data": {
+                "label": "스페인희곡",
+                "학수번호": "SPAN361",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN369",
+            "position": {
+                "x": 1320,
+                "y": 1500
+            },
+            "data": {
+                "label": "라틴아메리카작가론",
+                "학수번호": "SPAN369",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN371",
+            "position": {
+                "x": 1320,
+                "y": 1600
+            },
+            "data": {
+                "label": "스페인중세문학",
+                "학수번호": "SPAN371",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN373",
+            "position": {
+                "x": 1320,
+                "y": 1700
+            },
+            "data": {
+                "label": "라틴아메리카사상사",
+                "학수번호": "SPAN373",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN375",
+            "position": {
+                "x": 1320,
+                "y": 1800
+            },
+            "data": {
+                "label": "돈키호테론",
+                "학수번호": "SPAN375",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN302",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "data": {
+                "label": "스페인어사",
+                "학수번호": "SPAN302",
+                "세부전공": null,
+                "전공역량": "종합적사고",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN312",
+            "position": {
+                "x": 1540,
+                "y": 100
+            },
+            "data": {
+                "label": "스페인문화사",
+                "학수번호": "SPAN312",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN314",
+            "position": {
+                "x": 1540,
+                "y": 200
+            },
+            "data": {
+                "label": "서중남미지역학II",
+                "학수번호": "SPAN314",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN326",
+            "position": {
+                "x": 1540,
+                "y": 300
+            },
+            "data": {
+                "label": "라틴아메리카문학사",
+                "학수번호": "SPAN326",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN328",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "data": {
+                "label": "라틴아메리카시",
+                "학수번호": "SPAN328",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN332",
+            "position": {
+                "x": 1540,
+                "y": 500
+            },
+            "data": {
+                "label": "스페인황금세기문학",
+                "학수번호": "SPAN332",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN336",
+            "position": {
+                "x": 1540,
+                "y": 600
+            },
+            "data": {
+                "label": "스페인사회와영화",
+                "학수번호": "SPAN336",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN338",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "data": {
+                "label": "스페인·라틴아메리카정치와사회변동",
+                "학수번호": "SPAN338",
+                "세부전공": null,
+                "전공역량": "종합적사고",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN343",
+            "position": {
+                "x": 1540,
+                "y": 800
+            },
+            "data": {
+                "label": "스페인어,텍스트그리고기술",
+                "학수번호": "SPAN343",
+                "세부전공": null,
+                "전공역량": "디지털기술활용",
+                "개설학과": "서어서문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN352",
+            "position": {
+                "x": 1540,
+                "y": 900
+            },
+            "data": {
+                "label": "스페인어교수법",
+                "학수번호": "SPAN352",
+                "세부전공": null,
+                "전공역량": "외국어구사능력",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN356",
+            "position": {
+                "x": 1540,
+                "y": 1000
+            },
+            "data": {
+                "label": "스페인어권사회의이해",
+                "학수번호": "SPAN356",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN364",
+            "position": {
+                "x": 1540,
+                "y": 1100
+            },
+            "data": {
+                "label": "스페인문학비평",
+                "학수번호": "SPAN364",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN366",
+            "position": {
+                "x": 1540,
+                "y": 1200
+            },
+            "data": {
+                "label": "스페인작가론",
+                "학수번호": "SPAN366",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN376",
+            "position": {
+                "x": 1540,
+                "y": 1300
+            },
+            "data": {
+                "label": "스페인근현대문학",
+                "학수번호": "SPAN376",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN384",
+            "position": {
+                "x": 1540,
+                "y": 1400
+            },
+            "data": {
+                "label": "스페인에세이",
+                "학수번호": "SPAN384",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN386",
+            "position": {
+                "x": 1540,
+                "y": 1500
+            },
+            "data": {
+                "label": "스페인어음성음운론",
+                "학수번호": "SPAN386",
+                "세부전공": null,
+                "전공역량": "디지털기술활용",
+                "개설학과": "서어서문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN401",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "사회언어학",
+                "학수번호": "SPAN401",
+                "세부전공": null,
+                "전공역량": "디지털기술활용",
+                "개설학과": "서어서문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN411",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "data": {
+                "label": "스페인문학과신화",
+                "학수번호": "SPAN411",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN415",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "data": {
+                "label": "라틴아메리카페미니즘연구",
+                "학수번호": "SPAN415",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN417",
+            "position": {
+                "x": 1760,
+                "y": 300
+            },
+            "data": {
+                "label": "보르헤스와포스트모더니즘",
+                "학수번호": "SPAN417",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN455",
+            "position": {
+                "x": 1760,
+                "y": 400
+            },
+            "data": {
+                "label": "라틴아메리카조사방법론",
+                "학수번호": "SPAN455",
+                "세부전공": null,
+                "전공역량": "디지털기술활용",
+                "개설학과": "서어서문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN457",
+            "position": {
+                "x": 1760,
+                "y": 500
+            },
+            "data": {
+                "label": "라틴아메리카데이터과학의이해",
+                "학수번호": "SPAN457",
+                "세부전공": null,
+                "전공역량": "디지털기술활용",
+                "개설학과": "서어서문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN475",
+            "position": {
+                "x": 1760,
+                "y": 600
+            },
+            "data": {
+                "label": "스페인어통사의미화용론",
+                "학수번호": "SPAN475",
+                "세부전공": null,
+                "전공역량": "종합적사고",
+                "개설학과": "서어서문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN479",
+            "position": {
+                "x": 1760,
+                "y": 700
+            },
+            "data": {
+                "label": "라틴아메리카인디오세계연구",
+                "학수번호": "SPAN479",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN481",
+            "position": {
+                "x": 1760,
+                "y": 800
+            },
+            "data": {
+                "label": "라틴아메리카국제관계",
+                "학수번호": "SPAN481",
+                "세부전공": null,
+                "전공역량": "종합적사고",
+                "개설학과": "서어서문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN424",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "data": {
+                "label": "라틴아메리카문학이론연구",
+                "학수번호": "SPAN424",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN458",
+            "position": {
+                "x": 1980,
+                "y": 100
+            },
+            "data": {
+                "label": "스페인어자연어및음성데이터처리",
+                "학수번호": "SPAN458",
+                "세부전공": null,
+                "전공역량": "디지털기술활용",
+                "개설학과": "서어서문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN474",
+            "position": {
+                "x": 1980,
+                "y": 200
+            },
+            "data": {
+                "label": "라틴아메리카문화이론연구",
+                "학수번호": "SPAN474",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN480 ",
+            "position": {
+                "x": 1980,
+                "y": 300
+            },
+            "data": {
+                "label": "라틴아메리카개발협력",
+                "학수번호": "SPAN480 ",
+                "세부전공": null,
+                "전공역량": "종합적사고",
+                "개설학과": "서어서문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN171",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "스페인어I",
+                "학수번호": "SPAN171",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFECB3",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COLA173",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "data": {
+                "label": "디지털인문학응용",
+                "학수번호": "COLA173",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFECB3",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COLA200",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "인문융합세미나",
+                "학수번호": "COLA200",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 800
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHIN103\t",
+            "position": {
+                "x": 440,
+                "y": 900
+            },
+            "data": {
+                "label": "교양중국어I",
+                "학수번호": "CHIN103\t",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "중어중문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHIN104",
+            "position": {
+                "x": 440,
+                "y": 1000
+            },
+            "data": {
+                "label": "교양중국어II",
+                "학수번호": "CHIN104",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "중어중문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN141",
+            "position": {
+                "x": 440,
+                "y": 1100
+            },
+            "data": {
+                "label": "교양프랑스어I",
+                "학수번호": "FRAN141",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "불어불문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FRAN142",
+            "position": {
+                "x": 440,
+                "y": 1200
+            },
+            "data": {
+                "label": "교양프랑스어II",
+                "학수번호": "FRAN142",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "불어불문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM161",
+            "position": {
+                "x": 440,
+                "y": 1300
+            },
+            "data": {
+                "label": "교양독일어I",
+                "학수번호": "GERM161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "독어독문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GERM162",
+            "position": {
+                "x": 440,
+                "y": 1400
+            },
+            "data": {
+                "label": "교양독일어II",
+                "학수번호": "GERM162",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "독어독문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HANM141",
+            "position": {
+                "x": 440,
+                "y": 1500
+            },
+            "data": {
+                "label": "초급한문",
+                "학수번호": "HANM141",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "한문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN113",
+            "position": {
+                "x": 440,
+                "y": 1600
+            },
+            "data": {
+                "label": "교양일본어I",
+                "학수번호": "JAPN113",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "일어일문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JAPN114",
+            "position": {
+                "x": 440,
+                "y": 1700
+            },
+            "data": {
+                "label": "교양일본어II",
+                "학수번호": "JAPN114",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "일어일문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "RUSS131",
+            "position": {
+                "x": 440,
+                "y": 1800
+            },
+            "data": {
+                "label": "교양러시아어I",
+                "학수번호": "RUSS131",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "노어노문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "RUSS132",
+            "position": {
+                "x": 440,
+                "y": 1900
+            },
+            "data": {
+                "label": "교양러시아어II",
+                "학수번호": "RUSS132",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "노어노문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN121",
+            "position": {
+                "x": 440,
+                "y": 2000
+            },
+            "data": {
+                "label": "교양스페인어I",
+                "학수번호": "SPAN121",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN122",
+            "position": {
+                "x": 440,
+                "y": 2100
+            },
+            "data": {
+                "label": "교양스페인어II",
+                "학수번호": "SPAN122",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN172",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "data": {
+                "label": "스페인어II",
+                "학수번호": "SPAN172",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFECB3",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 100
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 II",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 200
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        }
+    ],
+    "edges": []
+}

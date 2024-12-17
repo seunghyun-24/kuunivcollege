@@ -1,0 +1,1930 @@
+{
+    "nodes": [
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 70
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 140
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 210
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 280
+            },
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 350
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS151",
+            "position": {
+                "x": 440,
+                "y": 420
+            },
+            "data": {
+                "label": "일반생물학및연습 I",
+                "학수번호": "LIBS151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS153",
+            "position": {
+                "x": 440,
+                "y": 490
+            },
+            "data": {
+                "label": "일반생물학실험 I",
+                "학수번호": "LIBS153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET151",
+            "position": {
+                "x": 440,
+                "y": 560
+            },
+            "data": {
+                "label": "화학의기초및연습 I",
+                "학수번호": "LIET151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET155",
+            "position": {
+                "x": 440,
+                "y": 630
+            },
+            "data": {
+                "label": "화학의기초실험 I",
+                "학수번호": "LIET155",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS183",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "data": {
+                "label": "생명물리학및연습",
+                "학수번호": "PHYS183",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS161",
+            "position": {
+                "x": 440,
+                "y": 770
+            },
+            "data": {
+                "label": "일반물리학 실험 I",
+                "학수번호": "PHYS161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "물리학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 70
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS152",
+            "position": {
+                "x": 660,
+                "y": 140
+            },
+            "data": {
+                "label": "일반생물학및연습 II",
+                "학수번호": "LIBS152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS154",
+            "position": {
+                "x": 660,
+                "y": 210
+            },
+            "data": {
+                "label": "일반생물학실험 II",
+                "학수번호": "LIBS154",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET152",
+            "position": {
+                "x": 660,
+                "y": 280
+            },
+            "data": {
+                "label": "화학의기초및연습 II",
+                "학수번호": "LIET152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET156",
+            "position": {
+                "x": 660,
+                "y": 350
+            },
+            "data": {
+                "label": "화학의기초실험 II",
+                "학수번호": "LIET156",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH161",
+            "position": {
+                "x": 660,
+                "y": 420
+            },
+            "data": {
+                "label": "미적분학및연습 I",
+                "학수번호": "MATH161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET153",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "data": {
+                "label": "생물통계학",
+                "학수번호": "LIET153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#B3E5FC",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIST201",
+            "position": {
+                "x": 880,
+                "y": 70
+            },
+            "data": {
+                "label": "세포생물학 I",
+                "학수번호": "LIST201",
+                "세부전공": null,
+                "전공역량": "소통 및 협업",
+                "개설학과": "생명과학대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIST203",
+            "position": {
+                "x": 880,
+                "y": 140
+            },
+            "data": {
+                "label": "미생물학 I",
+                "학수번호": "LIST203",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIST204",
+            "position": {
+                "x": 880,
+                "y": 210
+            },
+            "data": {
+                "label": "미생물학 II",
+                "학수번호": "LIST204",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT271",
+            "position": {
+                "x": 880,
+                "y": 280
+            },
+            "data": {
+                "label": "유기화학 I",
+                "학수번호": "LIBT271",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS213",
+            "position": {
+                "x": 880,
+                "y": 350
+            },
+            "data": {
+                "label": "생명과학실험II(계통분류학)",
+                "학수번호": "LIBS213",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS215",
+            "position": {
+                "x": 880,
+                "y": 420
+            },
+            "data": {
+                "label": "식물계통분류학",
+                "학수번호": "LIBS215",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS217",
+            "position": {
+                "x": 880,
+                "y": 490
+            },
+            "data": {
+                "label": "동물계통분류학",
+                "학수번호": "LIBS217",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIET201",
+            "position": {
+                "x": 880,
+                "y": 560
+            },
+            "data": {
+                "label": "생태학",
+                "학수번호": "LIET201",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "환경생태공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIST202",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "세포생물학 II",
+                "학수번호": "LIST202",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBT272",
+            "position": {
+                "x": 1100,
+                "y": 70
+            },
+            "data": {
+                "label": "유기화학 II",
+                "학수번호": "LIBT272",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS212",
+            "position": {
+                "x": 1100,
+                "y": 140
+            },
+            "data": {
+                "label": "생명과학실험I(미생물학)",
+                "학수번호": "LIBS212",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS214",
+            "position": {
+                "x": 1100,
+                "y": 210
+            },
+            "data": {
+                "label": "생명과학실험III(세포분자생물학)",
+                "학수번호": "LIBS214",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS284",
+            "position": {
+                "x": 1100,
+                "y": 280
+            },
+            "data": {
+                "label": "생명과학과법",
+                "학수번호": "LIBS284",
+                "세부전공": null,
+                "전공역량": "생명산업 리더 능력 함양",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIST301",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "data": {
+                "label": "분자생물학 I",
+                "학수번호": "LIST301",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIST303",
+            "position": {
+                "x": 1320,
+                "y": 70
+            },
+            "data": {
+                "label": "유전학 I",
+                "학수번호": "LIST303",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIST305",
+            "position": {
+                "x": 1320,
+                "y": 140
+            },
+            "data": {
+                "label": "생화학 I",
+                "학수번호": "LIST305",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS313",
+            "position": {
+                "x": 1320,
+                "y": 210
+            },
+            "data": {
+                "label": "생명과학실험V(면역학)",
+                "학수번호": "LIBS313",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS311",
+            "position": {
+                "x": 1320,
+                "y": 280
+            },
+            "data": {
+                "label": "인체분자유전학",
+                "학수번호": "LIBS311",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS357",
+            "position": {
+                "x": 1320,
+                "y": 350
+            },
+            "data": {
+                "label": "생리학I",
+                "학수번호": "LIBS357",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIST307",
+            "position": {
+                "x": 1320,
+                "y": 420
+            },
+            "data": {
+                "label": "기능유전체학",
+                "학수번호": "LIST307",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS393",
+            "position": {
+                "x": 1320,
+                "y": 490
+            },
+            "data": {
+                "label": "생물교과교육론",
+                "학수번호": "LIBS393",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SCED303",
+            "position": {
+                "x": 1320,
+                "y": 560
+            },
+            "data": {
+                "label": "과학교과논리및논술",
+                "학수번호": "SCED303",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "이과대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS394",
+            "position": {
+                "x": 1320,
+                "y": 630
+            },
+            "data": {
+                "label": "생물교과교재연구및지도법",
+                "학수번호": "LIBS394",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIST302",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "data": {
+                "label": "분자생물학 II",
+                "학수번호": "LIST302",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIST304",
+            "position": {
+                "x": 1540,
+                "y": 70
+            },
+            "data": {
+                "label": "유전학 II",
+                "학수번호": "LIST304",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학대학",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIST306",
+            "position": {
+                "x": 1540,
+                "y": 140
+            },
+            "data": {
+                "label": "생화학 II",
+                "학수번호": "LIST306",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS312",
+            "position": {
+                "x": 1540,
+                "y": 210
+            },
+            "data": {
+                "label": "생명과학실험IV(생화학)",
+                "학수번호": "LIBS312",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS314",
+            "position": {
+                "x": 1540,
+                "y": 280
+            },
+            "data": {
+                "label": "생명과학실험VI(유전학)",
+                "학수번호": "LIBS314",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS315",
+            "position": {
+                "x": 1540,
+                "y": 350
+            },
+            "data": {
+                "label": "생명과학실험VII(신경생물학)",
+                "학수번호": "LIBS315",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양|창의적 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS316",
+            "position": {
+                "x": 1540,
+                "y": 420
+            },
+            "data": {
+                "label": "식물분자생물학",
+                "학수번호": "LIBS316",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS358",
+            "position": {
+                "x": 1540,
+                "y": 490
+            },
+            "data": {
+                "label": "생리학II",
+                "학수번호": "LIBS358",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS364",
+            "position": {
+                "x": 1540,
+                "y": 560
+            },
+            "data": {
+                "label": "구조생물학",
+                "학수번호": "LIBS364",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS407",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "생명과학실험지도I",
+                "학수번호": "LIBS407",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS400",
+            "position": {
+                "x": 1760,
+                "y": 70
+            },
+            "data": {
+                "label": "생명과학최신동향세미나",
+                "학수번호": "LIBS400",
+                "세부전공": null,
+                "전공역량": "근로벌 선도",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS401",
+            "position": {
+                "x": 1760,
+                "y": 140
+            },
+            "data": {
+                "label": "오믹스시대의 팬데믹",
+                "학수번호": "LIBS401",
+                "세부전공": null,
+                "전공역량": "실험수행 및 분석",
+                "개설학과": "생명과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS403",
+            "position": {
+                "x": 1760,
+                "y": 210
+            },
+            "data": {
+                "label": "인체대사학I",
+                "학수번호": "LIBS403",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS441",
+            "position": {
+                "x": 1760,
+                "y": 280
+            },
+            "data": {
+                "label": "신경생물학",
+                "학수번호": "LIBS441",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS443",
+            "position": {
+                "x": 1760,
+                "y": 350
+            },
+            "data": {
+                "label": "면역학I",
+                "학수번호": "LIBS443",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS453",
+            "position": {
+                "x": 1760,
+                "y": 420
+            },
+            "data": {
+                "label": "식물생명과학",
+                "학수번호": "LIBS453",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS461",
+            "position": {
+                "x": 1760,
+                "y": 490
+            },
+            "data": {
+                "label": "단백질생화학",
+                "학수번호": "LIBS461",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS483",
+            "position": {
+                "x": 1760,
+                "y": 560
+            },
+            "data": {
+                "label": "나노생명과학의이해",
+                "학수번호": "LIBS483",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS481",
+            "position": {
+                "x": 1760,
+                "y": 630
+            },
+            "data": {
+                "label": "식물발달분자생리학I",
+                "학수번호": "LIBS481",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIST401",
+            "position": {
+                "x": 1760,
+                "y": 700
+            },
+            "data": {
+                "label": "암생물학",
+                "학수번호": "LIST401",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS408",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "data": {
+                "label": "생명과학실험지도II",
+                "학수번호": "LIBS408",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS404",
+            "position": {
+                "x": 1980,
+                "y": 70
+            },
+            "data": {
+                "label": "인체대사학II",
+                "학수번호": "LIBS404",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS442",
+            "position": {
+                "x": 1980,
+                "y": 140
+            },
+            "data": {
+                "label": "시스템신경과학",
+                "학수번호": "LIBS442",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS444",
+            "position": {
+                "x": 1980,
+                "y": 210
+            },
+            "data": {
+                "label": "면역학II",
+                "학수번호": "LIBS444",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS449",
+            "position": {
+                "x": 1980,
+                "y": 280
+            },
+            "data": {
+                "label": "응용면역학",
+                "학수번호": "LIBS449",
+                "세부전공": null,
+                "전공역량": "생명산업 리더 능력 함양",
+                "개설학과": "생명과학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS450",
+            "position": {
+                "x": 1980,
+                "y": 350
+            },
+            "data": {
+                "label": "진화생물학",
+                "학수번호": "LIBS450",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS457",
+            "position": {
+                "x": 1980,
+                "y": 420
+            },
+            "data": {
+                "label": "생물정보학",
+                "학수번호": "LIBS457",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS462",
+            "position": {
+                "x": 1980,
+                "y": 490
+            },
+            "data": {
+                "label": "바이러스학",
+                "학수번호": "LIBS462",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS464",
+            "position": {
+                "x": 1980,
+                "y": 560
+            },
+            "data": {
+                "label": "곤충학",
+                "학수번호": "LIBS464",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS466",
+            "position": {
+                "x": 1980,
+                "y": 630
+            },
+            "data": {
+                "label": "생물안정성학",
+                "학수번호": "LIBS466",
+                "세부전공": null,
+                "전공역량": "생명산업 리더 능력 함양",
+                "개설학과": "생명과학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS474",
+            "position": {
+                "x": 1980,
+                "y": 700
+            },
+            "data": {
+                "label": "세포진호전달학",
+                "학수번호": "LIBS474",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS478",
+            "position": {
+                "x": 1980,
+                "y": 770
+            },
+            "data": {
+                "label": "염증생물학",
+                "학수번호": "LIBS478",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS482",
+            "position": {
+                "x": 1980,
+                "y": 840
+            },
+            "data": {
+                "label": "분석생명과학",
+                "학수번호": "LIBS482",
+                "세부전공": null,
+                "전공역량": "창의적 문제해결",
+                "개설학과": "생명과학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIBS488",
+            "position": {
+                "x": 1980,
+                "y": 910
+            },
+            "data": {
+                "label": "식물발달분자생리학II",
+                "학수번호": "LIBS488",
+                "세부전공": null,
+                "전공역량": "생명과학기초지식 함양",
+                "개설학과": "생명과학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        }
+    ],
+    "edges": []
+}

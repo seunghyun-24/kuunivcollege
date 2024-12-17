@@ -52,6 +52,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@types/dagre": "^0.7.52",
     "@types/react-slick": "^0.23.13",
     "gh-pages": "^6.2.0"

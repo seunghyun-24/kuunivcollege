@@ -1,0 +1,2814 @@
+{
+    "nodes": [
+        {
+            "id": "ECON171",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "경제원론I",
+                "학수번호": "ECON171",
+                "세부전공": null,
+                "전공역량": "경제현상에대한통시적,융합적이해",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 70
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 140
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 210
+            },
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON172",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "data": {
+                "label": "경제원론II",
+                "학수번호": "ECON172",
+                "세부전공": null,
+                "전공역량": "경제현상에대한통시적,융합적이해",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA208",
+            "position": {
+                "x": 660,
+                "y": 70
+            },
+            "data": {
+                "label": "국제법총론",
+                "학수번호": "JURA208",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS207",
+            "position": {
+                "x": 660,
+                "y": 140
+            },
+            "data": {
+                "label": "재무관리",
+                "학수번호": "BUSS207",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS213",
+            "position": {
+                "x": 660,
+                "y": 210
+            },
+            "data": {
+                "label": "중급회계I",
+                "학수번호": "BUSS213",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH211",
+            "position": {
+                "x": 660,
+                "y": 280
+            },
+            "data": {
+                "label": "해석학I및연습",
+                "학수번호": "MATH211",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH212",
+            "position": {
+                "x": 660,
+                "y": 350
+            },
+            "data": {
+                "label": "해석학II및연습",
+                "학수번호": "MATH212",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH221",
+            "position": {
+                "x": 660,
+                "y": 420
+            },
+            "data": {
+                "label": "선형대수I및연습",
+                "학수번호": "MATH221",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH222",
+            "position": {
+                "x": 660,
+                "y": 490
+            },
+            "data": {
+                "label": "선형대수II및연습",
+                "학수번호": "MATH222",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH240",
+            "position": {
+                "x": 660,
+                "y": 560
+            },
+            "data": {
+                "label": "미분방정식및연습",
+                "학수번호": "MATH240",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT221",
+            "position": {
+                "x": 660,
+                "y": 630
+            },
+            "data": {
+                "label": "확률론입문",
+                "학수번호": "STAT221",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "통계학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PAPP240",
+            "position": {
+                "x": 660,
+                "y": 700
+            },
+            "data": {
+                "label": "조직이론",
+                "학수번호": "PAPP240",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "행정학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 770
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 II",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 840
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON174",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "경제의통계분석",
+                "학수번호": "ECON174",
+                "세부전공": null,
+                "전공역량": "국제환경변화에대한능동적대처",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON202",
+            "position": {
+                "x": 1100,
+                "y": 70
+            },
+            "data": {
+                "label": "거시경제이론",
+                "학수번호": "ECON202",
+                "세부전공": null,
+                "전공역량": "사회적문제의이해와공감",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON207",
+            "position": {
+                "x": 1100,
+                "y": 140
+            },
+            "data": {
+                "label": "시장경제의이해",
+                "학수번호": "ECON207",
+                "세부전공": null,
+                "전공역량": "경제현상에대한통시적,융합적이해",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON332",
+            "position": {
+                "x": 1100,
+                "y": 210
+            },
+            "data": {
+                "label": "한국현대경제사",
+                "학수번호": "ECON332",
+                "세부전공": null,
+                "전공역량": "경제현상에대한통시적,융합적이해",
+                "개설학과": "경제학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON334",
+            "position": {
+                "x": 1100,
+                "y": 280
+            },
+            "data": {
+                "label": "조세론",
+                "학수번호": "ECON334",
+                "세부전공": null,
+                "전공역량": "경제현상에대한통시적,융합적이해",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON356",
+            "position": {
+                "x": 1100,
+                "y": 350
+            },
+            "data": {
+                "label": "경제정책",
+                "학수번호": "ECON356",
+                "세부전공": null,
+                "전공역량": "응용능력과정책적사고",
+                "개설학과": "경제학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON371",
+            "position": {
+                "x": 1100,
+                "y": 420
+            },
+            "data": {
+                "label": "비주류의경제학",
+                "학수번호": "ECON371",
+                "세부전공": null,
+                "전공역량": "문제의식별과구조화",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA305",
+            "position": {
+                "x": 1100,
+                "y": 490
+            },
+            "data": {
+                "label": "행정법총론",
+                "학수번호": "JURA305",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA306",
+            "position": {
+                "x": 1100,
+                "y": 560
+            },
+            "data": {
+                "label": "행정법각론",
+                "학수번호": "JURA306",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA309",
+            "position": {
+                "x": 1100,
+                "y": 630
+            },
+            "data": {
+                "label": "국제법각론",
+                "학수번호": "JURA309",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA330",
+            "position": {
+                "x": 1100,
+                "y": 700
+            },
+            "data": {
+                "label": "경제법",
+                "학수번호": "JURA330",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS354",
+            "position": {
+                "x": 1100,
+                "y": 770
+            },
+            "data": {
+                "label": "회계학이론",
+                "학수번호": "BUSS354",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BUSS386",
+            "position": {
+                "x": 1100,
+                "y": 840
+            },
+            "data": {
+                "label": "선물옵션",
+                "학수번호": "BUSS386",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경영학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT232",
+            "position": {
+                "x": 1100,
+                "y": 910
+            },
+            "data": {
+                "label": "수리통계학",
+                "학수번호": "STAT232",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "통계학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "FNEG310",
+            "position": {
+                "x": 1100,
+                "y": 980
+            },
+            "data": {
+                "label": "파생금융상품론",
+                "학수번호": "FNEG310",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "금융공학융합전공",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON201",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "data": {
+                "label": "미시경제이론",
+                "학수번호": "ECON201",
+                "세부전공": null,
+                "전공역량": "경제현상에대한통시적,융합적이해",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON173",
+            "position": {
+                "x": 880,
+                "y": 70
+            },
+            "data": {
+                "label": "경제수학",
+                "학수번호": "ECON173",
+                "세부전공": null,
+                "전공역량": "경제현상에대한통시적,융합적이해",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON245",
+            "position": {
+                "x": 880,
+                "y": 140
+            },
+            "data": {
+                "label": "정치경제학개론",
+                "학수번호": "ECON245",
+                "세부전공": null,
+                "전공역량": "응용능력과정책적사고",
+                "개설학과": "경제학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON329",
+            "position": {
+                "x": 880,
+                "y": 210
+            },
+            "data": {
+                "label": "한국경제사",
+                "학수번호": "ECON329",
+                "세부전공": null,
+                "전공역량": "사회적문제의이해와공감",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON333",
+            "position": {
+                "x": 880,
+                "y": 280
+            },
+            "data": {
+                "label": "재정학",
+                "학수번호": "ECON333",
+                "세부전공": null,
+                "전공역량": "사회적문제의이해와공감",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON339",
+            "position": {
+                "x": 880,
+                "y": 350
+            },
+            "data": {
+                "label": "경제발전론",
+                "학수번호": "ECON339",
+                "세부전공": null,
+                "전공역량": "경제현상에대한통시적,융합적이해",
+                "개설학과": "경제학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON379",
+            "position": {
+                "x": 880,
+                "y": 420
+            },
+            "data": {
+                "label": "보건의료경제학",
+                "학수번호": "ECON379",
+                "세부전공": null,
+                "전공역량": "사회적문제의이해와공감",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CPSE100",
+            "position": {
+                "x": 220,
+                "y": 0
+            },
+            "data": {
+                "label": "사회과학융합세미나",
+                "학수번호": "CPSE100",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "정경대학",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": "개설학과 - 정경대학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 220,
+                "y": 70
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 220,
+                "y": 140
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 220,
+                "y": 210
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON240",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "data": {
+                "label": "산업조직론",
+                "학수번호": "ECON240",
+                "세부전공": null,
+                "전공역량": "사회적문제의이해와공감",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON244",
+            "position": {
+                "x": 1320,
+                "y": 70
+            },
+            "data": {
+                "label": "노동시장론",
+                "학수번호": "ECON244",
+                "세부전공": null,
+                "전공역량": "논리적사고",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON301",
+            "position": {
+                "x": 1320,
+                "y": 140
+            },
+            "data": {
+                "label": "계량경제학I",
+                "학수번호": "ECON301",
+                "세부전공": null,
+                "전공역량": "정량적분석및데이터활용",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON326",
+            "position": {
+                "x": 1320,
+                "y": 210
+            },
+            "data": {
+                "label": "시장설계이론과실제",
+                "학수번호": "ECON326",
+                "세부전공": null,
+                "전공역량": "정량적분석및데이터활용",
+                "개설학과": "경제학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON330",
+            "position": {
+                "x": 1320,
+                "y": 280
+            },
+            "data": {
+                "label": "정보의비대칭성과유인설계",
+                "학수번호": "ECON330",
+                "세부전공": null,
+                "전공역량": "사회적문제의이해와공감",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON331",
+            "position": {
+                "x": 1320,
+                "y": 350
+            },
+            "data": {
+                "label": "화폐금융론",
+                "학수번호": "ECON331",
+                "세부전공": null,
+                "전공역량": "응용능력과정책적사고",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON354",
+            "position": {
+                "x": 1320,
+                "y": 420
+            },
+            "data": {
+                "label": "재무경제학",
+                "학수번호": "ECON354",
+                "세부전공": null,
+                "전공역량": "정량적분석및데이터활용",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON358",
+            "position": {
+                "x": 1320,
+                "y": 490
+            },
+            "data": {
+                "label": "서양경제사",
+                "학수번호": "ECON358",
+                "세부전공": null,
+                "전공역량": "국제환경변화에대한능동적대처",
+                "개설학과": "경제학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON360",
+            "position": {
+                "x": 1320,
+                "y": 560
+            },
+            "data": {
+                "label": "지역도시경제론",
+                "학수번호": "ECON360",
+                "세부전공": null,
+                "전공역량": "국제환경변화에대한능동적대처",
+                "개설학과": "경제학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON366",
+            "position": {
+                "x": 1320,
+                "y": 630
+            },
+            "data": {
+                "label": "법경제학",
+                "학수번호": "ECON366",
+                "세부전공": null,
+                "전공역량": "문제의식별과구조화",
+                "개설학과": "경제학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON374",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "data": {
+                "label": "동서양고전의경제학",
+                "학수번호": "ECON374",
+                "세부전공": null,
+                "전공역량": "경제현상에대한통시적,융합적이해",
+                "개설학과": "경제학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON375",
+            "position": {
+                "x": 1320,
+                "y": 770
+            },
+            "data": {
+                "label": "사회경제학",
+                "학수번호": "ECON375",
+                "세부전공": null,
+                "전공역량": "사회적문제의이해와공감",
+                "개설학과": "경제학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON389",
+            "position": {
+                "x": 1320,
+                "y": 840
+            },
+            "data": {
+                "label": "한국과아시아경제의성장과과제",
+                "학수번호": "ECON389",
+                "세부전공": null,
+                "전공역량": "문제의식별과구조화",
+                "개설학과": "경제학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON435",
+            "position": {
+                "x": 1320,
+                "y": 910
+            },
+            "data": {
+                "label": "동아시아경제사",
+                "학수번호": "ECON435",
+                "세부전공": null,
+                "전공역량": "논리적사고",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON302",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "data": {
+                "label": "계량경제학II",
+                "학수번호": "ECON302",
+                "세부전공": null,
+                "전공역량": "정량적분석및데이터활용",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON324",
+            "position": {
+                "x": 1540,
+                "y": 70
+            },
+            "data": {
+                "label": "전략과정보의경제학",
+                "학수번호": "ECON324",
+                "세부전공": null,
+                "전공역량": "경제현상에대한통시적,융합적이해",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON335",
+            "position": {
+                "x": 1540,
+                "y": 140
+            },
+            "data": {
+                "label": "국제금융론",
+                "학수번호": "ECON335",
+                "세부전공": null,
+                "전공역량": "국제환경변화에대한능동적대처",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON336",
+            "position": {
+                "x": 1540,
+                "y": 210
+            },
+            "data": {
+                "label": "국제무역론",
+                "학수번호": "ECON336",
+                "세부전공": null,
+                "전공역량": "국제환경변화에대한능동적대처",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON351",
+            "position": {
+                "x": 1540,
+                "y": 280
+            },
+            "data": {
+                "label": "중국경제론",
+                "학수번호": "ECON351",
+                "세부전공": null,
+                "전공역량": "국제환경변화에대한능동적대처",
+                "개설학과": "경제학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON362",
+            "position": {
+                "x": 1540,
+                "y": 350
+            },
+            "data": {
+                "label": "환경경제학",
+                "학수번호": "ECON362",
+                "세부전공": null,
+                "전공역량": "사회적문제의이해와공감",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON372",
+            "position": {
+                "x": 1540,
+                "y": 420
+            },
+            "data": {
+                "label": "경제학과철학적논점들",
+                "학수번호": "ECON372",
+                "세부전공": null,
+                "전공역량": "경제현상에대한통시적,융합적이해",
+                "개설학과": "경제학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON376",
+            "position": {
+                "x": 1540,
+                "y": 490
+            },
+            "data": {
+                "label": "정치와경제",
+                "학수번호": "ECON376",
+                "세부전공": null,
+                "전공역량": "응용능력과정책적사고",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON380",
+            "position": {
+                "x": 1540,
+                "y": 560
+            },
+            "data": {
+                "label": "실증미시경제학",
+                "학수번호": "ECON380",
+                "세부전공": null,
+                "전공역량": "사회적문제의이해와공감",
+                "개설학과": "경제학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON434",
+            "position": {
+                "x": 1540,
+                "y": 630
+            },
+            "data": {
+                "label": "한국경제론",
+                "학수번호": "ECON434",
+                "세부전공": null,
+                "전공역량": "국제환경변화에대한능동적대처",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON437",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "data": {
+                "label": "북한경제론",
+                "학수번호": "ECON437",
+                "세부전공": null,
+                "전공역량": "문제의식별과구조화",
+                "개설학과": "경제학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON439",
+            "position": {
+                "x": 1540,
+                "y": 770
+            },
+            "data": {
+                "label": "한국거시경제분석",
+                "학수번호": "ECON439",
+                "세부전공": null,
+                "전공역량": "경제현상에대한통시적,융합적이해",
+                "개설학과": "경제학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON463",
+            "position": {
+                "x": 1540,
+                "y": 840
+            },
+            "data": {
+                "label": "중급계량경제학",
+                "학수번호": "ECON463",
+                "세부전공": null,
+                "전공역량": "문제의식별과구조화",
+                "개설학과": "경제학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JURA485",
+            "position": {
+                "x": 1540,
+                "y": 910
+            },
+            "data": {
+                "label": "금융법",
+                "학수번호": "JURA485",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "법학전문대학원",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON359",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "경제변동성장론",
+                "학수번호": "ECON359",
+                "세부전공": null,
+                "전공역량": "정량적분석및데이터활용",
+                "개설학과": "경제학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON381",
+            "position": {
+                "x": 1760,
+                "y": 70
+            },
+            "data": {
+                "label": "시사경제I",
+                "학수번호": "ECON381",
+                "세부전공": null,
+                "전공역량": "사회적문제의이해와공감",
+                "개설학과": "경제학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON384",
+            "position": {
+                "x": 1760,
+                "y": 140
+            },
+            "data": {
+                "label": "국제금융세미나",
+                "학수번호": "ECON384",
+                "세부전공": null,
+                "전공역량": "논리적사고",
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON385",
+            "position": {
+                "x": 1760,
+                "y": 210
+            },
+            "data": {
+                "label": "경제실무인턴십I",
+                "학수번호": "ECON385",
+                "세부전공": null,
+                "전공역량": "소통및협업능력",
+                "개설학과": "경제학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON457",
+            "position": {
+                "x": 1760,
+                "y": 280
+            },
+            "data": {
+                "label": "한국경제세미나",
+                "학수번호": "ECON457",
+                "세부전공": null,
+                "전공역량": "경제현상에대한통시적,융합적이해",
+                "개설학과": "경제학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON491",
+            "position": {
+                "x": 1760,
+                "y": 350
+            },
+            "data": {
+                "label": "이론경제연습",
+                "학수번호": "ECON491",
+                "세부전공": null,
+                "전공역량": "응용능력과정책적사고",
+                "개설학과": "경제학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON382",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "data": {
+                "label": "시사경제II",
+                "학수번호": "ECON382",
+                "세부전공": null,
+                "전공역량": "사회적문제의이해와공감",
+                "개설학과": "경제학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON436",
+            "position": {
+                "x": 1980,
+                "y": 70
+            },
+            "data": {
+                "label": "동태적거시경제학연구",
+                "학수번호": "ECON436",
+                "세부전공": null,
+                "전공역량": "정량적분석및데이터활용",
+                "개설학과": "경제학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON450",
+            "position": {
+                "x": 1980,
+                "y": 140
+            },
+            "data": {
+                "label": "화폐금융세미나",
+                "학수번호": "ECON450",
+                "세부전공": null,
+                "전공역량": "사회적문제의이해와공감",
+                "개설학과": "경제학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON451",
+            "position": {
+                "x": 1980,
+                "y": 210
+            },
+            "data": {
+                "label": "산업조직세미나",
+                "학수번호": "ECON451",
+                "세부전공": null,
+                "전공역량": "정량적분석및데이터활용",
+                "개설학과": "경제학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON460",
+            "position": {
+                "x": 1980,
+                "y": 280
+            },
+            "data": {
+                "label": "고급이론세미나",
+                "학수번호": "ECON460",
+                "세부전공": null,
+                "전공역량": "소통및협업능력",
+                "개설학과": "경제학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON466",
+            "position": {
+                "x": 1980,
+                "y": 350
+            },
+            "data": {
+                "label": "경제정책과프로그램효과의실증분석",
+                "학수번호": "ECON466",
+                "세부전공": null,
+                "전공역량": "문제의식별과구조화",
+                "개설학과": "경제학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON492",
+            "position": {
+                "x": 1980,
+                "y": 420
+            },
+            "data": {
+                "label": "응용경제연습",
+                "학수번호": "ECON492",
+                "세부전공": null,
+                "전공역량": "응용능력과정책적사고",
+                "개설학과": "경제학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "required-ECON151-ECON201",
+            "source": "ECON151",
+            "target": "ECON201",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON171-ECON201",
+            "source": "ECON171",
+            "target": "ECON201",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON151-ECON202",
+            "source": "ECON151",
+            "target": "ECON202",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON172-ECON202",
+            "source": "ECON172",
+            "target": "ECON202",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ISC203A-ECON202",
+            "source": "ISC203A",
+            "target": "ECON202",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ISC203B-ECON202",
+            "source": "ISC203B",
+            "target": "ECON202",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON201-ECON240",
+            "source": "ECON201",
+            "target": "ECON240",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON150-ECON244",
+            "source": "ECON150",
+            "target": "ECON244",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON301-ECON302",
+            "source": "ECON301",
+            "target": "ECON302",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON201-ECON326",
+            "source": "ECON201",
+            "target": "ECON326",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON201-ECON330",
+            "source": "ECON201",
+            "target": "ECON330",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON205-ECON330",
+            "source": "ECON205",
+            "target": "ECON330",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON150-ECON331",
+            "source": "ECON150",
+            "target": "ECON331",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON201-ECON333",
+            "source": "ECON201",
+            "target": "ECON333",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON201-ECON334",
+            "source": "ECON201",
+            "target": "ECON334",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON201-ECON335",
+            "source": "ECON201",
+            "target": "ECON335",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON202-ECON335",
+            "source": "ECON202",
+            "target": "ECON335",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON201-ECON336",
+            "source": "ECON201",
+            "target": "ECON336",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON201-ECON354",
+            "source": "ECON201",
+            "target": "ECON354",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON202-ECON354",
+            "source": "ECON202",
+            "target": "ECON354",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON201-ECON360",
+            "source": "ECON201",
+            "target": "ECON360",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON201-ECON362",
+            "source": "ECON201",
+            "target": "ECON362",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON150-ECON366",
+            "source": "ECON150",
+            "target": "ECON366",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON150-ECON371",
+            "source": "ECON150",
+            "target": "ECON371",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON201-ECON436",
+            "source": "ECON201",
+            "target": "ECON436",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON202-ECON436",
+            "source": "ECON202",
+            "target": "ECON436",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON201-ECON436",
+            "source": "ECON201",
+            "target": "ECON436",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON202-ECON436",
+            "source": "ECON202",
+            "target": "ECON436",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON173-ECON436",
+            "source": "ECON173",
+            "target": "ECON436",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON359-ECON436",
+            "source": "ECON359",
+            "target": "ECON436",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON173-ECON436",
+            "source": "ECON173",
+            "target": "ECON436",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON359-ECON436",
+            "source": "ECON359",
+            "target": "ECON436",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON150-ECON450",
+            "source": "ECON150",
+            "target": "ECON450",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON240-ECON451",
+            "source": "ECON240",
+            "target": "ECON451",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON173-ECON491",
+            "source": "ECON173",
+            "target": "ECON491",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON201-ECON491",
+            "source": "ECON201",
+            "target": "ECON491",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON202-ECON491",
+            "source": "ECON202",
+            "target": "ECON491",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON174-ECON492",
+            "source": "ECON174",
+            "target": "ECON492",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON201-ECON492",
+            "source": "ECON201",
+            "target": "ECON492",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON202-ECON492",
+            "source": "ECON202",
+            "target": "ECON492",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON174-ECON492",
+            "source": "ECON174",
+            "target": "ECON492",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON201-ECON492",
+            "source": "ECON201",
+            "target": "ECON492",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-ECON202-ECON492",
+            "source": "ECON202",
+            "target": "ECON492",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON173-ECON492",
+            "source": "ECON173",
+            "target": "ECON492",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON301-ECON492",
+            "source": "ECON301",
+            "target": "ECON492",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON173-ECON492",
+            "source": "ECON173",
+            "target": "ECON492",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON301-ECON492",
+            "source": "ECON301",
+            "target": "ECON492",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS152-BUSS207",
+            "source": "BUSS152",
+            "target": "BUSS207",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS154-BUSS207",
+            "source": "BUSS154",
+            "target": "BUSS207",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS152-BUSS213",
+            "source": "BUSS152",
+            "target": "BUSS213",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS152-BUSS354",
+            "source": "BUSS152",
+            "target": "BUSS354",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS386",
+            "source": "BUSS207",
+            "target": "BUSS386",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-BUSS207-BUSS386",
+            "source": "BUSS207",
+            "target": "BUSS386",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS254-BUSS386",
+            "source": "BUSS254",
+            "target": "BUSS386",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-BUSS254-BUSS386",
+            "source": "BUSS254",
+            "target": "BUSS386",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT151-STAT221",
+            "source": "STAT151",
+            "target": "STAT221",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT201-STAT221",
+            "source": "STAT201",
+            "target": "STAT221",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT201-STAT232",
+            "source": "STAT201",
+            "target": "STAT232",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT221-STAT232",
+            "source": "STAT221",
+            "target": "STAT232",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        }
+    ]
+}

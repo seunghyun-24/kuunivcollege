@@ -2,7 +2,7 @@ import json
 import os
 
 node_height = 50
-node_spacing = 20
+node_spacing = 50
 node_colors = {
     "학문의기초": "#FFECB3",
     "교양필수": "#C8E6C9",
@@ -16,9 +16,11 @@ def calculate_x_position(학년, 학기):
     # if 학기 == 0 or 학기 == 'null':
     #     return 학년 * 440
     # return 학년 * 440 + (학기 - 1) * 220
-    if 학기 is None or 학기 == 'null':
-        학기 = 0  
-    return 학년 * 440 + (int(학기) - 1) * 220
+    if 학기 is None  or 학기 == 0:
+        학기 = 1
+    if 학년 is None or 학년 == 0:
+        학년 = 1 #일단 떼움..
+    return 학년 * 440 + ((학기) - 1) * 220
 
 def parse_courses(courses):
     x_groups = {}
@@ -79,11 +81,12 @@ def parse_courses(courses):
         second_y = [
             node["position"]["y"] for node in nodes if node["position"]["x"] == second_semester_x
         ]
-        avg_y = (sum(first_y) + sum(second_y)) / (len(first_y) + len(second_y)) if first_y and second_y else 0
+
+        max_y = max(max(first_y, default=0), max(second_y, default=0))
 
         zero_node["position"] = {
-            "x": (first_semester_x + second_semester_x) / 2,
-            "y": avg_y,
+            "x": (first_semester_x + second_semester_x) / 2,  # X는 중간값
+            "y": max_y + node_height + node_spacing,         # Y는 가장 아래값 + 간격
         }
         nodes.append(zero_node)
 

@@ -3,7 +3,7 @@
         {
             "id": "GELI005",
             "position": {
-                "x": 220,
+                "x": 440,
                 "y": 0
             },
             "data": {
@@ -26,60 +26,10 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 220,
-                "y": 70
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 220,
-                "y": 140
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 0
+                "y": 100
             },
             "data": {
                 "label": "글쓰기",
@@ -101,10 +51,35 @@
             }
         },
         {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 70
+                "y": 300
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -129,7 +104,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 140
+                "y": 400
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -151,10 +126,35 @@
             }
         },
         {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "LIBS151",
             "position": {
                 "x": 440,
-                "y": 210
+                "y": 600
             },
             "data": {
                 "label": "일반생물학및연습 I",
@@ -179,7 +179,7 @@
             "id": "LIBS153",
             "position": {
                 "x": 440,
-                "y": 280
+                "y": 700
             },
             "data": {
                 "label": "일반생물학실험 I",
@@ -204,7 +204,7 @@
             "id": "LIET151",
             "position": {
                 "x": 440,
-                "y": 350
+                "y": 800
             },
             "data": {
                 "label": "화학의기초및연습 I",
@@ -229,7 +229,7 @@
             "id": "LIET155",
             "position": {
                 "x": 440,
-                "y": 420
+                "y": 900
             },
             "data": {
                 "label": "화학의기초실험 I",
@@ -254,7 +254,7 @@
             "id": "PHYS183",
             "position": {
                 "x": 440,
-                "y": 490
+                "y": 1000
             },
             "data": {
                 "label": "생명물리학및연습",
@@ -279,7 +279,7 @@
             "id": "PHYS161",
             "position": {
                 "x": 440,
-                "y": 560
+                "y": 1100
             },
             "data": {
                 "label": "일반물리학 실험 I",
@@ -329,7 +329,7 @@
             "id": "GECT003",
             "position": {
                 "x": 660,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
@@ -354,7 +354,7 @@
             "id": "LIBS152",
             "position": {
                 "x": 660,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "일반생물학및연습 II",
@@ -379,7 +379,7 @@
             "id": "LIBS154",
             "position": {
                 "x": 660,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "일반생물학실험 II",
@@ -404,7 +404,7 @@
             "id": "LIET152",
             "position": {
                 "x": 660,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "화학의기초및연습 II",
@@ -429,7 +429,7 @@
             "id": "LIET156",
             "position": {
                 "x": 660,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "화학의기초실험 II",
@@ -454,7 +454,7 @@
             "id": "MATH161",
             "position": {
                 "x": 660,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "미적분학및연습 I",
@@ -471,81 +471,6 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ACEE226",
-            "position": {
-                "x": 660,
-                "y": 490
-            },
-            "data": {
-                "label": "환경공학I",
-                "학수번호": "ACEE226",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "건축사회환경공학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "KHES215",
-            "position": {
-                "x": 660,
-                "y": 560
-            },
-            "data": {
-                "label": "환경보건학",
-                "학수번호": "KHES215",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "보건환경융합과학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI255",
-            "position": {
-                "x": 660,
-                "y": 630
-            },
-            "data": {
-                "label": "환경사회학",
-                "학수번호": "SOCI255",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -579,7 +504,7 @@
             "id": "LIET201",
             "position": {
                 "x": 880,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "생태학",
@@ -604,7 +529,7 @@
             "id": "LIET219",
             "position": {
                 "x": 880,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "환경조경학",
@@ -629,7 +554,7 @@
             "id": "LIET225",
             "position": {
                 "x": 880,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "환경미생물학",
@@ -654,7 +579,7 @@
             "id": "LIET227",
             "position": {
                 "x": 880,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "환경과학",
@@ -679,7 +604,7 @@
             "id": "LIET229",
             "position": {
                 "x": 880,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "환경토양학및실험",
@@ -704,7 +629,7 @@
             "id": "LIET235",
             "position": {
                 "x": 880,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "환경GIS및실습",
@@ -729,7 +654,7 @@
             "id": "LIET237",
             "position": {
                 "x": 880,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "환경정보및계획학실습",
@@ -754,7 +679,7 @@
             "id": "LIET241",
             "position": {
                 "x": 880,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "바이오매스이용학",
@@ -779,7 +704,7 @@
             "id": "LIET221",
             "position": {
                 "x": 880,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "미생물자원학",
@@ -804,7 +729,7 @@
             "id": "LIET231",
             "position": {
                 "x": 880,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "환경곤충학",
@@ -829,7 +754,7 @@
             "id": "LIET239",
             "position": {
                 "x": 880,
-                "y": 770
+                "y": 1100
             },
             "data": {
                 "label": "환경분석화학및실험",
@@ -854,7 +779,7 @@
             "id": "LIET253",
             "position": {
                 "x": 880,
-                "y": 840
+                "y": 1200
             },
             "data": {
                 "label": "연안및대양생태학",
@@ -871,6 +796,81 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE226",
+            "position": {
+                "x": 880,
+                "y": 1300
+            },
+            "data": {
+                "label": "환경공학I",
+                "학수번호": "ACEE226",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KHES215",
+            "position": {
+                "x": 880,
+                "y": 1400
+            },
+            "data": {
+                "label": "환경보건학",
+                "학수번호": "KHES215",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "보건환경융합과학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI255",
+            "position": {
+                "x": 880,
+                "y": 1500
+            },
+            "data": {
+                "label": "환경사회학",
+                "학수번호": "SOCI255",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -904,7 +904,7 @@
             "id": "LIET222",
             "position": {
                 "x": 1100,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "환경화학",
@@ -929,7 +929,7 @@
             "id": "LIET232",
             "position": {
                 "x": 1100,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "환경생태학",
@@ -954,7 +954,7 @@
             "id": "LIET226",
             "position": {
                 "x": 1100,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "환경재료과학",
@@ -971,56 +971,6 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ACEE327",
-            "position": {
-                "x": 1100,
-                "y": 280
-            },
-            "data": {
-                "label": "환경공학Ⅱ",
-                "학수번호": "ACEE327",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "건축사회환경공학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE302",
-            "position": {
-                "x": 1100,
-                "y": 350
-            },
-            "data": {
-                "label": "환경경제학",
-                "학수번호": "LESE302",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1054,7 +1004,7 @@
             "id": "LIET349",
             "position": {
                 "x": 1320,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "환경영향평가",
@@ -1079,7 +1029,7 @@
             "id": "LIET363",
             "position": {
                 "x": 1320,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "환경생물공학및실험",
@@ -1104,7 +1054,7 @@
             "id": "LIET367",
             "position": {
                 "x": 1320,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "환경과디자인의이해및실습",
@@ -1129,7 +1079,7 @@
             "id": "LIET311",
             "position": {
                 "x": 1320,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "생태독성학",
@@ -1154,7 +1104,7 @@
             "id": "LIET313",
             "position": {
                 "x": 1320,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "환경정책학",
@@ -1179,7 +1129,7 @@
             "id": "LIET339",
             "position": {
                 "x": 1320,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "환경생화학",
@@ -1204,7 +1154,7 @@
             "id": "LIET341",
             "position": {
                 "x": 1320,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "토양환경공학",
@@ -1229,7 +1179,7 @@
             "id": "LIET365",
             "position": {
                 "x": 1320,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "목재보존과학",
@@ -1254,7 +1204,7 @@
             "id": "LIET377",
             "position": {
                 "x": 1320,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "조경컴퓨터그래픽실습",
@@ -1271,6 +1221,56 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE327",
+            "position": {
+                "x": 1320,
+                "y": 1000
+            },
+            "data": {
+                "label": "환경공학Ⅱ",
+                "학수번호": "ACEE327",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE302",
+            "position": {
+                "x": 1320,
+                "y": 1100
+            },
+            "data": {
+                "label": "환경경제학",
+                "학수번호": "LESE302",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1304,7 +1304,7 @@
             "id": "LIET370",
             "position": {
                 "x": 1540,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "조경표현기법및실습",
@@ -1329,7 +1329,7 @@
             "id": "LIET372",
             "position": {
                 "x": 1540,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "생태계생태학및실험",
@@ -1354,7 +1354,7 @@
             "id": "LIET374",
             "position": {
                 "x": 1540,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "조경계획및실습",
@@ -1379,7 +1379,7 @@
             "id": "LIET382",
             "position": {
                 "x": 1540,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "응용미생물학및실험",
@@ -1404,7 +1404,7 @@
             "id": "LIET324",
             "position": {
                 "x": 1540,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "자원순환공학",
@@ -1429,7 +1429,7 @@
             "id": "LIET338",
             "position": {
                 "x": 1540,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "생물재료화학",
@@ -1454,7 +1454,7 @@
             "id": "LIET342",
             "position": {
                 "x": 1540,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "식물환경학Ⅰ",
@@ -1479,7 +1479,7 @@
             "id": "LIET354",
             "position": {
                 "x": 1540,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "수서생태학",
@@ -1504,7 +1504,7 @@
             "id": "LIET356",
             "position": {
                 "x": 1540,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "목질주거환경",
@@ -1529,7 +1529,7 @@
             "id": "LIET376",
             "position": {
                 "x": 1540,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "균류학및실험",
@@ -1554,7 +1554,7 @@
             "id": "LIET378",
             "position": {
                 "x": 1540,
-                "y": 770
+                "y": 1100
             },
             "data": {
                 "label": "환경원격탐사및실습",
@@ -1579,7 +1579,7 @@
             "id": "LIET380",
             "position": {
                 "x": 1540,
-                "y": 840
+                "y": 1200
             },
             "data": {
                 "label": "개체군생태학",
@@ -1604,7 +1604,7 @@
             "id": "LIET386",
             "position": {
                 "x": 1540,
-                "y": 910
+                "y": 1300
             },
             "data": {
                 "label": "연안및대양물질순환",
@@ -1654,7 +1654,7 @@
             "id": "LIET414",
             "position": {
                 "x": 1760,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "생태조경설계및실습",
@@ -1679,7 +1679,7 @@
             "id": "LIET415",
             "position": {
                 "x": 1760,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "식물환경학Ⅱ및실험",
@@ -1704,7 +1704,7 @@
             "id": "LIET469",
             "position": {
                 "x": 1760,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "생물신소재공학",
@@ -1729,7 +1729,7 @@
             "id": "LIET409",
             "position": {
                 "x": 1760,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "수질관리학및실험",
@@ -1754,7 +1754,7 @@
             "id": "LIET411",
             "position": {
                 "x": 1760,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "폐생물자원리사이클링",
@@ -1779,7 +1779,7 @@
             "id": "LIET453",
             "position": {
                 "x": 1760,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "동물생태학",
@@ -1829,7 +1829,7 @@
             "id": "LIET408",
             "position": {
                 "x": 1980,
-                "y": 70
+                "y": 100
             },
             "data": {
                 "label": "생태복원공학",
@@ -1854,7 +1854,7 @@
             "id": "LIET436",
             "position": {
                 "x": 1980,
-                "y": 140
+                "y": 200
             },
             "data": {
                 "label": "시스템생태학",
@@ -1879,7 +1879,7 @@
             "id": "LIET490",
             "position": {
                 "x": 1980,
-                "y": 210
+                "y": 300
             },
             "data": {
                 "label": "환경법규",
@@ -1904,7 +1904,7 @@
             "id": "LIET492",
             "position": {
                 "x": 1980,
-                "y": 280
+                "y": 400
             },
             "data": {
                 "label": "지역및도시계획학",
@@ -1929,7 +1929,7 @@
             "id": "LIET430",
             "position": {
                 "x": 1980,
-                "y": 350
+                "y": 500
             },
             "data": {
                 "label": "미생물생태학",
@@ -1954,7 +1954,7 @@
             "id": "LIET434",
             "position": {
                 "x": 1980,
-                "y": 420
+                "y": 600
             },
             "data": {
                 "label": "환경유기화학",
@@ -1979,7 +1979,7 @@
             "id": "LIET438",
             "position": {
                 "x": 1980,
-                "y": 490
+                "y": 700
             },
             "data": {
                 "label": "학술림연구세미나",
@@ -2004,7 +2004,7 @@
             "id": "LIET454",
             "position": {
                 "x": 1980,
-                "y": 560
+                "y": 800
             },
             "data": {
                 "label": "보전생물학",
@@ -2029,7 +2029,7 @@
             "id": "LIET456",
             "position": {
                 "x": 1980,
-                "y": 630
+                "y": 900
             },
             "data": {
                 "label": "환경위해도평가",
@@ -2054,7 +2054,7 @@
             "id": "LIET494",
             "position": {
                 "x": 1980,
-                "y": 700
+                "y": 1000
             },
             "data": {
                 "label": "경관생태학",
