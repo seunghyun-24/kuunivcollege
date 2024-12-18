@@ -10,40 +10,40 @@ export const CustomNode = ({ data }: any) => {
   return (
     <div
       style={{
-        width: "150px", // 노드의 고정 너비
-        height: "70px", // 노드의 고정 높이
+        width: "150px",
+        height: "70px",
         padding: "5px",
         textAlign: "center",
-        //border: "1px solid #999",
-        //borderRadius: "8px",
         boxSizing: "border-box",
         display: "flex",
         flexDirection: "column",
-        justifyContent: "center",
-        overflow: "hidden", // 넘치는 내용 감춤
+        justifyContent: "space-between",
+        overflow: "hidden",
       }}
     >
       <div
         style={{
-          fontSize: "1rem", // 기본 폰트 크기
+          fontSize: "0.9rem",
           overflow: "hidden",
-          textOverflow: "ellipsis", // 너무 길 경우 ... 표시
-          wordWrap: "break-word", // 줄바꿈 허용
-          whiteSpace: "normal", // 텍스트가 줄바꿈되도록 설정
-          flexShrink: 1, // 글자가 노드 크기에 맞게 축소될 수 있도록
-          lineHeight: "1.2", // 줄 간격 조정
+          wordWrap: "break-word",
+          whiteSpace: "normal",
+          flexShrink: 1,
+          lineHeight: "1.2",
         }}
       >
-        {data.label}
+        <strong>{data.label}</strong> <br />
+        <span style={{ fontSize: "0.7rem", color: "#555" }}>
+          {data.학수번호}
+        </span>
       </div>
 
       <div
         style={{
           position: "relative",
-          marginTop: "5px",
-          height: "8px",
+          height: "7px",
           borderRadius: "4px",
           backgroundColor: "#ddd",
+          marginTop: "3px",
         }}
       >
         <div
