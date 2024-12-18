@@ -22,9 +22,43 @@ def calculate_x_position(학년, 학기):
         학년 = 1 #일단 떼움..
     return 학년 * 440 + ((학기) - 1) * 220
 
+def create_year_and_semester_nodes():
+    year_nodes = []
+    semester_nodes = []
+    
+    for 학년 in range(1, 5):  # Assuming 4 years
+        year_node = {
+            "id": f"year-{학년}",
+            "position": {"x": calculate_x_position(학년, 1), "y": -120},  # Central position above both semesters
+            "data": {"label": f"{학년}학년"},
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px",
+            },
+        }
+        year_nodes.append(year_node)
+
+        for 학기 in [1, 2]:
+            semester_node = {
+                "id": f"semester-{학년}-{학기}",
+                "position": {"x": calculate_x_position(학년, 학기), "y": -90},
+                "data": {"label": f"{학기}학기"},
+                "type": "semesterNode",
+                "style": {
+                    "borderRadius": "10px",
+                    "padding": "10px",
+                },
+            }
+            semester_nodes.append(semester_node)
+    
+    return year_nodes + semester_nodes
+
 def parse_courses(courses):
+    nodes = create_year_and_semester_nodes()
     x_groups = {}
-    nodes = []
+    # nodes = []
     zero_semester_nodes = []
 
     # Group courses by x position

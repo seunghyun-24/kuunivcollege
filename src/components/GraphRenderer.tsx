@@ -7,12 +7,14 @@ import ReactFlow, {
 } from "react-flow-renderer";
 import { Tooltip } from "react-tooltip";
 import "../styles/ReactFlowStyles.css";
-import { CustomNode } from "../styles/CustomNode";
+import { CustomNode, YearNode, SemesterNode } from "../styles/CustomNode";
 import { findConnectedNodesAndEdges } from "../utils/calculateRelationCourses";
 import { InfomationBox } from "./InfomationBox";
 
 const nodeTypes = {
   customNode: CustomNode,
+  yearNode: YearNode,
+  semesterNode: SemesterNode,
 };
 
 interface GraphRendererProps {

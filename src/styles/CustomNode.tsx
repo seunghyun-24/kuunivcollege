@@ -71,4 +71,48 @@ export const CustomNode = ({ data }: any) => {
   );
 };
 
-export const nodeTypes = { customNode: CustomNode };
+export const YearNode = ({ data }: any) => {
+  return (
+    <div
+      style={{
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+        width: "350px",
+        height: "30px",
+        borderBottom: "3px solid #bbb",
+        textAlign: "center",
+        fontSize: "1.4rem",
+        fontWeight: "bold",
+      }}
+    >
+      {data.label}
+    </div>
+  );
+};
+
+export const SemesterNode = ({ data }: any) => {
+  return (
+    <div
+      style={{
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+        width: "150px",
+        height: "50px",
+        borderBottom: "2px solid #000",
+        textAlign: "center",
+        fontSize: "1.2rem",
+        fontWeight: "bold",
+      }}
+    >
+      {data.label}
+    </div>
+  );
+};
+
+export const nodeTypes = {
+  customNode: CustomNode,
+  yearNode: YearNode,
+  semesterNode: SemesterNode,
+};

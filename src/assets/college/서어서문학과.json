@@ -1,6 +1,190 @@
 {
     "nodes": [
         {
+            "id": "year-1",
+            "position": {
+                "x": 440,
+                "y": -120
+            },
+            "data": {
+                "label": "1학년"
+            },
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px"
+            }
+        },
+        {
+            "id": "year-2",
+            "position": {
+                "x": 880,
+                "y": -120
+            },
+            "data": {
+                "label": "2학년"
+            },
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px"
+            }
+        },
+        {
+            "id": "year-3",
+            "position": {
+                "x": 1320,
+                "y": -120
+            },
+            "data": {
+                "label": "3학년"
+            },
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px"
+            }
+        },
+        {
+            "id": "year-4",
+            "position": {
+                "x": 1760,
+                "y": -120
+            },
+            "data": {
+                "label": "4학년"
+            },
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px"
+            }
+        },
+        {
+            "id": "semester-1-1",
+            "position": {
+                "x": 440,
+                "y": -90
+            },
+            "data": {
+                "label": "1학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-1-2",
+            "position": {
+                "x": 660,
+                "y": -90
+            },
+            "data": {
+                "label": "2학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-2-1",
+            "position": {
+                "x": 880,
+                "y": -90
+            },
+            "data": {
+                "label": "1학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-2-2",
+            "position": {
+                "x": 1100,
+                "y": -90
+            },
+            "data": {
+                "label": "2학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-3-1",
+            "position": {
+                "x": 1320,
+                "y": -90
+            },
+            "data": {
+                "label": "1학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-3-2",
+            "position": {
+                "x": 1540,
+                "y": -90
+            },
+            "data": {
+                "label": "2학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-4-1",
+            "position": {
+                "x": 1760,
+                "y": -90
+            },
+            "data": {
+                "label": "1학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-4-2",
+            "position": {
+                "x": 1980,
+                "y": -90
+            },
+            "data": {
+                "label": "2학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "SPAN201",
             "position": {
                 "x": 880,
