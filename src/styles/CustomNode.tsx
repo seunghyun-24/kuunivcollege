@@ -57,6 +57,27 @@ export const CustomNode = ({ data }: any) => {
         />
       </div>
 
+      {data.tooltip && (
+        <div
+          style={{
+            position: "absolute",
+            zIndex: 1000,
+            bottom: "-20px",
+            left: "50%",
+            transform: "translateX(-50%)",
+            background: "#333",
+            color: "#fff",
+            padding: "5px",
+            borderRadius: "5px",
+            fontSize: "0.75rem",
+            whiteSpace: "nowrap",
+            visibility: data.showTooltip ? "visible" : "hidden",
+          }}
+        >
+          {data.tooltip}
+        </div>
+      )}
+
       <Handle
         type="target"
         position={Position.Left}

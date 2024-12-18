@@ -43,7 +43,7 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
       (edge) => edge.source === node.id || edge.target === node.id
     );
 
-    if (connectedEdges.length > 0) {
+    if (connectedEdges.length >= 0) {
       setHoveredNodeId(node.id);
 
       const { nodes: relatedNodes, edges: relatedEdges } =
@@ -67,7 +67,22 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
       opacity:
         hoveredNodeId === null || connectedNodeIds.has(node.id) ? 1 : 0.3,
     },
-    "data-tooltip-id": `tooltip-${node.id}`,
+    data: {
+      ...node.data,
+      tooltip: [
+        node.data?.label,
+        node.data?.학수번호,
+        node.data?.세부전공,
+        node.data?.전공역량,
+        node.data?.개설학과,
+        node.data?.개설횟수,
+        node.data?.내용,
+        node.data?.메모,
+      ]
+        .filter(Boolean)
+        .join(" | "),
+      showTooltip: hoveredNodeId === node.id,
+    },
   }));
 
   const styledEdgesWithHighlight = styledEdges.map((edge) => ({
@@ -132,18 +147,6 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
           <Controls />
         </ReactFlow>
         <InfomationBox />
-        <Tooltip anchorSelect="[data-tooltip-id]" place="top" clickable>
-          {hoveredNodeId && (
-            <div>
-              <strong>
-                {
-                  styledNodes.find((node) => node.id === hoveredNodeId)?.data
-                    .label
-                }
-              </strong>
-            </div>
-          )}
-        </Tooltip>
       </div>
     </>
   );
