@@ -9,7 +9,6 @@ import ReactFlow, {
 import "../styles/ReactFlowStyles.css";
 import { CustomNode, YearNode, SemesterNode } from "../styles/CustomNode";
 import { findConnectedNodesAndEdges } from "../utils/calculateRelationCourses";
-import { InfomationBox } from "./InfomationBox";
 
 const nodeTypes = {
   customNode: CustomNode,
@@ -133,8 +132,8 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
           onInit={handleInit}
           // fitViewOptions={{ padding: 0.1 }}
           nodeTypes={nodeTypes}
-          // zoomOnScroll={false}
-          // panOnDrag={false}
+          zoomOnScroll={false}
+          panOnDrag={false}
           maxZoom={1.0}
           minZoom={0.3}
           nodesConnectable={false}
@@ -144,7 +143,6 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
           <Background color="#ddd" gap={16} />
           <Controls className="custom-controls" />
         </ReactFlow>
-        <InfomationBox />
       </div>
     </>
   );

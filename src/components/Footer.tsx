@@ -19,7 +19,13 @@ const Footer: React.FC = () => {
           <p>Copyright © Korea University. All Rights Reserved</p>
         </div>
       </div>
-      <p className={styles.secret}>Contributed by seunghyun-24</p>
+      <p className={styles.contributer}>By. 박승현, 신종현, 김규탁</p>
+      <span
+        className={styles.secret}
+        onClick={() => window.open("https://github.com/seunghyun-24", "_blank")}
+      >
+        Contributed by seunghyun-24
+      </span>
     </footer>
   );
 };

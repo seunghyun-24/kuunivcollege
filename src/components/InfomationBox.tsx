@@ -1,7 +1,6 @@
-import React, { useState } from "react";
+import React from "react";
 
 export const InfomationBox = () => {
-  const [isOpen, setIsOpen] = useState(true);
   const legendItems = [
     { color: "#FFECB3", label: "학문의기초" },
     { color: "#C8E6C9", label: "교양필수" },
@@ -16,79 +15,43 @@ export const InfomationBox = () => {
   ];
 
   return (
-    <div
-      style={isOpen ? legendContainerStyle : collapsedLegendStyle}
-      onClick={() => setIsOpen(!isOpen)}
-    >
-      {isOpen ? (
-        legendItems.map((item, index) => (
-          <div key={index} style={legendItemStyle}>
-            {item.type === "edge" ? (
-              <svg width="50" height="10" style={{ marginRight: "10px" }}>
-                <line
-                  x1="0"
-                  y1="5"
-                  x2="50"
-                  y2="5"
-                  stroke={item.color}
-                  // strokeWidth={item.color === "#000" ? 2 : 1} // 필수와 권장 두께 구분
-                />
-              </svg>
-            ) : item.type === "gauge" ? (
-              <div style={{ display: "flex", alignItems: "center" }}>
-                <div
-                  style={{
-                    width: "50px",
-                    height: "5px",
-                    backgroundColor: item.color,
-                    marginRight: "10px",
-                  }}
-                />
-              </div>
-            ) : (
+    <div style={legendContainerStyle}>
+      {legendItems.map((item, index) => (
+        <div key={index} style={legendItemStyle}>
+          {item.type === "edge" ? (
+            <svg width="50" height="10" style={{ marginRight: "10px" }}>
+              <line x1="0" y1="5" x2="50" y2="5" stroke={item.color} />
+            </svg>
+          ) : item.type === "gauge" ? (
+            <div style={{ display: "flex", alignItems: "center" }}>
               <div
                 style={{
-                  ...colorBoxStyle,
-                  backgroundColor: item.color || "transparent",
-                  // border: item.border || "1px solid #ccc",
+                  width: "50px",
+                  height: "5px",
+                  backgroundColor: item.color,
+                  marginRight: "10px",
                 }}
-              ></div>
-            )}
-            <span style={labelStyle}>{item.label}</span>
-          </div>
-        ))
-      ) : (
-        <span style={collapsedLabelStyle}>Info</span> // 닫힌 상태에서 표시
-      )}
+              />
+            </div>
+          ) : (
+            <div
+              style={{
+                ...colorBoxStyle,
+                backgroundColor: item.color || "transparent",
+              }}
+            ></div>
+          )}
+          <span style={labelStyle}>{item.label}</span>
+        </div>
+      ))}
     </div>
   );
 };
 
 const legendContainerStyle: React.CSSProperties = {
-  position: "absolute",
-  bottom: "20px",
-  left: "20px",
   backgroundColor: "#fff",
-  border: "1px solid #ccc",
-  borderRadius: "8px",
   padding: "10px",
-  boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)",
   zIndex: 10,
-  cursor: "pointer",
-};
-
-const collapsedLegendStyle: React.CSSProperties = {
-  position: "absolute",
-  bottom: "20px",
-  left: "20px",
-  backgroundColor: "#f0f0f0",
-  border: "1px solid #ccc",
-  borderRadius: "8px",
-  padding: "5px 10px",
-  boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)",
-  zIndex: 10,
-  textAlign: "center",
-  cursor: "pointer",
 };
 
 const legendItemStyle = {
@@ -107,10 +70,4 @@ const colorBoxStyle = {
 const labelStyle = {
   fontSize: "14px",
   color: "#333",
-};
-
-const collapsedLabelStyle: React.CSSProperties = {
-  fontSize: "14px",
-  color: "#333",
-  textAlign: "center",
 };

@@ -1,103 +1,76 @@
-import React, { useState } from "react";
-import styles from "../styles/Sidebar.module.css";
+import React, { useState, useEffect } from "react";
+import styles from "../styles/SideBar.module.css";
+import { InfomationBox } from "./InfomationBox";
 
-const departments: { [key: string]: string[] } = {
-  경영대학: ["경영학과"],
-  공과대학: [
-    "화공생명공학과",
-    "신소재공학부",
-    "건축사회환경공학부",
-    "기계공학부",
-    "산업경영공학부",
-    "전기전자공학부",
-  ],
-  국제대학: ["국제학부", "글로벌한국융합학부"],
-  문과대학: [
-    "국어국문학과",
-    "철학과",
-    "한국사학과",
-    "사학과",
-    "사회학과",
-    "한문학과",
-    "영어영문학과",
-    "독어독문학과",
-    "불어불문학과",
-    "중어중문학과",
-    "노어노문학과",
-    "일어일문학과",
-    "서어서문학과",
-    "언어학과",
-  ],
-  미디어학부: ["미디어학부"],
-  보건과학대학: [
-    "바의오의공학부",
-    "바이오시스템의과학부",
-    "보건환경융합과학부",
-    "보건정책관리학부",
-  ],
-  생명과학대학: [
-    "생명과학부",
-    "생명공학부",
-    "식품공학과",
-    "환경생태공학부",
-    "식품자원경제학과",
-  ],
-  심리학부: ["심리학부"],
-  이과대학: ["수학과", "물리학과", "화학과", "지구환경과학과"],
-  정경대학: ["정치외교학과", "경제학과", "통계학과", "행정학과"],
-  정보대학: ["컴퓨터학과"],
-};
-
-interface SidebarProps {
-  onDepartmentClick: (department: string) => void;
+interface SideBarProps {
+  department: string | null;
 }
 
-const Sidebar: React.FC<SidebarProps> = ({ onDepartmentClick }) => {
-  const [activeDepartment, setActiveDepartment] = useState<string | null>(null);
+const SideBar: React.FC<SideBarProps> = ({ department }) => {
+  const [loading, setLoading] = useState(false);
+  const [departmentInfo, setDepartmentInfo] = useState<any | null>(null);
 
-  const toggleDepartment = (department: string) => {
-    setActiveDepartment(activeDepartment === department ? null : department);
-  };
+  useEffect(() => {
+    if (department) {
+      setLoading(true);
+      import(`../assets/collegeInfo/${department}.json`)
+        .then((data) => {
+          setDepartmentInfo(data);
+        })
+        .catch((error) => {
+          console.error("데이터 로드에 실패했습니다.", error);
+          setDepartmentInfo(null);
+        })
+        .finally(() => setLoading(false));
+    } else {
+      setDepartmentInfo(null);
+    }
+  }, [department]);
 
-  const handleSubDepartmentClick = (subDepartment: string) => {
-    onDepartmentClick(subDepartment);
-  };
+  if (loading) {
+    return <aside className={styles.sidebar}>로딩 중...</aside>;
+  }
+
+  if (!departmentInfo) {
+    return <aside className={styles.sidebar}>학과를 선택해주세요.</aside>;
+  }
 
   return (
-    <div className={styles.container}>
-      <h2 className={styles.title}>전공탐색 로드맵</h2>
-      <hr className={styles.divider} />
-      <div className={styles.sidebarContainer}>
-        <ul className={styles.menuList}>
-          {Object.keys(departments).map((department) => (
-            <li
-              key={department}
-              className={styles.menuItem}
-              onClick={() => toggleDepartment(department)}
-            >
-              {department}
-              {activeDepartment === department && (
-                <ul className={styles.subMenuList}>
-                  {departments[department].map((subDepartment: string) => (
-                    <li
-                      key={subDepartment}
-                      className={styles.subMenuItem}
-                      onClick={(e) => {
-                        e.stopPropagation(); // 부모 항목 클릭 이벤트 중단
-                        handleSubDepartmentClick(subDepartment);
-                      }}
-                    >
-                      {subDepartment}
-                    </li>
-                  ))}
-                </ul>
-              )}
-            </li>
-          ))}
-        </ul>
+    <aside className={styles.sidebar}>
+      <div className={styles.logoContainer}>
+        <img
+          src={require(`../assets/collegeInfo/collegeLogo/${departmentInfo.logo}`)}
+          alt={`${departmentInfo.university} 로고`}
+          className={styles.logo}
+        />
       </div>
-    </div>
+      <h2>{departmentInfo.university}</h2>
+      <h3>{departmentInfo.department}</h3>
+      <p>
+        <strong>홈페이지:</strong>{" "}
+        <a
+          href={`https://${departmentInfo.homepage}`}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          홈페이지 가기
+        </a>
+      </p>
+      <p>
+        <strong>전공지식 체계도:</strong>{" "}
+        <a
+          href={departmentInfo.roadmap}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          체계도 보기
+        </a>
+      </p>
+      <div className={styles.infoBoxContainer}>
+        <InfomationBox />
+      </div>
+    </aside>
   );
 };
 
-export default Sidebar;
+export default SideBar;

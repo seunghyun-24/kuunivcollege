@@ -42,6 +42,14 @@
   width: 100%;
 }
 
+.contributer {
+  text-align: right;
+  margin-right: 10px;
+  font-size: 14px;
+  margin-top: 10px;
+  color: #8c8c8c;
+}
+
 .secret {
   position: absolute;
   font-size: 8px;
