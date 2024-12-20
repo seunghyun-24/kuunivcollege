@@ -1,4 +1,4 @@
-import { Edge } from "@xyflow/react";
+import { Edge } from "react-flow-renderer";
 
 export const findConnectedNodesAndEdges = (
   startNodeId: string,

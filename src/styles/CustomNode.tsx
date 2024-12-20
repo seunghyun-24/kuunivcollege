@@ -1,4 +1,5 @@
-import { Handle, Position } from "@xyflow/react";
+import React from "react";
+import { Handle, Position } from "react-flow-renderer";
 
 export const CustomNode = ({ data }: any) => {
   const openCount = data.개설횟수;

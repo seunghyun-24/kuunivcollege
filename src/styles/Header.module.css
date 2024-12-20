@@ -4,11 +4,10 @@
   align-items: center;
   background-color: #ffffff;
   padding: 10px;
-  height: 90px;
+  height: 80px;
 }
 
 .logo {
-  margin-top: 10px;
   height: 60px;
   cursor: pointer;
 }

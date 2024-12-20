@@ -1,4 +1,4 @@
-import { Position } from "@xyflow/react";
+import { Position } from "react-flow-renderer";
 
 export interface NodeData {
   id: string;
