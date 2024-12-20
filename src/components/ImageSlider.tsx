@@ -2,7 +2,7 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import "../styles/ImageSlider.css"; // 슬라이더 커스텀 스타일
+import "../styles/ImageSlider.css";
 
 const images = [require("../assets/img_sub01.png")];
 

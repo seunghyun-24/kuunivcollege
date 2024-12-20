@@ -1,11 +1,17 @@
 import React, { useCallback, useEffect, useState } from "react";
+// import {
+//   Background,
+//   Controls,
+//   ReactFlow,
+//   useEdgesState,
+//   useNodesState,
+// } from "@xyflow/react";
 import ReactFlow, {
   Background,
   Controls,
-  useNodesState,
   useEdgesState,
+  useNodesState,
 } from "react-flow-renderer";
-import { Tooltip } from "react-tooltip";
 import "../styles/ReactFlowStyles.css";
 import { CustomNode, YearNode, SemesterNode } from "../styles/CustomNode";
 import { findConnectedNodesAndEdges } from "../utils/calculateRelationCourses";
@@ -103,16 +109,13 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
   }));
 
   const calculateGraphBounds = useCallback(() => {
-    const maxX = Math.max(
-      ...styledNodes.map((node) => node.position.x + 200),
+    const maxX = Math.max(...styledNodes.map((node) => node.position.x), 600);
+    const maxY = Math.max(
+      ...styledNodes.map((node) => node.position.y - 600),
       1000
     );
-    const maxY = Math.max(
-      ...styledNodes.map((node) => node.position.y + 100),
-      500
-    );
     return { width: maxX, height: maxY };
-  }, [styledNodes]); // styledNodes에 의존
+  }, [styledNodes]);
 
   useEffect(() => {
     const bounds = calculateGraphBounds();
@@ -134,17 +137,18 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
           onNodeMouseEnter={handleNodeMouseEnter}
           onNodeMouseLeave={handleNodeMouseLeave}
           onInit={handleInit}
-          // fitViewOptions={{ padding: 0.1 }}
           nodeTypes={nodeTypes}
           // zoomOnScroll={false}
           // panOnDrag={false}
           maxZoom={1.0}
+          minZoom={0.3}
           nodesConnectable={false}
           nodesDraggable={false}
           attributionPosition={undefined}
         >
           <Background color="#ddd" gap={16} />
           <Controls />
+          {/* position="bottom-right" orientation="vertical" /> */}
         </ReactFlow>
         <InfomationBox />
       </div>

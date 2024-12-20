@@ -1,6 +1,5 @@
 import dagre from "dagre";
-import { Node, Edge, Position } from "react-flow-renderer";
-import { MarkerType } from "@xyflow/react";
+import { Node, Edge, MarkerType, Position } from "@xyflow/react";
 
 const nodeWidth = 150;
 const nodeHeight = 50;

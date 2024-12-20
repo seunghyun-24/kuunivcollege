@@ -12,7 +12,7 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
   const [nodes, setNodes] = useNodesState([]);
   const [edges, setEdges] = useEdgesState([]);
   const [loading, setLoading] = useState(false);
-  const [graphBounds, setGraphBounds] = useState({ width: 1000, height: 500 }); // 기본 높이와 너비
+  const [graphBounds, setGraphBounds] = useState({ width: 600, height: 500 }); // 기본 높이와 너비
 
   useEffect(() => {
     if (department) {
