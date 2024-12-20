@@ -5,6 +5,7 @@ import ReactFlow, {
   useNodesState,
   useEdgesState,
 } from "react-flow-renderer";
+// import { Controls } from "@xyflow/react";
 import "../styles/ReactFlowStyles.css";
 import { CustomNode, YearNode, SemesterNode } from "../styles/CustomNode";
 import { findConnectedNodesAndEdges } from "../utils/calculateRelationCourses";
@@ -112,7 +113,7 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
 
   useEffect(() => {
     const bounds = calculateGraphBounds();
-    onBoundsChange(bounds); // 부모 컴포넌트에 그래프 크기 전달
+    onBoundsChange(bounds);
   }, [calculateGraphBounds, onBoundsChange]);
 
   const handleInit = (instance: any) => {
@@ -141,7 +142,7 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
           attributionPosition={undefined}
         >
           <Background color="#ddd" gap={16} />
-          <Controls />
+          <Controls className="custom-controls" />
         </ReactFlow>
         <InfomationBox />
       </div>

@@ -20,6 +20,14 @@
   overflow: visible; /* 그래프가 초과하면 표시 */
 }
 
+.custom-controls {
+  position: absolute;
+  top: 0px;
+  left: 895px;
+  box-shadow: none;
+  z-index: 10;
+}
+
 .reactflow-container .react-flow__edge-path {
   stroke: #ccc; /* 기본 선 색상 */
   stroke-width: 2; /* 선 두께 */
