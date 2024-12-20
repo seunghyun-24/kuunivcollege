@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kuunivcollege/static/css/main.9f84ad18.css",
+    "main.css": "/kuunivcollege/static/css/main.6df3b5c6.css",
     "main.js": "/kuunivcollege/static/js/main.c13f3a76.js",
     "static/js/747.35dc8aaf.chunk.js": "/kuunivcollege/static/js/747.35dc8aaf.chunk.js",
     "static/js/159.228645a9.chunk.js": "/kuunivcollege/static/js/159.228645a9.chunk.js",
@@ -48,12 +48,12 @@
     "static/media/black2positive.gif": "/kuunivcollege/static/media/black2positive.6e78b7458b5a2dc0e355.gif",
     "static/media/logo.png": "/kuunivcollege/static/media/logo.6635bb8736518a7ea2ff.png",
     "index.html": "/kuunivcollege/index.html",
-    "main.9f84ad18.css.map": "/kuunivcollege/static/css/main.9f84ad18.css.map",
+    "main.6df3b5c6.css.map": "/kuunivcollege/static/css/main.6df3b5c6.css.map",
     "main.c13f3a76.js.map": "/kuunivcollege/static/js/main.c13f3a76.js.map",
     "453.9ce88d4e.chunk.js.map": "/kuunivcollege/static/js/453.9ce88d4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f84ad18.css",
+    "static/css/main.6df3b5c6.css",
     "static/js/main.c13f3a76.js"
   ]
 }
