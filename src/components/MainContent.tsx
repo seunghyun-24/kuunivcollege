@@ -35,7 +35,7 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
         })
         .finally(() => setLoading(false));
     }
-  }, [department]);
+  }, [department, setEdges, setNodes]);
 
   return (
     <div
