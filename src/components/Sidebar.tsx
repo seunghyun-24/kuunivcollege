@@ -44,8 +44,8 @@ const SideBar: React.FC<SideBarProps> = ({ department }) => {
           className={styles.logo}
         />
       </div>
-      <h2>{departmentInfo.university}</h2>
-      <h3>{departmentInfo.department}</h3>
+      <h2 className={styles.collegeName}>{departmentInfo.university}</h2>
+      <h3 className={styles.departmentName}>{departmentInfo.department}</h3>
       <p>
         <strong>홈페이지:</strong>{" "}
         <a
