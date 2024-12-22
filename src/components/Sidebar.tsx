@@ -56,16 +56,18 @@ const SideBar: React.FC<SideBarProps> = ({ department }) => {
           홈페이지 가기
         </a>
       </p>
-      <p>
-        <strong>전공지식 체계도:</strong>{" "}
-        <a
-          href={departmentInfo.roadmap}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          체계도 보기
-        </a>
-      </p>
+      {departmentInfo.roadmap && (
+        <p>
+          <strong>전공지식 체계도:</strong>{" "}
+          <a
+            href={departmentInfo.roadmap}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            체계도 보기
+          </a>
+        </p>
+      )}
       <div className={styles.infoBoxContainer}>
         <InfomationBox />
       </div>
