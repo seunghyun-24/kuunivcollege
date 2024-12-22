@@ -1,0 +1,1489 @@
+{
+    "nodes": [
+        {
+            "id": "year-1",
+            "position": {
+                "x": 440,
+                "y": -120
+            },
+            "data": {
+                "label": "1학년"
+            },
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px"
+            }
+        },
+        {
+            "id": "year-2",
+            "position": {
+                "x": 880,
+                "y": -120
+            },
+            "data": {
+                "label": "2학년"
+            },
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px"
+            }
+        },
+        {
+            "id": "year-3",
+            "position": {
+                "x": 1320,
+                "y": -120
+            },
+            "data": {
+                "label": "3학년"
+            },
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px"
+            }
+        },
+        {
+            "id": "year-4",
+            "position": {
+                "x": 1760,
+                "y": -120
+            },
+            "data": {
+                "label": "4학년"
+            },
+            "type": "yearNode",
+            "style": {
+                "borderRadius": "10px",
+                "fontWeight": "bold",
+                "padding": "15px"
+            }
+        },
+        {
+            "id": "semester-1-1",
+            "position": {
+                "x": 440,
+                "y": -90
+            },
+            "data": {
+                "label": "1학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-1-2",
+            "position": {
+                "x": 660,
+                "y": -90
+            },
+            "data": {
+                "label": "2학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-2-1",
+            "position": {
+                "x": 880,
+                "y": -90
+            },
+            "data": {
+                "label": "1학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-2-2",
+            "position": {
+                "x": 1100,
+                "y": -90
+            },
+            "data": {
+                "label": "2학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-3-1",
+            "position": {
+                "x": 1320,
+                "y": -90
+            },
+            "data": {
+                "label": "1학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-3-2",
+            "position": {
+                "x": 1540,
+                "y": -90
+            },
+            "data": {
+                "label": "2학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-4-1",
+            "position": {
+                "x": 1760,
+                "y": -90
+            },
+            "data": {
+                "label": "1학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "semester-4-2",
+            "position": {
+                "x": 1980,
+                "y": -90
+            },
+            "data": {
+                "label": "2학기"
+            },
+            "type": "semesterNode",
+            "style": {
+                "borderRadius": "10px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS101",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "data": {
+                "label": "글로벌한국학입문",
+                "학수번호": "GKSS101",
+                "세부전공": null,
+                "전공역량": "공감소통역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS140",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "data": {
+                "label": "세계화의이해",
+                "학수번호": "DISS140",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS201",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "data": {
+                "label": "세계경제속의한국",
+                "학수번호": "GKSS201",
+                "세부전공": null,
+                "전공역량": "융합적사고역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS203",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "data": {
+                "label": "한국과동아시아",
+                "학수번호": "GKSS203",
+                "세부전공": null,
+                "전공역량": "공감소통역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS205",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "data": {
+                "label": "한국사회의이해",
+                "학수번호": "GKSS205",
+                "세부전공": null,
+                "전공역량": "융합적사고역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS207",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "data": {
+                "label": "글로벌한국의문화I",
+                "학수번호": "GKSS207",
+                "세부전공": null,
+                "전공역량": "공감소통역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GLKS201",
+            "position": {
+                "x": 880,
+                "y": 400
+            },
+            "data": {
+                "label": "서울의이해",
+                "학수번호": "GLKS201",
+                "세부전공": null,
+                "전공역량": "융합적사고역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO257",
+            "position": {
+                "x": 880,
+                "y": 500
+            },
+            "data": {
+                "label": "한국의문화미디어",
+                "학수번호": "JMCO257",
+                "세부전공": null,
+                "전공역량": "글로벌역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS281",
+            "position": {
+                "x": 880,
+                "y": 600
+            },
+            "data": {
+                "label": "국제개발개론",
+                "학수번호": "DISS281",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS102",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "data": {
+                "label": "세계정치속의한국",
+                "학수번호": "GKSS102",
+                "세부전공": null,
+                "전공역량": "융합적사고역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS104",
+            "position": {
+                "x": 660,
+                "y": 100
+            },
+            "data": {
+                "label": "글로벌한국의문명I",
+                "학수번호": "GKSS104",
+                "세부전공": null,
+                "전공역량": "공감소통역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS114",
+            "position": {
+                "x": 660,
+                "y": 200
+            },
+            "data": {
+                "label": "국제통상원룐",
+                "학수번호": "DISS114",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 300
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 II",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 400
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS204",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "한국문화의재조명",
+                "학수번호": "GKSS204",
+                "세부전공": null,
+                "전공역량": "공감소통역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS206",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "data": {
+                "label": "글로벌한국의문명 II",
+                "학수번호": "GKSS206",
+                "세부전공": null,
+                "전공역량": "공감소통역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS208",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "data": {
+                "label": "한국학데이터사이언스입문 ",
+                "학수번호": "GKSS208",
+                "세부전공": null,
+                "전공역량": "공감소통역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS210",
+            "position": {
+                "x": 1100,
+                "y": 300
+            },
+            "data": {
+                "label": "질적한국학방법론",
+                "학수번호": "GKSS210",
+                "세부전공": null,
+                "전공역량": "글로벌역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS212",
+            "position": {
+                "x": 1100,
+                "y": 400
+            },
+            "data": {
+                "label": "동아시아의도시화",
+                "학수번호": "GKSS212",
+                "세부전공": null,
+                "전공역량": "융합적사고역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS243",
+            "position": {
+                "x": 1100,
+                "y": 500
+            },
+            "data": {
+                "label": "동아시아지역입문",
+                "학수번호": "DISS243",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS244",
+            "position": {
+                "x": 1100,
+                "y": 600
+            },
+            "data": {
+                "label": "유럽지역입문",
+                "학수번호": "DISS244",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS202",
+            "position": {
+                "x": 1100,
+                "y": 700
+            },
+            "data": {
+                "label": "글로벌한국학강독I",
+                "학수번호": "GKSS202",
+                "세부전공": null,
+                "전공역량": "공감소통역량",
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFD180",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS301",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "data": {
+                "label": "한국의민주주의",
+                "학수번호": "GKSS301",
+                "세부전공": null,
+                "전공역량": "공감소통역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS303",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "data": {
+                "label": "글로벌한국의대외관계",
+                "학수번호": "GKSS303",
+                "세부전공": null,
+                "전공역량": "글로벌역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS305",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "data": {
+                "label": "한국사회의쟁점 I",
+                "학수번호": "GKSS305",
+                "세부전공": null,
+                "전공역량": "글로벌역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS307",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "data": {
+                "label": "한국의국제무역",
+                "학수번호": "GKSS307",
+                "세부전공": null,
+                "전공역량": "융합적사고역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS309",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "data": {
+                "label": "글로벌한국학특강I",
+                "학수번호": "GKSS309",
+                "세부전공": null,
+                "전공역량": "도전적리더",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GLKS207",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "data": {
+                "label": "한국경영의이해",
+                "학수번호": "GLKS207",
+                "세부전공": null,
+                "전공역량": "융합적사고역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS338",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "data": {
+                "label": "세계화와인권",
+                "학수번호": "DISS338",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS304",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "data": {
+                "label": "글로벌한국의문화 II",
+                "학수번호": "GKSS304",
+                "세부전공": null,
+                "전공역량": "공감소통역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS306",
+            "position": {
+                "x": 1540,
+                "y": 100
+            },
+            "data": {
+                "label": "한국과글로벌기업",
+                "학수번호": "GKSS306",
+                "세부전공": null,
+                "전공역량": "도전적리더",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS308",
+            "position": {
+                "x": 1540,
+                "y": 200
+            },
+            "data": {
+                "label": "한국사회의쟁점 II",
+                "학수번호": "GKSS308",
+                "세부전공": null,
+                "전공역량": "융합적사고역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS310",
+            "position": {
+                "x": 1540,
+                "y": 300
+            },
+            "data": {
+                "label": "시민사회와글로벌한국",
+                "학수번호": "GKSS310",
+                "세부전공": null,
+                "전공역량": "융합적사고역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS312",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "data": {
+                "label": "북한의정치와경제",
+                "학수번호": "GKSS312",
+                "세부전공": null,
+                "전공역량": "융합적사고역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS314",
+            "position": {
+                "x": 1540,
+                "y": 500
+            },
+            "data": {
+                "label": "남북한관계의이해",
+                "학수번호": "GKSS314",
+                "세부전공": null,
+                "전공역량": "글로벌역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO382",
+            "position": {
+                "x": 1540,
+                "y": 600
+            },
+            "data": {
+                "label": "엔터테인먼트산업",
+                "학수번호": "JMCO382",
+                "세부전공": null,
+                "전공역량": "도전적리더",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS363",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "data": {
+                "label": "글로벌빈곤",
+                "학수번호": "DISS363",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS302",
+            "position": {
+                "x": 1540,
+                "y": 800
+            },
+            "data": {
+                "label": "글로벌한국학강독II",
+                "학수번호": "GKSS302",
+                "세부전공": null,
+                "전공역량": "공감소통역량",
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFD180",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS403",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "한국의문화외교",
+                "학수번호": "GKSS403",
+                "세부전공": null,
+                "전공역량": "글로벌역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS405",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "data": {
+                "label": "한국경제의쟁점",
+                "학수번호": "GKSS405",
+                "세부전공": null,
+                "전공역량": "도전적리더",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS407",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "data": {
+                "label": "한국과국제이주",
+                "학수번호": "GKSS407",
+                "세부전공": null,
+                "전공역량": "공감소통역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS409",
+            "position": {
+                "x": 1760,
+                "y": 300
+            },
+            "data": {
+                "label": "한국과국제개발",
+                "학수번호": "GKSS409",
+                "세부전공": null,
+                "전공역량": "융합적사고역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS401",
+            "position": {
+                "x": 1760,
+                "y": 400
+            },
+            "data": {
+                "label": "글로벌한국학세미나I",
+                "학수번호": "GKSS401",
+                "세부전공": null,
+                "전공역량": "공감소통역량",
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFD180",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS404",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "data": {
+                "label": "글로벌한국학특강 II",
+                "학수번호": "GKSS404",
+                "세부전공": null,
+                "전공역량": "도전적리더",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS406",
+            "position": {
+                "x": 1980,
+                "y": 100
+            },
+            "data": {
+                "label": "글로벌한국학특강III",
+                "학수번호": "GKSS406",
+                "세부전공": null,
+                "전공역량": "도전적리더",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS402",
+            "position": {
+                "x": 1980,
+                "y": 200
+            },
+            "data": {
+                "label": "글로벌한국학세미나II",
+                "학수번호": "GKSS402",
+                "세부전공": null,
+                "전공역량": "도전적리더",
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFD180",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        }
+    ],
+    "edges": []
+}

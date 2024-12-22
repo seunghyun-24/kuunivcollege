@@ -210,6 +210,81 @@
             }
         },
         {
+            "id": "MATH211",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "data": {
+                "label": "해석학I및연습",
+                "학수번호": "MATH211",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH221",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "data": {
+                "label": "선형대수I및연습",
+                "학수번호": "MATH221",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE213",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "data": {
+                "label": "자료구조",
+                "학수번호": "COSE213",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "컴퓨터학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "STAT232",
             "position": {
                 "x": 1100,
@@ -305,6 +380,156 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH212",
+            "position": {
+                "x": 1100,
+                "y": 400
+            },
+            "data": {
+                "label": "해석학II및연습",
+                "학수번호": "MATH212",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH222",
+            "position": {
+                "x": 1100,
+                "y": 500
+            },
+            "data": {
+                "label": "선형대수II및연습",
+                "학수번호": "MATH222",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH240",
+            "position": {
+                "x": 1100,
+                "y": 600
+            },
+            "data": {
+                "label": "미분방정식및연습",
+                "학수번호": "MATH240",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IMEN216",
+            "position": {
+                "x": 1100,
+                "y": 700
+            },
+            "data": {
+                "label": "OR-I및 실습",
+                "학수번호": "IMEN216",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "산업경영공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE212",
+            "position": {
+                "x": 1100,
+                "y": 800
+            },
+            "data": {
+                "label": "프로그래밍언어",
+                "학수번호": "COSE212",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "컴퓨터학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE214",
+            "position": {
+                "x": 1100,
+                "y": 900
+            },
+            "data": {
+                "label": "알고리즘",
+                "학수번호": "COSE214",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "컴퓨터학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -460,385 +685,10 @@
             }
         },
         {
-            "id": "ECON301",
-            "position": {
-                "x": 440,
-                "y": 100
-            },
-            "data": {
-                "label": "계량경제학I",
-                "학수번호": "ECON301",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON302",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "data": {
-                "label": "계량경제학II",
-                "학수번호": "ECON302",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH211",
-            "position": {
-                "x": 440,
-                "y": 300
-            },
-            "data": {
-                "label": "해석학I및연습",
-                "학수번호": "MATH211",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH212",
-            "position": {
-                "x": 440,
-                "y": 400
-            },
-            "data": {
-                "label": "해석학II및연습",
-                "학수번호": "MATH212",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH221",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "선형대수I및연습",
-                "학수번호": "MATH221",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH222",
-            "position": {
-                "x": 440,
-                "y": 600
-            },
-            "data": {
-                "label": "선형대수II및연습",
-                "학수번호": "MATH222",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH240",
-            "position": {
-                "x": 440,
-                "y": 700
-            },
-            "data": {
-                "label": "미분방정식및연습",
-                "학수번호": "MATH240",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH342",
-            "position": {
-                "x": 440,
-                "y": 800
-            },
-            "data": {
-                "label": "수치해석및연습",
-                "학수번호": "MATH342",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH344",
-            "position": {
-                "x": 440,
-                "y": 900
-            },
-            "data": {
-                "label": "확률과정개론",
-                "학수번호": "MATH344",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH453",
-            "position": {
-                "x": 440,
-                "y": 1000
-            },
-            "data": {
-                "label": "실해석학",
-                "학수번호": "MATH453",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN216",
-            "position": {
-                "x": 440,
-                "y": 1100
-            },
-            "data": {
-                "label": "OR-I및 실습",
-                "학수번호": "IMEN216",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "산업경영공학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN319",
-            "position": {
-                "x": 440,
-                "y": 1200
-            },
-            "data": {
-                "label": "OR-II 및 실습",
-                "학수번호": "IMEN319",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "산업경영공학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE212",
-            "position": {
-                "x": 440,
-                "y": 1300
-            },
-            "data": {
-                "label": "프로그래밍언어",
-                "학수번호": "COSE212",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE213",
-            "position": {
-                "x": 440,
-                "y": 1400
-            },
-            "data": {
-                "label": "자료구조",
-                "학수번호": "COSE213",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE214",
-            "position": {
-                "x": 440,
-                "y": 1500
-            },
-            "data": {
-                "label": "알고리즘",
-                "학수번호": "COSE214",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GELI005",
             "position": {
                 "x": 440,
-                "y": 1600
+                "y": 100
             },
             "data": {
                 "label": "학문세계의탐구 I",
@@ -863,7 +713,7 @@
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 1700
+                "y": 200
             },
             "data": {
                 "label": "글쓰기",
@@ -888,7 +738,7 @@
             "id": "IFLS800",
             "position": {
                 "x": 440,
-                "y": 1800
+                "y": 300
             },
             "data": {
                 "label": "Academic English I",
@@ -913,7 +763,7 @@
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 1900
+                "y": 400
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -938,7 +788,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 2000
+                "y": 500
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -963,7 +813,7 @@
             "id": "GEBT001",
             "position": {
                 "x": 440,
-                "y": 2100
+                "y": 600
             },
             "data": {
                 "label": "[진로창업]생명과학의세계",
@@ -1135,6 +985,56 @@
             }
         },
         {
+            "id": "ECON302",
+            "position": {
+                "x": 1540,
+                "y": 600
+            },
+            "data": {
+                "label": "계량경제학II",
+                "학수번호": "ECON302",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH342",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "data": {
+                "label": "수치해석및연습",
+                "학수번호": "MATH342",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "STAT323",
             "position": {
                 "x": 1320,
@@ -1230,6 +1130,81 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON301",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "data": {
+                "label": "계량경제학I",
+                "학수번호": "ECON301",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH344",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "data": {
+                "label": "확률과정개론",
+                "학수번호": "MATH344",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IMEN319",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "data": {
+                "label": "OR-II 및 실습",
+                "학수번호": "IMEN319",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "산업경영공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1380,6 +1355,31 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH453",
+            "position": {
+                "x": 1760,
+                "y": 600
+            },
+            "data": {
+                "label": "실해석학",
+                "학수번호": "MATH453",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }

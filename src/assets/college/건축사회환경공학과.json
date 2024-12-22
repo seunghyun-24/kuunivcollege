@@ -335,18 +335,18 @@
             }
         },
         {
-            "id": null,
+            "id": "MATH161",
             "position": {
                 "x": 440,
                 "y": 600
             },
             "data": {
-                "label": "교양고급영어, 교양외국어 I, II 중 택1",
-                "학수번호": null,
+                "label": "미적분학및연습I",
+                "학수번호": "MATH161",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 0,
+                "개설학과": "수학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null
             },
@@ -354,82 +354,7 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH161",
-            "position": {
-                "x": 440,
-                "y": 700
-            },
-            "data": {
-                "label": "미적분학및연습I",
-                "학수번호": "MATH161",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "수학과",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EGRN150",
-            "position": {
-                "x": 440,
-                "y": 800
-            },
-            "data": {
-                "label": "공업역학",
-                "학수번호": "EGRN150",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "공과대학",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFECB3",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EGRN153",
-            "position": {
-                "x": 440,
-                "y": 900
-            },
-            "data": {
-                "label": "공업통계",
-                "학수번호": "EGRN153",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 0,
-                "내용": "공과대학",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFECB3",
+                "backgroundColor": "#B3E5FC",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -438,16 +363,16 @@
             "id": "PHYS151",
             "position": {
                 "x": 440,
-                "y": 1000
+                "y": 700
             },
             "data": {
                 "label": "일반물리학및연습I",
                 "학수번호": "PHYS151",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": null,
+                "개설학과": "물리학과",
                 "개설횟수": 5,
-                "내용": "물리학과",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -463,16 +388,16 @@
             "id": "PHYS161",
             "position": {
                 "x": 440,
-                "y": 1100
+                "y": 800
             },
             "data": {
                 "label": "일반물리학실험I",
                 "학수번호": "PHYS161",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": null,
+                "개설학과": "물리학과",
                 "개설횟수": 5,
-                "내용": "물리학과",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -488,141 +413,16 @@
             "id": "EGRN127",
             "position": {
                 "x": 440,
-                "y": 1200
+                "y": 900
             },
             "data": {
                 "label": "기초공학가상실험Ⅰ",
                 "학수번호": "EGRN127",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": null,
+                "개설학과": "공과대학",
                 "개설횟수": 2,
-                "내용": "공과대학",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS152",
-            "position": {
-                "x": 440,
-                "y": 1300
-            },
-            "data": {
-                "label": "일반물리학및연습II",
-                "학수번호": "PHYS152",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "물리학과",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS162",
-            "position": {
-                "x": 440,
-                "y": 1400
-            },
-            "data": {
-                "label": "일반물리학실험II",
-                "학수번호": "PHYS162",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "물리학과",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EGRN128",
-            "position": {
-                "x": 440,
-                "y": 1500
-            },
-            "data": {
-                "label": "기초공학가상실험Ⅱ",
-                "학수번호": "EGRN128",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "공과대학",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM150",
-            "position": {
-                "x": 440,
-                "y": 1600
-            },
-            "data": {
-                "label": "일반화학및연습",
-                "학수번호": "CHEM150",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "화학과",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM155",
-            "position": {
-                "x": 440,
-                "y": 1700
-            },
-            "data": {
-                "label": "일반화학실험",
-                "학수번호": "CHEM155",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "화학과",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -638,16 +438,16 @@
             "id": "CHEM151",
             "position": {
                 "x": 440,
-                "y": 1800
+                "y": 1000
             },
             "data": {
                 "label": "일반화학및연습I",
                 "학수번호": "CHEM151",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": null,
+                "개설학과": "화학과",
                 "개설횟수": 5,
-                "내용": "화학과",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -663,16 +463,16 @@
             "id": "CHEM153",
             "position": {
                 "x": 440,
-                "y": 1900
+                "y": 1100
             },
             "data": {
                 "label": "일반화학실험I",
                 "학수번호": "CHEM153",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": null,
+                "개설학과": "화학과",
                 "개설횟수": 5,
-                "내용": "화학과",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -685,19 +485,19 @@
             }
         },
         {
-            "id": "CHEM152",
+            "id": "EGRN129",
             "position": {
                 "x": 440,
-                "y": 2000
+                "y": 1200
             },
             "data": {
-                "label": "일반화학및연습II",
-                "학수번호": "CHEM152",
+                "label": "기초공학가상실험Ⅲ",
+                "학수번호": "EGRN129",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "화학과",
+                "개설학과": "공과대학",
+                "개설횟수": 2,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -710,119 +510,19 @@
             }
         },
         {
-            "id": "CHEM154",
+            "id": "ACEE123",
             "position": {
                 "x": 440,
-                "y": 2100
+                "y": 1300
             },
             "data": {
-                "label": "일반화학실험II",
-                "학수번호": "CHEM154",
+                "label": "건축시스템의이해",
+                "학수번호": "ACEE123",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
+                "전공역량": "글로벌",
+                "개설학과": "건축사회환경공학과",
                 "개설횟수": 5,
-                "내용": "화학과",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS150",
-            "position": {
-                "x": 440,
-                "y": 2200
-            },
-            "data": {
-                "label": "생명과학",
-                "학수번호": "LIBS150",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "생명과학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN151",
-            "position": {
-                "x": 440,
-                "y": 2300
-            },
-            "data": {
-                "label": "선형대수",
-                "학수번호": "IMEN151",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN153",
-            "position": {
-                "x": 440,
-                "y": 2400
-            },
-            "data": {
-                "label": "투자경제성분석",
-                "학수번호": "IMEN153",
-                "세부전공": null,
-                "전공역량": "기타",
-                "개설학과": null,
-                "개설횟수": 4,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN158",
-            "position": {
-                "x": 440,
-                "y": 2500
-            },
-            "data": {
-                "label": "데이터분석을위한프로그래밍언어",
-                "학수번호": "IMEN158",
-                "세부전공": null,
-                "전공역량": "품질/통계",
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "산업경영공학부",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -885,69 +585,19 @@
             }
         },
         {
-            "id": "MATH162",
+            "id": "ACEE121",
             "position": {
                 "x": 660,
                 "y": 200
             },
             "data": {
-                "label": "미적분학및연습II",
-                "학수번호": "MATH162",
+                "label": "건축사회환경공학의미래",
+                "학수번호": "ACEE121",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": null,
+                "개설학과": "건축사회환경공학과",
                 "개설횟수": 5,
-                "내용": "수학과",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN156",
-            "position": {
-                "x": 660,
-                "y": 300
-            },
-            "data": {
-                "label": "산업공학개론",
-                "학수번호": "IMEN156",
-                "세부전공": null,
-                "전공역량": "전공기초",
-                "개설학과": null,
-                "개설횟수": 4,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN213",
-            "position": {
-                "x": 880,
-                "y": 0
-            },
-            "data": {
-                "label": "수리통계및실습",
-                "학수번호": "IMEN213",
-                "세부전공": null,
-                "전공역량": "전공기초",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -960,19 +610,69 @@
             }
         },
         {
-            "id": "IMEN219",
+            "id": "ACEE231",
+            "position": {
+                "x": 660,
+                "y": 300
+            },
+            "data": {
+                "label": "공학수학I",
+                "학수번호": "ACEE231",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE232",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "data": {
+                "label": "공학수학II",
+                "학수번호": "ACEE232",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE219",
             "position": {
                 "x": 880,
                 "y": 100
             },
             "data": {
-                "label": "휴먼인터페이스",
-                "학수번호": "IMEN219",
+                "label": "환경화학",
+                "학수번호": "ACEE219",
                 "세부전공": null,
-                "전공역량": "인간공학",
-                "개설학과": null,
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
                 "개설횟수": 5,
-                "내용": "산업경영공학부",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -985,19 +685,19 @@
             }
         },
         {
-            "id": "IMEN221",
+            "id": "ACEE227",
             "position": {
                 "x": 880,
                 "y": 200
             },
             "data": {
-                "label": "객체지향프로그래밍및실습",
-                "학수번호": "IMEN221",
+                "label": "유체역학및실험",
+                "학수번호": "ACEE227",
                 "세부전공": null,
-                "전공역량": "전공기초",
-                "개설학과": null,
-                "개설횟수": 4,
-                "내용": "산업경영공학부",
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1010,19 +710,19 @@
             }
         },
         {
-            "id": "IMEN223",
+            "id": "ACEE243",
             "position": {
                 "x": 880,
                 "y": 300
             },
             "data": {
-                "label": "경영과학개론",
-                "학수번호": "IMEN223",
+                "label": "재료역학실험",
+                "학수번호": "ACEE243",
                 "세부전공": null,
-                "전공역량": "전공기초",
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "산업경영공학부",
+                "전공역량": "글로벌",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 3,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1035,19 +735,94 @@
             }
         },
         {
-            "id": "IMEN225",
+            "id": "ACEE249",
             "position": {
                 "x": 880,
                 "y": 400
             },
             "data": {
-                "label": "사용자 경험과 인공지능",
-                "학수번호": "IMEN225",
+                "label": "재료역학",
+                "학수번호": "ACEE249",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "산업경영공학부",
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE269",
+            "position": {
+                "x": 880,
+                "y": 500
+            },
+            "data": {
+                "label": "측량학및실습",
+                "학수번호": "ACEE269",
+                "세부전공": null,
+                "전공역량": "도전적리더",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE283",
+            "position": {
+                "x": 880,
+                "y": 600
+            },
+            "data": {
+                "label": "제도및BIM기초설계",
+                "학수번호": "ACEE283",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE321",
+            "position": {
+                "x": 880,
+                "y": 700
+            },
+            "data": {
+                "label": "강구조설계I",
+                "학수번호": "ACEE321",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1063,16 +838,16 @@
             "id": "EGRN230",
             "position": {
                 "x": 880,
-                "y": 500
+                "y": 800
             },
             "data": {
                 "label": "국제공학인턴쉽Ⅲ",
                 "학수번호": "EGRN230",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": null,
+                "개설학과": "공과대학",
                 "개설횟수": 0,
-                "내용": "공과대학",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1085,19 +860,19 @@
             }
         },
         {
-            "id": "IMEN214",
+            "id": "ACEE325",
             "position": {
-                "x": 1100,
+                "x": 1320,
                 "y": 0
             },
             "data": {
-                "label": "응용통계및실습",
-                "학수번호": "IMEN214",
+                "label": "수치해석",
+                "학수번호": "ACEE325",
                 "세부전공": null,
-                "전공역량": "품질/통계",
-                "개설학과": null,
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
                 "개설횟수": 5,
-                "내용": "산업경영공학부",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1110,44 +885,44 @@
             }
         },
         {
-            "id": "IMEN216",
+            "id": "ACEE313",
             "position": {
-                "x": 1100,
+                "x": 1320,
                 "y": 100
             },
             "data": {
-                "label": "OR-Ⅰ및 실습",
-                "학수번호": "IMEN216",
+                "label": "토질공학",
+                "학수번호": "ACEE313",
                 "세부전공": null,
-                "전공역량": "시스템분석",
-                "개설학과": null,
+                "전공역량": "글로벌",
+                "개설학과": "건축사회환경공학과",
                 "개설횟수": 5,
-                "내용": "산업경영공학부",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
+                "backgroundColor": "#F8BBD0",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "IMEN204",
+            "id": "ACEE327",
             "position": {
-                "x": 1100,
+                "x": 1320,
                 "y": 200
             },
             "data": {
-                "label": "일반회계및원가계산",
-                "학수번호": "IMEN204",
+                "label": "환경공학Ⅱ",
+                "학수번호": "ACEE327",
                 "세부전공": null,
-                "전공역량": "기타",
-                "개설학과": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "건축사회환경공학과",
                 "개설횟수": 2,
-                "내용": "산업경영공학부",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1160,19 +935,19 @@
             }
         },
         {
-            "id": "IMEN224",
+            "id": "ACEE329",
             "position": {
-                "x": 1100,
+                "x": 1320,
                 "y": 300
             },
             "data": {
-                "label": "자료구조및알고리즘",
-                "학수번호": "IMEN224",
+                "label": "에너지열역학",
+                "학수번호": "ACEE329",
                 "세부전공": null,
-                "전공역량": "정보시스템",
-                "개설학과": null,
+                "전공역량": "글로벌",
+                "개설학과": "건축사회환경공학과",
                 "개설횟수": 5,
-                "내용": "산업경영공학부",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1185,119 +960,19 @@
             }
         },
         {
-            "id": "IMEN315",
-            "position": {
-                "x": 1320,
-                "y": 0
-            },
-            "data": {
-                "label": "인간공학",
-                "학수번호": "IMEN315",
-                "세부전공": null,
-                "전공역량": "인간공학",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN319",
-            "position": {
-                "x": 1320,
-                "y": 100
-            },
-            "data": {
-                "label": "OR-Ⅱ 및 실습",
-                "학수번호": "IMEN319",
-                "세부전공": null,
-                "전공역량": "시스템분석",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN333",
-            "position": {
-                "x": 1320,
-                "y": 200
-            },
-            "data": {
-                "label": "생산계획",
-                "학수번호": "IMEN333",
-                "세부전공": null,
-                "전공역량": "생산/물류",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN335",
-            "position": {
-                "x": 1320,
-                "y": 300
-            },
-            "data": {
-                "label": "정보시스템설계",
-                "학수번호": "IMEN335",
-                "세부전공": null,
-                "전공역량": "정보시스템",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN321",
+            "id": "ACEE331",
             "position": {
                 "x": 1320,
                 "y": 400
             },
             "data": {
-                "label": "데이터마이닝",
-                "학수번호": "IMEN321",
+                "label": "수문학",
+                "학수번호": "ACEE331",
                 "세부전공": null,
-                "전공역량": "품질/통계",
-                "개설학과": null,
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
                 "개설횟수": 5,
-                "내용": "산업경영공학부",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1310,19 +985,19 @@
             }
         },
         {
-            "id": "IMEN357",
+            "id": "ACEE333",
             "position": {
                 "x": 1320,
                 "y": 500
             },
             "data": {
-                "label": "최적화이론",
-                "학수번호": "IMEN357",
+                "label": "철근콘크리트역학및설계",
+                "학수번호": "ACEE333",
                 "세부전공": null,
-                "전공역량": "시스템분석",
-                "개설학과": null,
-                "개설횟수": 4,
-                "내용": "산업경영공학부",
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1335,19 +1010,19 @@
             }
         },
         {
-            "id": "IMEN361",
+            "id": "ACEE335",
             "position": {
                 "x": 1320,
                 "y": 600
             },
             "data": {
-                "label": "시스템공학특론-Ⅰ",
-                "학수번호": "IMEN361",
+                "label": "제로에너지커뮤니티",
+                "학수번호": "ACEE335",
                 "세부전공": null,
-                "전공역량": "기타",
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "산업경영공학부",
+                "전공역량": "창의적문제해결",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 2,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1360,19 +1035,19 @@
             }
         },
         {
-            "id": "IMEN389",
+            "id": "ACEE343",
             "position": {
                 "x": 1320,
                 "y": 700
             },
             "data": {
-                "label": "공학현장실습Ⅰ",
-                "학수번호": "IMEN389",
+                "label": "토질역학실험",
+                "학수번호": "ACEE343",
                 "세부전공": null,
-                "전공역량": "기타",
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": "산업경영공학부",
+                "전공역량": "글로벌",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 3,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1385,19 +1060,94 @@
             }
         },
         {
-            "id": "IMEN340",
+            "id": "ACEE351",
             "position": {
                 "x": 1320,
                 "y": 800
             },
             "data": {
-                "label": "지식재산과빅데이터분석",
-                "학수번호": "IMEN340",
+                "label": "첨단건설재료및실험",
+                "학수번호": "ACEE351",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": "산업경영공학부",
+                "전공역량": "글로벌",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE369",
+            "position": {
+                "x": 1320,
+                "y": 900
+            },
+            "data": {
+                "label": "건축시공",
+                "학수번호": "ACEE369",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE381",
+            "position": {
+                "x": 1320,
+                "y": 1000
+            },
+            "data": {
+                "label": "건축설계II",
+                "학수번호": "ACEE381",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE389",
+            "position": {
+                "x": 1320,
+                "y": 1100
+            },
+            "data": {
+                "label": "공학현장실습Ⅰ",
+                "학수번호": "ACEE389",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 0,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1413,16 +1163,16 @@
             "id": "EGRN332",
             "position": {
                 "x": 1320,
-                "y": 900
+                "y": 1200
             },
             "data": {
                 "label": "기술과창업",
                 "학수번호": "EGRN332",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": null,
+                "개설학과": "공과대학",
                 "개설횟수": 1,
-                "내용": "공과대학",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1435,44 +1185,44 @@
             }
         },
         {
-            "id": "IMEN239",
+            "id": "ACEE471",
             "position": {
                 "x": 1760,
                 "y": 0
             },
             "data": {
-                "label": "지식재산및기술의평가와활용",
-                "학수번호": "IMEN239",
+                "label": "건설종합설계I",
+                "학수번호": "ACEE471",
                 "세부전공": null,
-                "전공역량": "기타",
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "산업경영공학부",
+                "전공역량": "사회적책임",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#F8BBD0",
+                "backgroundColor": "#D1C4E9",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "IMEN407",
+            "id": "ACEE405",
             "position": {
                 "x": 1760,
                 "y": 100
             },
             "data": {
-                "label": "물류시스템설계",
-                "학수번호": "IMEN407",
+                "label": "스마트시티물순환네트워크",
+                "학수번호": "ACEE405",
                 "세부전공": null,
-                "전공역량": "생산/물류",
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "산업경영공학부",
+                "전공역량": "창의적문제해결",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 3,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1485,19 +1235,19 @@
             }
         },
         {
-            "id": "IMEN415",
+            "id": "ACEE407",
             "position": {
                 "x": 1760,
                 "y": 200
             },
             "data": {
-                "label": "다변량분석",
-                "학수번호": "IMEN415",
+                "label": "환경모델링및시스템해석",
+                "학수번호": "ACEE407",
                 "세부전공": null,
-                "전공역량": "품질/통계",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
+                "전공역량": "창의적문제해결",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 4,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1510,19 +1260,19 @@
             }
         },
         {
-            "id": "IMEN431",
+            "id": "ACEE435",
             "position": {
                 "x": 1760,
                 "y": 300
             },
             "data": {
-                "label": "예측애널리틱스",
-                "학수번호": "IMEN431",
+                "label": "지반조사와비파괴평가",
+                "학수번호": "ACEE435",
                 "세부전공": null,
-                "전공역량": "품질/통계",
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "산업경영공학부",
+                "전공역량": "글로벌",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1535,19 +1285,19 @@
             }
         },
         {
-            "id": "IMEN457",
+            "id": "ACEE439",
             "position": {
                 "x": 1760,
                 "y": 400
             },
             "data": {
-                "label": "시스템분석",
-                "학수번호": "IMEN457",
+                "label": "전산구조해석입문",
+                "학수번호": "ACEE439",
                 "세부전공": null,
-                "전공역량": "시스템분석",
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "산업경영공학부",
+                "전공역량": "창의적문제해결",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1560,19 +1310,19 @@
             }
         },
         {
-            "id": "IMEN461",
+            "id": "ACEE443",
             "position": {
                 "x": 1760,
                 "y": 500
             },
             "data": {
-                "label": "시사경영과학",
-                "학수번호": "IMEN461",
+                "label": "공정관리",
+                "학수번호": "ACEE443",
                 "세부전공": null,
-                "전공역량": "시스템분석",
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "산업경영공학부",
+                "전공역량": "창의적문제해결",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1585,19 +1335,144 @@
             }
         },
         {
-            "id": "IMEN471",
+            "id": "ACEE449",
             "position": {
                 "x": 1760,
                 "y": 600
             },
             "data": {
-                "label": "캡스톤디자인Ⅰ",
-                "학수번호": "IMEN471",
+                "label": "건물에너지모델링및분석",
+                "학수번호": "ACEE449",
                 "세부전공": null,
-                "전공역량": "기타",
-                "개설학과": null,
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
                 "개설횟수": 3,
-                "내용": "산업경영공학부",
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE477",
+            "position": {
+                "x": 1760,
+                "y": 700
+            },
+            "data": {
+                "label": "건축구조설계론",
+                "학수번호": "ACEE477",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE481",
+            "position": {
+                "x": 1760,
+                "y": 800
+            },
+            "data": {
+                "label": "건축법규",
+                "학수번호": "ACEE481",
+                "세부전공": null,
+                "전공역량": "사회적책임",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE485",
+            "position": {
+                "x": 1760,
+                "y": 900
+            },
+            "data": {
+                "label": "사업비관리",
+                "학수번호": "ACEE485",
+                "세부전공": null,
+                "전공역량": "사회적책임",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE491",
+            "position": {
+                "x": 1760,
+                "y": 1000
+            },
+            "data": {
+                "label": "태양광시스템설계",
+                "학수번호": "ACEE491",
+                "세부전공": null,
+                "전공역량": "사회적책임",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE493",
+            "position": {
+                "x": 1760,
+                "y": 1100
+            },
+            "data": {
+                "label": "스마트포렌식구조공학",
+                "학수번호": "ACEE493",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 2,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1613,16 +1488,16 @@
             "id": "EGRN430",
             "position": {
                 "x": 1760,
-                "y": 700
+                "y": 1200
             },
             "data": {
                 "label": "공학인턴십Ⅰ",
                 "학수번호": "EGRN430",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": null,
+                "개설학과": "공과대학",
                 "개설횟수": 3,
-                "내용": "공과대학",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1638,16 +1513,16 @@
             "id": "EGRN440",
             "position": {
                 "x": 1760,
-                "y": 800
+                "y": 1300
             },
             "data": {
                 "label": "공학인턴십Ⅱ",
                 "학수번호": "EGRN440",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": null,
+                "개설학과": "공과대학",
                 "개설횟수": 3,
-                "내용": "공과대학",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1660,19 +1535,394 @@
             }
         },
         {
-            "id": "IMEN302",
+            "id": "ACEE472",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "data": {
+                "label": "건설종합설계Ⅱ",
+                "학수번호": "ACEE472",
+                "세부전공": null,
+                "전공역량": "사회적책임",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE446",
+            "position": {
+                "x": 1980,
+                "y": 100
+            },
+            "data": {
+                "label": "가치공학",
+                "학수번호": "ACEE446",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE476",
+            "position": {
+                "x": 1980,
+                "y": 200
+            },
+            "data": {
+                "label": "건축경제",
+                "학수번호": "ACEE476",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE478",
+            "position": {
+                "x": 1980,
+                "y": 300
+            },
+            "data": {
+                "label": "리모델링및자산관리",
+                "학수번호": "ACEE478",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE484",
+            "position": {
+                "x": 1980,
+                "y": 400
+            },
+            "data": {
+                "label": "물환경문제해결을위한머신러닝",
+                "학수번호": "ACEE484",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE224",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "data": {
+                "label": "토질역학",
+                "학수번호": "ACEE224",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE226",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "data": {
+                "label": "환경공학I",
+                "학수번호": "ACEE226",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE228",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "data": {
+                "label": "구조역학I",
+                "학수번호": "ACEE228",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE230",
+            "position": {
+                "x": 1100,
+                "y": 300
+            },
+            "data": {
+                "label": "하천공학및실험",
+                "학수번호": "ACEE230",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE234",
+            "position": {
+                "x": 1100,
+                "y": 400
+            },
+            "data": {
+                "label": "스마트물공학의이해",
+                "학수번호": "ACEE234",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE252",
+            "position": {
+                "x": 1100,
+                "y": 500
+            },
+            "data": {
+                "label": "건설재료및실험",
+                "학수번호": "ACEE252",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE261",
+            "position": {
+                "x": 1100,
+                "y": 600
+            },
+            "data": {
+                "label": "초고층공학",
+                "학수번호": "ACEE261",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE282",
+            "position": {
+                "x": 1100,
+                "y": 700
+            },
+            "data": {
+                "label": "건축설계I",
+                "학수번호": "ACEE282",
+                "세부전공": null,
+                "전공역량": "도전적리더",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE290",
+            "position": {
+                "x": 1100,
+                "y": 800
+            },
+            "data": {
+                "label": "신재생에너지기초",
+                "학수번호": "ACEE290",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE433",
+            "position": {
+                "x": 1100,
+                "y": 900
+            },
+            "data": {
+                "label": "건축및토목비구조재료의이해",
+                "학수번호": "ACEE433",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE267",
             "position": {
                 "x": 1540,
                 "y": 0
             },
             "data": {
-                "label": "공급사슬경영",
-                "학수번호": "IMEN302",
+                "label": "재료개론",
+                "학수번호": "ACEE267",
                 "세부전공": null,
-                "전공역량": "생산/물류",
-                "개설학과": null,
-                "개설횟수": 4,
-                "내용": "산업경영공학부",
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1685,19 +1935,19 @@
             }
         },
         {
-            "id": "IMEN320",
+            "id": "ACEE308",
             "position": {
                 "x": 1540,
                 "y": 100
             },
             "data": {
-                "label": "최적화응용",
-                "학수번호": "IMEN320",
+                "label": "수자원디지털트윈모델링",
+                "학수번호": "ACEE308",
                 "세부전공": null,
-                "전공역량": "시스템분석",
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": "산업경영공학부",
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 4,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1710,19 +1960,19 @@
             }
         },
         {
-            "id": "IMEN324",
+            "id": "ACEE314",
             "position": {
                 "x": 1540,
                 "y": 200
             },
             "data": {
-                "label": "시뮬레이션및실습",
-                "학수번호": "IMEN324",
+                "label": "기초공학",
+                "학수번호": "ACEE314",
                 "세부전공": null,
-                "전공역량": "품질/통계",
-                "개설학과": null,
-                "개설횟수": 4,
-                "내용": "산업경영공학부",
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1735,19 +1985,19 @@
             }
         },
         {
-            "id": "IMEN339",
+            "id": "ACEE323",
             "position": {
                 "x": 1540,
                 "y": 300
             },
             "data": {
-                "label": "실험계획과통계분석",
-                "학수번호": "IMEN339",
+                "label": "구조역학II",
+                "학수번호": "ACEE323",
                 "세부전공": null,
-                "전공역량": "품질/통계",
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "산업경영공학부",
+                "전공역량": "창의적문제해결",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1760,19 +2010,19 @@
             }
         },
         {
-            "id": "IMEN358",
+            "id": "ACEE326",
             "position": {
                 "x": 1540,
                 "y": 400
             },
             "data": {
-                "label": "품질공학",
-                "학수번호": "IMEN358",
+                "label": "SOC시공",
+                "학수번호": "ACEE326",
                 "세부전공": null,
-                "전공역량": "품질/통계",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
+                "전공역량": "창의적문제해결",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 4,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1785,19 +2035,19 @@
             }
         },
         {
-            "id": "IMEN362",
+            "id": "ACEE328",
             "position": {
                 "x": 1540,
                 "y": 500
             },
             "data": {
-                "label": "시스템공학특론-Ⅱ",
-                "학수번호": "IMEN362",
+                "label": "건설공학의통계적해석",
+                "학수번호": "ACEE328",
                 "세부전공": null,
-                "전공역량": "기타",
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "산업경영공학부",
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1810,19 +2060,19 @@
             }
         },
         {
-            "id": "IMEN376",
+            "id": "ACEE330",
             "position": {
                 "x": 1540,
                 "y": 600
             },
             "data": {
-                "label": "스마트생산운영관리",
-                "학수번호": "IMEN376",
+                "label": "기본구조동역학",
+                "학수번호": "ACEE330",
                 "세부전공": null,
-                "전공역량": "생산/물류",
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "산업경영공학부",
+                "전공역량": "창의적문제해결",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 2,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1835,19 +2085,19 @@
             }
         },
         {
-            "id": "IMEN382",
+            "id": "ACEE334",
             "position": {
                 "x": 1540,
                 "y": 700
             },
             "data": {
-                "label": "제품개발",
-                "학수번호": "IMEN382",
+                "label": "응용에너지공학",
+                "학수번호": "ACEE334",
                 "세부전공": null,
-                "전공역량": "인간공학",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
+                "전공역량": "글로벌",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 4,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1860,19 +2110,119 @@
             }
         },
         {
-            "id": "IMEN383",
+            "id": "ACEE342",
             "position": {
                 "x": 1540,
                 "y": 800
             },
             "data": {
-                "label": "헬스시스템엔지니어링",
-                "학수번호": "IMEN383",
+                "label": "최신콘크리트공학및설계",
+                "학수번호": "ACEE342",
                 "세부전공": null,
-                "전공역량": "정보시스템",
-                "개설학과": null,
+                "전공역량": "글로벌",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE346",
+            "position": {
+                "x": 1540,
+                "y": 900
+            },
+            "data": {
+                "label": "환경에너지플랜트공학",
+                "학수번호": "ACEE346",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE348",
+            "position": {
+                "x": 1540,
+                "y": 1000
+            },
+            "data": {
+                "label": "해안재해모델링",
+                "학수번호": "ACEE348",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE358",
+            "position": {
+                "x": 1540,
+                "y": 1100
+            },
+            "data": {
+                "label": "교통공학",
+                "학수번호": "ACEE358",
+                "세부전공": null,
+                "전공역량": "융합적사고",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE372",
+            "position": {
+                "x": 1540,
+                "y": 1200
+            },
+            "data": {
+                "label": "강구조설계Ⅱ",
+                "학수번호": "ACEE372",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "건축사회환경공학과",
                 "개설횟수": 3,
-                "내용": "산업경영공학부",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1885,69 +2235,119 @@
             }
         },
         {
-            "id": "IMEN466",
+            "id": "ACEE374",
             "position": {
-                "x": 1980,
-                "y": 0
+                "x": 1540,
+                "y": 1300
             },
             "data": {
-                "label": "서비스공학",
-                "학수번호": "IMEN466",
+                "label": "건설관리론",
+                "학수번호": "ACEE374",
                 "세부전공": null,
-                "전공역량": "기타",
-                "개설학과": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE382",
+            "position": {
+                "x": 1540,
+                "y": 1400
+            },
+            "data": {
+                "label": "건축설계III",
+                "학수번호": "ACEE382",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE392",
+            "position": {
+                "x": 1540,
+                "y": 1500
+            },
+            "data": {
+                "label": "암반역학",
+                "학수번호": "ACEE392",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE396",
+            "position": {
+                "x": 1540,
+                "y": 1600
+            },
+            "data": {
+                "label": "첨단도로인프라공학",
+                "학수번호": "ACEE396",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "건축사회환경공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ACEE398",
+            "position": {
+                "x": 1540,
+                "y": 1700
+            },
+            "data": {
+                "label": "폐수처리공학",
+                "학수번호": "ACEE398",
+                "세부전공": null,
+                "전공역량": "글로벌",
+                "개설학과": "건축사회환경공학과",
                 "개설횟수": 2,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN468",
-            "position": {
-                "x": 1980,
-                "y": 100
-            },
-            "data": {
-                "label": "산업공학을위한딥러닝",
-                "학수번호": "IMEN468",
-                "세부전공": null,
-                "전공역량": "품질/통계",
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN472",
-            "position": {
-                "x": 1980,
-                "y": 200
-            },
-            "data": {
-                "label": "캡스톤디자인Ⅱ",
-                "학수번호": "IMEN472",
-                "세부전공": null,
-                "전공역량": "기타",
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "산업경영공학부",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",

@@ -435,6 +435,56 @@
             }
         },
         {
+            "id": "ECON201",
+            "position": {
+                "x": 880,
+                "y": 1000
+            },
+            "data": {
+                "label": "미시경제이론",
+                "학수번호": "ECON201",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON333",
+            "position": {
+                "x": 880,
+                "y": 1100
+            },
+            "data": {
+                "label": "재정학",
+                "학수번호": "ECON333",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "BUSS311",
             "position": {
                 "x": 1320,
@@ -1810,135 +1860,10 @@
             }
         },
         {
-            "id": "ECON201",
-            "position": {
-                "x": 440,
-                "y": 800
-            },
-            "data": {
-                "label": "미시경제이론",
-                "학수번호": "ECON201",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON202",
-            "position": {
-                "x": 440,
-                "y": 900
-            },
-            "data": {
-                "label": "거시경제이론",
-                "학수번호": "ECON202",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON333",
-            "position": {
-                "x": 440,
-                "y": 1000
-            },
-            "data": {
-                "label": "재정학",
-                "학수번호": "ECON333",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON334",
-            "position": {
-                "x": 440,
-                "y": 1100
-            },
-            "data": {
-                "label": "조세론",
-                "학수번호": "ECON334",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON335",
-            "position": {
-                "x": 440,
-                "y": 1200
-            },
-            "data": {
-                "label": "국제금융론",
-                "학수번호": "ECON335",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "EGRN322",
             "position": {
                 "x": 440,
-                "y": 1300
+                "y": 800
             },
             "data": {
                 "label": "창업과경영을위한공학기술경향",
@@ -1963,7 +1888,7 @@
             "id": "BUSS164",
             "position": {
                 "x": 440,
-                "y": 1400
+                "y": 900
             },
             "data": {
                 "label": "경영과사회",
@@ -1988,7 +1913,7 @@
             "id": "GELI005",
             "position": {
                 "x": 440,
-                "y": 1500
+                "y": 1000
             },
             "data": {
                 "label": "학문세계의탐구 I",
@@ -2013,7 +1938,7 @@
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 1600
+                "y": 1100
             },
             "data": {
                 "label": "글쓰기",
@@ -2038,7 +1963,7 @@
             "id": "IFLS800",
             "position": {
                 "x": 440,
-                "y": 1700
+                "y": 1200
             },
             "data": {
                 "label": "Academic English I",
@@ -2063,7 +1988,7 @@
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 1800
+                "y": 1300
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -2088,7 +2013,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 1900
+                "y": 1400
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -2113,7 +2038,7 @@
             "id": "GEBT001",
             "position": {
                 "x": 440,
-                "y": 2000
+                "y": 1500
             },
             "data": {
                 "label": "[진로창업]생명과학의세계",
@@ -2380,6 +2305,56 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON202",
+            "position": {
+                "x": 1100,
+                "y": 1000
+            },
+            "data": {
+                "label": "거시경제이론",
+                "학수번호": "ECON202",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON334",
+            "position": {
+                "x": 1100,
+                "y": 1100
+            },
+            "data": {
+                "label": "조세론",
+                "학수번호": "ECON334",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -2855,6 +2830,31 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON335",
+            "position": {
+                "x": 1540,
+                "y": 1900
+            },
+            "data": {
+                "label": "국제금융론",
+                "학수번호": "ECON335",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
                 "borderRadius": "5px",
                 "padding": "10px"
             }

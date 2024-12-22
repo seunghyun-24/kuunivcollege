@@ -185,10 +185,560 @@
             }
         },
         {
-            "id": "GELI005",
+            "id": "DISS114",
+            "position": {
+                "x": 660,
+                "y": 0
+            },
+            "data": {
+                "label": "국제통상원론",
+                "학수번호": "DISS114",
+                "세부전공": null,
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS122",
+            "position": {
+                "x": 660,
+                "y": 100
+            },
+            "data": {
+                "label": "국제관계원론",
+                "학수번호": "DISS122",
+                "세부전공": null,
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS112",
+            "position": {
+                "x": 660,
+                "y": 200
+            },
+            "data": {
+                "label": "조사방법론",
+                "학수번호": "DISS112",
+                "세부전공": null,
+                "전공역량": "종합적·융복합적사고력",
+                "개설학과": "국제학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS008",
+            "position": {
+                "x": 660,
+                "y": 300
+            },
+            "data": {
+                "label": "[진로창업]1학년세미나 II",
+                "학수번호": "GEKS008",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT003",
+            "position": {
+                "x": 660,
+                "y": 400
+            },
+            "data": {
+                "label": "[진로창업]데이터과학과인공지능",
+                "학수번호": "GECT003",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS281",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "data": {
+                "label": "국제개발개론",
+                "학수번호": "DISS281",
+                "세부전공": null,
+                "전공역량": "실용지식기반도전적사고",
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS210",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "data": {
+                "label": "세계화와한국경제",
+                "학수번호": "DISS210",
+                "세부전공": null,
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS215",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "data": {
+                "label": "금융시장및금융기관",
+                "학수번호": "DISS215",
+                "세부전공": null,
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS230",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "data": {
+                "label": "국제경영의이해",
+                "학수번호": "DISS230",
+                "세부전공": null,
+                "전공역량": "실용지식기반도전적사고",
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS242",
+            "position": {
+                "x": 880,
+                "y": 400
+            },
+            "data": {
+                "label": "북미지역입문",
+                "학수번호": "DISS242",
+                "세부전공": null,
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS282",
+            "position": {
+                "x": 880,
+                "y": 500
+            },
+            "data": {
+                "label": "한국외교콜로퀴움",
+                "학수번호": "DISS282",
+                "세부전공": null,
+                "전공역량": "종합적·융복합적사고력",
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS203",
+            "position": {
+                "x": 880,
+                "y": 600
+            },
+            "data": {
+                "label": "한국과동아시아",
+                "학수번호": "GKSS203",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS115",
             "position": {
                 "x": 440,
                 "y": 0
+            },
+            "data": {
+                "label": "경제학입문",
+                "학수번호": "DISS115",
+                "세부전공": null,
+                "전공역량": "종합적·융복합적사고력",
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS123",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "data": {
+                "label": "정치학입문",
+                "학수번호": "DISS123",
+                "세부전공": null,
+                "전공역량": "종합적·융복합적사고력",
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS140",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "data": {
+                "label": "세계화의이해",
+                "학수번호": "DISS140",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS241",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "data": {
+                "label": "현대한국",
+                "학수번호": "DISS241",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS358",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "data": {
+                "label": "전후일본과동아시아",
+                "학수번호": "DISS358",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS429",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "data": {
+                "label": "환경과국제관계",
+                "학수번호": "DISS429",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS477",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "data": {
+                "label": "개발협력의주요이슈",
+                "학수번호": "DISS477",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS214",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "data": {
+                "label": "한국과국제법",
+                "학수번호": "GKSS214",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS315",
+            "position": {
+                "x": 440,
+                "y": 800
+            },
+            "data": {
+                "label": "한국통상정책",
+                "학수번호": "GKSS315",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS410",
+            "position": {
+                "x": 440,
+                "y": 900
+            },
+            "data": {
+                "label": "한미관계",
+                "학수번호": "GKSS410",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 1000
             },
             "data": {
                 "label": "학문세계의탐구 I",
@@ -213,7 +763,7 @@
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 100
+                "y": 1100
             },
             "data": {
                 "label": "글쓰기",
@@ -238,7 +788,7 @@
             "id": "IFLS800",
             "position": {
                 "x": 440,
-                "y": 200
+                "y": 1200
             },
             "data": {
                 "label": "Academic English I",
@@ -263,7 +813,7 @@
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 300
+                "y": 1300
             },
             "data": {
                 "label": "[진로창업]1학년세미나 I",
@@ -288,7 +838,7 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 400
+                "y": 1400
             },
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
@@ -313,7 +863,7 @@
             "id": "GEBT001",
             "position": {
                 "x": 440,
-                "y": 500
+                "y": 1500
             },
             "data": {
                 "label": "[진로창업]생명과학의세계",
@@ -335,17 +885,142 @@
             }
         },
         {
-            "id": null,
+            "id": "DISS212",
             "position": {
-                "x": 440,
-                "y": 600
+                "x": 1100,
+                "y": 0
             },
             "data": {
-                "label": "교양고급영어, 교양외국어 I, II 중 택1",
-                "학수번호": null,
+                "label": "국제통상정책의이론과실제",
+                "학수번호": "DISS212",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS221",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "data": {
+                "label": "국제협상론",
+                "학수번호": "DISS221",
+                "세부전공": null,
+                "전공역량": "글로벌소통",
+                "개설학과": "국제학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS222",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "data": {
+                "label": "전쟁과평화",
+                "학수번호": "DISS222",
+                "세부전공": null,
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS223",
+            "position": {
+                "x": 1100,
+                "y": 300
+            },
+            "data": {
+                "label": "국제기구론",
+                "학수번호": "DISS223",
+                "세부전공": null,
+                "전공역량": "사회참여및사회공헌",
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS232",
+            "position": {
+                "x": 1100,
+                "y": 400
+            },
+            "data": {
+                "label": "국제경영윤리",
+                "학수번호": "DISS232",
+                "세부전공": null,
+                "전공역량": "실용지식기반도전적사고",
+                "개설학과": "국제학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS243",
+            "position": {
+                "x": 1100,
+                "y": 500
+            },
+            "data": {
+                "label": "동아시아지역입문",
+                "학수번호": "DISS243",
+                "세부전공": null,
+                "전공역량": "글로벌소통",
+                "개설학과": "국제학부",
                 "개설횟수": 0,
                 "내용": null,
                 "메모": null
@@ -354,498 +1029,123 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#C8E6C9",
+                "backgroundColor": "#F8BBD0",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "MATH161",
+            "id": "DISS244",
             "position": {
-                "x": 440,
+                "x": 1100,
+                "y": 600
+            },
+            "data": {
+                "label": "유럽지역입문",
+                "학수번호": "DISS244",
+                "세부전공": null,
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS251",
+            "position": {
+                "x": 1100,
                 "y": 700
             },
             "data": {
-                "label": "미적분학및연습I",
-                "학수번호": "MATH161",
+                "label": "국제법",
+                "학수번호": "DISS251",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "수학과",
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#C8E6C9",
+                "backgroundColor": "#F8BBD0",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "EGRN150",
+            "id": "DISS256",
             "position": {
-                "x": 440,
+                "x": 1100,
                 "y": 800
             },
             "data": {
-                "label": "공업역학",
-                "학수번호": "EGRN150",
+                "label": "국제개발의동역학",
+                "학수번호": "DISS256",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "공과대학",
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFECB3",
+                "backgroundColor": "#F8BBD0",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "EGRN153",
+            "id": "DISS261",
             "position": {
-                "x": 440,
+                "x": 1100,
                 "y": 900
             },
             "data": {
-                "label": "공업통계",
-                "학수번호": "EGRN153",
+                "label": "기술.정보와사회",
+                "학수번호": "DISS261",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 0,
-                "내용": "공과대학",
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFECB3",
+                "backgroundColor": "#F8BBD0",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "PHYS151",
+            "id": "DISS283",
             "position": {
-                "x": 440,
+                "x": 1100,
                 "y": 1000
             },
             "data": {
-                "label": "일반물리학및연습I",
-                "학수번호": "PHYS151",
+                "label": "국제학데이터사이언스",
+                "학수번호": "DISS283",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "물리학과",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS161",
-            "position": {
-                "x": 440,
-                "y": 1100
-            },
-            "data": {
-                "label": "일반물리학실험I",
-                "학수번호": "PHYS161",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "물리학과",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EGRN127",
-            "position": {
-                "x": 440,
-                "y": 1200
-            },
-            "data": {
-                "label": "기초공학가상실험Ⅰ",
-                "학수번호": "EGRN127",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "공과대학",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS152",
-            "position": {
-                "x": 440,
-                "y": 1300
-            },
-            "data": {
-                "label": "일반물리학및연습II",
-                "학수번호": "PHYS152",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "물리학과",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS162",
-            "position": {
-                "x": 440,
-                "y": 1400
-            },
-            "data": {
-                "label": "일반물리학실험II",
-                "학수번호": "PHYS162",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "물리학과",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EGRN128",
-            "position": {
-                "x": 440,
-                "y": 1500
-            },
-            "data": {
-                "label": "기초공학가상실험Ⅱ",
-                "학수번호": "EGRN128",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "공과대학",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM150",
-            "position": {
-                "x": 440,
-                "y": 1600
-            },
-            "data": {
-                "label": "일반화학및연습",
-                "학수번호": "CHEM150",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "화학과",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM155",
-            "position": {
-                "x": 440,
-                "y": 1700
-            },
-            "data": {
-                "label": "일반화학실험",
-                "학수번호": "CHEM155",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "화학과",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM151",
-            "position": {
-                "x": 440,
-                "y": 1800
-            },
-            "data": {
-                "label": "일반화학및연습I",
-                "학수번호": "CHEM151",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "화학과",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM153",
-            "position": {
-                "x": 440,
-                "y": 1900
-            },
-            "data": {
-                "label": "일반화학실험I",
-                "학수번호": "CHEM153",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "화학과",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM152",
-            "position": {
-                "x": 440,
-                "y": 2000
-            },
-            "data": {
-                "label": "일반화학및연습II",
-                "학수번호": "CHEM152",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "화학과",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM154",
-            "position": {
-                "x": 440,
-                "y": 2100
-            },
-            "data": {
-                "label": "일반화학실험II",
-                "학수번호": "CHEM154",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "화학과",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIBS150",
-            "position": {
-                "x": 440,
-                "y": 2200
-            },
-            "data": {
-                "label": "생명과학",
-                "학수번호": "LIBS150",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "생명과학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#B3E5FC",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN151",
-            "position": {
-                "x": 440,
-                "y": 2300
-            },
-            "data": {
-                "label": "선형대수",
-                "학수번호": "IMEN151",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN153",
-            "position": {
-                "x": 440,
-                "y": 2400
-            },
-            "data": {
-                "label": "투자경제성분석",
-                "학수번호": "IMEN153",
-                "세부전공": null,
-                "전공역량": "기타",
-                "개설학과": null,
-                "개설횟수": 4,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN158",
-            "position": {
-                "x": 440,
-                "y": 2500
-            },
-            "data": {
-                "label": "데이터분석을위한프로그래밍언어",
-                "학수번호": "IMEN158",
-                "세부전공": null,
-                "전공역량": "품질/통계",
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEKS008",
-            "position": {
-                "x": 660,
-                "y": 0
-            },
-            "data": {
-                "label": "[진로창업]1학년세미나 I",
-                "학수번호": "GEKS008",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
+                "전공역량": "종합적·융복합적사고력",
+                "개설학과": "국제학부",
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null
@@ -854,23 +1154,73 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#C8E6C9",
+                "backgroundColor": "#F8BBD0",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "GECT003",
+            "id": "DISS311",
             "position": {
-                "x": 660,
-                "y": 100
+                "x": 1100,
+                "y": 1100
             },
             "data": {
-                "label": "[진로창업]데이터과학과인공지능",
-                "학수번호": "GECT003",
+                "label": "국제금융:이론및실제",
+                "학수번호": "DISS311",
+                "세부전공": null,
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS204",
+            "position": {
+                "x": 1100,
+                "y": 1200
+            },
+            "data": {
+                "label": "한국문화의재조명",
+                "학수번호": "GKSS204",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": null,
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS212",
+            "position": {
+                "x": 1100,
+                "y": 1300
+            },
+            "data": {
+                "label": "동아시아의도시화",
+                "학수번호": "GKSS212",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "글로벌한국융합학부",
                 "개설횟수": 0,
                 "내용": null,
                 "메모": null
@@ -879,275 +1229,75 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH162",
-            "position": {
-                "x": 660,
-                "y": 200
-            },
-            "data": {
-                "label": "미적분학및연습II",
-                "학수번호": "MATH162",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "수학과",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN156",
-            "position": {
-                "x": 660,
-                "y": 300
-            },
-            "data": {
-                "label": "산업공학개론",
-                "학수번호": "IMEN156",
-                "세부전공": null,
-                "전공역량": "전공기초",
-                "개설학과": null,
-                "개설횟수": 4,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
                 "backgroundColor": "#F8BBD0",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "IMEN213",
+            "id": "DISS252",
             "position": {
-                "x": 880,
+                "x": 1320,
                 "y": 0
             },
             "data": {
-                "label": "수리통계및실습",
-                "학수번호": "IMEN213",
+                "label": "국제경제법",
+                "학수번호": "DISS252",
                 "세부전공": null,
-                "전공역량": "전공기초",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
+                "backgroundColor": "#F8BBD0",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "IMEN219",
+            "id": "DISS284",
             "position": {
-                "x": 880,
+                "x": 1320,
                 "y": 100
             },
             "data": {
-                "label": "휴먼인터페이스",
-                "학수번호": "IMEN219",
+                "label": "국제학주요쟁점데이터분석",
+                "학수번호": "DISS284",
                 "세부전공": null,
-                "전공역량": "인간공학",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN221",
-            "position": {
-                "x": 880,
-                "y": 200
-            },
-            "data": {
-                "label": "객체지향프로그래밍및실습",
-                "학수번호": "IMEN221",
-                "세부전공": null,
-                "전공역량": "전공기초",
-                "개설학과": null,
-                "개설횟수": 4,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN223",
-            "position": {
-                "x": 880,
-                "y": 300
-            },
-            "data": {
-                "label": "경영과학개론",
-                "학수번호": "IMEN223",
-                "세부전공": null,
-                "전공역량": "전공기초",
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN225",
-            "position": {
-                "x": 880,
-                "y": 400
-            },
-            "data": {
-                "label": "사용자 경험과 인공지능",
-                "학수번호": "IMEN225",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EGRN230",
-            "position": {
-                "x": 880,
-                "y": 500
-            },
-            "data": {
-                "label": "국제공학인턴쉽Ⅲ",
-                "학수번호": "EGRN230",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
+                "전공역량": "실용지식기반도전적사고",
+                "개설학과": "국제학부",
                 "개설횟수": 0,
-                "내용": "공과대학",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFFFFF",
+                "backgroundColor": "#F8BBD0",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "IMEN214",
+            "id": "DISS319",
             "position": {
-                "x": 1100,
-                "y": 0
-            },
-            "data": {
-                "label": "응용통계및실습",
-                "학수번호": "IMEN214",
-                "세부전공": null,
-                "전공역량": "품질/통계",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN216",
-            "position": {
-                "x": 1100,
-                "y": 100
-            },
-            "data": {
-                "label": "OR-Ⅰ및 실습",
-                "학수번호": "IMEN216",
-                "세부전공": null,
-                "전공역량": "시스템분석",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN204",
-            "position": {
-                "x": 1100,
+                "x": 1320,
                 "y": 200
             },
             "data": {
-                "label": "일반회계및원가계산",
-                "학수번호": "IMEN204",
+                "label": "국제금융특강",
+                "학수번호": "DISS319",
                 "세부전공": null,
-                "전공역량": "기타",
-                "개설학과": null,
+                "전공역량": "종합적·융복합적사고력",
+                "개설학과": "국제학부",
                 "개설횟수": 2,
-                "내용": "산업경영공학부",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1160,19 +1310,19 @@
             }
         },
         {
-            "id": "IMEN224",
+            "id": "DISS320",
             "position": {
-                "x": 1100,
+                "x": 1320,
                 "y": 300
             },
             "data": {
-                "label": "자료구조및알고리즘",
-                "학수번호": "IMEN224",
+                "label": "외교사",
+                "학수번호": "DISS320",
                 "세부전공": null,
-                "전공역량": "정보시스템",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1185,119 +1335,19 @@
             }
         },
         {
-            "id": "IMEN315",
-            "position": {
-                "x": 1320,
-                "y": 0
-            },
-            "data": {
-                "label": "인간공학",
-                "학수번호": "IMEN315",
-                "세부전공": null,
-                "전공역량": "인간공학",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN319",
-            "position": {
-                "x": 1320,
-                "y": 100
-            },
-            "data": {
-                "label": "OR-Ⅱ 및 실습",
-                "학수번호": "IMEN319",
-                "세부전공": null,
-                "전공역량": "시스템분석",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN333",
-            "position": {
-                "x": 1320,
-                "y": 200
-            },
-            "data": {
-                "label": "생산계획",
-                "학수번호": "IMEN333",
-                "세부전공": null,
-                "전공역량": "생산/물류",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN335",
-            "position": {
-                "x": 1320,
-                "y": 300
-            },
-            "data": {
-                "label": "정보시스템설계",
-                "학수번호": "IMEN335",
-                "세부전공": null,
-                "전공역량": "정보시스템",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN321",
+            "id": "DISS322",
             "position": {
                 "x": 1320,
                 "y": 400
             },
             "data": {
-                "label": "데이터마이닝",
-                "학수번호": "IMEN321",
+                "label": "국제정치경제",
+                "학수번호": "DISS322",
                 "세부전공": null,
-                "전공역량": "품질/통계",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
+                "전공역량": "종합적·융복합적사고력",
+                "개설학과": "국제학부",
+                "개설횟수": 0,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1310,19 +1360,19 @@
             }
         },
         {
-            "id": "IMEN357",
+            "id": "DISS325",
             "position": {
                 "x": 1320,
                 "y": 500
             },
             "data": {
-                "label": "최적화이론",
-                "학수번호": "IMEN357",
+                "label": "국제관계특강I",
+                "학수번호": "DISS325",
                 "세부전공": null,
-                "전공역량": "시스템분석",
-                "개설학과": null,
-                "개설횟수": 4,
-                "내용": "산업경영공학부",
+                "전공역량": "종합적·융복합적사고력",
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1335,19 +1385,19 @@
             }
         },
         {
-            "id": "IMEN361",
+            "id": "DISS337",
             "position": {
                 "x": 1320,
                 "y": 600
             },
             "data": {
-                "label": "시스템공학특론-Ⅰ",
-                "학수번호": "IMEN361",
+                "label": "NGO와국제거버넌스",
+                "학수번호": "DISS337",
                 "세부전공": null,
-                "전공역량": "기타",
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "산업경영공학부",
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1360,19 +1410,19 @@
             }
         },
         {
-            "id": "IMEN389",
+            "id": "DISS338",
             "position": {
                 "x": 1320,
                 "y": 700
             },
             "data": {
-                "label": "공학현장실습Ⅰ",
-                "학수번호": "IMEN389",
+                "label": "세계화와인권",
+                "학수번호": "DISS338",
                 "세부전공": null,
-                "전공역량": "기타",
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": "산업경영공학부",
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 3,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1385,19 +1435,19 @@
             }
         },
         {
-            "id": "IMEN340",
+            "id": "DISS357",
             "position": {
                 "x": 1320,
                 "y": 800
             },
             "data": {
-                "label": "지식재산과빅데이터분석",
-                "학수번호": "IMEN340",
+                "label": "국제금융:시장및기관",
+                "학수번호": "DISS357",
                 "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
                 "개설횟수": 1,
-                "내용": "산업경영공학부",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1410,44 +1460,19 @@
             }
         },
         {
-            "id": "EGRN332",
+            "id": "GKSS303",
             "position": {
                 "x": 1320,
                 "y": 900
             },
             "data": {
-                "label": "기술과창업",
-                "학수번호": "EGRN332",
+                "label": "글로벌한국의대외관계",
+                "학수번호": "GKSS303",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": "공과대학",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN239",
-            "position": {
-                "x": 1760,
-                "y": 0
-            },
-            "data": {
-                "label": "지식재산및기술의평가와활용",
-                "학수번호": "IMEN239",
-                "세부전공": null,
-                "전공역량": "기타",
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "산업경영공학부",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1460,219 +1485,44 @@
             }
         },
         {
-            "id": "IMEN407",
+            "id": "GKSS309",
             "position": {
-                "x": 1760,
-                "y": 100
+                "x": 1320,
+                "y": 1000
             },
             "data": {
-                "label": "물류시스템설계",
-                "학수번호": "IMEN407",
-                "세부전공": null,
-                "전공역량": "생산/물류",
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN415",
-            "position": {
-                "x": 1760,
-                "y": 200
-            },
-            "data": {
-                "label": "다변량분석",
-                "학수번호": "IMEN415",
-                "세부전공": null,
-                "전공역량": "품질/통계",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN431",
-            "position": {
-                "x": 1760,
-                "y": 300
-            },
-            "data": {
-                "label": "예측애널리틱스",
-                "학수번호": "IMEN431",
-                "세부전공": null,
-                "전공역량": "품질/통계",
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN457",
-            "position": {
-                "x": 1760,
-                "y": 400
-            },
-            "data": {
-                "label": "시스템분석",
-                "학수번호": "IMEN457",
-                "세부전공": null,
-                "전공역량": "시스템분석",
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN461",
-            "position": {
-                "x": 1760,
-                "y": 500
-            },
-            "data": {
-                "label": "시사경영과학",
-                "학수번호": "IMEN461",
-                "세부전공": null,
-                "전공역량": "시스템분석",
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN471",
-            "position": {
-                "x": 1760,
-                "y": 600
-            },
-            "data": {
-                "label": "캡스톤디자인Ⅰ",
-                "학수번호": "IMEN471",
-                "세부전공": null,
-                "전공역량": "기타",
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "산업경영공학부",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EGRN430",
-            "position": {
-                "x": 1760,
-                "y": 700
-            },
-            "data": {
-                "label": "공학인턴십Ⅰ",
-                "학수번호": "EGRN430",
+                "label": "글로벌한국학특강I",
+                "학수번호": "GKSS309",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "공과대학",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFFFFF",
+                "backgroundColor": "#F8BBD0",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "EGRN440",
-            "position": {
-                "x": 1760,
-                "y": 800
-            },
-            "data": {
-                "label": "공학인턴십Ⅱ",
-                "학수번호": "EGRN440",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "공과대학",
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN302",
+            "id": "DISS310",
             "position": {
                 "x": 1540,
                 "y": 0
             },
             "data": {
-                "label": "공급사슬경영",
-                "학수번호": "IMEN302",
+                "label": "동아시아경제론",
+                "학수번호": "DISS310",
                 "세부전공": null,
-                "전공역량": "생산/물류",
-                "개설학과": null,
-                "개설횟수": 4,
-                "내용": "산업경영공학부",
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1685,19 +1535,19 @@
             }
         },
         {
-            "id": "IMEN320",
+            "id": "DISS312",
             "position": {
                 "x": 1540,
                 "y": 100
             },
             "data": {
-                "label": "최적화응용",
-                "학수번호": "IMEN320",
+                "label": "세계화와경제개발",
+                "학수번호": "DISS312",
                 "세부전공": null,
-                "전공역량": "시스템분석",
-                "개설학과": null,
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
                 "개설횟수": 1,
-                "내용": "산업경영공학부",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1710,19 +1560,19 @@
             }
         },
         {
-            "id": "IMEN324",
+            "id": "DISS314",
             "position": {
                 "x": 1540,
                 "y": 200
             },
             "data": {
-                "label": "시뮬레이션및실습",
-                "학수번호": "IMEN324",
+                "label": "국제경제협력론",
+                "학수번호": "DISS314",
                 "세부전공": null,
-                "전공역량": "품질/통계",
-                "개설학과": null,
-                "개설횟수": 4,
-                "내용": "산업경영공학부",
+                "전공역량": "사회참여및사회공헌",
+                "개설학과": "국제학부",
+                "개설횟수": 0,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1735,19 +1585,19 @@
             }
         },
         {
-            "id": "IMEN339",
+            "id": "DISS328",
             "position": {
                 "x": 1540,
                 "y": 300
             },
             "data": {
-                "label": "실험계획과통계분석",
-                "학수번호": "IMEN339",
+                "label": "국제관계특강II",
+                "학수번호": "DISS328",
                 "세부전공": null,
-                "전공역량": "품질/통계",
-                "개설학과": null,
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
                 "개설횟수": 2,
-                "내용": "산업경영공학부",
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1760,19 +1610,19 @@
             }
         },
         {
-            "id": "IMEN358",
+            "id": "DISS333",
             "position": {
                 "x": 1540,
                 "y": 400
             },
             "data": {
-                "label": "품질공학",
-                "학수번호": "IMEN358",
+                "label": "미국경제론",
+                "학수번호": "DISS333",
                 "세부전공": null,
-                "전공역량": "품질/통계",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1785,19 +1635,19 @@
             }
         },
         {
-            "id": "IMEN362",
+            "id": "DISS362",
             "position": {
                 "x": 1540,
                 "y": 500
             },
             "data": {
-                "label": "시스템공학특론-Ⅱ",
-                "학수번호": "IMEN362",
+                "label": "개발도상국의경제지리학",
+                "학수번호": "DISS362",
                 "세부전공": null,
-                "전공역량": "기타",
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "산업경영공학부",
+                "전공역량": "사회참여및사회공헌",
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1810,19 +1660,19 @@
             }
         },
         {
-            "id": "IMEN376",
+            "id": "DISS363",
             "position": {
                 "x": 1540,
                 "y": 600
             },
             "data": {
-                "label": "스마트생산운영관리",
-                "학수번호": "IMEN376",
+                "label": "글로벌빈곤",
+                "학수번호": "DISS363",
                 "세부전공": null,
-                "전공역량": "생산/물류",
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "산업경영공학부",
+                "전공역량": "종합적·융복합적사고력",
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1835,19 +1685,19 @@
             }
         },
         {
-            "id": "IMEN382",
+            "id": "DISS364",
             "position": {
                 "x": 1540,
                 "y": 700
             },
             "data": {
-                "label": "제품개발",
-                "학수번호": "IMEN382",
+                "label": "디지털통상",
+                "학수번호": "DISS364",
                 "세부전공": null,
-                "전공역량": "인간공학",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1860,19 +1710,19 @@
             }
         },
         {
-            "id": "IMEN383",
+            "id": "DISS365",
             "position": {
                 "x": 1540,
                 "y": 800
             },
             "data": {
-                "label": "헬스시스템엔지니어링",
-                "학수번호": "IMEN383",
+                "label": "국제학연구고급데이터분석",
+                "학수번호": "DISS365",
                 "세부전공": null,
-                "전공역량": "정보시스템",
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "산업경영공학부",
+                "전공역량": "실용지식기반도전적사고",
+                "개설학과": "국제학부",
+                "개설횟수": 0,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1885,19 +1735,319 @@
             }
         },
         {
-            "id": "IMEN466",
+            "id": "GKSS312",
+            "position": {
+                "x": 1540,
+                "y": 900
+            },
+            "data": {
+                "label": "북한의정치와경제",
+                "학수번호": "GKSS312",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS314",
+            "position": {
+                "x": 1540,
+                "y": 1000
+            },
+            "data": {
+                "label": "남북한관계의이해",
+                "학수번호": "GKSS314",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS412",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "data": {
+                "label": "국제통상특강ll",
+                "학수번호": "DISS412",
+                "세부전공": null,
+                "전공역량": "실용지식기반도전적사고",
+                "개설학과": "국제학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS413",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "data": {
+                "label": "유럽경제론",
+                "학수번호": "DISS413",
+                "세부전공": null,
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS421",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "data": {
+                "label": "북미국제관계",
+                "학수번호": "DISS421",
+                "세부전공": null,
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS428",
+            "position": {
+                "x": 1760,
+                "y": 300
+            },
+            "data": {
+                "label": "에너지와국제관계",
+                "학수번호": "DISS428",
+                "세부전공": null,
+                "전공역량": "종합적·융복합적사고력",
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS433",
+            "position": {
+                "x": 1760,
+                "y": 400
+            },
+            "data": {
+                "label": "동아시아학특강I",
+                "학수번호": "DISS433",
+                "세부전공": null,
+                "전공역량": "실용지식기반도전적사고",
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS476",
+            "position": {
+                "x": 1760,
+                "y": 500
+            },
+            "data": {
+                "label": "지속가능발전의주요이슈",
+                "학수번호": "DISS476",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS479",
+            "position": {
+                "x": 1760,
+                "y": 600
+            },
+            "data": {
+                "label": "교육보건및개발",
+                "학수번호": "DISS479",
+                "세부전공": null,
+                "전공역량": "사회참여및사회공헌",
+                "개설학과": "국제학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS485",
+            "position": {
+                "x": 1760,
+                "y": 700
+            },
+            "data": {
+                "label": "물과지속가능성",
+                "학수번호": "DISS485",
+                "세부전공": null,
+                "전공역량": "사회참여및사회공헌",
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS403",
+            "position": {
+                "x": 1760,
+                "y": 800
+            },
+            "data": {
+                "label": "한국의문화외교",
+                "학수번호": "GKSS403",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS409",
+            "position": {
+                "x": 1760,
+                "y": 900
+            },
+            "data": {
+                "label": "한국과국제개발",
+                "학수번호": "GKSS409",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS423",
             "position": {
                 "x": 1980,
                 "y": 0
             },
             "data": {
-                "label": "서비스공학",
-                "학수번호": "IMEN466",
+                "label": "동아시아국제관계",
+                "학수번호": "DISS423",
                 "세부전공": null,
-                "전공역량": "기타",
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "산업경영공학부",
+                "전공역량": "종합적·융복합적사고력",
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1910,19 +2060,19 @@
             }
         },
         {
-            "id": "IMEN468",
+            "id": "DISS427",
             "position": {
                 "x": 1980,
                 "y": 100
             },
             "data": {
-                "label": "산업공학을위한딥러닝",
-                "학수번호": "IMEN468",
+                "label": "유럽연합의국제관계",
+                "학수번호": "DISS427",
                 "세부전공": null,
-                "전공역량": "품질/통계",
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "산업경영공학부",
+                "전공역량": "종합적·융복합적사고력",
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1935,19 +2085,144 @@
             }
         },
         {
-            "id": "IMEN472",
+            "id": "DISS453",
             "position": {
                 "x": 1980,
                 "y": 200
             },
             "data": {
-                "label": "캡스톤디자인Ⅱ",
-                "학수번호": "IMEN472",
+                "label": "세미나:세계화와주요이슈",
+                "학수번호": "DISS453",
                 "세부전공": null,
-                "전공역량": "기타",
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "산업경영공학부",
+                "전공역량": "글로벌소통",
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS472",
+            "position": {
+                "x": 1980,
+                "y": 300
+            },
+            "data": {
+                "label": "자원과국제개발",
+                "학수번호": "DISS472",
+                "세부전공": null,
+                "전공역량": "국제학전문가",
+                "개설학과": "국제학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS475",
+            "position": {
+                "x": 1980,
+                "y": 400
+            },
+            "data": {
+                "label": "국제분쟁해결",
+                "학수번호": "DISS475",
+                "세부전공": null,
+                "전공역량": "실용지식기반도전적사고",
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS481",
+            "position": {
+                "x": 1980,
+                "y": 500
+            },
+            "data": {
+                "label": "기후환경법과정치",
+                "학수번호": "DISS481",
+                "세부전공": null,
+                "전공역량": "사회참여및사회공헌",
+                "개설학과": "국제학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS483",
+            "position": {
+                "x": 1980,
+                "y": 600
+            },
+            "data": {
+                "label": "동아시아환경관리",
+                "학수번호": "DISS483",
+                "세부전공": null,
+                "전공역량": "사회참여및사회공헌",
+                "개설학과": "국제학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS404",
+            "position": {
+                "x": 1980,
+                "y": 700
+            },
+            "data": {
+                "label": "글로벌한국학특강II",
+                "학수번호": "GKSS404",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
                 "메모": null
             },
             "type": "customNode",
@@ -1960,5 +2235,42 @@
             }
         }
     ],
-    "edges": []
+    "edges": [
+        {
+            "id": "recommended-DISS112-DISS476",
+            "source": "DISS112",
+            "target": "DISS476",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-PAPP201-DISS476",
+            "source": "PAPP201",
+            "target": "DISS476",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-POLI223-DISS476",
+            "source": "POLI223",
+            "target": "DISS476",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        }
+    ]
 }

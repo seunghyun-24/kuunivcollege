@@ -7,6 +7,7 @@ export const InfomationBox = () => {
     { color: "#B3E5FC", label: "교양선택" },
     { color: "#D1C4E9", label: "전공필수" },
     { color: "#F8BBD0", label: "전공선택" },
+    { color: "#FFD180", label: "전공필수선택" },
     // { color: "#FFFFFF", label: "기타" },
     // { border: "2px solid #000000", label: "실험실습" },
     { type: "edge", color: "#ff0000", label: "필수 선수과목" },
