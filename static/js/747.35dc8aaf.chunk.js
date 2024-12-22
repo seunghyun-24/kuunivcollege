@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkuunivcollege=self.webpackChunkkuunivcollege||[]).push([[747],{8747:e=>{e.exports=JSON.parse('{"university":"\uc815\uacbd\ub300\ud559","department":"\uc815\uce58\uc678\uad50\ud559\uacfc","logo":"\uc815\uacbd\ub300\ud559.jpg","homepage":"https://politics.korea.ac.kr/kupolitics_kor/index.do","roadmap":"https://roadmap-politics.com"}')}}]);
