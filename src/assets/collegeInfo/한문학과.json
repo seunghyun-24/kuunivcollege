@@ -1,7 +1,7 @@
 {
-    "university": "문과대학",
-    "logo": "문과대학.jpg",
-    "homepage": "",
-    "roadmap": "",
-    "department": "한문학과"
+  "university": "문과대학",
+  "logo": "문과대학.jpg",
+  "homepage": "https://sinolit.korea.ac.kr",
+  "roadmap": "",
+  "department": "한문학과"
 }

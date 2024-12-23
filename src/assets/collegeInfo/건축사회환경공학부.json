@@ -1,7 +1,7 @@
 {
-    "university": "공과대학",
-    "logo": "공과대학.jpg",
-    "homepage": "",
-    "roadmap": "",
-    "department": "건축사회환경공학부"
+  "university": "공과대학",
+  "logo": "공과대학.jpg",
+  "homepage": "https://ace.korea.ac.kr",
+  "roadmap": "건축사회환경공학부.png",
+  "department": "건축사회환경공학부"
 }

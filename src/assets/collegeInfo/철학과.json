@@ -1,7 +1,7 @@
 {
-    "university": "문과대학",
-    "logo": "문과대학.jpg",
-    "homepage": "",
-    "roadmap": "",
-    "department": "철학과"
+  "university": "문과대학",
+  "logo": "문과대학.jpg",
+  "homepage": "http://lib003.korea.ac.kr/lib003/index.do",
+  "roadmap": "",
+  "department": "철학과"
 }

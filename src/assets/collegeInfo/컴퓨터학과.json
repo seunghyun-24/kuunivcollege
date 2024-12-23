@@ -1,7 +1,7 @@
 {
   "university": "정보대학",
   "logo": "정보대학.jpg",
-  "homepage": "",
-  "roadmap": "~~",
+  "homepage": "https://cs.korea.ac.kr/cs/index.do",
+  "roadmap": "컴퓨터학과.png",
   "department": "컴퓨터학과"
 }

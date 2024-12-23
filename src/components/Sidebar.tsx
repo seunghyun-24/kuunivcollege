@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import styles from "../styles/SideBar.module.css";
 import { InformationBox } from "./InformationBox";
+import DownloadButton from "./DownloadButton";
 
 interface SideBarProps {
   department: string | null;
@@ -49,7 +50,7 @@ const SideBar: React.FC<SideBarProps> = ({ department }) => {
       <p>
         <strong>홈페이지:</strong>{" "}
         <a
-          href={`https://${departmentInfo.homepage}`}
+          href={`${departmentInfo.homepage}`}
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -60,7 +61,7 @@ const SideBar: React.FC<SideBarProps> = ({ department }) => {
         <p>
           <strong>전공지식 체계도:</strong>{" "}
           <a
-            href={departmentInfo.roadmap}
+            href={require(`../assets/collegeInfo/roadmap/${departmentInfo.roadmap}`)}
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -70,6 +71,9 @@ const SideBar: React.FC<SideBarProps> = ({ department }) => {
       )}
       <div className={styles.infoBoxContainer}>
         <InformationBox />
+      </div>
+      <div className={styles.downloadButtonContainer}>
+        <DownloadButton />
       </div>
     </aside>
   );

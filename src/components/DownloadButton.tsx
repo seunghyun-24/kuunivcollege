@@ -1,63 +1,64 @@
-import React from "react";
-import {
-  Panel,
-  useReactFlow,
-  getNodesBounds,
-  getViewportForBounds,
-} from "@xyflow/react";
+import { Panel, useReactFlow, getNodesBounds } from "@xyflow/react";
 import { toPng } from "html-to-image";
 
 function downloadImage(dataUrl: string) {
   const a = document.createElement("a");
-
-  a.setAttribute("download", "reactflow.png");
+  a.setAttribute("download", `${dataUrl}.png`);
   a.setAttribute("href", dataUrl);
   a.click();
 }
 
-const imageWidth = 1024;
-const imageHeight = 768;
+const padding = 50;
 
 function DownloadButton() {
   const { getNodes } = useReactFlow();
-  const onClick = () => {
-    // we calculate a transform for the nodes so that all nodes are visible
-    // we then overwrite the transform of the `.react-flow__viewport` element
-    // with the style option of the html-to-image library
-    const nodesBounds = getNodesBounds(getNodes());
-    const viewport = getViewportForBounds(
-      nodesBounds,
-      imageWidth,
-      imageHeight,
-      0.5,
-      2,
-      0 // Add the missing padding argument
-    );
 
+  const onClick = async () => {
+    const nodesBounds = getNodesBounds(getNodes());
     const viewportElement = document.querySelector(
       ".react-flow__viewport"
     ) as HTMLElement | null;
+
     if (viewportElement) {
-      toPng(viewportElement, {
-        backgroundColor: "#efefef",
-        width: imageWidth,
-        height: imageHeight,
-        style: {
-          width: "{imageWidth}",
-          height: "{imageHeight}",
-          transform: `translate(${viewport.x}px, ${viewport.y}px) scale(${viewport.zoom})`,
-        },
-      }).then(downloadImage);
+      const imageWidth = nodesBounds.width + padding * 2;
+      const imageHeight = nodesBounds.height + padding * 2;
+
+      try {
+        const dataUrl = await toPng(viewportElement, {
+          backgroundColor: "#efefef",
+          width: imageWidth,
+          height: imageHeight,
+          style: {
+            width: `${imageWidth}px`,
+            height: `${imageHeight}px`,
+            transform: `translate(${-nodesBounds.x + padding}px, ${
+              -nodesBounds.y + padding
+            }px) scale(1)`,
+            transformOrigin: "top left",
+          },
+        });
+        downloadImage(dataUrl);
+      } catch (error) {
+        console.error("Error generating image:", error);
+      }
     }
   };
 
   return (
-    <Panel position="bottom-right">
-      <button className="download-btn" onClick={onClick}>
-        Download Image
-      </button>
-    </Panel>
+    <button className="download-btn" onClick={onClick} style={buttonStyle}>
+      Download Image
+    </button>
   );
 }
+
+const buttonStyle: React.CSSProperties = {
+  padding: "8px 16px",
+  backgroundColor: "#007BFF",
+  color: "#fff",
+  border: "none",
+  borderRadius: "4px",
+  cursor: "pointer",
+  fontSize: "14px",
+};
 
 export default DownloadButton;

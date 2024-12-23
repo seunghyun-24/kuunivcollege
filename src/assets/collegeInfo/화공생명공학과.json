@@ -1,7 +1,7 @@
 {
-    "university": "공과대학",
-    "logo": "공과대학.jpg",
-    "homepage": "",
-    "roadmap": "",
-    "department": "화공생명공학과"
+  "university": "공과대학",
+  "logo": "공과대학.jpg",
+  "homepage": "https://cbe.korea.ac.kr/wp/",
+  "roadmap": "화공생명공학과.png",
+  "department": "화공생명공학과"
 }

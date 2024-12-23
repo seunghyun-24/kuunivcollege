@@ -1,7 +1,7 @@
 {
-    "university": "이과대학",
-    "logo": "이과대학.jpg",
-    "homepage": "",
-    "roadmap": "",
-    "department": "물리학과"
+  "university": "이과대학",
+  "logo": "이과대학.jpg",
+  "homepage": "https://physics.korea.ac.kr/phys/index.do",
+  "roadmap": "",
+  "department": "물리학과"
 }

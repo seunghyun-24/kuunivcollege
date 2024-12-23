@@ -1,7 +1,7 @@
 {
-    "university": "이과대학",
-    "logo": "이과대학.jpg",
-    "homepage": "",
-    "roadmap": "",
-    "department": "수학과"
+  "university": "이과대학",
+  "logo": "이과대학.jpg",
+  "homepage": "http://math.korea.ac.kr/",
+  "roadmap": "수학과.png",
+  "department": "수학과"
 }

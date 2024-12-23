@@ -1,7 +1,7 @@
 {
-    "university": "이과대학",
-    "logo": "이과대학.jpg",
-    "homepage": "",
-    "roadmap": "",
-    "department": "지구환경과학과"
+  "university": "이과대학",
+  "logo": "이과대학.jpg",
+  "homepage": "http://ees.korea.ac.kr/ees/index.do",
+  "roadmap": "",
+  "department": "지구환경과학과"
 }

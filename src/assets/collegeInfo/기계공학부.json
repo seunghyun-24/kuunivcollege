@@ -1,7 +1,7 @@
 {
-    "university": "공과대학",
-    "logo": "공과대학.jpg",
-    "homepage": "",
-    "roadmap": "",
-    "department": "기계공학부"
+  "university": "공과대학",
+  "logo": "공과대학.jpg",
+  "homepage": "http://me.korea.ac.kr/me/index.do",
+  "roadmap": "기계공학부.png",
+  "department": "기계공학부"
 }

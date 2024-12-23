@@ -1,7 +1,7 @@
 {
-    "university": "문과대학",
-    "logo": "문과대학.jpg",
-    "homepage": "",
-    "roadmap": "",
-    "department": "한국사학과"
+  "university": "문과대학",
+  "logo": "문과대학.jpg",
+  "homepage": "http://koreahistory.korea.ac.kr/koreahistory/index.do",
+  "roadmap": "",
+  "department": "한국사학과"
 }

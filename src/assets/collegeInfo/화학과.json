@@ -1,7 +1,7 @@
 {
-    "university": "이과대학",
-    "logo": "이과대학.jpg",
-    "homepage": "",
-    "roadmap": "",
-    "department": "화학과"
+  "university": "이과대학",
+  "logo": "이과대학.jpg",
+  "homepage": "http://chem.korea.ac.kr/",
+  "roadmap": "",
+  "department": "화학과"
 }

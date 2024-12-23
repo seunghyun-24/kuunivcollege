@@ -1,7 +1,7 @@
 {
-    "university": "정경대학",
-    "logo": "정경대학.jpg",
-    "homepage": "",
-    "roadmap": "",
-    "department": "통계학과"
+  "university": "정경대학",
+  "logo": "정경대학.jpg",
+  "homepage": "http://stat.korea.ac.kr/stat/index.do",
+  "roadmap": "",
+  "department": "통계학과"
 }
