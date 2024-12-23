@@ -4,13 +4,24 @@ import os
 node_height = 50
 node_spacing = 50
 node_colors = {
-    "학문의기초": "#FFECB3",
+    "학문의기초": "#f8f8f8",
     "교양필수": "#C8E6C9",
-    "교양선택": "#B3E5FC",
+    "교양선택": "#f8f8f8",
     "전공필수": "#D1C4E9",
-    "전공선택": "#F8BBD0",
+    "전공선택": "#f8f8f8",
     "전공필수선택" : "#FFD180",
+    "전공인정": "#FFFFFF",
     "기타": "#FFFFFF",
+}
+node_line_colors = {
+    "학문의기초": "#ff0000",
+    "교양필수": "#8f8f8f",
+    "교양선택": "#B3E5FC",
+    "전공필수": "#881cbe",
+    "전공선택": "#8f8f8f",
+    "전공필수선택" : "#FFD180",
+    "전공인정": "#8f8f8f",
+    "기타": "#ccc",
 }
 
 def calculate_x_position(학년, 학기):
@@ -74,6 +85,7 @@ def parse_courses(courses):
         current_y = 0
         for index, course in enumerate(group_courses):
             color = node_colors.get(course["구분"], node_colors["기타"])
+            line_color = node_line_colors.get(course["구분"], node_line_colors["기타"])
             node = {
                 "id": course["학수번호"],
                 "position": {
@@ -95,6 +107,7 @@ def parse_courses(courses):
                 "targetPosition": "Left",
                 "style": {
                     "backgroundColor": color,
+                    "border": f"2px solid {line_color}",
                     "borderRadius": "5px",
                     "padding": "10px"
                 },

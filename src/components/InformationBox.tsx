@@ -1,6 +1,6 @@
 import React from "react";
 
-export const InfomationBox = () => {
+export const InformationBox = () => {
   const legendItems = [
     { color: "#FFECB3", label: "학문의기초" },
     { color: "#C8E6C9", label: "교양필수" },
@@ -8,11 +8,10 @@ export const InfomationBox = () => {
     { color: "#D1C4E9", label: "전공필수" },
     { color: "#F8BBD0", label: "전공선택" },
     { color: "#FFD180", label: "전공필수선택" },
-    // { color: "#FFFFFF", label: "기타" },
-    // { border: "2px solid #000000", label: "실험실습" },
+    { color: "#FFFFFF", label: "전공인정" },
     { type: "edge", color: "#ff0000", label: "필수 선수과목" },
     { type: "edge", color: "#333", label: "권장 선수과목" },
-    { type: "gauge", color: "#FF0000", label: "최근 5년 간 개설 정도" }, // 게이지 바 설명 추가
+    { type: "gauge", value: 3, label: "최근 5년 간 개설" }, // value: 게이지 값 (1~5)
   ];
 
   return (
@@ -25,14 +24,24 @@ export const InfomationBox = () => {
             </svg>
           ) : item.type === "gauge" ? (
             <div style={{ display: "flex", alignItems: "center" }}>
-              <div
-                style={{
-                  width: "50px",
-                  height: "5px",
-                  backgroundColor: item.color,
-                  marginRight: "10px",
-                }}
-              />
+              <div style={gaugeContainerStyle}>
+                {Array.from({ length: 5 }).map((_, i) => (
+                  <div
+                    key={i}
+                    style={{
+                      ...gaugeSegmentStyle,
+                      backgroundColor:
+                        (item.value ?? 0) > i
+                          ? i + 1 > (item.value ?? 0)
+                            ? "rgba(255, 0, 0, 0.5)"
+                            : "#FF0000"
+                          : "#E0E0E0",
+                      borderRight: i < 4 ? "1px solid #B0B0B0" : "none",
+                    }}
+                  />
+                ))}
+              </div>
+              <span style={{ marginLeft: "10px" }}>{item.label}</span>
             </div>
           ) : (
             <div
@@ -42,7 +51,9 @@ export const InfomationBox = () => {
               }}
             ></div>
           )}
-          <span style={labelStyle}>{item.label}</span>
+          {item.type !== "gauge" && (
+            <span style={labelStyle}>{item.label}</span>
+          )}
         </div>
       ))}
     </div>
@@ -59,6 +70,7 @@ const legendItemStyle = {
   display: "flex",
   alignItems: "center",
   marginBottom: "5px",
+  fontSize: "14px",
 };
 
 const colorBoxStyle = {
@@ -66,6 +78,20 @@ const colorBoxStyle = {
   height: "20px",
   marginRight: "10px",
   borderRadius: "4px",
+};
+
+const gaugeContainerStyle = {
+  display: "flex",
+  width: "50px",
+  height: "10px",
+  border: "1px solid #333",
+  borderRadius: "2px",
+  overflow: "hidden",
+};
+
+const gaugeSegmentStyle = {
+  flex: 1,
+  height: "100%",
 };
 
 const labelStyle = {

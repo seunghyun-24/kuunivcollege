@@ -1,11 +1,8 @@
-import React from "react";
 import { Handle, Position } from "react-flow-renderer";
 
 export const CustomNode = ({ data }: any) => {
   const openCount = data.개설횟수;
   const maxCount = 5;
-
-  const gaugeWidth = `${(openCount / maxCount) * 100}%`;
 
   return (
     <div
@@ -39,22 +36,33 @@ export const CustomNode = ({ data }: any) => {
 
       <div
         style={{
-          position: "relative",
-          height: "7px",
+          display: "flex",
+          height: "9px",
           borderRadius: "4px",
+          //border: "1px solid #000",
           backgroundColor: "#ddd",
           marginTop: "3px",
+          position: "relative",
+          overflow: "hidden",
         }}
       >
-        <div
-          style={{
-            height: "100%",
-            width: gaugeWidth,
-            backgroundColor: "#FF0000",
-            borderRadius: "4px",
-            transition: "width 0.3s ease-in-out",
-          }}
-        />
+        {Array.from({ length: maxCount }).map((_, i) => (
+          <div
+            key={i}
+            style={{
+              flex: 1,
+              height: "100%",
+              borderRight: i < maxCount - 1 ? "1px solid #fff" : "none",
+              backgroundColor:
+                i < openCount
+                  ? openCount > i && openCount < i + 1
+                    ? "rgba(255, 0, 0, 0.5)"
+                    : "#FF0000"
+                  : "#E0E0E0",
+              transition: "background-color 0.3s ease-in-out",
+            }}
+          />
+        ))}
       </div>
 
       {data.tooltip && (
@@ -69,7 +77,7 @@ export const CustomNode = ({ data }: any) => {
             color: "#fff",
             padding: "5px",
             borderRadius: "5px",
-            fontSize: "0.75rem",
+            fontSize: "20px",
             whiteSpace: "nowrap",
             visibility: data.showTooltip ? "visible" : "hidden",
           }}

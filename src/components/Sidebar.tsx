@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import styles from "../styles/SideBar.module.css";
-import { InfomationBox } from "./InfomationBox";
+import { InformationBox } from "./InformationBox";
 
 interface SideBarProps {
   department: string | null;
@@ -69,7 +69,7 @@ const SideBar: React.FC<SideBarProps> = ({ department }) => {
         </p>
       )}
       <div className={styles.infoBoxContainer}>
-        <InfomationBox />
+        <InformationBox />
       </div>
     </aside>
   );

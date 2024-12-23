@@ -4,6 +4,7 @@ import ReactFlow, {
   Controls,
   useNodesState,
   useEdgesState,
+  ReactFlowInstance,
 } from "react-flow-renderer";
 // import { Controls } from "@xyflow/react";
 import "../styles/ReactFlowStyles.css";
@@ -62,6 +63,7 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
   const styledNodesWithHighlight = styledNodes.map((node) => ({
     ...node,
     style: {
+      //border: "1px solid #000",
       ...node.style,
       opacity:
         hoveredNodeId === null || connectedNodeIds.has(node.id) ? 1 : 0.3,
@@ -115,8 +117,20 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
     onBoundsChange(bounds);
   }, [calculateGraphBounds, onBoundsChange]);
 
-  const handleInit = (instance: any) => {
-    instance.fitView({ padding: 0.05 });
+  const handleInit = (instance: ReactFlowInstance) => {
+    const topY = Math.min(...styledNodes.map((node) => node.position.y));
+    const minX = Math.min(...styledNodes.map((node) => node.position.x));
+
+    instance.fitView({
+      padding: 0,
+      includeHiddenNodes: true,
+    });
+
+    instance.setViewport({
+      x: 0 - minX * 0.5,
+      y: -topY * 0.5,
+      zoom: 0.5,
+    });
   };
 
   return (
@@ -133,9 +147,9 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
           // fitViewOptions={{ padding: 0.1 }}
           nodeTypes={nodeTypes}
           zoomOnScroll={false}
-          panOnDrag={false}
-          maxZoom={1.0}
-          minZoom={0.3}
+          panOnDrag={true}
+          maxZoom={2.0}
+          minZoom={0.5}
           nodesConnectable={false}
           nodesDraggable={false}
           attributionPosition={undefined}
