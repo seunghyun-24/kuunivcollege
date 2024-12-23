@@ -110,28 +110,47 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
       1000
     );
     return { width: maxX, height: maxY };
-  }, [styledNodes]); // styledNodes에 의존
+  }, [styledNodes]);
+
+  const [reactFlowInstance, setReactFlowInstance] =
+    useState<ReactFlowInstance | null>(null);
+
+  const handleFitView = useCallback(() => {
+    if (!reactFlowInstance) return;
+
+    const topY = Math.min(...styledNodes.map((node) => node.position.y));
+    const minX = Math.min(...nodes.map((node) => node.position.x));
+    reactFlowInstance.zoomTo(0.5);
+
+    reactFlowInstance.fitView({
+      padding: 0,
+      includeHiddenNodes: true,
+    });
+
+    reactFlowInstance.setViewport({
+      x: -minX * 0.5,
+      y: -topY * 0.5,
+      zoom: 0.5,
+    });
+  }, [nodes, reactFlowInstance, styledNodes]);
+
+  const handleInit = useCallback(
+    (instance: ReactFlowInstance) => {
+      setReactFlowInstance(instance);
+    },
+    [setReactFlowInstance]
+  );
+
+  useEffect(() => {
+    if (reactFlowInstance) {
+      handleFitView();
+    }
+  }, [reactFlowInstance, handleFitView]);
 
   useEffect(() => {
     const bounds = calculateGraphBounds();
     onBoundsChange(bounds);
   }, [calculateGraphBounds, onBoundsChange]);
-
-  const handleInit = (instance: ReactFlowInstance) => {
-    const topY = Math.min(...styledNodes.map((node) => node.position.y));
-    const minX = Math.min(...styledNodes.map((node) => node.position.x));
-
-    instance.fitView({
-      padding: 0,
-      includeHiddenNodes: true,
-    });
-
-    instance.setViewport({
-      x: 0 - minX * 0.5,
-      y: -topY * 0.5,
-      zoom: 0.5,
-    });
-  };
 
   return (
     <>
@@ -144,9 +163,8 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
           onNodeMouseEnter={handleNodeMouseEnter}
           onNodeMouseLeave={handleNodeMouseLeave}
           onInit={handleInit}
-          // fitViewOptions={{ padding: 0.1 }}
           nodeTypes={nodeTypes}
-          zoomOnScroll={false}
+          zoomOnScroll={true}
           panOnDrag={true}
           maxZoom={2.0}
           minZoom={0.5}
@@ -155,7 +173,10 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
           attributionPosition={undefined}
         >
           <Background color="#ddd" gap={16} />
-          <Controls className="custom-controls" />
+          <Controls
+            className="custom-controls"
+            onFitView={() => handleFitView()}
+          />
         </ReactFlow>
       </div>
     </>
