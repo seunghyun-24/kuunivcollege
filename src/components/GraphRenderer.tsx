@@ -1,12 +1,13 @@
 import React, { useCallback, useEffect, useState } from "react";
-import ReactFlow, {
+import {
   Background,
   Controls,
   useNodesState,
   useEdgesState,
+  ReactFlow,
   ReactFlowInstance,
-} from "react-flow-renderer";
-// import { Controls } from "@xyflow/react";
+} from "@xyflow/react";
+import "@xyflow/react/dist/style.css";
 import "../styles/ReactFlowStyles.css";
 import { CustomNode, YearNode, SemesterNode } from "../styles/CustomNode";
 import { findConnectedNodesAndEdges } from "../utils/calculateRelationCourses";
@@ -59,11 +60,9 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
     setConnectedEdgeIds(new Set());
   };
 
-  // 강조 스타일 적용
   const styledNodesWithHighlight = styledNodes.map((node) => ({
     ...node,
     style: {
-      //border: "1px solid #000",
       ...node.style,
       opacity:
         hoveredNodeId === null || connectedNodeIds.has(node.id) ? 1 : 0.3,

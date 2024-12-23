@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
-import { useEdgesState, useNodesState } from "react-flow-renderer";
+import { useEdgesState, useNodesState } from "@xyflow/react";
+import "@xyflow/react/dist/style.css";
 import styles from "../styles/MainContent.module.css";
 import { getLayoutedNodesAndEdges } from "../utils/layoutEngine";
 import GraphRenderer from "./GraphRenderer";
