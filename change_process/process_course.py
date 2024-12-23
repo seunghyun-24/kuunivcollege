@@ -28,9 +28,9 @@ def calculate_x_position(학년, 학기):
     # if 학기 == 0 or 학기 == 'null':
     #     return 학년 * 440
     # return 학년 * 440 + (학기 - 1) * 220
-    if 학기 is None  or 학기 == 0:
+    if 학기 is None  or 학기 == 0 or 학기 == 'NaN':
         학기 = 1
-    if 학년 is None or 학년 == 0:
+    if 학년 is None or 학년 == 0 or 학년 == 'NaN':
         학년 = 1 #일단 떼움..
     return 학년 * 440 + ((학기) - 1) * 220
 
@@ -70,7 +70,6 @@ def create_year_and_semester_nodes():
 def parse_courses(courses):
     nodes = create_year_and_semester_nodes()
     x_groups = {}
-    # nodes = []
     zero_semester_nodes = []
 
     # Group courses by x position
@@ -101,6 +100,7 @@ def parse_courses(courses):
                     "개설횟수": course["개설횟수"],
                     "내용": course["내용"],
                     "메모": course["메모"],
+                    "syllabus_kr": course["syllabus_kr"],
                 },
                 "type": "customNode",
                 "sourcePosition": "Right",

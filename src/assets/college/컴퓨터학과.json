@@ -198,7 +198,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -224,7 +225,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -250,7 +252,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -276,7 +279,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -302,7 +306,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -328,7 +333,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -354,7 +360,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 4,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "ChatGPT 그리고 Copilot등의 생성형 인공지능 기술은 일상생활 뿐만 아니라 소프트웨어 개발자들의 존재 가치 및 일하는 방식을 근본적으로 바꾸고 있다. 그러나 소프트웨어 전문가라면 프로그래밍 능력은 꼭 필요한 기본 지식이다.  _x000D_\n본 과목은 프로그래밍 경험이 없는 학 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -380,7 +387,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 4,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "기초 선형대수를 학습 하며, 벡터와 행렬을 통하여 다양한 문제들을 선형적으로 모델링 하고 선형 방정식 해의 존재여부를 알기 위한 기반 정리들과 그 계산 방법을 학습 한다. 주 내용은, 행렬 연산, 선형 방정식, Gaussian Elimination, Determinullt, 직교, Rn의 성질, Eig"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -406,7 +414,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅱ는 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 학교에 대한 소속감을 강화하고 창직 및 창업 등의 진로 방향성을 고민해볼 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여  "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -432,7 +441,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 0,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "_x000D_\n이 과목은 데이터를 다루고 분석할 수 있는 역량과 인공지능 기술을 이해하고 자기의 일에 활용할 수 있는 방법을 학습하는 과정이다. 기초적인 데이터과학 및 인공지능 핵심 개념을 학습하고, 각 계열별 특성에 맞는 데이터를 활용한 실습을 통해 실제 데이터를 다루고 인"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -458,7 +468,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 4,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "본 과목은 컴퓨터 과학을 전공하려는 학부생을 대상으로 하는 컴퓨터 프로그래밍의 입문 과정으로서, 논리적인 문제 해결 방법을 학습하고, 창의적인 사고를 유도하여, 실용적인 문제를 다양한 프로그래밍 언어를 사용하여 효율적으로 해결하는 방법을 학습한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -484,7 +495,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 4,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "기초 확률과 통계 및 최적화 기법을 학습 한다.  또한 확률과 통계 및 최적화 기법이 전산학에서 여러 가지 문제를 풀어내기 위하여 어떻게 쓰이는지 이해 할 수 있도록 한다.  주요 내용은 기초 확률, 조건 확률, 조합, distributions, 랜덤변수, 최대/최소값 구하기, 선형 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -510,7 +522,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "자료구조의 개념 및 기초지식과 더불어 스택 및 큐, 리스트들을 기본 자료구조로서 다루며, 그래프와 트리를 고급 자료구조로서 다룬다. 자료구조의 응용으로는 순환, 탐색, 정렬, 해싱을 다룬다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -536,7 +549,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "컴퓨터 과학의 이론적 모델인 Finite Automata, Push Down Automata, Turing Machines 등에 대하여 고찰하고, 이를 기반으로 하여 computability와 computational complexity 이론에 관하여 배운다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -562,7 +576,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": " ? 일차 및 선형 고차 차등 방정식에 대한 수학적 표현을 배우고 방정식의 해를 구한다._x000D_\n ? 라플라스 변환 및 역변환을 자유롭게 할 줄 알고 이를 차등 방정식에의 활용하는 법을 배운다. _x000D_\n ? 다양한 계수를 갖는 차등 방정식 교육한다._x000D_\n ? 직교성에 대해 이해하고 여러  "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -588,7 +603,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "전기회로 분석의 기초인 옴의 법칙, 키르히호프의 법칙 Thevenin, Norton theorem을 이용한 등가회로 등을 소개한다. Capacitor와 Inductor를 사용한 회로에 sine wave (AC)와 pulse (transient) 신호 가 입력되었을 때 나타나는 특성을 분석한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -614,7 +630,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "알고리즘의 표현방법, 기능 및 처리과정, 난해도의 분석, 효율적인 알고리즘을 설계하는 기법, 응용 등을 다루고 기존에 개발된 알고리즘들을 주제별로 분류하여 활용한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -640,7 +657,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 4,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "컴퓨터 동작의 핵심부분인 중앙처리장치 및 메모리 계층구조의 구성과 설계방법에 대해 학습한다. 중앙처리장치에서는 파이프라인 구조에 기반 CPU의 기계어 수행 원리 및 설계에 대해 학습한다. 메모리 계층구조에서는 캐시메모리, 주기억장치, 하드디스크와 같은 저장장치 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -666,7 +684,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "전산학의 기초를 이루는 이산수학에서의 중요 토픽들을 강의와 숙제/시험을 통하여 익히고 프로그램 개발 및 컴퓨터 응용을 보다 수학에 기반한 모델링을 통하여 수행 할 수 있는 능력을 배양.  주 내용은 Logic, 집합과 함수, 알고리즘 기초, 기초 정수론, 재귀함수, 그래프"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -692,7 +711,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 4,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "프로그래밍 언어의 원리와 프로그래밍 언어를 구성하는 제반 요소들을 이해하고 각 언어별 특징에 대하여 학습하며 프로그래밍 언어의 이해를 위해 Syntax와 Semantics등에 대하여 학습한다. Semantics를 공부하기 위하여 Higher-order procedure를 지원해 주는 언어의 inter"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -718,7 +738,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "컴퓨터 동작의 기본 단위인 디지털 논리회로의 원리와 설계방법에 대해 학습한다. 즉, 조합회로와 순차회로의 원리와 하드웨어를 설계하는 언어에 대해 학습한다. 또한 디지털 설계에서 많이 사용되는 가산기/감산기, 디코터, 멀티플렉서, ALU, 래치 및 플리플롭 등에 대해  "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -744,7 +765,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "컴퓨터 네트워크 기술을 이용하여 실제 생활에서 사용되고 있는 데이터 통신에 대한 내용을 배운다. 정보화 사회의 하부 구조가 되는 물리적 계층, 데이터링크 계층, 매체접근제어 계층 등의 프로토콜에 대한 이론과 통신 기술을 학습한다. 사례 연구로서, 이더넷, 토큰링, F"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -770,7 +792,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 4,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "벡터 해석, Coulomb의 법칙, 전계의 세기, 전속밀도, Gauss의 법칙, 벡터계의 발산, 전계의 에너지 및 전위, Faraday 및 Ampere 법칙, Maxwell 방정식 등을 공부하고, 이를 이용한 정전자계 현상에 대한 이론 및 해석방법을 공부한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -796,7 +819,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 4,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "이 과목의 목적은 운영체제의 정의, 발전과정, 그리고 구조를 소개하고, 작업을 처리하기 위해 운영체제가 갖추어야 할 기본 기능에 대해 배우는 것이다. 기본 기능들은 프로세스 관리, 동기화, 기억장치 관리, 가상메모리, 파일시스템, 그리고 대용량 기억장치의 관리 방법 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -822,7 +846,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 2,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "본 과목은 인공 지능의 입문 과정으로, 탐색을 통한 문제 해결, 지식 표현, 논리와 추론, 계획 수립, 불확실성 및 확률적 추론, 의사 결정, 기계 학습, 그리고 인공 지능 응용 분야 등을 다룬다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -848,7 +873,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "CPU, 메모리, 입출력 주변장치로 구성되는 컴퓨터시스템을 설계하고, low-level 프로그래밍(Assembly & C)을 통해 CPU와 주변장치의 상호작용을 실험함으로써 컴퓨터시스템의 동작을 이해한다. 커리큘럼에는 Timer, GPIO(General-purpose I/O)설계 및 프로그래밍, interrupt,"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -874,7 +900,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "컴퓨터 그래픽스란 무엇이고, 이를 위한 다양한 하드웨어 및 소프트웨어와 원리에 대해 다룬다. 실습을 통해 2차원 컴퓨터 그래픽에서의 윈도우, 뷰포트, 기초 모형, 단절 및 변형 등의 알고리즘과 원리 기법을 다룬다. 시간이 허락되면, 3차원과 4차원에 대한 알고리즘과 원"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -900,7 +927,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "정보화가 촉진될수록 바이러스나 해킹에 의한 정보 시스템의 불법 침입과 정보의 파괴, 프라이버시 및 개인정보의 도용과 침해 등의 심각한 사회적 부작용들이 나타나고 있다. 본 강의에서는 정보보호의 필요성에 대하여 논하고 여러 가지 정보보호 장치 및 기법들을 고찰함 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -926,7 +954,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 2,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "생명체를 기반으로 생성되는 정보의 본질에 대해 생각해 보고, 컴퓨터과학 만이 아니라, 응용 정보학, 사회정보학 등의 분야에서 다양한 정보 현상에 대한 인식을 바탕으로 정보의 일반 원리를 탐구하는 것이다. 기호학/기호 론, 생명기호론, 언어학, 사회학, 현상학 등 다양"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -952,7 +981,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "본 과목은 데이터베이스의 기본 개념을 관계형 데이터 모델, 관계형 대수 및 SQL을 통해 설명하고, 나아가 데이터베이스 관리 시스템(DBMS: DataBase Management System)의 필수구성요소들인 저장장치 및 색인시스템(Indexing), 질의 처리(Query Processing) 및 질의 최적화 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -978,7 +1008,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "데이터베이스 시스템 구조, 데이터 저장 시스템, 색인 및 질의 처리 기술, 트랜잭션의 개념 및 처리 기술 등을 학습하고, 최신 데이터베이스 기술을 학습한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1004,7 +1035,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "통신시스템의 이론과 구현의 핵심인 디지털신호처리의 기초에 대해 학습한다. 신호 및 시스템 이론을 바탕으로 기본 선형시불변 디지털시스템의 해석 및 설계에 대한 개요를 비롯하여 표본화 정리, Z-변환, FIR/IIR 필터 설계, Discrete Fourier Transform 와 Fast Fourier T"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1030,7 +1062,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "확률의 기본 개념, 확률변수 및 확률 분포의 개념을 배우고, 이를 다양한 공학적인 문제에 적용한다. 그리고 이 개념을 다중 확률변수 및 분포로 확장하고, 나아가 확률과정의 개념 및 응용을 배운다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1056,7 +1089,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 2,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "신호 및 시스템의 논리적인 정립하에 CT LTI 시스템 이론 및 응용을 학습한다. Convolution, Stability, Fourier Series / Transform, Laplace 등을 학습하고, Nyquist Sampling Theorem 통한 AD/DA 변환을 분석한다. 음성 및 영상처리 그리고 AM/FM 변조기 및 복조기를 포함"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1082,7 +1116,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "국제적으로 성공한 기업가, 투자자, 마케팅전문가, 기술전문가의 엔터프리너쉽과 리더쉽을 학습하여 미래 사회에서 요구 되어지는 도전, 창조 및 실행정신에 대한 중요성을 강조하고, 실질적으로 기업이나 사회에서 요구되어지는 내용들을 파악할 수 있는 기회를 제공하며,  "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1108,13 +1143,122 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 0,
                 "내용": null,
-                "메모": "데이터과학과 참고"
+                "메모": "데이터과학과 참고",
+                "syllabus_kr": null
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DATA302",
+            "position": {
+                "x": 1320,
+                "y": 1300
+            },
+            "data": {
+                "label": "기초컴퓨터비전이론및응용",
+                "학수번호": "DATA302",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "데이터과학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 컴퓨터비전의 기초이론 및 응용을 배운다. 컴퓨터비전은 다양한 전공이 융합된 분야로 저수준 영상이해부터 고수준 영상 이해를 포괄한다. 본 과목에서는 영상 처리, 이미지 분류, 물체 탐지, 이미지 분할, 영상 접합, 3차원 복원, 이미지 자동 캡셔닝, 이미지/영 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DATA303",
+            "position": {
+                "x": 1320,
+                "y": 1400
+            },
+            "data": {
+                "label": "고급기계학습",
+                "학수번호": "DATA303",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "데이터과학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 고급기계학습 이론을 소개한다. 기계학습 모델의 수학적 정의, 최적화 문제, 모델 추정 알고리즘을 배운다. 또한 다양한 기계학습 모델들의 관계를 학습한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DATA304",
+            "position": {
+                "x": 1320,
+                "y": 1500
+            },
+            "data": {
+                "label": "빅데이터분석",
+                "학수번호": "DATA304",
+                "세부전공": null,
+                "전공역량": "데이터문해력",
+                "개설학과": "데이터과학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 빅데이터를 가공하고 정제하고 분석하는 일련의 과정을 다룬다. 구체적으로 빅데이터를 가공하기 위한 툴(예 Python)을 배우고 다양한 기계학습 기술 또한 다룬다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DATA306",
+            "position": {
+                "x": 1320,
+                "y": 1600
+            },
+            "data": {
+                "label": "디자인사고",
+                "학수번호": "DATA306",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "데이터과학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 많은 분야에서 활용 가능한 혁신적인 문제 해결 방법론을 다룬다. 구체적으로, 본 과목은 사용자의 의도를 이해하고, 실패로 부터 배우며, 가능한 위험성을 찾아내고, 이를 스토리텔링을 통한 커뮤니케이션에 활용하여 혁신적인 문제 해결 방법론을 개발하는 것 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
                 "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
@@ -1134,7 +1278,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 4,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "정보처리를 효율적으로 수행하기 위한 컴퓨터 네트워크를 구축하는 기법을 배운다. 데이터의 송수신을 위한 기본원리 및 컴퓨터 통신 관련 기술이 소개된다. 컴퓨터들 간의 통신에 필요한 인터넷 계층구조, 라우팅, 프로토콜 (TCP/IP protocol suite), 네트워크 보안 및 네트"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1160,7 +1305,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 2,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "컴파일러에 대한 기본적인 원리 및 이론에 대하여 학습한다. 세부적으로는 컴파일러를 구성하기 위해 필요한 구문 분석, 의미 분석, 코드 분석 및 최적화, 파싱 방법 등을 학습하고 이를 토대로 실제 프로그래밍 실습을 병행한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1186,7 +1332,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "컴퓨터하드웨어를 관리하는 운영체제가 제공하는 system call을 이용하여 시스템자원 생성, 관리, 운영 등에 대해 학습한다. 커리큘럼은 프로세스 생성 및 통신, system call을 통한 자원관리 방법, 커널 변경 및 효과 검증 등을 포함한다.  "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1212,7 +1359,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "소프트웨어의 전반적 생산 및 유지 보수를 체계적으로 관리하기 위한 과목으로 소프트웨어 개발 주기, 요구분석, 소프트웨어 아키텍쳐, 시스템 모델링, 객체지향 기법, 위험분석, 비용 계산, 테스팅등을 배운다. 실제 프로젝트를 수행하여 경험하며 배운다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1238,7 +1386,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "기계 학습에서는 컴퓨터 프로그램이 경험을 통해서 스스로 성능을 개선할 수 있는 알고리즘에 관하여 고찰한다. 특히, concept learning, Bayesian learning, hidden Markov models, decision trees, artificial neural networks, belief networks, kernel machines, unsuper"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1264,7 +1413,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "본 과목은 소프트웨어를 설계하는데 있어서 문제를 인식하고 창의적으로 해결방안을 모색하여 궁극적으로는 창업까지 이어질 수 있도록 교육하는 것을 목적으로 한다.  _x000D_\n현업의 주요 문제들을 과제로 선정하여 실무능력향상에 중점을 두었으며 문제를 명확히 이해하고 분석 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1277,20 +1427,102 @@
             }
         },
         {
-            "id": "COSE394-0",
+            "id": "SATA302",
+            "position": {
+                "x": 1540,
+                "y": 600
+            },
+            "data": {
+                "label": "시계열분석",
+                "학수번호": "SATA302",
+                "세부전공": null,
+                "전공역량": "데이터분석|시뮬레이션능력",
+                "개설학과": "통계학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SATA332",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "data": {
+                "label": "비모수통계학",
+                "학수번호": "SATA332",
+                "세부전공": null,
+                "전공역량": "데이터분석|시뮬레이션능력",
+                "개설학과": "통계학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SATA404",
+            "position": {
+                "x": 1540,
+                "y": 800
+            },
+            "data": {
+                "label": "베이즈통계입문",
+                "학수번호": "SATA404",
+                "세부전공": null,
+                "전공역량": "통합적의사결정|시뮬레이션능력",
+                "개설학과": "통계학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE394",
             "position": {
                 "x": 1760,
                 "y": 0
             },
             "data": {
                 "label": "현장실습및창업실습I",
-                "학수번호": "COSE394-0",
+                "학수번호": "COSE394",
                 "세부전공": null,
                 "전공역량": "공감소통",
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "본 과목은 소프트웨어를 설계하는데 있어서 문제를 인식하고 창의적으로 해결방안을 모색하여 궁극적으로는 창업까지 이어질 수 있도록 교육하는 것을 목적으로 한다.  _x000D_\n현업의 주요 문제들을 과제로 선정하여 실무능력향상에 중점을 두었으며 문제를 명확히 이해하고 분석 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1303,20 +1535,21 @@
             }
         },
         {
-            "id": "COSE394-1",
+            "id": "COSE394",
             "position": {
                 "x": 1760,
                 "y": 100
             },
             "data": {
                 "label": "현장실습및창업실습II",
-                "학수번호": "COSE394-1",
+                "학수번호": "COSE394",
                 "세부전공": null,
                 "전공역량": "공감소통",
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "본 과목은 소프트웨어를 설계하는데 있어서 문제를 인식하고 창의적으로 해결방안을 모색하여 궁극적으로는 창업까지 이어질 수 있도록 교육하는 것을 목적으로 한다.  _x000D_\n현업의 주요 문제들을 과제로 선정하여 실무능력향상에 중점을 두었으며 문제를 명확히 이해하고 분석 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1329,20 +1562,21 @@
             }
         },
         {
-            "id": "COSE394-2",
+            "id": "COSE394",
             "position": {
                 "x": 1760,
                 "y": 200
             },
             "data": {
                 "label": "현장실습및창업실습III",
-                "학수번호": "COSE394-2",
+                "학수번호": "COSE394",
                 "세부전공": null,
                 "전공역량": "공감소통",
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "본 과목은 소프트웨어를 설계하는데 있어서 문제를 인식하고 창의적으로 해결방안을 모색하여 궁극적으로는 창업까지 이어질 수 있도록 교육하는 것을 목적으로 한다.  _x000D_\n현업의 주요 문제들을 과제로 선정하여 실무능력향상에 중점을 두었으며 문제를 명확히 이해하고 분석 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1355,20 +1589,21 @@
             }
         },
         {
-            "id": "COSE394-3",
+            "id": "COSE394",
             "position": {
                 "x": 1760,
                 "y": 300
             },
             "data": {
                 "label": "현장실습및창업실습IV",
-                "학수번호": "COSE394-3",
+                "학수번호": "COSE394",
                 "세부전공": null,
                 "전공역량": "공감소통",
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "본 과목은 소프트웨어를 설계하는데 있어서 문제를 인식하고 창의적으로 해결방안을 모색하여 궁극적으로는 창업까지 이어질 수 있도록 교육하는 것을 목적으로 한다.  _x000D_\n현업의 주요 문제들을 과제로 선정하여 실무능력향상에 중점을 두었으며 문제를 명확히 이해하고 분석 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1394,7 +1629,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "본 과목은 학생들에게 다양한 컴퓨터학 분야의 최신, 첨단 연구 기술들에 대한 세미나를 제공하여, 컴퓨터학과 학생들의 지식 배양 및 시대적 동향에 대한 이해를 높이고자 한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1420,7 +1656,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 2,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "컴퓨터학 전공 교과목들을 이수한 다음, 자신이 희망하는 연구 주제를 선정하고 해당 분야 교수의 지도를 받으며 심화 연구를 수행하는 과목이다. "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1446,7 +1683,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "소프트웨어가 올바르게 동작함을 확인하기 위해 사용되는 이론을 익히고 이를 실제 소프트웨어 검증에 활용해 본다. 소프트웨어 검증을 위한 기초 이론인 전산 논리, 프로그램 분석, 및 자동 증명 기술 등을 다룬다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1472,7 +1710,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "특수목적 컴퓨터시스템인 임베디드시스템의 종류 및 특징에 대해 이해하고 임베디드시스템 예를 사용하여 실습한다. 또한 Wearable 시스템에 대해 살펴본다. 커리큘럼에는 안드로이드 또는 임베디드 리눅스 컴파일 및 포팅, 디바이스드라이버 프로그래밍, 어플리케이션 프로 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1498,7 +1737,35 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "컴퓨터공학의 많은 분야의 문제들은 최적화문제로 귀결되며 문제 해결의 알고리즘 역시 최적화문제의 해를 찾는 과정으로 해석할 수 있다. 본 과목에서는 최적화문제의 기초 이론과 알고리즘 및 응용에 대해 학습한다. 기초이론의 개념으로 볼록집합과 볼록함수에 대해 배우 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE425",
+            "position": {
+                "x": 1760,
+                "y": 900
+            },
+            "data": {
+                "label": "블록체인입문및실습",
+                "학수번호": "COSE425",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "컴퓨터학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "블록체인의 이론을 배우고 기본적인 개념을 실습해 본다. 블록체인 1.0 비트코인의 작동 원리, 블록체인 2.0의 이더리윰의 스마트컨트랙트, 디지털 증서인 NFT (Non-Fungible Token)의 개념을 배우고 이를 텀프로젝트에 적용하여 실제로 디지털 자산을 만들며 공부한다. "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1514,7 +1781,7 @@
             "id": "COSE434",
             "position": {
                 "x": 1760,
-                "y": 900
+                "y": 1000
             },
             "data": {
                 "label": "게임프로그래밍",
@@ -1524,7 +1791,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 2,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "이 과목은 게임 그래픽스와 애니메이션 분야의 기본 주제를 강의한다. 기하 모델링, 라이팅 및 쉐이딩, 프로그래머블 파이프라인 및 쉐이더, 텍스처 매핑, 스키닝 애니메이션, 충돌 탐지 및 처리 등의 주제를 다룬다. 각각의 주제에 대해 DirectX를 이용한 프로그래밍 숙제가"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1540,7 +1808,7 @@
             "id": "COSE451",
             "position": {
                 "x": 1760,
-                "y": 1000
+                "y": 1100
             },
             "data": {
                 "label": "소프트웨어보안",
@@ -1550,7 +1818,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "소프트웨어 보안 기본 개념과 그 응용 기술에 대해 논의한다. 버퍼 오버플 로우 등의 소프트웨어 보안 취약점의 원리와 분석기술, 개발 단계에서 보안 성을 높이기 위한 시큐어 코딩 방법론, 개발 프로세스 별 보안성 점검기술, 보안 취약점을 이용하는 악성코드 원리 및 탐 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1566,7 +1835,7 @@
             "id": "COSE455",
             "position": {
                 "x": 1760,
-                "y": 1100
+                "y": 1200
             },
             "data": {
                 "label": "스타트업프로젝트관리",
@@ -1576,7 +1845,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "스타트업에서의 SW 프로젝트 추진시 착수부터 계획과 실행, 통제를 거쳐 종료할 때까지 프로젝트 수명주기를 관리하는 지식체계를 강의하고자 한다._x000D_\n강의 내용으로는 프로젝트/프로젝트 관리의 기본 개넘, 수명주기, 성공및 실패요인, 프로젝트 관리 관련 중요내용을 ISO215"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1592,7 +1862,7 @@
             "id": "COSE461",
             "position": {
                 "x": 1760,
-                "y": 1200
+                "y": 1300
             },
             "data": {
                 "label": "자연어처리",
@@ -1602,7 +1872,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 4,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "본 과목은 인간과 컴퓨터간의 자연스러운 인터페이스 중 하나인 사람의 언어(자연어)를 컴퓨터가 어떻게 이해하고 생성하는지에 대한 기본 원리와 과정을 학습한다. 이를 위하여 형태소 분석, 구문 분석, 의미 분석 등 언어처리의 각 단계에 대한 통계기반과 규칙기반 알고리"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1618,7 +1889,7 @@
             "id": "COSE471",
             "position": {
                 "x": 1760,
-                "y": 1300
+                "y": 1400
             },
             "data": {
                 "label": "데이터과학",
@@ -1628,7 +1899,35 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "본 과목은 빅데이터로부터 정보를 추출하고 추출된 정보를 분석하여 예측 및 직관을 얻는 일련의 과정을 실제 문제 해결의 관점에서 소개한다. 세부 학습 내용은 대용량데이터를 빠르고 안정적으로 접근하기 위한 빅데이터 관리방법(Big Data Management), 데이터추출 및 정 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE475",
+            "position": {
+                "x": 1760,
+                "y": 1500
+            },
+            "data": {
+                "label": "고급딥러닝",
+                "학수번호": "COSE475",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "컴퓨터학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "딥러닝 기초에 대한 이해를 기반으로 최신 딥러닝 모델과 이론 및 구현, 그리고 최신 연구 동향을 학습한다. 학생들은 실제 문제를 해결하기 위한 고급 딥러닝 모델을 설계하고 훈련할 능력을 함양한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1644,7 +1943,7 @@
             "id": "COSE480",
             "position": {
                 "x": 1760,
-                "y": 1400
+                "y": 1600
             },
             "data": {
                 "label": "산학캡스톤디자인",
@@ -1654,7 +1953,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 2,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "컴퓨터학과 전공 지식을 기반으로 종합적인 공학적 연구와 융합적인 아이디어를 통하여 실용적인 SW 결과물을 도출한다._x000D_\n수강생의 취업 및 창업 시 실무 감각을 배양하고 본인의 SW 이론 및 구현을 자발적으로 함으로서 개인 역량을 강화함을 목적으로 한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1670,7 +1970,7 @@
             "id": "COSE483",
             "position": {
                 "x": 1760,
-                "y": 1500
+                "y": 1700
             },
             "data": {
                 "label": "무선회로설계",
@@ -1680,7 +1980,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "초고주파의 기본원리를 응용한 부품과 시스템을 분석하며, 초고주파 수동회로 설계 및 능동회로 설계를 중점적으로 학습한다. 디자인 SW 이용법을 습득하며, 회로 설계의 측면에서 초고주파 소자의 특성을 분석한 후, coupler, filter, amplifier, mixer, oscillator등을 설 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1696,7 +1997,7 @@
             "id": "COSE485",
             "position": {
                 "x": 1760,
-                "y": 1600
+                "y": 1800
             },
             "data": {
                 "label": "정보이론과추론학습",
@@ -1706,13 +2007,41 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "본 과목은 4학년 학부생을 위한 과목으로서 정보이론과 확률적 추론 방법론을 소개한다. Entropy 와 Capacity의 개념과 이의 핵심적인 응용인 Source Coding theorem 과 Noisy Channel Coding theorem을 소개하고 Monte Carlo  Methods 와 Inference Learning Algorithm 으로"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DATA401",
+            "position": {
+                "x": 1760,
+                "y": 1900
+            },
+            "data": {
+                "label": "데이터시각화",
+                "학수번호": "DATA401",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "데이터과학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 데이터시각화에 관한 내용으로 데이터를 그래픽스를 활용하여 시각화 하는 일련의 과정을 배운다. 접근 가능한 데이터와 문제를 위한 시각화하는 기법들을 배우며, 구체적으로 데이터 모델링, 데이터 프로세싱, 데이터 맵핑, 데이터 인코딩 기술 등을 배운다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
                 "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
@@ -1732,7 +2061,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 2,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "대학원 랩과 공동으로 연구를 진행하는 프로젝트형 과목이다. 본 교과목은 산업체 제안하는 주제별 산학 R&D 프로젝트를 진행하는 것으로 대학원 랩실과 공동 프로젝트에 참여함으로 실전적 SW 역량과 연구 역량, 실무를 향상하는 과정이다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1758,33 +2088,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE425",
-            "position": {
-                "x": 1980,
-                "y": 200
-            },
-            "data": {
-                "label": "블록체인입문및실습",
-                "학수번호": "COSE425",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "최근 인공지능 기술이 접목된 완전자율주행 기술에 관한 연구가 구글, 아마존 등 Tech 업계 및 자동차 업계 중심으로 전세계적으로 활발하게 수행되고 있다. 본 강의에서는 학계 및 산업계에서 활발하게 진행 중인 인고지능 기반 자율주행 관련 최신 주요 연구 및 기반 기술 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1800,7 +2105,7 @@
             "id": "COSE432",
             "position": {
                 "x": 1980,
-                "y": 300
+                "y": 200
             },
             "data": {
                 "label": "인간컴퓨터상호작용입문",
@@ -1810,7 +2115,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "인터액티브 시스템 및 컨텐츠에서 인간과 컴퓨터 사이의 인터액션을 모델링하고 인터페이스를 개발에 대한 기본 원칙, 가이드라인 및 지원도구등을 배우고 실습 및 구현을 통하여 개념을 학습한다.? HCI 관련 인지과학, 2D 및 웹 인터페이스, 3차원 다중양식 인터페이스, 모 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1826,7 +2132,7 @@
             "id": "COSE436",
             "position": {
                 "x": 1980,
-                "y": 400
+                "y": 300
             },
             "data": {
                 "label": "인터렉티브시각화",
@@ -1836,7 +2142,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 4,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "사이버 공간상의 방대한 데이터나 콘텐츠를 컴퓨터 프로그래밍을 이용하여 가시화 시키는 방법을 학습한다. 스마트 미디어에서의 콘텐츠 가시화 방법과 GPU를 이용한 가속화 프로그래밍 수업을 진행한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1852,7 +2159,7 @@
             "id": "COSE441",
             "position": {
                 "x": 1980,
-                "y": 500
+                "y": 400
             },
             "data": {
                 "label": "인터넷프로토콜",
@@ -1862,7 +2169,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "네트워크 통신과 컴퓨터 시스템의 기본적인 이해를 바탕으로 IPv6, 인터넷 QoS 메커니즘, 인증 프로토콜 등에 대하여 학습한다. 주요 내용으로는 P2P, 보안, NGN을 위한 응용 프로토콜과 시스템을 비롯하여 새로운 네트워크 계층 및 트랜스포트 계층의 프로토콜 및 시스템,  "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1878,7 +2186,7 @@
             "id": "COSE444",
             "position": {
                 "x": 1980,
-                "y": 600
+                "y": 500
             },
             "data": {
                 "label": "클라우드컴퓨팅",
@@ -1888,7 +2196,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "이 과목에서는 클라우드컴퓨팅의 개념, 모델, 그리고 구조에 대해 학습한다. 이 과목의 주요 주제는 클라우드를 위한 기술 들로서, 데이터 센터 기술, 가상화 기술, 서비스 기술 등 이다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1904,7 +2213,7 @@
             "id": "COSE446",
             "position": {
                 "x": 1980,
-                "y": 700
+                "y": 600
             },
             "data": {
                 "label": "모바일네트워크",
@@ -1914,7 +2223,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 0,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": null
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1930,7 +2240,7 @@
             "id": "COSE457",
             "position": {
                 "x": 1980,
-                "y": 800
+                "y": 700
             },
             "data": {
                 "label": "실전SW프로젝트",
@@ -1940,7 +2250,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 2,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "본 교과목은 산업체의 기술 수요를 반영한 교과목이다. 본 교과목을 통하여 학생들이 현재 IT 산업의 동향과 기술 이슈를 이해하고, 선수강 한 전공 지식을 활용하여 문제를 해결하는 것이 목적이다._x000D_\n산업체의 기술적 이슈나 문제에 대하여 해당 전문가와 기술 교류를 하고,"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1956,7 +2267,7 @@
             "id": "COSE474",
             "position": {
                 "x": 1980,
-                "y": 900
+                "y": 800
             },
             "data": {
                 "label": "딥러닝",
@@ -1966,33 +2277,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE475",
-            "position": {
-                "x": 1980,
-                "y": 1000
-            },
-            "data": {
-                "label": "고급딥러닝",
-                "학수번호": "COSE475",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "본 과목은 심층 신경망의 이론 및 응용 분야를 고찰한다. 기존의 인공 신경망, CNN, RNN/LSTM, attention model, memory networks, generative adversarial networks 등의 최근 각광을 받고 있는 딥러닝 기법과 이를 학습하는 데 필요한 initialization, normalization, grad"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2008,7 +2294,7 @@
             "id": "COSE484",
             "position": {
                 "x": 1980,
-                "y": 1100
+                "y": 900
             },
             "data": {
                 "label": "무선보안",
@@ -2018,7 +2304,8 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "본 과목에서는 interference 및 jamming이 존재하는 무선통신 환경에서 안정적인 무선통신 구현을 위한 물리적/하드웨어적 대응 기술에 대해서 소개하고, 이를 기반으로 대응 기술 실습을 진행한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2034,7 +2321,7 @@
             "id": "COSE490",
             "position": {
                 "x": 1980,
-                "y": 1200
+                "y": 1000
             },
             "data": {
                 "label": "전산학특강",
@@ -2044,13 +2331,41 @@
                 "개설학과": "컴퓨터학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "전산학 관련한 최신 기술 분야를 소개 하며, 개설 학기마다 주제는 새롭게 선정되어 질 수 있다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DATA403",
+            "position": {
+                "x": 1980,
+                "y": 1100
+            },
+            "data": {
+                "label": "강화학습",
+                "학수번호": "DATA403",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "데이터과학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 강화학습 이론과 실제에 대해 학습하며 딥러닝 기술을 활용한 심층 강화학습 방법을 배운다. 게임 AI, 컴퓨터 비전, 로보틱스, 광고, 자율주행 등 다양한 강화학습 알고리즘의 응용 사례를 학습한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
                 "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
@@ -2314,6 +2629,42 @@
             "id": "recommended-COSE214-COSE471",
             "source": "COSE214",
             "target": "COSE471",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT241-SATA302",
+            "source": "STAT241",
+            "target": "SATA302",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT342-SATA302",
+            "source": "STAT342",
+            "target": "SATA302",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT151-SATA332",
+            "source": "STAT151",
+            "target": "SATA332",
             "type": "step",
             "data": {
                 "type": "recommended"

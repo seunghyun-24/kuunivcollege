@@ -198,7 +198,8 @@
                 "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -224,7 +225,8 @@
                 "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -250,7 +252,8 @@
                 "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -276,7 +279,8 @@
                 "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -302,7 +306,8 @@
                 "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -328,7 +333,8 @@
                 "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -354,7 +360,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "일계함수의 미분과 적분, 적분의 응용, 극좌표계, 수열과 급수, 벡터와 벡터 공간"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -380,7 +387,8 @@
                 "개설학과": "물리학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "대학에서 과학 및 공학을 공부하는 데에 필요한 물리학의 기본지식과 이에 근거한 방법론 및 과학적 사고방식을 가르치는 과목이다. 주요 내용은 물리량을 기술하는 방법, Newton 역학, 파동현상, 열역학이며, 미적분을 이용한 수준이다. 3시간의 강의가 있고, 1시간의 연습 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -406,7 +414,8 @@
                 "개설학과": "물리학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "대학에서 과학 및 공학을 공부하는 데에 필요한 물리학의 기본지식과 이에 근거한 방법론 및 과학적 사고방식을 가르치는 과목이다. 주요 내용은 전자기학, 광학 및 현대물리학이며, 미적분을 이용한 수준이다. 3시간의 강의가 있고, 1시간의 연습시간에 과제물에 대한 문제 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -432,7 +441,8 @@
                 "개설학과": "물리학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "일반물리학및연습 I 에서 강의 및 문제풀이로 배우는 내용을 실험을 통해서 배우는 과목이다. 주요 내용은 date분석법, Newton 역학, 파동현상, 열역학에 관한 실험이다. 한번 3시간 실험으로 진행되며, 2인 1조를 원칙으로 하고, 8개조가 한 반을 구성하여 조교 및 교수의  "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -458,7 +468,8 @@
                 "개설학과": "물리학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "일반물리학및연습 II 에서 강의 및 문제풀이로 배우는 내용을 실험을 통해서 배우는 과목이다. 주요 내용은 date분석법, Newton 역학, 파동현상, 열역학에 관한 실험이다. 한번 3시간 실험으로 진행되며, 2인 1조를 원칙으로 하고, 8개조가 한 반을 구성하여 조교 및 교수의 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -484,7 +495,8 @@
                 "개설학과": "화학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "이공계 분야들에 관련된 화학에 관한 기본개념과 이론들을 강의와 연습을 통해 토의하고, 응용분야들인 환경화학이나 생물화학 및 공업화학 등을 소개 한다"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -510,7 +522,8 @@
                 "개설학과": "화학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "이공계 분야들에 관련된 화학에 관한 기본개념과 이론들을 강의와 연습을 통해 토의하고, 응용분야들인 환경화학이나 생물화학 및 공업화학 등을 소개 한다"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -536,7 +549,8 @@
                 "개설학과": "화학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "일반화학 강의에서 다룬 내용들을 실제 실험을 통하여 화합물의 합성법을 배우고 물성을 측정한다. 또한, 화학에 관련된 실험을 수행하는데 필요한 기본 테크닉들을 익힌다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -562,7 +576,8 @@
                 "개설학과": "화학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "일반화학 강의에서 다룬 내용들을 실제 실험을 통하여 화합물의 합성법을 배우고 물성을 측정한다. 또한, 화학에 관련된 실험을 수행하는데 필요한 기본 테크닉들을 익힌다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -588,7 +603,8 @@
                 "개설학과": "지구환경과학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "지구와 지구 구성물질의 기원과 진화, 그리고 지구의 환경변화를 이해하는 기초과학"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -614,7 +630,8 @@
                 "개설학과": "지구환경과학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "지구와 지구 구성물질의 기원과 진화, 그리고 지구의 환경변화를 이해하는 기초과학"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -640,7 +657,8 @@
                 "개설학과": "지구환경과학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "실험과 관찰을 통하여 지구의 기원과 진화, 그리고 환경변화를 연구하는 능력을 습득"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -666,7 +684,8 @@
                 "개설학과": "지구환경과학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "실험과 관찰을 통하여 지구의 기원과 진화, 그리고 환경변화를 연구하는 능력을 습득"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -692,7 +711,8 @@
                 "개설학과": "생명과학부",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "생명현상의 기본개념을 생물 전반에 걸쳐 이해시킴으로써 순수생물학 응용생물학계열에 필요한 생명과학의 기본원리를 터득하게 한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -718,7 +738,8 @@
                 "개설학과": "생명과학부",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "생명현상의 기본개념을 생물 전반에 걸쳐 이해시킴으로써 순수생물학 응용생물학계열에 필요한 생명과학의 기본원리를 터득하게 한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -744,7 +765,8 @@
                 "개설학과": "생명과학부",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "강의를 통해 들은 생물학의 기본적인 개념을 실제적인 실험을 통해 습득하게 한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -770,7 +792,8 @@
                 "개설학과": "생명과학부",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "강의를 통해 들은 생물학의 기본적인 개념을 실제적인 실험을 통해 습득하게 한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -796,7 +819,8 @@
                 "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅱ는 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 학교에 대한 소속감을 강화하고 창직 및 창업 등의 진로 방향성을 고민해볼 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여  "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -822,7 +846,8 @@
                 "개설학과": null,
                 "개설횟수": 0,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "_x000D_\n이 과목은 데이터를 다루고 분석할 수 있는 역량과 인공지능 기술을 이해하고 자기의 일에 활용할 수 있는 방법을 학습하는 과정이다. 기초적인 데이터과학 및 인공지능 핵심 개념을 학습하고, 각 계열별 특성에 맞는 데이터를 활용한 실습을 통해 실제 데이터를 다루고 인"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -848,7 +873,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "다변수 함수의 미분, 다중적분, 선적분, 곡면적분, 발산정리"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -874,7 +900,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "수학 문제를 계산하는 프로그램을 작성하는데 필요한 최소한의 지식과 기술, 다른 연구자들과 컴퓨터를 통해 협업하는 방법, 컴퓨터로 수식이 포함된 문서를 작성하는 방법 등을 소개한다. "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -900,7 +927,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "리만-스틸쩨스 적분, 함수열과 함수의 무한합, 균등 수렴, 푸리에 급수, 다변수 함수, 미분형식의 적분, 스톡스의 정리"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -926,7 +954,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "단독 선형사상의 이론, 쌍대 벡터공간과 다중 선형 대수, 직교 그리고 유니터리 변환."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -952,7 +981,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "다양한 수학이론의 모델이 되는 고전기하학의 여러 이론들을 통하여 현대수학의 방법론을 익힌다. 특히 비유클리드 기하학을 통하여 쌍대성, 사영성, 쌍곡성, 기하학에서 보이는 군(群)의 구조, 거리구조 등을 공부하고 이러한 개념이 여러 학문 분야에 어떻게 응용되는가를 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -978,7 +1008,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "일차 상미분 방성식, 이차 선형 상미분 방정식, 이차 선형 상미분 방정식에 대한 급수해, 고차 선형 상미분 방정식, Laplace 변환"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1004,7 +1035,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 2,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "미분방정식에 이은 강의로서 Boundary value problem, Sturm-Liouville 이론, Linear Systems, Oscillation theory, Stability theory 등에서 골라서 다룬다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1030,7 +1062,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 4,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "이 과목은 현대적 인공지능/기계학습/데이터과학의 저변에 수학이 어떤 기여를 하고 있는지에 대한 개괄적 접근을 다룹니다. 대표적인 인공지능/기계학습 알고리즘들에 쓰인 수학적 개념을 공부하게 됩니다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1056,7 +1089,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "유클리드 공간의 기본적 위상 연속성, 수렴성, 평등 수렴성, 급수, 수렴 판정법, 미분, 역함수 및 음함수 정리"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1082,7 +1116,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "벡터 공간과 연립 일차 방정식, 선형사상과 행렬, 내적 벡터 공간, 행렬식"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1108,7 +1143,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 4,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "공리계, 대수적 구조, 기하의 기초, 연속성의 기초"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1134,7 +1170,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "수학적 귀납법, 기본 산술법, 그래프와 트리, 알고리즘, 생성함수, 대수적 구조"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1160,7 +1197,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 4,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "가분성, 소수, 합동, 이차 상관관계, 페어리 수열, 오일러 파이 함수, 페르마 마지막 정리."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1186,7 +1224,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "복소선적분, 해석함수, 코쉬정리, 급수표현, 해석함수의 영점, 최대정리, 특이점, 나머지 미적분학"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1212,7 +1251,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "군, 부분군, 잉여류, 동형정리, Sylow 정리, 환, 이디얼, 상체, 다항식 환, 주 이디얼 영역, 유클리드 환."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1238,7 +1278,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "유클리드 공간의 접벡터와 미분형식, 벡터해석의 기초이론, 곡선과 Frenet 공식, 평면 및 공간곡선의 시각화, 여러 가지 곡면, 공간곡면의 시각화, 가우스곡률과 평균곡률, 곡률의 계산, 측지선."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1264,7 +1305,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "위상수학의 입문과정으로 위상공간 및 거리공간, 연속함수, 동형사상, 콤펙트 공간, 긴밀공간, 그리고 분리공리 등을 다룬다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1290,7 +1332,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "확률변수, 분포함수, 기대치, 조건부기대치와 같은 확률론의 기본개념과 극한 정리를 다루고 추정과 가설 검증과 같은 수리통계학 이론을 다룬다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1316,7 +1359,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "딥러닝은 업계에서 가장 요구되는 핵심 기술입니다. 이 과정에서는 딥러닝을 잘 할 수 있도록 도움을 줍니다. 딥러닝의 기초를 배우고, 신경망을 구축하는 방법을 이해합니다. 핵심 내용으로 MLP, Backpropagation, Activations, Optimizers, Dropout, BatchNorm, Convolutio"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1342,7 +1386,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "비선형 방정식의 근, 함수의 근사값 및 이론. 수치 적분, 선형 연립 방정식의 근."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1368,7 +1413,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 4,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "기초적인 확률론 이론을 사용하여 확률적인 현상을 표현하는 여러 가지 확률 과정 중에서 기초적이고, 중요한 Poisson 확률과정, Markovdustho, Markov 확률과정, Brownian 운동 등과 실제응용을 다룬다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1394,7 +1440,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "해석함수의 함수적 성질, 리만함수정리, 조화함수, 최대원리, 평균값 성질, 포아슨 적분표현, 해석적확장, 무한곱, 특수함수"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1420,7 +1467,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "체, 확대체, 대수적 원소, 초월대수적 원소, 유한제, 함수제, 갈로아 이론, 다항식의 대수적 해법 등을 다룬다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1446,7 +1494,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 2,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "변분법과 측지선, 곡면의 완비성, 등거리변환, 평행이동과 측지곡률, 리만곡률텐서, 가우스-보네의 정리, 측지좌표계, 이 밖에 다음 주제 가운데서 선택적으로 강의: 극소곡면과 상수평균곡률곡면, 컴퓨터를 이용한 극소곡면과 상수평균곡률곡면의 시각화, 변분법의 이론과  "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1472,7 +1521,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 4,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "곡면의 분류, 오일러 지표, 기본군 등을 공부하고 그것의 응용에 대해서 배운다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1498,7 +1548,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 2,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "딥러닝은 업계에서 가장 요구되는 핵심 기술입니다. 이 과정에서는 고급 과정의 딥러닝을 잘 할 수 있도록 도움을 줍니다. 핵심 내용으로 Auto-Encoder, VAE, GANs, MDP, Bellman Equation, Reinforcement Learning (Monte Carlo, Sarsa, Q-learning), Deep Reinforcement Le"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1524,7 +1575,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "Lebesque 측도, Lebesque 적분, Lp 공간, Hibert 공간, 쌍대공간"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1550,7 +1602,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "군의 표현론, 수리암호론, 계산대수학, 대수기하론 등의 주제를 다룬다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1576,7 +1629,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 4,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "Fourier 급수, 파동 방정식, 열전달 방정식, Laplace 방정식, 특수 함수, 존재 정리 및 유일성 정리."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1602,7 +1656,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "재무이론에서 다루는 파생금융상품, 이자율모형, 위험관리등을 확률론, 편미분방정식, 수치해석학 등과 같은 수학 이론에 기반하여 다룬다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1628,7 +1683,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "이 과목에서는 인공지능/기계학습/데이터과학 알고리즘들의 근간을 구성하는 이론적인 핵심 요소들에 대해 개괄적으로 살펴보게 됩니다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1654,7 +1710,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 1,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": null
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1680,7 +1737,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "유한체이론, 다항식 환 이론, 타원 곡선이론, RSA 시스템 ECC시스템, XTR 시스템, NTRU 시스템, 코딩이론."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1706,7 +1764,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 3,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "순열과 조합, 생성함수, 점화관계, 포함과 배제, Polya의 산출."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1732,7 +1791,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 2,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "기초 확률론, 통게 추론, 위험 모형, 손해 분포, 위험 보험료, 경험 요율, 생명보험이론 및 연금, 인구 이론."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1758,7 +1818,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 5,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "자연현상이나 산업현장에서 발생하는 문제들을 수리적으로 모델링하고 해석하는 데에 필요한 수학의 기초이론 및 방법론에 대하여 공부한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1784,7 +1845,8 @@
                 "개설학과": "수학과",
                 "개설횟수": 2,
                 "내용": null,
-                "메모": null
+                "메모": null,
+                "syllabus_kr": "확률론 분야의 최근 연구동향을 반영하여 특별한 주제를 선정하여 개설한다. 강의 내용은 개설학기에 따라 다를 수 있다."
             },
             "type": "customNode",
             "sourcePosition": "Right",

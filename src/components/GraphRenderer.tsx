@@ -77,6 +77,7 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
         node.data?.개설횟수,
         node.data?.내용,
         node.data?.메모,
+        node.data?.syllabus_kr,
       ]
         .filter(Boolean)
         .join(" | "),
