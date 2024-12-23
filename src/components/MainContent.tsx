@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
-import { useEdgesState, useNodesState } from "react-flow-renderer";
+import { Position, useEdgesState, useNodesState } from "@xyflow/react";
+import "@xyflow/react/dist/style.css";
 import styles from "../styles/MainContent.module.css";
-import { getLayoutedNodesAndEdges } from "../utils/layoutEngine";
 import GraphRenderer from "./GraphRenderer";
 
 interface MainContentProps {
@@ -19,14 +19,15 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
       setLoading(true);
       import(`../assets/college/${department}.json`)
         .then((data) => {
-          const {
-            nodes: layoutedNodes,
-            edges: layoutedEdges,
-            // columnPositions,
-          } = getLayoutedNodesAndEdges(data.nodes, data.edges);
-
-          setNodes(layoutedNodes);
-          setEdges(layoutedEdges);
+          setNodes(
+            data.nodes.map((node: any) => ({
+              ...node,
+              position: node.position || { x: 0, y: 0 },
+              sourcePosition: Position.Right,
+              targetPosition: Position.Left,
+            }))
+          );
+          setEdges(data.edges);
         })
         .catch((error) => {
           console.error("데이터 로드에 실패했습니다.", error);
@@ -35,7 +36,16 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
         })
         .finally(() => setLoading(false));
     }
-  }, [department, setEdges, setNodes]);
+  }, [department]);
+
+  const handleBoundsChange = (bounds: { width: number; height: number }) => {
+    if (
+      bounds.width !== graphBounds.width ||
+      bounds.height !== graphBounds.height
+    ) {
+      setGraphBounds(bounds);
+    }
+  };
 
   return (
     <div
@@ -53,7 +63,7 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
           <GraphRenderer
             nodes={nodes}
             edges={edges}
-            onBoundsChange={(bounds) => setGraphBounds(bounds)} // 그래프 크기 업데이트
+            onBoundsChange={handleBoundsChange}
           />
         ) : (
           // <AutoLayoutFlow />

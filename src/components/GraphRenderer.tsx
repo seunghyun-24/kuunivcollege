@@ -1,12 +1,12 @@
 import React, { useCallback, useEffect, useState } from "react";
-import ReactFlow, {
+import {
   Background,
   Controls,
   useNodesState,
   useEdgesState,
-  ReactFlowInstance,
-} from "react-flow-renderer";
-// import { Controls } from "@xyflow/react";
+  ReactFlow,
+} from "@xyflow/react";
+import "@xyflow/react/dist/style.css";
 import "../styles/ReactFlowStyles.css";
 import { CustomNode, YearNode, SemesterNode } from "../styles/CustomNode";
 import { findConnectedNodesAndEdges } from "../utils/calculateRelationCourses";
@@ -59,11 +59,9 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
     setConnectedEdgeIds(new Set());
   };
 
-  // 강조 스타일 적용
   const styledNodesWithHighlight = styledNodes.map((node) => ({
     ...node,
     style: {
-      //border: "1px solid #000",
       ...node.style,
       opacity:
         hoveredNodeId === null || connectedNodeIds.has(node.id) ? 1 : 0.3,
@@ -96,7 +94,7 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
         ? "#ff0000"
         : "#7e7e7e",
       opacity:
-        hoveredNodeId === null ? 1 : connectedEdgeIds.has(edge.id) ? 1 : 0.3,
+        hoveredNodeId === null ? 1 : connectedEdgeIds.has(edge.id) ? 1 : 0.1,
       strokeWidth:
         hoveredNodeId === null ? 1 : connectedEdgeIds.has(edge.id) ? 2 : 1,
     },
@@ -106,51 +104,27 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
   const calculateGraphBounds = useCallback(() => {
     const maxX = Math.max(...styledNodes.map((node) => node.position.x), 600);
     const maxY = Math.max(
-      ...styledNodes.map((node) => node.position.y - 600),
+      ...styledNodes.map((node) => node.position.y * 0.6),
       1000
     );
     return { width: maxX, height: maxY };
   }, [styledNodes]);
 
-  const [reactFlowInstance, setReactFlowInstance] =
-    useState<ReactFlowInstance | null>(null);
+  const topY = Math.min(...styledNodes.map((node) => node.position.y));
+  const minX = Math.min(...nodes.map((node) => node.position.x));
 
-  const handleFitView = useCallback(() => {
-    if (!reactFlowInstance) return;
-
-    const topY = Math.min(...styledNodes.map((node) => node.position.y));
-    const minX = Math.min(...nodes.map((node) => node.position.x));
-    reactFlowInstance.zoomTo(0.5);
-
-    reactFlowInstance.fitView({
-      padding: 0,
-      includeHiddenNodes: true,
-    });
-
-    reactFlowInstance.setViewport({
-      x: -minX * 0.5,
-      y: -topY * 0.5,
-      zoom: 0.5,
-    });
-  }, [nodes, reactFlowInstance, styledNodes]);
-
-  const handleInit = useCallback(
-    (instance: ReactFlowInstance) => {
-      setReactFlowInstance(instance);
-    },
-    [setReactFlowInstance]
-  );
-
-  useEffect(() => {
-    if (reactFlowInstance) {
-      handleFitView();
-    }
-  }, [reactFlowInstance, handleFitView]);
+  const [previousBounds, setPreviousBounds] = useState({ width: 0, height: 0 });
 
   useEffect(() => {
     const bounds = calculateGraphBounds();
-    onBoundsChange(bounds);
-  }, [calculateGraphBounds, onBoundsChange]);
+    if (
+      bounds.width !== previousBounds.width ||
+      bounds.height !== previousBounds.height
+    ) {
+      setPreviousBounds(bounds);
+      onBoundsChange(bounds);
+    }
+  }, [styledNodes, calculateGraphBounds, onBoundsChange, previousBounds]);
 
   return (
     <>
@@ -162,21 +136,17 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
           onEdgesChange={onEdgesChange}
           onNodeMouseEnter={handleNodeMouseEnter}
           onNodeMouseLeave={handleNodeMouseLeave}
-          onInit={handleInit}
           nodeTypes={nodeTypes}
           zoomOnScroll={true}
           panOnDrag={true}
+          viewport={{ x: -minX * 0.5, y: -topY * 0.5, zoom: 0.5 }}
           maxZoom={2.0}
           minZoom={0.5}
           nodesConnectable={false}
           nodesDraggable={false}
-          attributionPosition={undefined}
         >
           <Background color="#ddd" gap={16} />
-          <Controls
-            className="custom-controls"
-            onFitView={() => handleFitView()}
-          />
+          <Controls position="top-right" />
         </ReactFlow>
       </div>
     </>

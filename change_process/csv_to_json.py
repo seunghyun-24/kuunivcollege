@@ -51,10 +51,6 @@ csv_files = [
     "42_심리학부_심리학부.csv"
 ]
 
-# csv_files = [
-#     "00_정보대학_컴퓨터학과.csv",
-# ]
-
 input_directory = "./course_csv"
 output_directory = "./course_files"
 os.makedirs(output_directory, exist_ok=True)
