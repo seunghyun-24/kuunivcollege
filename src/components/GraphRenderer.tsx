@@ -100,6 +100,10 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
         hoveredNodeId === null ? 1 : connectedEdgeIds.has(edge.id) ? 2 : 1,
     },
     animated: hoveredNodeId !== null && connectedEdgeIds.has(edge.id),
+    markerEnd: {
+      type: "arrowclosed",
+      color: connectedEdgeIds.has(edge.id) ? "#007bff" : "#7e7e7e",
+    },
   }));
 
   const calculateGraphBounds = useCallback(() => {

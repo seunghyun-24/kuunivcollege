@@ -31,16 +31,6 @@
   fill: none; /* 내부 채우기 제거 */
 }
 
-.reactflow-container .react-flow__edge-path.custom-edge-required {
-  stroke: #ff0000; /* 필수 엣지: 빨간색 */
-  stroke-width: 2; /* 선 두께 */
-}
-
-.reactflow-container .react-flow__edge-path.custom-edge-optional {
-  stroke: #ff0000; /* 선택 엣지: 연한 회색 */
-  stroke-width: 2;
-}
-
 .react-tooltip {
   z-index: 1000;
   background-color: white;
