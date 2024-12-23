@@ -10,6 +10,7 @@ import {
 import "@xyflow/react/dist/style.css";
 import "../styles/ReactFlowStyles.css";
 import { CustomNode, YearNode, SemesterNode } from "../styles/CustomNode";
+import DownloadButton from "./DownloadButton";
 import { findConnectedNodesAndEdges } from "../utils/calculateRelationCourses";
 
 const nodeTypes = {
@@ -146,10 +147,18 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
     }
   }, [reactFlowInstance, handleFitView]);
 
+  const [previousBounds, setPreviousBounds] = useState({ width: 0, height: 0 });
+
   useEffect(() => {
     const bounds = calculateGraphBounds();
-    onBoundsChange(bounds);
-  }, [calculateGraphBounds, onBoundsChange]);
+    if (
+      bounds.width !== previousBounds.width ||
+      bounds.height !== previousBounds.height
+    ) {
+      setPreviousBounds(bounds);
+      onBoundsChange(bounds);
+    }
+  }, [styledNodes, calculateGraphBounds, onBoundsChange, previousBounds]);
 
   return (
     <>
@@ -161,8 +170,8 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
           onEdgesChange={onEdgesChange}
           onNodeMouseEnter={handleNodeMouseEnter}
           onNodeMouseLeave={handleNodeMouseLeave}
-          onInit={handleInit}
           nodeTypes={nodeTypes}
+          fitView={true}
           zoomOnScroll={true}
           panOnDrag={true}
           maxZoom={2.0}
@@ -172,10 +181,8 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
           attributionPosition={undefined}
         >
           <Background color="#ddd" gap={16} />
-          <Controls
-            className="custom-controls"
-            onFitView={() => handleFitView()}
-          />
+          <Controls position="top-right" orientation="horizontal" />
+          <DownloadButton />
         </ReactFlow>
       </div>
     </>

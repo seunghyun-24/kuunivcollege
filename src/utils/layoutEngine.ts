@@ -9,37 +9,41 @@ export const getLayoutedNodesAndEdges = (
   edges: Edge[],
   direction: "TB" | "LR" = "TB"
 ): { nodes: Node[]; edges: Edge[]; columnPositions: number[] } => {
-  // 기본 간격 설정
   const nodeGapX = direction === "LR" ? 200 : 150;
   const nodeGapY = direction === "TB" ? 100 : 50;
 
-  // 사용자 정의 레이아웃 노드 배치
   const layoutedNodes = nodes.map((node, index) => {
-    // 간단한 열 기반 배치 (X: 열 간격, Y: 행 간격)
-    const row = Math.floor(index / 3); // 3개씩 한 줄로 배치 (가변적으로 변경 가능)
-    const column = index % 3;
-
-    const x = column * nodeGapX; // 열 기준 X 좌표
-    const y = row * nodeGapY; // 행 기준 Y 좌표
+    const x =
+      node.position.x !== undefined ? node.position.x : index * nodeGapX;
+    const y =
+      node.position.y !== undefined ? node.position.y : index * nodeGapY;
 
     return {
       ...node,
       position: { x, y },
-      sourcePosition: direction === "TB" ? Position.Top : Position.Left,
-      targetPosition: direction === "TB" ? Position.Bottom : Position.Right,
+      sourcePosition: direction === "TB" ? Position.Bottom : Position.Right,
+      targetPosition: direction === "TB" ? Position.Top : Position.Left,
     };
   });
 
-  // 간단한 Edge 계산 (직선 또는 꺾인 선 경로)
   const layoutedEdges = edges.map((edge) => {
     const sourceNode = layoutedNodes.find((n) => n.id === edge.source);
     const targetNode = layoutedNodes.find((n) => n.id === edge.target);
 
     if (!sourceNode || !targetNode) return edge;
 
+    const sourceX = sourceNode.position.x + nodeWidth / 2;
+    const sourceY = sourceNode.position.y;
+    const targetX = targetNode.position.x - nodeWidth / 2;
+    const targetY = targetNode.position.y;
+
+    const midX = sourceX + (targetX - sourceX) * 0.5;
+    // const midY = sourceY + (targetY - sourceY) * 0.5;
     const points = [
-      { x: sourceNode.position.x + nodeWidth / 2, y: sourceNode.position.y },
-      { x: targetNode.position.x - nodeWidth / 2, y: targetNode.position.y },
+      { x: sourceX, y: sourceY },
+      { x: midX, y: sourceY },
+      { x: midX, y: targetY },
+      { x: targetX, y: targetY },
     ];
 
     return {
@@ -53,15 +57,9 @@ export const getLayoutedNodesAndEdges = (
     };
   });
 
-  // 열 위치 계산
-  const columnPositions = layoutedNodes.map((node) => node.position.x);
-  const uniqueColumnPositions = Array.from(new Set(columnPositions)).sort(
-    (a, b) => a - b
-  );
+  const allX = layoutedNodes.map((node) => node.position.x);
+  const columnPos = new Set<number>(allX);
+  const columnPositions = Array.from(columnPos).sort((a, b) => a - b);
 
-  return {
-    nodes: layoutedNodes,
-    edges: layoutedEdges,
-    columnPositions: uniqueColumnPositions,
-  };
+  return { nodes: layoutedNodes, edges: layoutedEdges, columnPositions };
 };

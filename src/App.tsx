@@ -17,17 +17,18 @@ const App: React.FC = () => {
   };
 
   return (
-    <div className="app">
-      <Header />
-      {/* <ImageSlider /> */}
-      <SelectionBar onDepartmentClick={handleDepartmentClick} />
-      <div className="content-container">
-        <SideBar department={selectedDepartment} />
-
-        <MainContent department={selectedDepartment} />
+    <ReactFlowProvider>
+      <div className="app">
+        <Header />
+        {/* <ImageSlider /> */}
+        <SelectionBar onDepartmentClick={handleDepartmentClick} />
+        <div className="content-container">
+          <SideBar department={selectedDepartment} />
+          <MainContent department={selectedDepartment} />
+        </div>
+        <Footer />
       </div>
-      <Footer />
-    </div>
+    </ReactFlowProvider>
   );
 };
 
