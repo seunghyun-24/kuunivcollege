@@ -1,17 +1,67 @@
 import React from "react";
 
 export const InformationBox = () => {
+  const nodeColors = {
+    학문의기초: "#f8f8f8",
+    교양필수: "#C8E6C9",
+    교양선택: "#f8f8f8",
+    전공필수: "#D1C4E9",
+    전공선택: "#f8f8f8",
+    전공필수선택: "#FFD180",
+    전공인정: "#FFFFFF",
+    기타: "#FFFFFF",
+  };
+
+  const nodeLineColors = {
+    학문의기초: "#ff3c3c",
+    교양필수: "#92c3a5",
+    교양선택: "#F8BBD0",
+    전공필수: "#9a49c2",
+    전공선택: "#8f8f8f",
+    전공필수선택: "#dbaf64",
+    전공인정: "#8f8f8f",
+    기타: "#ccc",
+  };
+
   const legendItems = [
-    { color: "#FFECB3", label: "학문의기초" },
-    { color: "#C8E6C9", label: "교양필수" },
-    { color: "#B3E5FC", label: "교양선택" },
-    { color: "#D1C4E9", label: "전공필수" },
-    { color: "#F8BBD0", label: "전공선택" },
-    { color: "#FFD180", label: "전공필수선택" },
-    { color: "#FFFFFF", label: "전공인정" },
+    {
+      color: nodeColors["학문의기초"],
+      lineColor: nodeLineColors["학문의기초"],
+      label: "학문의기초",
+    },
+    {
+      color: nodeColors["교양필수"],
+      lineColor: nodeLineColors["교양필수"],
+      label: "교양필수",
+    },
+    {
+      color: nodeColors["교양선택"],
+      lineColor: nodeLineColors["교양선택"],
+      label: "교양선택",
+    },
+    {
+      color: nodeColors["전공필수"],
+      lineColor: nodeLineColors["전공필수"],
+      label: "전공필수",
+    },
+    {
+      color: nodeColors["전공선택"],
+      lineColor: nodeLineColors["전공선택"],
+      label: "전공선택",
+    },
+    {
+      color: nodeColors["전공필수선택"],
+      lineColor: nodeLineColors["전공필수선택"],
+      label: "전공필수선택",
+    },
+    {
+      color: nodeColors["전공인정"],
+      lineColor: nodeLineColors["전공인정"],
+      label: "전공인정",
+    },
     { type: "edge", color: "#ff0000", label: "필수 선수과목" },
     { type: "edge", color: "#333", label: "권장 선수과목" },
-    { type: "gauge", value: 3, label: "최근 5년 간 개설" }, // value: 게이지 값 (1~5)
+    { type: "gauge", value: 3, label: "최근 5년 간 개설" },
   ];
 
   return (
@@ -44,15 +94,16 @@ export const InformationBox = () => {
               <span style={{ marginLeft: "10px" }}>{item.label}</span>
             </div>
           ) : (
-            <div
-              style={{
-                ...colorBoxStyle,
-                backgroundColor: item.color || "transparent",
-              }}
-            ></div>
-          )}
-          {item.type !== "gauge" && (
-            <span style={labelStyle}>{item.label}</span>
+            <>
+              <div
+                style={{
+                  ...colorBoxStyle,
+                  backgroundColor: item.color || "transparent",
+                  border: `2px solid ${item.lineColor || "transparent"}`,
+                }}
+              ></div>
+              <span style={labelStyle}>{item.label}</span>
+            </>
           )}
         </div>
       ))}

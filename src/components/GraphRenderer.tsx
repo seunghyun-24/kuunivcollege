@@ -5,12 +5,10 @@ import {
   useNodesState,
   useEdgesState,
   ReactFlow,
-  ReactFlowInstance,
 } from "@xyflow/react";
 import "@xyflow/react/dist/style.css";
 import "../styles/ReactFlowStyles.css";
 import { CustomNode, YearNode, SemesterNode } from "../styles/CustomNode";
-import DownloadButton from "./DownloadButton";
 import { findConnectedNodesAndEdges } from "../utils/calculateRelationCourses";
 
 const nodeTypes = {
@@ -96,7 +94,7 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
         ? "#ff0000"
         : "#7e7e7e",
       opacity:
-        hoveredNodeId === null ? 1 : connectedEdgeIds.has(edge.id) ? 1 : 0.3,
+        hoveredNodeId === null ? 1 : connectedEdgeIds.has(edge.id) ? 1 : 0.1,
       strokeWidth:
         hoveredNodeId === null ? 1 : connectedEdgeIds.has(edge.id) ? 2 : 1,
     },
@@ -106,46 +104,14 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
   const calculateGraphBounds = useCallback(() => {
     const maxX = Math.max(...styledNodes.map((node) => node.position.x), 600);
     const maxY = Math.max(
-      ...styledNodes.map((node) => node.position.y - 600),
+      ...styledNodes.map((node) => node.position.y * 0.6),
       1000
     );
     return { width: maxX, height: maxY };
   }, [styledNodes]);
 
-  const [reactFlowInstance, setReactFlowInstance] =
-    useState<ReactFlowInstance | null>(null);
-
-  const handleFitView = useCallback(() => {
-    if (!reactFlowInstance) return;
-
-    const topY = Math.min(...styledNodes.map((node) => node.position.y));
-    const minX = Math.min(...nodes.map((node) => node.position.x));
-    reactFlowInstance.zoomTo(0.5);
-
-    reactFlowInstance.fitView({
-      padding: 0,
-      includeHiddenNodes: true,
-    });
-
-    reactFlowInstance.setViewport({
-      x: -minX * 0.5,
-      y: -topY * 0.5,
-      zoom: 0.5,
-    });
-  }, [nodes, reactFlowInstance, styledNodes]);
-
-  const handleInit = useCallback(
-    (instance: ReactFlowInstance) => {
-      setReactFlowInstance(instance);
-    },
-    [setReactFlowInstance]
-  );
-
-  useEffect(() => {
-    if (reactFlowInstance) {
-      handleFitView();
-    }
-  }, [reactFlowInstance, handleFitView]);
+  const topY = Math.min(...styledNodes.map((node) => node.position.y));
+  const minX = Math.min(...nodes.map((node) => node.position.x));
 
   const [previousBounds, setPreviousBounds] = useState({ width: 0, height: 0 });
 
@@ -171,18 +137,16 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
           onNodeMouseEnter={handleNodeMouseEnter}
           onNodeMouseLeave={handleNodeMouseLeave}
           nodeTypes={nodeTypes}
-          fitView={true}
           zoomOnScroll={true}
           panOnDrag={true}
+          viewport={{ x: -minX * 0.5, y: -topY * 0.5, zoom: 0.5 }}
           maxZoom={2.0}
           minZoom={0.5}
           nodesConnectable={false}
           nodesDraggable={false}
-          attributionPosition={undefined}
         >
           <Background color="#ddd" gap={16} />
-          <Controls position="top-right" orientation="horizontal" />
-          <DownloadButton />
+          <Controls position="top-right" />
         </ReactFlow>
       </div>
     </>

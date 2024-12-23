@@ -1,11 +1,3 @@
-.reactflow-container {
-  width: 100%; /* 화면 전체 너비 */
-  height: 100%; /* 화면 전체 높이 */
-  overflow: auto; /* 잘리는 경우 스크롤 추가 */
-  position: relative; /* 자식 요소의 위치를 기준으로 설정 */
-  background: #f5f5f5; /* 배경색 설정 */
-}
-
 .mainContent {
   position: relative;
   width: 100%;
@@ -17,11 +9,12 @@
   position: relative;
   width: 100%;
   height: 100%;
+  overflow: hidden;
 }
 .reactflow-graph {
   width: 100%;
   height: 100%;
-  overflow: visible; /* 그래프가 초과하면 표시 */
+  overflow: visible;
 }
 
 .custom-controls {
