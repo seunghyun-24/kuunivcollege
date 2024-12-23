@@ -61,7 +61,7 @@ export const InformationBox = () => {
     },
     { type: "edge", color: "#ff0000", label: "필수 선수과목" },
     { type: "edge", color: "#333", label: "권장 선수과목" },
-    { type: "gauge", value: 3, label: "최근 5년 간 개설" },
+    { type: "gauge", value: 3, label: "최근 5년 간 개설 횟수" },
   ];
 
   return (
@@ -69,8 +69,18 @@ export const InformationBox = () => {
       {legendItems.map((item, index) => (
         <div key={index} style={legendItemStyle}>
           {item.type === "edge" ? (
-            <svg width="50" height="10" style={{ marginRight: "10px" }}>
-              <line x1="0" y1="5" x2="50" y2="5" stroke={item.color} />
+            <svg width="200" height="20" style={{ marginRight: "10px" }}>
+              <line
+                x1="0"
+                y1="10"
+                x2="50"
+                y2="10"
+                stroke={item.color}
+                strokeWidth="2"
+              />
+              <text x="60" y="15" fill="#333" fontSize="12px">
+                {item.label}
+              </text>
             </svg>
           ) : item.type === "gauge" ? (
             <div style={{ display: "flex", alignItems: "center" }}>
