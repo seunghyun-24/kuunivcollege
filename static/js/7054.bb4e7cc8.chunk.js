@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkuunivcollege=self.webpackChunkkuunivcollege||[]).push([[7054],{7054:e=>{e.exports=JSON.parse('{"university":"\ubb38\uacfc\ub300\ud559","logo":"\ubb38\uacfc\ub300\ud559.jpg","homepage":"http://kuruss.korea.ac.kr/kuruss/index.do","roadmap":"","department":"\ub178\uc5b4\ub178\ubb38\ud559\uacfc"}')}}]);

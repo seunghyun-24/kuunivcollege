@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkuunivcollege=self.webpackChunkkuunivcollege||[]).push([[394],{394:e=>{e.exports=JSON.parse('{"university":"\ubcf4\uac74\uacfc\ud559\ub300\ud559","logo":"\ubcf4\uac74\uacfc\ud559\ub300\ud559.jpg","homepage":"https://bsm.korea.ac.kr/bsm/index.do","roadmap":"","department":"\ubc14\uc774\uc624\uc2dc\uc2a4\ud15c\uc758\uacfc\ud559\ubd80"}')}}]);
