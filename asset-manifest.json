@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kuunivcollege/static/css/main.23d86289.css",
-    "main.js": "/kuunivcollege/static/js/main.1f54bba4.js",
+    "main.css": "/kuunivcollege/static/css/main.4de7a532.css",
+    "main.js": "/kuunivcollege/static/js/main.6af7bf85.js",
     "static/js/3855.786f9564.chunk.js": "/kuunivcollege/static/js/3855.786f9564.chunk.js",
     "static/js/7900.619478be.chunk.js": "/kuunivcollege/static/js/7900.619478be.chunk.js",
     "static/js/9215.5370fad9.chunk.js": "/kuunivcollege/static/js/9215.5370fad9.chunk.js",
@@ -91,6 +91,7 @@
     "static/js/9837.b4f98655.chunk.js": "/kuunivcollege/static/js/9837.b4f98655.chunk.js",
     "static/js/6453.c4ae4371.chunk.js": "/kuunivcollege/static/js/6453.c4ae4371.chunk.js",
     "static/media/건축사회환경공학부.png": "/kuunivcollege/static/media/건축사회환경공학부.ba87926480d91f8f3a82.png",
+    "static/media/KUCentennial.ttf": "/kuunivcollege/static/media/KUCentennial.20be2b6b08d1752c8b98.ttf",
     "static/media/컴퓨터학과.png": "/kuunivcollege/static/media/컴퓨터학과.baceeea88cda075a9686.png",
     "static/media/화공생명공학과.png": "/kuunivcollege/static/media/화공생명공학과.949e4427d83301300016.png",
     "static/media/전기전자공학부.png": "/kuunivcollege/static/media/전기전자공학부.ddfd7fe1a8b3e37c2d88.png",
@@ -101,12 +102,12 @@
     "static/media/logo.png": "/kuunivcollege/static/media/logo.6635bb8736518a7ea2ff.png",
     "static/media/심리학부.jpg": "/kuunivcollege/static/media/심리학부.9661f9d18096b9af7589.jpg",
     "index.html": "/kuunivcollege/index.html",
-    "main.23d86289.css.map": "/kuunivcollege/static/css/main.23d86289.css.map",
-    "main.1f54bba4.js.map": "/kuunivcollege/static/js/main.1f54bba4.js.map",
+    "main.4de7a532.css.map": "/kuunivcollege/static/css/main.4de7a532.css.map",
+    "main.6af7bf85.js.map": "/kuunivcollege/static/js/main.6af7bf85.js.map",
     "6453.c4ae4371.chunk.js.map": "/kuunivcollege/static/js/6453.c4ae4371.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23d86289.css",
-    "static/js/main.1f54bba4.js"
+    "static/css/main.4de7a532.css",
+    "static/js/main.6af7bf85.js"
   ]
 }
