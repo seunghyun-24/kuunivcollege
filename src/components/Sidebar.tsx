@@ -47,6 +47,12 @@ const SideBar: React.FC<SideBarProps> = ({ department }) => {
       </div>
       <h2 className={styles.collegeName}>{departmentInfo.university}</h2>
       <h3 className={styles.departmentName}>{departmentInfo.department}</h3>
+      <p className={styles.description}>
+        본 로드맵은 학과에서 제공하는 교육정보를 바탕으로 제작되었습니다. <br />
+        {/* 이 로드맵은 학과의 <strong>커리큘럼과 강의정보</strong>를 체계적으로
+        탐색할 수 있도록 설계되었습니다. 학업 계획을 세우는 데 유용한 자료로
+        활용하시기 바랍니다. */}
+      </p>
       <p>
         <strong>홈페이지:</strong>{" "}
         <a

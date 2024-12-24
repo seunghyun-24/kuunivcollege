@@ -9,12 +9,14 @@ import {
 import "@xyflow/react/dist/style.css";
 import "../styles/ReactFlowStyles.css";
 import { CustomNode, YearNode, SemesterNode } from "../styles/CustomNode";
+import { GroupNode } from "../styles/GroupNode";
 import { findConnectedNodesAndEdges } from "../utils/calculateRelationCourses";
 
 const nodeTypes = {
   customNode: CustomNode,
   yearNode: YearNode,
   semesterNode: SemesterNode,
+  groupNode: GroupNode,
 };
 
 interface GraphRendererProps {

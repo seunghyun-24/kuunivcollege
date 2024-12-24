@@ -78,7 +78,13 @@ export const InformationBox = () => {
                 stroke={item.color}
                 strokeWidth="2"
               />
-              <text x="60" y="15" fill="#333" fontSize="12px">
+              <text
+                x="60"
+                y="15"
+                fill="#333"
+                fontSize="12px"
+                fontFamily="Nanum Gothic"
+              >
                 {item.label}
               </text>
             </svg>
@@ -131,6 +137,7 @@ const legendItemStyle = {
   display: "flex",
   alignItems: "center",
   marginBottom: "5px",
+  fontFamily: "Nanum Gothic",
   fontSize: "14px",
 };
 
@@ -156,6 +163,7 @@ const gaugeSegmentStyle = {
 };
 
 const labelStyle = {
+  fontFamily: "Nanum Gothic",
   fontSize: "14px",
   color: "#333",
 };

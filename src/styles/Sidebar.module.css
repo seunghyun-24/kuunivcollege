@@ -4,7 +4,7 @@
   padding: 20px;
   border: #e0e0e0 1px solid;
   text-align: center;
-  font-family: "Roboto", "Noto Sans", sans-serif;
+  font-family: "Nanum Gothic", sans-serif;
 }
 
 .logoContainer {
@@ -32,11 +32,19 @@
   text-align: center;
 }
 
+.description {
+  font-size: 13px;
+  line-height: 1.6;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  color: #555;
+}
+
 .collegeName {
   font-size: 20px;
   margin-bottom: 5px;
   color: #333;
-  font-family: "Roboto", "Noto Sans", sans-serif;
+  font-family: "Nanum Gothic", sans-serif;
   font-weight: 500;
 }
 
@@ -44,20 +52,20 @@
   font-size: 16px;
   margin-bottom: 30px;
   color: #555;
-  font-family: "Roboto", "Noto Sans", sans-serif;
+  font-family: "Nanum Gothic", sans-serif;
   font-weight: 400;
 }
 
 p {
   font-size: 14px;
-  margin: 5px 0;
-  font-family: "Roboto", "Noto Sans", sans-serif;
+  margin: 3px 0;
+  font-family: "Nanum Gothic", sans-serif;
 }
 
 a {
   color: #007bff;
   text-decoration: none;
-  font-family: "Roboto", "Noto Sans", sans-serif;
+  font-family: "Nanum Gothic", sans-serif;
 }
 
 a:hover {

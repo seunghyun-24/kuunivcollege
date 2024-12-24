@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "KUCentennial";
+  src: url("../../public/fonts/KUCentennial.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 .header {
   display: flex;
   justify-content: center;
@@ -9,7 +16,7 @@
 
 .title {
   margin-top: 25px;
-  font-family: noto sans;
+  font-family: "KUCentennial", Arial, sans-serif;
   font-size: 2rem;
   font-weight: bold;
   padding: 20px;

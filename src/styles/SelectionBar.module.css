@@ -1,6 +1,7 @@
 .container {
   margin-top: 10px;
   display: flex;
+  font-family: "Nanum Gothic", sans-serif;
   justify-content: center;
   background-color: #f9f9f9;
   padding: 10px 0;
@@ -9,6 +10,7 @@
 
 .menuList {
   display: flex;
+  font-family: "Nanum Gothic", sans-serif;
   list-style: none;
   padding: 0;
   margin: 0;
@@ -18,6 +20,7 @@
   position: relative;
   margin: 0 15px;
   cursor: pointer;
+  font-family: "Nanum Gothic", sans-serif;
   font-size: 14px;
   font-weight: bold;
   padding: 10px 15px;
@@ -45,6 +48,7 @@
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   display: none;
   overflow-wrap: break-word;
+  font-family: "Nanum Gothic", sans-serif;
 }
 
 .menuItem:hover .subMenuList {

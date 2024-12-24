@@ -46,18 +46,19 @@ function DownloadButton() {
 
   return (
     <button className="download-btn" onClick={onClick} style={buttonStyle}>
-      Download Image
+      Download
     </button>
   );
 }
 
 const buttonStyle: React.CSSProperties = {
   padding: "8px 16px",
-  backgroundColor: "#007BFF",
+  backgroundColor: "#862633",
   color: "#fff",
   border: "none",
   borderRadius: "4px",
   cursor: "pointer",
+  fontFamily: "Nanum Gothic",
   fontSize: "14px",
 };
 

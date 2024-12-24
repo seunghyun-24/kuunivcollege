@@ -1,5 +1,6 @@
 .mainContent {
   position: relative;
+  font-family: "Nanum Gothic", sans-serif;
   width: 100%;
   height: auto;
   overflow: auto;
@@ -16,10 +17,4 @@
   width: 100%;
   height: 100%;
   overflow: visible;
-}
-
-.reactflow-container .react-flow__edge-path {
-  stroke: #ccc; /* 기본 선 색상 */
-  stroke-width: 2; /* 선 두께 */
-  fill: none; /* 내부 채우기 제거 */
 }

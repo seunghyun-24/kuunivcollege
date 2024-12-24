@@ -20,11 +20,82 @@
 }
 
 .placeholderText {
+  font-family: "Nanum Gothic", sans-serif;
   font-size: 18px;
   color: #777;
 }
 
 .errorText {
+  font-family: "Nanum Gothic", sans-serif;
   font-size: 16px;
   color: red;
+}
+
+.container {
+  font-family: "Nanum Gothic", sans-serif;
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.logo {
+  height: 50px;
+  cursor: pointer;
+}
+
+.introText {
+  font-family: "Nanum Gothic", sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.infoList {
+  font-family: "Nanum Gothic", sans-serif;
+  margin-left: 20px;
+  justify-items: center;
+  list-style: disc;
+  margin-bottom: 20px;
+}
+
+.resourcesHeader {
+  font-family: "Nanum Gothic", sans-serif;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.resourcesList {
+  font-family: "Nanum Gothic", sans-serif;
+  margin-left: 20px;
+  list-style: none;
+  padding: 0;
+}
+
+.resourcesList li {
+  font-family: "Nanum Gothic", sans-serif;
+  margin-bottom: 5px;
+}
+
+.resourcesList a {
+  font-family: "Nanum Gothic", sans-serif;
+  text-decoration: none;
+  color: #007bff;
+}
+
+.resourcesList a:hover {
+  font-family: "Nanum Gothic", sans-serif;
+  text-decoration: underline;
+}
+
+.footerText {
+  font-family: "Nanum Gothic", sans-serif;
+  margin-top: 30px;
+  font-size: 14px;
+  color: #555;
+  text-align: center;
 }

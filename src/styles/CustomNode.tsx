@@ -7,6 +7,7 @@ export const CustomNode = ({ data }: any) => {
   return (
     <div
       style={{
+        fontFamily: "Nanum Gothic",
         width: "150px",
         height: "70px",
         padding: "5px",
@@ -21,6 +22,7 @@ export const CustomNode = ({ data }: any) => {
     >
       <div
         style={{
+          fontFamily: "Nanum Gothic",
           fontSize: "0.9rem",
           overflow: "hidden",
           wordWrap: "break-word",
@@ -30,7 +32,13 @@ export const CustomNode = ({ data }: any) => {
         }}
       >
         <strong>{data.label}</strong> <br />
-        <span style={{ fontSize: "0.7rem", color: "#555" }}>
+        <span
+          style={{
+            fontFamily: "Nanum Gothic",
+            fontSize: "0.7rem",
+            color: "#555",
+          }}
+        >
           {data.학수번호}
         </span>
       </div>
@@ -69,6 +77,7 @@ export const CustomNode = ({ data }: any) => {
       {data.tooltip && data.showTooltip && (
         <div
           style={{
+            fontFamily: "Nanum Gothic",
             position: "absolute",
             zIndex: 1000,
             bottom: "-140px",
@@ -116,6 +125,7 @@ export const YearNode = ({ data }: any) => {
   return (
     <div
       style={{
+        fontFamily: "Nanum Gothic",
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
@@ -136,6 +146,7 @@ export const SemesterNode = ({ data }: any) => {
   return (
     <div
       style={{
+        fontFamily: "Nanum Gothic",
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
