@@ -9,38 +9,17 @@
   position: relative;
   width: 100%;
   height: 100%;
-  overflow: hidden;
+  overflow: visible;
 }
+
 .reactflow-graph {
   width: 100%;
   height: 100%;
   overflow: visible;
 }
 
-.custom-controls {
-  position: absolute;
-  top: 0px;
-  left: 880px;
-  box-shadow: none;
-  z-index: 10;
-}
-
 .reactflow-container .react-flow__edge-path {
   stroke: #ccc; /* 기본 선 색상 */
   stroke-width: 2; /* 선 두께 */
   fill: none; /* 내부 채우기 제거 */
-}
-
-.react-tooltip {
-  z-index: 1000;
-  background-color: white;
-  color: black;
-  border: 1px solid #ddd;
-  padding: 8px;
-  border-radius: 4px;
-  font-size: 16px;
-  max-width: 100px;
-  word-wrap: break-word;
-  word-break: break-word;
-  white-space: normal;
 }

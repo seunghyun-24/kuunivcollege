@@ -15,7 +15,8 @@ export const CustomNode = ({ data }: any) => {
         display: "flex",
         flexDirection: "column",
         justifyContent: "space-between",
-        overflow: "hidden",
+        overflow: "visible",
+        position: "relative",
       }}
     >
       <div
@@ -65,24 +66,35 @@ export const CustomNode = ({ data }: any) => {
         ))}
       </div>
 
-      {data.tooltip && (
+      {data.tooltip && data.showTooltip && (
         <div
           style={{
             position: "absolute",
             zIndex: 1000,
-            bottom: "-20px",
+            bottom: "-140px",
             left: "50%",
             transform: "translateX(-50%)",
-            background: "#333",
+            background: "rgba(50, 50, 50, 1)",
             color: "#fff",
-            padding: "5px",
-            borderRadius: "5px",
+            padding: "15px 20px",
+            borderRadius: "10px",
             fontSize: "20px",
-            whiteSpace: "nowrap",
-            visibility: data.showTooltip ? "visible" : "hidden",
+            maxWidth: "800px", // 툴팁 너비 확장
+            textAlign: "left",
+            boxShadow: "0 6px 10px rgba(0, 0, 0, 0.15)",
+            transition: "opacity 0.3s ease, transform 0.3s ease",
           }}
         >
-          {data.tooltip}
+          <strong>{data.label}</strong>
+          <ul style={{ padding: "0", margin: "0", listStyleType: "none" }}>
+            {data.학수번호 && <li>학수번호: {data.학수번호}</li>}
+            {data.세부전공 && <li>세부전공: {data.세부전공}</li>}
+            {data.전공역량 && <li>전공역량: {data.전공역량}</li>}
+            {data.개설학과 && <li>개설학과: {data.개설학과}</li>}
+            {data.내용 && <li>내용: {data.내용}</li>}
+            {data.메모 && <li>메모: {data.메모}</li>}
+            {data.syllabus_kr && <li>Syllabus: {data.syllabus_kr}</li>}
+          </ul>
         </div>
       )}
 
