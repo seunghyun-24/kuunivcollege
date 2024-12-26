@@ -25,13 +25,10 @@ node_line_colors = {
 }
 
 def calculate_x_position(학년, 학기):
-    # if 학기 == 0 or 학기 == 'null':
-    #     return 학년 * 440
-    # return 학년 * 440 + (학기 - 1) * 220
     if 학기 is None  or 학기 == 0 or 학기 == 'NaN':
-        학기 = 1
+        학기 = 1.5
     if 학년 is None or 학년 == 0 or 학년 == 'NaN':
-        학년 = 1 #일단 떼움..
+        학년 = 1 
     return 학년 * 440 + ((학기) - 1) * 220
 
 def create_year_and_semester_nodes():
@@ -41,7 +38,7 @@ def create_year_and_semester_nodes():
     for 학년 in range(1, 5):  # Assuming 4 years
         year_node = {
             "id": f"year-{학년}",
-            "position": {"x": calculate_x_position(학년, 1), "y": -120},  # Central position above both semesters
+            "position": {"x": calculate_x_position(학년, 1), "y": -120},  
             "data": {"label": f"{학년}학년"},
             "type": "yearNode",
             "style": {
@@ -72,14 +69,12 @@ def parse_courses(courses):
     x_groups = {}
     zero_semester_nodes = []
 
-    # Group courses by x position
     for course in courses:
         x = calculate_x_position(course["학년"], course["학기"])
         if x not in x_groups:
             x_groups[x] = []
         x_groups[x].append(course)
 
-    # Process grouped courses
     for x, group_courses in x_groups.items():
         current_y = 0
         for index, course in enumerate(group_courses):
@@ -117,7 +112,6 @@ def parse_courses(courses):
             else:
                 nodes.append(node)
 
-    # Handle zero semester nodes
     for zero_node in zero_semester_nodes:
         학년 = int(zero_node["id"].split("-")[0])
         first_semester_x = calculate_x_position(학년, 1)
@@ -133,12 +127,11 @@ def parse_courses(courses):
         max_y = max(max(first_y, default=0), max(second_y, default=0))
 
         zero_node["position"] = {
-            "x": (first_semester_x + second_semester_x) / 2,  # X는 중간값
-            "y": max_y + node_height + node_spacing,         # Y는 가장 아래값 + 간격
+            "x": (first_semester_x + second_semester_x) / 2,  
+            "y": max_y + node_height + node_spacing,        
         }
         nodes.append(zero_node)
 
-    # Create edges
     edges = []
     for course in courses:
         if course.get("필수선수"):
@@ -164,7 +157,6 @@ def parse_courses(courses):
 
     return {"nodes": nodes, "edges": edges}
 
-# Process all course files
 def process_course_files(directory, save_directory):
     for filename in os.listdir(directory):
         if filename.endswith(".json"):
