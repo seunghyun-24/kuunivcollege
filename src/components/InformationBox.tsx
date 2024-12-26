@@ -129,6 +129,7 @@ export const InformationBox = () => {
 
 const legendContainerStyle: React.CSSProperties = {
   backgroundColor: "#fff",
+  fontFamily: "Nanum Gothic",
   padding: "10px",
   zIndex: 10,
 };
@@ -138,7 +139,7 @@ const legendItemStyle = {
   alignItems: "center",
   marginBottom: "5px",
   fontFamily: "Nanum Gothic",
-  fontSize: "14px",
+  fontSize: "12px",
 };
 
 const colorBoxStyle = {
@@ -154,16 +155,18 @@ const gaugeContainerStyle = {
   height: "10px",
   border: "1px solid #333",
   borderRadius: "2px",
+  fontFamily: "Nanum Gothic",
   overflow: "hidden",
 };
 
 const gaugeSegmentStyle = {
   flex: 1,
+  fontFamily: "Nanum Gothic",
   height: "100%",
 };
 
 const labelStyle = {
   fontFamily: "Nanum Gothic",
-  fontSize: "14px",
+  fontSize: "12px",
   color: "#333",
 };
