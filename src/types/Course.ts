@@ -6,7 +6,7 @@ export interface Course {
   학기: number;
   필수선수: string | null;
   권장선수: string | null;
-  실험실습: string | null | number;
+  실험실습: number | null;
   세부전공: string | null;
   학점: number;
   시간: number;
