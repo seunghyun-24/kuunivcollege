@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kuunivcollege/static/css/main.4de7a532.css",
-    "main.js": "/kuunivcollege/static/js/main.6af7bf85.js",
+    "main.css": "/kuunivcollege/static/css/main.555ee16e.css",
+    "main.js": "/kuunivcollege/static/js/main.d48532a2.js",
     "static/js/3855.786f9564.chunk.js": "/kuunivcollege/static/js/3855.786f9564.chunk.js",
     "static/js/7900.619478be.chunk.js": "/kuunivcollege/static/js/7900.619478be.chunk.js",
     "static/js/9215.5370fad9.chunk.js": "/kuunivcollege/static/js/9215.5370fad9.chunk.js",
@@ -102,12 +102,12 @@
     "static/media/logo.png": "/kuunivcollege/static/media/logo.6635bb8736518a7ea2ff.png",
     "static/media/심리학부.jpg": "/kuunivcollege/static/media/심리학부.9661f9d18096b9af7589.jpg",
     "index.html": "/kuunivcollege/index.html",
-    "main.4de7a532.css.map": "/kuunivcollege/static/css/main.4de7a532.css.map",
-    "main.6af7bf85.js.map": "/kuunivcollege/static/js/main.6af7bf85.js.map",
+    "main.555ee16e.css.map": "/kuunivcollege/static/css/main.555ee16e.css.map",
+    "main.d48532a2.js.map": "/kuunivcollege/static/js/main.d48532a2.js.map",
     "6453.c4ae4371.chunk.js.map": "/kuunivcollege/static/js/6453.c4ae4371.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4de7a532.css",
-    "static/js/main.6af7bf85.js"
+    "static/css/main.555ee16e.css",
+    "static/js/main.d48532a2.js"
   ]
 }
