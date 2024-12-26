@@ -2,7 +2,6 @@ import { Node, Edge, Position } from "@xyflow/react";
 import { MarkerType } from "@xyflow/react";
 
 const nodeWidth = 150;
-// const nodeHeight = 50;
 
 export const getLayoutedNodesAndEdges = (
   nodes: Node[],
