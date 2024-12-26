@@ -3,7 +3,6 @@ import { Position, useEdgesState, useNodesState } from "@xyflow/react";
 import "@xyflow/react/dist/style.css";
 import styles from "../styles/MainContent.module.css";
 import GraphRenderer from "./GraphRenderer";
-import logo from "../assets/logo.png";
 
 interface MainContentProps {
   department: string | null;
@@ -37,7 +36,7 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
         })
         .finally(() => setLoading(false));
     }
-  }, [department]);
+  }, [department, setNodes, setEdges]);
 
   const handleBoundsChange = (bounds: { width: number; height: number }) => {
     if (
@@ -74,9 +73,6 @@ const MainContent: React.FC<MainContentProps> = ({ department }) => {
         )
       ) : (
         <div className={styles.container}>
-          <header className={styles.header}>
-            <img src={logo} alt="Logo" className={styles.logo} />
-          </header>
           <div className={styles.content}>
             <p className={styles.introText}>
               안녕하세요. <br />

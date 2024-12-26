@@ -1,9 +1,9 @@
-import { Panel, useReactFlow, getNodesBounds } from "@xyflow/react";
+import { useReactFlow, getNodesBounds } from "@xyflow/react";
 import { toPng } from "html-to-image";
 
 function downloadImage(dataUrl: string) {
   const a = document.createElement("a");
-  a.setAttribute("download", `${dataUrl}.png`);
+  a.setAttribute("download", `이수체계도.png`);
   a.setAttribute("href", dataUrl);
   a.click();
 }

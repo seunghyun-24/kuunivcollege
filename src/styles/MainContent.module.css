@@ -1,9 +1,10 @@
 .mainContent {
   flex: 1;
-  padding: 10px;
+  padding: 20px;
   background-color: #f9f9f9;
   border-radius: 8px;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -17,18 +18,21 @@
   max-width: 100%;
   max-height: 400px;
   object-fit: contain;
+  margin-bottom: 20px;
 }
 
 .placeholderText {
   font-family: "Nanum Gothic", sans-serif;
   font-size: 18px;
   color: #777;
+  margin-bottom: 20px;
 }
 
 .errorText {
   font-family: "Nanum Gothic", sans-serif;
   font-size: 16px;
   color: red;
+  text-align: center;
 }
 
 .container {
@@ -36,55 +40,64 @@
   padding: 20px;
   max-width: 800px;
   margin: 0 auto;
+  text-align: center;
 }
 
 .header {
   display: flex;
   justify-content: flex-end;
-}
-
-.logo {
-  height: 50px;
-  cursor: pointer;
+  margin-bottom: 20px;
 }
 
 .introText {
   font-family: "Nanum Gothic", sans-serif;
   font-size: 18px;
-  line-height: 1.5;
+  line-height: 1.8;
   margin-bottom: 20px;
 }
 
 .infoList {
   font-family: "Nanum Gothic", sans-serif;
-  margin-left: 20px;
+  font-size: 16px;
   justify-items: center;
-  list-style: disc;
+  list-style: none;
   margin-bottom: 20px;
+  padding: 0;
+}
+
+.infoList li {
+  text-align: left;
+  margin-bottom: 10px;
 }
 
 .resourcesHeader {
   font-family: "Nanum Gothic", sans-serif;
-  font-size: 16px;
-  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 15px;
 }
 
 .resourcesList {
   font-family: "Nanum Gothic", sans-serif;
-  margin-left: 20px;
+  margin: 0 auto;
   list-style: none;
+  align-items: center;
   padding: 0;
 }
 
 .resourcesList li {
   font-family: "Nanum Gothic", sans-serif;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .resourcesList a {
   font-family: "Nanum Gothic", sans-serif;
   text-decoration: none;
-  color: #007bff;
+  color: #862633;
+  margin-left: 10px;
 }
 
 .resourcesList a:hover {
@@ -98,4 +111,5 @@
   font-size: 14px;
   color: #555;
   text-align: center;
+  line-height: 1.5;
 }

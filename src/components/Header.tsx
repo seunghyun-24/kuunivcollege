@@ -11,7 +11,7 @@ const Header: React.FC = () => (
     >
       <img src={logo} alt="Logo" className={styles.logo} />
     </a>
-    <h1 className={styles.title}>전공탐색로드맵 ∙ 전공지식체계도</h1>
+    <h1 className={styles.title}>전공탐색로드맵 ∙ 전공이수체계도</h1>
   </header>
 );
 
