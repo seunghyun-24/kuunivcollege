@@ -185,183 +185,106 @@
             }
         },
         {
-            "id": "STAT221",
+            "id": "GELI005",
             "position": {
-                "x": 880,
+                "x": 440,
                 "y": 0
             },
+            "학년": 1,
             "data": {
-                "label": "확률론입문",
-                "학수번호": "STAT221",
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
                 "세부전공": null,
-                "전공역량": "수리과학",
-                "개설학과": "통계학과",
-                "개설횟수": 5,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "통계학의 기초를 이루는 확률의 개념과 확률적 사고, 확률 모형을 소개한다. 그리고 기대값, 적률생성 함수, 조건부 분포이론을 포함한 확률분포이론, 극한 정리 등을 수학한다."
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "MATH211",
+            "id": "IFLS800",
             "position": {
-                "x": 880,
+                "x": 440,
                 "y": 100
             },
+            "학년": 1,
             "data": {
-                "label": "해석학I및연습",
-                "학수번호": "MATH211",
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
+                "개설학과": null,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "유클리드 공간의 기본적 위상 연속성, 수렴성, 평등 수렴성, 급수, 수렴 판정법, 미분, 역함수 및 음함수 정리"
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "MATH221",
+            "id": "GEBT001",
             "position": {
-                "x": 880,
+                "x": 440,
                 "y": 200
             },
+            "학년": 1,
             "data": {
-                "label": "선형대수I및연습",
-                "학수번호": "MATH221",
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
+                "개설학과": null,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "벡터 공간과 연립 일차 방정식, 선형사상과 행렬, 내적 벡터 공간, 행렬식"
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "COSE213",
+            "id": "STAT201",
             "position": {
-                "x": 880,
+                "x": 440,
                 "y": 300
             },
+            "학년": 1,
             "data": {
-                "label": "자료구조",
-                "학수번호": "COSE213",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "자료구조의 개념 및 기초지식과 더불어 스택 및 큐, 리스트들을 기본 자료구조로서 다루며, 그래프와 트리를 고급 자료구조로서 다룬다. 자료구조의 응용으로는 순환, 탐색, 정렬, 해싱을 다룬다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "STAT232",
-            "position": {
-                "x": 1100,
-                "y": 0
-            },
-            "data": {
-                "label": "수리통계학",
-                "학수번호": "STAT232",
+                "label": "통계수학",
+                "학수번호": "STAT201",
                 "세부전공": null,
                 "전공역량": "수리과학",
                 "개설학과": "통계학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "통계학의 수리적인 기초를 논리적으로 전개하여 해석한다. 여기에는 확률변수, 변수변환, 표본분포, 추정 및 가설 검정의 이론을 포함한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "STAT342",
-            "position": {
-                "x": 1100,
-                "y": 100
-            },
-            "data": {
-                "label": "회귀분석",
-                "학수번호": "STAT342",
-                "세부전공": null,
-                "전공역량": "데이터 분석",
-                "개설학과": "통계학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "회귀모형의 설정과 적합, 모형진단 등을 다룬다. 단순선형회귀, 다중선형회귀, 변수선택, 비선형회귀 등이 포함되며, SAS 등의 통계패키지 프로그램을 이용하게 된다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "STAT204",
-            "position": {
-                "x": 1100,
-                "y": 200
-            },
-            "data": {
-                "label": "통계계산프로그래밍",
-                "학수번호": "STAT204",
-                "세부전공": null,
-                "전공역량": "통계적 의사소통",
-                "개설학과": "통계학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "통계계산 소프트웨어의 연속과목으로 컴퓨터 언어 및 통계 패키지 프로그램을 이용한 통계계산 프로그래밍의 개념과 응용을 다룬다."
+                "syllabus_kr": "통계학에 필요한 기초적인 수학으로서의 미적분학, 집합론을 포함한 기초해석학 그리고 선형대수학을 교수한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -374,190 +297,85 @@
             }
         },
         {
-            "id": "STAT311",
+            "id": "GEWR002",
             "position": {
-                "x": 1100,
-                "y": 300
-            },
-            "data": {
-                "label": "통계조사론입문",
-                "학수번호": "STAT311",
-                "세부전공": null,
-                "전공역량": "통계적 의사소통",
-                "개설학과": "통계학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "표본조사의 기본원리와 설계절차에 의해 표집오차를 감소시키는 최적표본추출법과 그에 따른 추론을 다루고 비표본오차의 발생원인과 통제방법을 규명한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH212",
-            "position": {
-                "x": 1100,
+                "x": 440,
                 "y": 400
             },
+            "학년": 1,
             "data": {
-                "label": "해석학II및연습",
-                "학수번호": "MATH212",
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
+                "개설학과": null,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "리만-스틸쩨스 적분, 함수열과 함수의 무한합, 균등 수렴, 푸리에 급수, 다변수 함수, 미분형식의 적분, 스톡스의 정리"
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "MATH222",
+            "id": "GEKS007",
             "position": {
-                "x": 1100,
+                "x": 440,
                 "y": 500
             },
+            "학년": 1,
             "data": {
-                "label": "선형대수II및연습",
-                "학수번호": "MATH222",
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
+                "개설학과": null,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "단독 선형사상의 이론, 쌍대 벡터공간과 다중 선형 대수, 직교 그리고 유니터리 변환."
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "MATH240",
+            "id": "GECT002",
             "position": {
-                "x": 1100,
+                "x": 440,
                 "y": 600
             },
+            "학년": 1,
             "data": {
-                "label": "미분방정식및연습",
-                "학수번호": "MATH240",
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": "수학과",
-                "개설횟수": 5,
+                "개설학과": null,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "일차 상미분 방성식, 이차 선형 상미분 방정식, 이차 선형 상미분 방정식에 대한 급수해, 고차 선형 상미분 방정식, Laplace 변환"
+                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN216",
-            "position": {
-                "x": 1100,
-                "y": 700
-            },
-            "data": {
-                "label": "OR-I및 실습",
-                "학수번호": "IMEN216",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "산업경영공학부",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "OR-I 과목에 부수되는 實驗科目으로서, O.R-I 의 線型計劃法, 네트워크 문   제, Project Management with PERT/CPM 등 주로 最適化理論의 基礎가    되는 문제들의 해를 구함에 있어서 컴퓨터를 활용하여 해를 구하는 방법이나, 과제 풀이와 현실적인 문제 풀이 등 實際的인"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE212",
-            "position": {
-                "x": 1100,
-                "y": 800
-            },
-            "data": {
-                "label": "프로그래밍언어",
-                "학수번호": "COSE212",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "프로그래밍 언어의 원리와 프로그래밍 언어를 구성하는 제반 요소들을 이해하고 각 언어별 특징에 대하여 학습하며 프로그래밍 언어의 이해를 위해 Syntax와 Semantics등에 대하여 학습한다. Semantics를 공부하기 위하여 Higher-order procedure를 지원해 주는 언어의 inter"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COSE214",
-            "position": {
-                "x": 1100,
-                "y": 900
-            },
-            "data": {
-                "label": "알고리즘",
-                "학수번호": "COSE214",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "컴퓨터학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "알고리즘의 표현방법, 기능 및 처리과정, 난해도의 분석, 효율적인 알고리즘을 설계하는 기법, 응용 등을 다루고 기존에 개발된 알고리즘들을 주제별로 분류하여 활용한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -568,6 +386,7 @@
                 "x": 660,
                 "y": 0
             },
+            "학년": 1,
             "data": {
                 "label": "통계계산소프트웨어",
                 "학수번호": "STAT180",
@@ -595,6 +414,7 @@
                 "x": 660,
                 "y": 100
             },
+            "학년": 1,
             "data": {
                 "label": "행렬이론",
                 "학수번호": "STAT241",
@@ -622,6 +442,7 @@
                 "x": 660,
                 "y": 200
             },
+            "학년": 1,
             "data": {
                 "label": "사회과학을위한데이터과학",
                 "학수번호": "STAT243",
@@ -649,6 +470,7 @@
                 "x": 660,
                 "y": 300
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]1학년세미나 II",
                 "학수번호": "GEKS008",
@@ -676,6 +498,7 @@
                 "x": 660,
                 "y": 400
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
@@ -698,291 +521,190 @@
             }
         },
         {
-            "id": "STAT201",
+            "id": "STAT221",
             "position": {
-                "x": 440,
+                "x": 880,
                 "y": 0
             },
+            "학년": 2,
             "data": {
-                "label": "통계수학",
-                "학수번호": "STAT201",
+                "label": "확률론입문",
+                "학수번호": "STAT221",
                 "세부전공": null,
                 "전공역량": "수리과학",
                 "개설학과": "통계학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "통계학에 필요한 기초적인 수학으로서의 미적분학, 집합론을 포함한 기초해석학 그리고 선형대수학을 교수한다."
+                "syllabus_kr": "통계학의 기초를 이루는 확률의 개념과 확률적 사고, 확률 모형을 소개한다. 그리고 기대값, 적률생성 함수, 조건부 분포이론을 포함한 확률분포이론, 극한 정리 등을 수학한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "GELI005",
+            "id": "MATH211",
             "position": {
-                "x": 440,
+                "x": 880,
                 "y": 100
             },
+            "학년": 2,
             "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
+                "label": "해석학I및연습",
+                "학수번호": "MATH211",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
+                "개설학과": "수학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+                "syllabus_kr": "유클리드 공간의 기본적 위상 연속성, 수렴성, 평등 수렴성, 급수, 수렴 판정법, 미분, 역함수 및 음함수 정리"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "GEWR002",
+            "id": "MATH221",
             "position": {
-                "x": 440,
+                "x": 880,
                 "y": 200
             },
+            "학년": 2,
             "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
+                "label": "선형대수I및연습",
+                "학수번호": "MATH221",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
+                "개설학과": "수학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+                "syllabus_kr": "벡터 공간과 연립 일차 방정식, 선형사상과 행렬, 내적 벡터 공간, 행렬식"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "IFLS800",
+            "id": "COSE213",
             "position": {
-                "x": 440,
+                "x": 880,
                 "y": 300
             },
+            "학년": 2,
             "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
+                "label": "자료구조",
+                "학수번호": "COSE213",
                 "세부전공": null,
                 "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
+                "개설학과": "컴퓨터학과",
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+                "syllabus_kr": "자료구조의 개념 및 기초지식과 더불어 스택 및 큐, 리스트들을 기본 자료구조로서 다루며, 그래프와 트리를 고급 자료구조로서 다룬다. 자료구조의 응용으로는 순환, 탐색, 정렬, 해싱을 다룬다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "GEKS007",
+            "id": "STAT232",
             "position": {
-                "x": 440,
-                "y": 400
-            },
-            "data": {
-                "label": "[진로창업]1학년세미나 I",
-                "학수번호": "GEKS007",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GECT002",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "[진로창업]SW프로그래밍의기초",
-                "학수번호": "GECT002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 600
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "STAT302",
-            "position": {
-                "x": 1540,
+                "x": 1100,
                 "y": 0
             },
+            "학년": 2,
             "data": {
-                "label": "시계열분석",
-                "학수번호": "STAT302",
+                "label": "수리통계학",
+                "학수번호": "STAT232",
                 "세부전공": null,
-                "전공역량": "데이터 분석",
+                "전공역량": "수리과학",
                 "개설학과": "통계학과",
-                "개설횟수": 3,
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "시계열 자료의 분석을 위한 통계적 기법을 소개한다. 여기에는 박스-젠킨서의 ARIMA분석, 전이함수분석, 개입분석 등이 포함된다. SAS 등의 통계패키지 프로그램을 활용하여 응용위주로 강의한다."
+                "syllabus_kr": "통계학의 수리적인 기초를 논리적으로 전개하여 해석한다. 여기에는 확률변수, 변수변환, 표본분포, 추정 및 가설 검정의 이론을 포함한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "STAT332",
+            "id": "STAT342",
             "position": {
-                "x": 1540,
+                "x": 1100,
                 "y": 100
             },
+            "학년": 2,
             "data": {
-                "label": "비모수통계학",
-                "학수번호": "STAT332",
+                "label": "회귀분석",
+                "학수번호": "STAT342",
                 "세부전공": null,
                 "전공역량": "데이터 분석",
                 "개설학과": "통계학과",
-                "개설횟수": 4,
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "비모수적인 통계적 방법을 소개하고, 이를 현실적인 문제들에 응용한다. 여기에는 비모수적인 상관관계, 분산분석, 회귀분석,분할표 분석 등이 포함된다."
+                "syllabus_kr": "회귀모형의 설정과 적합, 모형진단 등을 다룬다. 단순선형회귀, 다중선형회귀, 변수선택, 비선형회귀 등이 포함되며, SAS 등의 통계패키지 프로그램을 이용하게 된다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "STAT344",
+            "id": "STAT204",
             "position": {
-                "x": 1540,
+                "x": 1100,
                 "y": 200
             },
+            "학년": 2,
             "data": {
-                "label": "보험통계학",
-                "학수번호": "STAT344",
-                "세부전공": null,
-                "전공역량": "통계적 윤리책임",
-                "개설학과": "통계학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "보험이론에서 사용되는 기법을 익히고 보험계리시험에 대비할 수 있도록 한다. 특히, 생명보험, 생명연금의 보험금과 보험료를 분석하는데 기본이 되는 life contingencies에 대한 확률모델을 주로 다룸으로써 보험이론의 수리적 기본을 제공한다. 이 과목은 미국 Society of"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "STAT346",
-            "position": {
-                "x": 1540,
-                "y": 300
-            },
-            "data": {
-                "label": "통계적데이터과학I",
-                "학수번호": "STAT346",
+                "label": "통계계산프로그래밍",
+                "학수번호": "STAT204",
                 "세부전공": null,
                 "전공역량": "통계적 의사소통",
                 "개설학과": "통계학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "본 수업에서는 기초적 통계이론을 기반으로 빅데이터 분석을 위한 데이터과학 방법론을 학습한다. R/Python 프로그래밍을 학습하고 데이터의 수집 및 전처리, 데이터 시각화, 데이터구조 및 SQL, 텍스트마이닝, 온라인학습 등 탐색적 자료 분석을 위한 데이터과학 지식을 다 "
+                "syllabus_kr": "통계계산 소프트웨어의 연속과목으로 컴퓨터 언어 및 통계 패키지 프로그램을 이용한 통계계산 프로그래밍의 개념과 응용을 다룬다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -995,109 +717,197 @@
             }
         },
         {
-            "id": "STAT404",
+            "id": "STAT311",
             "position": {
-                "x": 1540,
+                "x": 1100,
+                "y": 300
+            },
+            "학년": 2,
+            "data": {
+                "label": "통계조사론입문",
+                "학수번호": "STAT311",
+                "세부전공": null,
+                "전공역량": "통계적 의사소통",
+                "개설학과": "통계학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "표본조사의 기본원리와 설계절차에 의해 표집오차를 감소시키는 최적표본추출법과 그에 따른 추론을 다루고 비표본오차의 발생원인과 통제방법을 규명한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH212",
+            "position": {
+                "x": 1100,
                 "y": 400
             },
+            "학년": 2,
             "data": {
-                "label": "베이즈통계입문",
-                "학수번호": "STAT404",
-                "세부전공": null,
-                "전공역량": "통합적 의사결정",
-                "개설학과": "통계학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "베이즈 통계에 대한 기본 개념을 소개하고 사후분포를 이용한 베이지안 추론을 다룬다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "STAT424",
-            "position": {
-                "x": 1540,
-                "y": 500
-            },
-            "data": {
-                "label": "통계적머신러닝",
-                "학수번호": "STAT424",
-                "세부전공": null,
-                "전공역량": "통합적 의사결정",
-                "개설학과": "통계학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "머신러닝 알고리즘의 기본 원리를 통계학적 관점에서 이해하고, 자료 분석(분류, 회귀, 차원축소, 군집, 감정분석)을 통해 머신러닝 기법을 활용하고, 지식을 추출하고, 미래 사건의 결과를 예측하고 이를 통한 의사결정과정을 공부한다. Python을 통해 실제 구현하는 방법을"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "ECON302",
-            "position": {
-                "x": 1540,
-                "y": 600
-            },
-            "data": {
-                "label": "계량경제학II",
-                "학수번호": "ECON302",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "계량경제학I 의 연속과목으로서 고전적인 선형모형의 가정이 완화된 여러 계량경제학모형을 소개하고 그 응용 및 기타 계량경제학적 방법의 제 문제와 그 해결방법을 논의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "MATH342",
-            "position": {
-                "x": 1540,
-                "y": 700
-            },
-            "data": {
-                "label": "수치해석및연습",
-                "학수번호": "MATH342",
+                "label": "해석학II및연습",
+                "학수번호": "MATH212",
                 "세부전공": null,
                 "전공역량": null,
                 "개설학과": "수학과",
-                "개설횟수": 3,
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "비선형 방정식의 근, 함수의 근사값 및 이론. 수치 적분, 선형 연립 방정식의 근."
+                "syllabus_kr": "리만-스틸쩨스 적분, 함수열과 함수의 무한합, 균등 수렴, 푸리에 급수, 다변수 함수, 미분형식의 적분, 스톡스의 정리"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH222",
+            "position": {
+                "x": 1100,
+                "y": 500
+            },
+            "학년": 2,
+            "data": {
+                "label": "선형대수II및연습",
+                "학수번호": "MATH222",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "단독 선형사상의 이론, 쌍대 벡터공간과 다중 선형 대수, 직교 그리고 유니터리 변환."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH240",
+            "position": {
+                "x": 1100,
+                "y": 600
+            },
+            "학년": 2,
+            "data": {
+                "label": "미분방정식및연습",
+                "학수번호": "MATH240",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일차 상미분 방성식, 이차 선형 상미분 방정식, 이차 선형 상미분 방정식에 대한 급수해, 고차 선형 상미분 방정식, Laplace 변환"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IMEN216",
+            "position": {
+                "x": 1100,
+                "y": 700
+            },
+            "학년": 2,
+            "data": {
+                "label": "OR-I및 실습",
+                "학수번호": "IMEN216",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "산업경영공학부",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "OR-I 과목에 부수되는 實驗科目으로서, O.R-I 의 線型計劃法, 네트워크 문   제, Project Management with PERT/CPM 등 주로 最適化理論의 基礎가    되는 문제들의 해를 구함에 있어서 컴퓨터를 활용하여 해를 구하는 방법이나, 과제 풀이와 현실적인 문제 풀이 등 實際的인"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE212",
+            "position": {
+                "x": 1100,
+                "y": 800
+            },
+            "학년": 2,
+            "data": {
+                "label": "프로그래밍언어",
+                "학수번호": "COSE212",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "컴퓨터학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "프로그래밍 언어의 원리와 프로그래밍 언어를 구성하는 제반 요소들을 이해하고 각 언어별 특징에 대하여 학습하며 프로그래밍 언어의 이해를 위해 Syntax와 Semantics등에 대하여 학습한다. Semantics를 공부하기 위하여 Higher-order procedure를 지원해 주는 언어의 inter"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COSE214",
+            "position": {
+                "x": 1100,
+                "y": 900
+            },
+            "학년": 2,
+            "data": {
+                "label": "알고리즘",
+                "학수번호": "COSE214",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "컴퓨터학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "알고리즘의 표현방법, 기능 및 처리과정, 난해도의 분석, 효율적인 알고리즘을 설계하는 기법, 응용 등을 다루고 기존에 개발된 알고리즘들을 주제별로 분류하여 활용한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1108,6 +918,7 @@
                 "x": 1320,
                 "y": 0
             },
+            "학년": 3,
             "data": {
                 "label": "통계계산방법",
                 "학수번호": "STAT323",
@@ -1135,6 +946,7 @@
                 "x": 1320,
                 "y": 100
             },
+            "학년": 3,
             "data": {
                 "label": "실험계획법",
                 "학수번호": "STAT341",
@@ -1162,6 +974,7 @@
                 "x": 1320,
                 "y": 200
             },
+            "학년": 3,
             "data": {
                 "label": "범주형자료분석",
                 "학수번호": "STAT343",
@@ -1189,6 +1002,7 @@
                 "x": 1320,
                 "y": 300
             },
+            "학년": 3,
             "data": {
                 "label": "금융통계학",
                 "학수번호": "STAT413",
@@ -1216,6 +1030,7 @@
                 "x": 1320,
                 "y": 400
             },
+            "학년": 3,
             "data": {
                 "label": "계량경제학I",
                 "학수번호": "ECON301",
@@ -1232,7 +1047,7 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1243,6 +1058,7 @@
                 "x": 1320,
                 "y": 500
             },
+            "학년": 3,
             "data": {
                 "label": "확률과정개론",
                 "학수번호": "MATH344",
@@ -1259,7 +1075,7 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1270,6 +1086,7 @@
                 "x": 1320,
                 "y": 600
             },
+            "학년": 3,
             "data": {
                 "label": "OR-II 및 실습",
                 "학수번호": "IMEN319",
@@ -1286,7 +1103,231 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT302",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "학년": 3,
+            "data": {
+                "label": "시계열분석",
+                "학수번호": "STAT302",
+                "세부전공": null,
+                "전공역량": "데이터 분석",
+                "개설학과": "통계학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "시계열 자료의 분석을 위한 통계적 기법을 소개한다. 여기에는 박스-젠킨서의 ARIMA분석, 전이함수분석, 개입분석 등이 포함된다. SAS 등의 통계패키지 프로그램을 활용하여 응용위주로 강의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
                 "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT332",
+            "position": {
+                "x": 1540,
+                "y": 100
+            },
+            "학년": 3,
+            "data": {
+                "label": "비모수통계학",
+                "학수번호": "STAT332",
+                "세부전공": null,
+                "전공역량": "데이터 분석",
+                "개설학과": "통계학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "비모수적인 통계적 방법을 소개하고, 이를 현실적인 문제들에 응용한다. 여기에는 비모수적인 상관관계, 분산분석, 회귀분석,분할표 분석 등이 포함된다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT344",
+            "position": {
+                "x": 1540,
+                "y": 200
+            },
+            "학년": 3,
+            "data": {
+                "label": "보험통계학",
+                "학수번호": "STAT344",
+                "세부전공": null,
+                "전공역량": "통계적 윤리책임",
+                "개설학과": "통계학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "보험이론에서 사용되는 기법을 익히고 보험계리시험에 대비할 수 있도록 한다. 특히, 생명보험, 생명연금의 보험금과 보험료를 분석하는데 기본이 되는 life contingencies에 대한 확률모델을 주로 다룸으로써 보험이론의 수리적 기본을 제공한다. 이 과목은 미국 Society of"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT346",
+            "position": {
+                "x": 1540,
+                "y": 300
+            },
+            "학년": 3,
+            "data": {
+                "label": "통계적데이터과학I",
+                "학수번호": "STAT346",
+                "세부전공": null,
+                "전공역량": "통계적 의사소통",
+                "개설학과": "통계학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 수업에서는 기초적 통계이론을 기반으로 빅데이터 분석을 위한 데이터과학 방법론을 학습한다. R/Python 프로그래밍을 학습하고 데이터의 수집 및 전처리, 데이터 시각화, 데이터구조 및 SQL, 텍스트마이닝, 온라인학습 등 탐색적 자료 분석을 위한 데이터과학 지식을 다 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT404",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "학년": 3,
+            "data": {
+                "label": "베이즈통계입문",
+                "학수번호": "STAT404",
+                "세부전공": null,
+                "전공역량": "통합적 의사결정",
+                "개설학과": "통계학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "베이즈 통계에 대한 기본 개념을 소개하고 사후분포를 이용한 베이지안 추론을 다룬다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "STAT424",
+            "position": {
+                "x": 1540,
+                "y": 500
+            },
+            "학년": 3,
+            "data": {
+                "label": "통계적머신러닝",
+                "학수번호": "STAT424",
+                "세부전공": null,
+                "전공역량": "통합적 의사결정",
+                "개설학과": "통계학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "머신러닝 알고리즘의 기본 원리를 통계학적 관점에서 이해하고, 자료 분석(분류, 회귀, 차원축소, 군집, 감정분석)을 통해 머신러닝 기법을 활용하고, 지식을 추출하고, 미래 사건의 결과를 예측하고 이를 통한 의사결정과정을 공부한다. Python을 통해 실제 구현하는 방법을"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "ECON302",
+            "position": {
+                "x": 1540,
+                "y": 600
+            },
+            "학년": 3,
+            "data": {
+                "label": "계량경제학II",
+                "학수번호": "ECON302",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "계량경제학I 의 연속과목으로서 고전적인 선형모형의 가정이 완화된 여러 계량경제학모형을 소개하고 그 응용 및 기타 계량경제학적 방법의 제 문제와 그 해결방법을 논의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH342",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "학년": 3,
+            "data": {
+                "label": "수치해석및연습",
+                "학수번호": "MATH342",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "수학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "비선형 방정식의 근, 함수의 근사값 및 이론. 수치 적분, 선형 연립 방정식의 근."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1297,6 +1338,7 @@
                 "x": 1760,
                 "y": 0
             },
+            "학년": 4,
             "data": {
                 "label": "글로벌통계실무교육인턴십I",
                 "학수번호": "STAT375",
@@ -1324,6 +1366,7 @@
                 "x": 1760,
                 "y": 100
             },
+            "학년": 4,
             "data": {
                 "label": "다변량통계분석",
                 "학수번호": "STAT401",
@@ -1351,6 +1394,7 @@
                 "x": 1760,
                 "y": 200
             },
+            "학년": 4,
             "data": {
                 "label": "통계적데이터과학II",
                 "학수번호": "STAT409",
@@ -1378,6 +1422,7 @@
                 "x": 1760,
                 "y": 300
             },
+            "학년": 4,
             "data": {
                 "label": "생명과학을위한데이터과학",
                 "학수번호": "STAT423",
@@ -1405,6 +1450,7 @@
                 "x": 1760,
                 "y": 400
             },
+            "학년": 4,
             "data": {
                 "label": "딥러닝을위한통계적모델링",
                 "학수번호": "STAT433",
@@ -1432,6 +1478,7 @@
                 "x": 1760,
                 "y": 500
             },
+            "학년": 4,
             "data": {
                 "label": "선형방법론",
                 "학수번호": "STAT443",
@@ -1459,6 +1506,7 @@
                 "x": 1760,
                 "y": 600
             },
+            "학년": 4,
             "data": {
                 "label": "실해석학",
                 "학수번호": "MATH453",
@@ -1475,7 +1523,7 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1486,6 +1534,7 @@
                 "x": 1980,
                 "y": 0
             },
+            "학년": 4,
             "data": {
                 "label": "글로벌통계실무교육인턴십II",
                 "학수번호": "STAT376",
@@ -1513,6 +1562,7 @@
                 "x": 1980,
                 "y": 100
             },
+            "학년": 4,
             "data": {
                 "label": "데이터마이닝입문",
                 "학수번호": "STAT402",
@@ -1540,6 +1590,7 @@
                 "x": 1980,
                 "y": 200
             },
+            "학년": 4,
             "data": {
                 "label": "인과추론",
                 "학수번호": "STAT407",
@@ -1567,6 +1618,7 @@
                 "x": 1980,
                 "y": 300
             },
+            "학년": 4,
             "data": {
                 "label": "수리통계학특강",
                 "학수번호": "STAT412",
@@ -1594,6 +1646,7 @@
                 "x": 1980,
                 "y": 400
             },
+            "학년": 4,
             "data": {
                 "label": "강화학습을위한확률과정과표집",
                 "학수번호": "STAT436",
@@ -1714,30 +1767,6 @@
             }
         },
         {
-            "id": "recommended-STAT241-STAT302",
-            "source": "STAT241",
-            "target": "STAT302",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-STAT342-STAT302",
-            "source": "STAT342",
-            "target": "STAT302",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
             "id": "recommended-STAT151-STAT311",
             "source": "STAT151",
             "target": "STAT311",
@@ -1774,6 +1803,30 @@
             }
         },
         {
+            "id": "required-IMEN151-IMEN216",
+            "source": "IMEN151",
+            "target": "IMEN216",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-IMEN151-IMEN216",
+            "source": "IMEN151",
+            "target": "IMEN216",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
             "id": "recommended-STAT180-STAT323",
             "source": "STAT180",
             "target": "STAT323",
@@ -1789,18 +1842,6 @@
             "id": "recommended-STAT204-STAT323",
             "source": "STAT204",
             "target": "STAT323",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-STAT151-STAT332",
-            "source": "STAT151",
-            "target": "STAT332",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -1837,6 +1878,102 @@
             "id": "recommended-STAT342-STAT343",
             "source": "STAT342",
             "target": "STAT343",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-MATH343-STAT413",
+            "source": "MATH343",
+            "target": "STAT413",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-STAT221-STAT413",
+            "source": "STAT221",
+            "target": "STAT413",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-IMEN151-IMEN319",
+            "source": "IMEN151",
+            "target": "IMEN319",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-IMEN213-IMEN319",
+            "source": "IMEN213",
+            "target": "IMEN319",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "required-IMEN213-IMEN319",
+            "source": "IMEN213",
+            "target": "IMEN319",
+            "type": "step",
+            "data": {
+                "type": "required"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT241-STAT302",
+            "source": "STAT241",
+            "target": "STAT302",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT342-STAT302",
+            "source": "STAT342",
+            "target": "STAT302",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT151-STAT332",
+            "source": "STAT151",
+            "target": "STAT332",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -1918,6 +2055,54 @@
             }
         },
         {
+            "id": "recommended-STAT342-STAT424",
+            "source": "STAT342",
+            "target": "STAT424",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT343-STAT424",
+            "source": "STAT343",
+            "target": "STAT424",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-STAT401-STAT424",
+            "source": "STAT401",
+            "target": "STAT424",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-ECON301-ECON302",
+            "source": "ECON301",
+            "target": "ECON302",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
             "id": "recommended-STAT232-STAT401",
             "source": "STAT232",
             "target": "STAT401",
@@ -1945,30 +2130,6 @@
             "id": "recommended-STAT342-STAT401",
             "source": "STAT342",
             "target": "STAT401",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-STAT301-STAT402",
-            "source": "STAT301",
-            "target": "STAT402",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-STAT401-STAT402",
-            "source": "STAT401",
-            "target": "STAT402",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -2038,78 +2199,6 @@
             }
         },
         {
-            "id": "recommended-STAT232-STAT412",
-            "source": "STAT232",
-            "target": "STAT412",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-MATH343-STAT413",
-            "source": "MATH343",
-            "target": "STAT413",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-STAT221-STAT413",
-            "source": "STAT221",
-            "target": "STAT413",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-STAT342-STAT424",
-            "source": "STAT342",
-            "target": "STAT424",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-STAT343-STAT424",
-            "source": "STAT343",
-            "target": "STAT424",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-STAT401-STAT424",
-            "source": "STAT401",
-            "target": "STAT424",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
             "id": "recommended-STAT221-STAT443",
             "source": "STAT221",
             "target": "STAT443",
@@ -2158,9 +2247,9 @@
             }
         },
         {
-            "id": "recommended-ECON301-ECON302",
-            "source": "ECON301",
-            "target": "ECON302",
+            "id": "recommended-STAT301-STAT402",
+            "source": "STAT301",
+            "target": "STAT402",
             "type": "step",
             "data": {
                 "type": "recommended"
@@ -2170,60 +2259,24 @@
             }
         },
         {
-            "id": "required-IMEN151-IMEN216",
-            "source": "IMEN151",
-            "target": "IMEN216",
+            "id": "recommended-STAT401-STAT402",
+            "source": "STAT401",
+            "target": "STAT402",
             "type": "step",
             "data": {
-                "type": "required"
+                "type": "recommended"
             },
             "markerEnd": {
                 "type": "ArrowClosed"
             }
         },
         {
-            "id": "required-IMEN151-IMEN216",
-            "source": "IMEN151",
-            "target": "IMEN216",
+            "id": "recommended-STAT232-STAT412",
+            "source": "STAT232",
+            "target": "STAT412",
             "type": "step",
             "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-IMEN151-IMEN319",
-            "source": "IMEN151",
-            "target": "IMEN319",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-IMEN213-IMEN319",
-            "source": "IMEN213",
-            "target": "IMEN319",
-            "type": "step",
-            "data": {
-                "type": "required"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "required-IMEN213-IMEN319",
-            "source": "IMEN213",
-            "target": "IMEN319",
-            "type": "step",
-            "data": {
-                "type": "required"
+                "type": "recommended"
             },
             "markerEnd": {
                 "type": "ArrowClosed"

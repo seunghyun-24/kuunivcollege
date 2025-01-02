@@ -185,11 +185,124 @@
             }
         },
         {
-            "id": "PHIL020",
+            "id": "COLA200",
             "position": {
                 "x": 440,
                 "y": 0
             },
+            "학년": 1.0,
+            "data": {
+                "label": "인문융합세미나",
+                "학수번호": "COLA200",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인문학을 중심으로 인문, 사회, 자연과학 등 타 학문 영역의 전문지식을 융합하는 세미나 형식으로 운영한다._x000D_\n※심화된 인문 융합 지식을 통섭하는 세미나로서 주관 학과의 전공과목에 준하는 수준으로 운영한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL020",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "학년": 1.0,
             "data": {
                 "label": "철학토픽코스I",
                 "학수번호": "PHIL020",
@@ -215,8 +328,9 @@
             "id": "PHIL191",
             "position": {
                 "x": 440,
-                "y": 100
+                "y": 500
             },
+            "학년": 1.0,
             "data": {
                 "label": "서양철학개론",
                 "학수번호": "PHIL191",
@@ -239,92 +353,12 @@
             }
         },
         {
-            "id": "PHIL355",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "data": {
-                "label": "언어철학",
-                "학수번호": "PHIL355",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": "전공역량 안적혀있음",
-                "syllabus_kr": "언어의 본질, 기능, 분류의 문제를 비롯해 意味論과 話用論 등에 관한 현대철학의 문제를 개괄한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COLA200",
-            "position": {
-                "x": 440,
-                "y": 300
-            },
-            "data": {
-                "label": "인문융합세미나",
-                "학수번호": "COLA200",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "문과대학",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인문학을 중심으로 인문, 사회, 자연과학 등 타 학문 영역의 전문지식을 융합하는 세미나 형식으로 운영한다._x000D_\n※심화된 인문 융합 지식을 통섭하는 세미나로서 주관 학과의 전공과목에 준하는 수준으로 운영한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 440,
-                "y": 400
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEWR002",
             "position": {
                 "x": 440,
-                "y": 500
+                "y": 600
             },
+            "학년": 1.0,
             "data": {
                 "label": "글쓰기",
                 "학수번호": "GEWR002",
@@ -347,38 +381,12 @@
             }
         },
         {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 600
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
                 "y": 700
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS007",
@@ -406,6 +414,7 @@
                 "x": 440,
                 "y": 800
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
                 "학수번호": "GECT002",
@@ -428,443 +437,12 @@
             }
         },
         {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 900
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL030",
-            "position": {
-                "x": 1100,
-                "y": 0
-            },
-            "data": {
-                "label": "철학토픽코스II",
-                "학수번호": "PHIL030",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "기존의 개설 과목에서 다루기 힘든 최근의 혹은 특수한 철학적 주제를 탐구한다. 다루는 주제는 매 학기 달라진다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL207",
-            "position": {
-                "x": 1100,
-                "y": 100
-            },
-            "data": {
-                "label": "형이상학",
-                "학수번호": "PHIL207",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "주로 지금까지 나와 세계 및 신을 어떻게 보아 왔으며, 그 관계가 어떻게 다루어졌느냐를 분석?검토한다. 아울러 이러한 문제들의 의의와 전망도 살핀다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL220",
-            "position": {
-                "x": 1100,
-                "y": 200
-            },
-            "data": {
-                "label": "윤리학",
-                "학수번호": "PHIL220",
-                "세부전공": null,
-                "전공역량": "윤리의식",
-                "개설학과": "철학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "도덕적 가치, 도덕적 판단 기준, 인간의 행복과 인생의 궁극적 목적, 도덕적 권리와 의무, 가치관 등에 관한 고전적 이론과 아울러 현대의 이론을 강의한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL224",
-            "position": {
-                "x": 1100,
-                "y": 300
-            },
-            "data": {
-                "label": "유가철학",
-                "학수번호": "PHIL224",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "중국적 인문주의를 창도하여 중국 문화의 주류를 이루어 온 儒學이 초기에 형성.전개된 과정을 밝히고, 그들 학파의 대표자인 孔子, 孟子, 荀子 사상을 분석.검토한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL225",
-            "position": {
-                "x": 1100,
-                "y": 400
-            },
-            "data": {
-                "label": "도가철학",
-                "학수번호": "PHIL225",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "老莊哲學이 중국사상계에서 차지하는 위치와 그 특성을 밝히고, 老子,莊子,列子의 중심 사상을 철학적으로 분석.검토하여, 그 사상이 중국 문화에 미친 영향을 소개한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL311",
-            "position": {
-                "x": 1100,
-                "y": 500
-            },
-            "data": {
-                "label": "한국성리학",
-                "학수번호": "PHIL311",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "조선시대 성리학자들의 사상을 형이상학, 윤리학, 철학적 인간학의 관점에서 당시의 사회사적 배경과 더불어 고찰한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL312",
-            "position": {
-                "x": 1100,
-                "y": 600
-            },
-            "data": {
-                "label": "한국철학사",
-                "학수번호": "PHIL312",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "한국철학의 흐름을 개관하면서 각 시대의 정치,경제,사회적 배경과의 관련을 탐색한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL332",
-            "position": {
-                "x": 1100,
-                "y": 700
-            },
-            "data": {
-                "label": "중국양한위진철학",
-                "학수번호": "PHIL332",
-                "세부전공": null,
-                "전공역량": "다문화포용",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "제자백가들의 융합을 통한 새로운 형태의 도가와 유가의 출현 및 중국 해석학의 발생과 전개라는 측면에서 양한위진 시대의 철학을 고찰한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL334",
-            "position": {
-                "x": 1100,
-                "y": 800
-            },
-            "data": {
-                "label": "중국송명철학",
-                "학수번호": "PHIL334",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "朱子學과 陽明學으로 대표되는 宋明時代 新儒學의 형성 및 전개 과정을 사상사적 시각에서 살펴보고, 나아가서 宋明理學이 지닌 철학적 구조에 대한 분석과 해석을 통하여 그 속의 세계관과 진리관, 그리고 정치관과 윤리관을 이해하도록 한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL344",
-            "position": {
-                "x": 1100,
-                "y": 900
-            },
-            "data": {
-                "label": "서양근세철학",
-                "학수번호": "PHIL344",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "근대과학을 바탕으로 하는 서양 근대시민의 세계관이 깊이 분석?검토된다. 특히, 객관적 세계와 인간의 지성과의 관계가 중심 과제로 다루어진다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL353",
-            "position": {
-                "x": 1100,
-                "y": 1000
-            },
-            "data": {
-                "label": "철학적인간학",
-                "학수번호": "PHIL353",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "Max Scheler, Helmuth Plessner가 기초를 세운 현대의 철학적 인간학의 역사와 경향, 그 중요한 문제와 성과를 문화인류학, 생물학적 인류학, 사회인류학, 심리학적, 의학적 인간학과 관련시켜 다룬다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL358",
-            "position": {
-                "x": 1100,
-                "y": 1100
-            },
-            "data": {
-                "label": "미학",
-                "학수번호": "PHIL358",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "美의 본질, 미의식과 미적 체험, 미의 종류, 예술의 형식과 내용, 예술창작의 원리, 예술작품의 감상 등에 관하여 강의한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL395",
-            "position": {
-                "x": 1100,
-                "y": 1200
-            },
-            "data": {
-                "label": "귀납논리",
-                "학수번호": "PHIL395",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL456",
-            "position": {
-                "x": 1100,
-                "y": 1300
-            },
-            "data": {
-                "label": "철학교과교재연구및지도법",
-                "학수번호": "PHIL456",
-                "세부전공": null,
-                "전공역량": "의사소통 ",
-                "개설학과": "철학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "철학교육의 목표들과 연관하여 교재 구성의 기본원칙 설정, 교육 자료의 비교검토, 교재 유형과 내용 배열 및 타 교과 교재와의 비교평가, 모델교재 연구, 지도절차와 방법의 기법 연구 및 평가 기법과 그 한계성 등을 다루게 될 것이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL458",
-            "position": {
-                "x": 1100,
-                "y": 1400
-            },
-            "data": {
-                "label": "철학교과논리및논술",
-                "학수번호": "PHIL458",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "교육 전반에 있어서 철학교육의 역할과 특성을 밝히고, 철학교육의 목표,교과과정,방법론 및 평가의 일반원칙들을 추구하며, 이와 관련된 논리학과 경험과학들의 성과를 검토,활용한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "PHIL192",
             "position": {
                 "x": 660,
                 "y": 0
             },
+            "학년": 1.0,
             "data": {
                 "label": "동양철학개론",
                 "학수번호": "PHIL192",
@@ -892,6 +470,7 @@
                 "x": 660,
                 "y": 100
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]1학년세미나 II",
                 "학수번호": "GEKS008",
@@ -919,6 +498,7 @@
                 "x": 660,
                 "y": 200
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
@@ -946,6 +526,7 @@
                 "x": 880,
                 "y": 0
             },
+            "학년": 2.0,
             "data": {
                 "label": "기호논리학",
                 "학수번호": "PHIL209",
@@ -973,6 +554,7 @@
                 "x": 880,
                 "y": 100
             },
+            "학년": 2.0,
             "data": {
                 "label": "불교철학",
                 "학수번호": "PHIL226",
@@ -1000,6 +582,7 @@
                 "x": 880,
                 "y": 200
             },
+            "학년": 2.0,
             "data": {
                 "label": "서양고대철학",
                 "학수번호": "PHIL321",
@@ -1027,6 +610,7 @@
                 "x": 880,
                 "y": 300
             },
+            "학년": 2.0,
             "data": {
                 "label": "서양중세철학",
                 "학수번호": "PHIL322",
@@ -1054,6 +638,7 @@
                 "x": 880,
                 "y": 400
             },
+            "학년": 2.0,
             "data": {
                 "label": "중국선진철학",
                 "학수번호": "PHIL331",
@@ -1081,6 +666,7 @@
                 "x": 880,
                 "y": 500
             },
+            "학년": 2.0,
             "data": {
                 "label": "인도철학사",
                 "학수번호": "PHIL335",
@@ -1108,6 +694,7 @@
                 "x": 880,
                 "y": 600
             },
+            "학년": 2.0,
             "data": {
                 "label": "독일고전철학",
                 "학수번호": "PHIL345",
@@ -1135,6 +722,7 @@
                 "x": 880,
                 "y": 700
             },
+            "학년": 2.0,
             "data": {
                 "label": "현대유럽철학",
                 "학수번호": "PHIL346",
@@ -1162,6 +750,7 @@
                 "x": 880,
                 "y": 800
             },
+            "학년": 2.0,
             "data": {
                 "label": "현대영미철학",
                 "학수번호": "PHIL347",
@@ -1189,6 +778,7 @@
                 "x": 880,
                 "y": 900
             },
+            "학년": 2.0,
             "data": {
                 "label": "중국근현대철학",
                 "학수번호": "PHIL349",
@@ -1216,6 +806,7 @@
                 "x": 880,
                 "y": 1000
             },
+            "학년": 2.0,
             "data": {
                 "label": "심리철학",
                 "학수번호": "PHIL351",
@@ -1243,6 +834,7 @@
                 "x": 880,
                 "y": 1100
             },
+            "학년": 2.0,
             "data": {
                 "label": "과학철학",
                 "학수번호": "PHIL356",
@@ -1270,6 +862,7 @@
                 "x": 880,
                 "y": 1200
             },
+            "학년": 2.0,
             "data": {
                 "label": "해석학",
                 "학수번호": "PHIL381",
@@ -1297,6 +890,7 @@
                 "x": 880,
                 "y": 1300
             },
+            "학년": 2.0,
             "data": {
                 "label": "정치철학강의",
                 "학수번호": "PHIL386",
@@ -1324,6 +918,7 @@
                 "x": 880,
                 "y": 1400
             },
+            "학년": 2.0,
             "data": {
                 "label": "철학교과교육론",
                 "학수번호": "PHIL459",
@@ -1346,11 +941,796 @@
             }
         },
         {
+            "id": "PHIL030",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "철학토픽코스II",
+                "학수번호": "PHIL030",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "철학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "기존의 개설 과목에서 다루기 힘든 최근의 혹은 특수한 철학적 주제를 탐구한다. 다루는 주제는 매 학기 달라진다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL207",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "형이상학",
+                "학수번호": "PHIL207",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "철학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "주로 지금까지 나와 세계 및 신을 어떻게 보아 왔으며, 그 관계가 어떻게 다루어졌느냐를 분석?검토한다. 아울러 이러한 문제들의 의의와 전망도 살핀다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL220",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "윤리학",
+                "학수번호": "PHIL220",
+                "세부전공": null,
+                "전공역량": "윤리의식",
+                "개설학과": "철학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "도덕적 가치, 도덕적 판단 기준, 인간의 행복과 인생의 궁극적 목적, 도덕적 권리와 의무, 가치관 등에 관한 고전적 이론과 아울러 현대의 이론을 강의한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL224",
+            "position": {
+                "x": 1100,
+                "y": 300
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "유가철학",
+                "학수번호": "PHIL224",
+                "세부전공": null,
+                "전공역량": "창의적사고,비판적사고",
+                "개설학과": "철학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "중국적 인문주의를 창도하여 중국 문화의 주류를 이루어 온 儒學이 초기에 형성.전개된 과정을 밝히고, 그들 학파의 대표자인 孔子, 孟子, 荀子 사상을 분석.검토한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL225",
+            "position": {
+                "x": 1100,
+                "y": 400
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "도가철학",
+                "학수번호": "PHIL225",
+                "세부전공": null,
+                "전공역량": "창의적사고,비판적사고",
+                "개설학과": "철학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "老莊哲學이 중국사상계에서 차지하는 위치와 그 특성을 밝히고, 老子,莊子,列子의 중심 사상을 철학적으로 분석.검토하여, 그 사상이 중국 문화에 미친 영향을 소개한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL311",
+            "position": {
+                "x": 1100,
+                "y": 500
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "한국성리학",
+                "학수번호": "PHIL311",
+                "세부전공": null,
+                "전공역량": "창의적사고,비판적사고",
+                "개설학과": "철학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "조선시대 성리학자들의 사상을 형이상학, 윤리학, 철학적 인간학의 관점에서 당시의 사회사적 배경과 더불어 고찰한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL312",
+            "position": {
+                "x": 1100,
+                "y": 600
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "한국철학사",
+                "학수번호": "PHIL312",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "철학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "한국철학의 흐름을 개관하면서 각 시대의 정치,경제,사회적 배경과의 관련을 탐색한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL332",
+            "position": {
+                "x": 1100,
+                "y": 700
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "중국양한위진철학",
+                "학수번호": "PHIL332",
+                "세부전공": null,
+                "전공역량": "다문화포용",
+                "개설학과": "철학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "제자백가들의 융합을 통한 새로운 형태의 도가와 유가의 출현 및 중국 해석학의 발생과 전개라는 측면에서 양한위진 시대의 철학을 고찰한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL334",
+            "position": {
+                "x": 1100,
+                "y": 800
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "중국송명철학",
+                "학수번호": "PHIL334",
+                "세부전공": null,
+                "전공역량": "창의적사고,비판적사고",
+                "개설학과": "철학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "朱子學과 陽明學으로 대표되는 宋明時代 新儒學의 형성 및 전개 과정을 사상사적 시각에서 살펴보고, 나아가서 宋明理學이 지닌 철학적 구조에 대한 분석과 해석을 통하여 그 속의 세계관과 진리관, 그리고 정치관과 윤리관을 이해하도록 한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL344",
+            "position": {
+                "x": 1100,
+                "y": 900
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "서양근세철학",
+                "학수번호": "PHIL344",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "철학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "근대과학을 바탕으로 하는 서양 근대시민의 세계관이 깊이 분석?검토된다. 특히, 객관적 세계와 인간의 지성과의 관계가 중심 과제로 다루어진다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL353",
+            "position": {
+                "x": 1100,
+                "y": 1000
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "철학적인간학",
+                "학수번호": "PHIL353",
+                "세부전공": null,
+                "전공역량": "창의적사고,비판적사고",
+                "개설학과": "철학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "Max Scheler, Helmuth Plessner가 기초를 세운 현대의 철학적 인간학의 역사와 경향, 그 중요한 문제와 성과를 문화인류학, 생물학적 인류학, 사회인류학, 심리학적, 의학적 인간학과 관련시켜 다룬다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL358",
+            "position": {
+                "x": 1100,
+                "y": 1100
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "미학",
+                "학수번호": "PHIL358",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "철학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "美의 본질, 미의식과 미적 체험, 미의 종류, 예술의 형식과 내용, 예술창작의 원리, 예술작품의 감상 등에 관하여 강의한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL395",
+            "position": {
+                "x": 1100,
+                "y": 1200
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "귀납논리",
+                "학수번호": "PHIL395",
+                "세부전공": null,
+                "전공역량": "창의적사고,비판적사고",
+                "개설학과": "철학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL456",
+            "position": {
+                "x": 1100,
+                "y": 1300
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "철학교과교재연구및지도법",
+                "학수번호": "PHIL456",
+                "세부전공": null,
+                "전공역량": "의사소통 ",
+                "개설학과": "철학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "철학교육의 목표들과 연관하여 교재 구성의 기본원칙 설정, 교육 자료의 비교검토, 교재 유형과 내용 배열 및 타 교과 교재와의 비교평가, 모델교재 연구, 지도절차와 방법의 기법 연구 및 평가 기법과 그 한계성 등을 다루게 될 것이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL458",
+            "position": {
+                "x": 1100,
+                "y": 1400
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "철학교과논리및논술",
+                "학수번호": "PHIL458",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "철학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "교육 전반에 있어서 철학교육의 역할과 특성을 밝히고, 철학교육의 목표,교과과정,방법론 및 평가의 일반원칙들을 추구하며, 이와 관련된 논리학과 경험과학들의 성과를 검토,활용한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL355",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "학년": 3,
+            "data": {
+                "label": "언어철학",
+                "학수번호": "PHIL355",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "철학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": "전공역량 안적혀있음",
+                "syllabus_kr": "언어의 본질, 기능, 분류의 문제를 비롯해 意味論과 話用論 등에 관한 현대철학의 문제를 개괄한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL375",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "논리철학",
+                "학수번호": "PHIL375",
+                "세부전공": null,
+                "전공역량": "창의적사고,비판적사고",
+                "개설학과": "철학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "논리학의 기능이 무엇인지를, 또한 제기되는 철학적 문제들이 어떤 것인지를 대체적으로 정리하고, 표준적인 記號論理 이외에 樣相論理나 多値論理 또는 時制論理(tense logic) 등 여러 체계들을 개관한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL376",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "고급논리",
+                "학수번호": "PHIL376",
+                "세부전공": null,
+                "전공역량": "창의적사고,비판적사고",
+                "개설학과": "철학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "현대의 기호논리학에서 限量論理를 자세히 다루고 樣相命題論理와 多値論理를 개략적으로 취급한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL398",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "수리철학",
+                "학수번호": "PHIL398",
+                "세부전공": null,
+                "전공역량": "창의적사고,비판적사고",
+                "개설학과": "철학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업에서는 다음 문제들에 관한 고전적인 이론들과 현대의 논쟁들에 관해 연구 한다: 수학적 지식과 수학적 존재의 본성은 어떤 것인가? 수학적 진술의 의미는 어떻게 주어지는가? 수학적 필연성의 본성은 어떤 것인가? 수학적 진리와 증명의 관계는 어떤 것인가?"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL414",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "불교철학특강",
+                "학수번호": "PHIL414",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "철학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "불교철학의 대표적인 학파 또는 개념을 깊이 있게 다루어 학생들로 하여금 문제의식과 탐구욕을 기르게 한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL418",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "서양고대철학특강",
+                "학수번호": "PHIL418",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "철학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "자연론자들, 소피스트들, Socrates, Platon, Aristoteles, Hellenism-Roman 시대의 철학자들의 사상들 중에서 특정 주제들을 선택하여 집중적으로 다룬다. 예를 들어 “고대 희랍인들의 정의관”, “Aristoteles의 logos철학”, “Platon에 있어서 지식의 문제”, “소피스트"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL419",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "서양근세철학특강",
+                "학수번호": "PHIL419",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "철학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "서양 근세철학사의 특정한 이론이나 학파, 사상가들을 중점적으로 강의한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL424",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "서양현대철학특강",
+                "학수번호": "PHIL424",
+                "세부전공": null,
+                "전공역량": "창의적사고,비판적사고",
+                "개설학과": "철학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "서양 현대철학의 특정한 이론이나 학파, 사상가들을 중점적으로 강의한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL431",
+            "position": {
+                "x": 1320,
+                "y": 800
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "이론철학연습",
+                "학수번호": "PHIL431",
+                "세부전공": null,
+                "전공역량": "창의적사고,비판적사고",
+                "개설학과": "철학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이론철학 분야의 주요 문제들을 깊이 있게 탐구한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL432",
+            "position": {
+                "x": 1320,
+                "y": 900
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "실천철학연습",
+                "학수번호": "PHIL432",
+                "세부전공": null,
+                "전공역량": "윤리의식",
+                "개설학과": "철학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "실천철학 분야의 주요 문제들을 깊이 있게 탐구한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL435",
+            "position": {
+                "x": 1320,
+                "y": 1000
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "동양철학연습",
+                "학수번호": "PHIL435",
+                "세부전공": null,
+                "전공역량": "창의적사고,비판적사고",
+                "개설학과": "철학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목에서는 동양철학에서 중요시되는 특수한 주제들을 심도 있게 탐구한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL436",
+            "position": {
+                "x": 1320,
+                "y": 1100
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "서양고대철학연습",
+                "학수번호": "PHIL436",
+                "세부전공": null,
+                "전공역량": "창의적사고,비판적사고",
+                "개설학과": "철학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "소크라테스 이전 철학부터 헬레니즘 철학까지를 주로 형이상학이나 인식론과 같은 이론철학 중심으로 분석적으로 다룬다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHIL446",
+            "position": {
+                "x": 1320,
+                "y": 1200
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "서양철학원전연구",
+                "학수번호": "PHIL446",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "철학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "서양철학에 관계되는 중요한 원전을 선정하여, 전체 혹은 직접 강독하면서 그 의미를 논구한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "PHIL222",
             "position": {
                 "x": 1540,
                 "y": 0
             },
+            "학년": 3.0,
             "data": {
                 "label": "인식론",
                 "학수번호": "PHIL222",
@@ -1378,6 +1758,7 @@
                 "x": 1540,
                 "y": 100
             },
+            "학년": 3.0,
             "data": {
                 "label": "동양윤리와법사상",
                 "학수번호": "PHIL365",
@@ -1405,6 +1786,7 @@
                 "x": 1540,
                 "y": 200
             },
+            "학년": 3.0,
             "data": {
                 "label": "법철학",
                 "학수번호": "PHIL367",
@@ -1432,6 +1814,7 @@
                 "x": 1540,
                 "y": 300
             },
+            "학년": 3.0,
             "data": {
                 "label": "사회철학",
                 "학수번호": "PHIL391",
@@ -1459,6 +1842,7 @@
                 "x": 1540,
                 "y": 400
             },
+            "학년": 3.0,
             "data": {
                 "label": "응용윤리학",
                 "학수번호": "PHIL394",
@@ -1486,6 +1870,7 @@
                 "x": 1540,
                 "y": 500
             },
+            "학년": 3.0,
             "data": {
                 "label": "한국철학특강",
                 "학수번호": "PHIL413",
@@ -1513,6 +1898,7 @@
                 "x": 1540,
                 "y": 600
             },
+            "학년": 3.0,
             "data": {
                 "label": "독일고전철학특강",
                 "학수번호": "PHIL420",
@@ -1540,6 +1926,7 @@
                 "x": 1540,
                 "y": 700
             },
+            "학년": 3.0,
             "data": {
                 "label": "동양철학원전연구",
                 "학수번호": "PHIL447",
@@ -1567,6 +1954,7 @@
                 "x": 1540,
                 "y": 800
             },
+            "학년": 3.0,
             "data": {
                 "label": "유가철학특강",
                 "학수번호": "PHIL450",
@@ -1594,6 +1982,7 @@
                 "x": 1540,
                 "y": 900
             },
+            "학년": 3.0,
             "data": {
                 "label": "도가철학특강",
                 "학수번호": "PHIL452",
@@ -1621,6 +2010,7 @@
                 "x": 1540,
                 "y": 1000
             },
+            "학년": 3.0,
             "data": {
                 "label": "한국철학연습",
                 "학수번호": "PHIL454",
@@ -1643,335 +2033,12 @@
             }
         },
         {
-            "id": "PHIL375",
-            "position": {
-                "x": 1320,
-                "y": 0
-            },
-            "data": {
-                "label": "논리철학",
-                "학수번호": "PHIL375",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "논리학의 기능이 무엇인지를, 또한 제기되는 철학적 문제들이 어떤 것인지를 대체적으로 정리하고, 표준적인 記號論理 이외에 樣相論理나 多値論理 또는 時制論理(tense logic) 등 여러 체계들을 개관한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL376",
-            "position": {
-                "x": 1320,
-                "y": 100
-            },
-            "data": {
-                "label": "고급논리",
-                "학수번호": "PHIL376",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "현대의 기호논리학에서 限量論理를 자세히 다루고 樣相命題論理와 多値論理를 개략적으로 취급한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL398",
-            "position": {
-                "x": 1320,
-                "y": 200
-            },
-            "data": {
-                "label": "수리철학",
-                "학수번호": "PHIL398",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업에서는 다음 문제들에 관한 고전적인 이론들과 현대의 논쟁들에 관해 연구 한다: 수학적 지식과 수학적 존재의 본성은 어떤 것인가? 수학적 진술의 의미는 어떻게 주어지는가? 수학적 필연성의 본성은 어떤 것인가? 수학적 진리와 증명의 관계는 어떤 것인가?"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL414",
-            "position": {
-                "x": 1320,
-                "y": 300
-            },
-            "data": {
-                "label": "불교철학특강",
-                "학수번호": "PHIL414",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "불교철학의 대표적인 학파 또는 개념을 깊이 있게 다루어 학생들로 하여금 문제의식과 탐구욕을 기르게 한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL418",
-            "position": {
-                "x": 1320,
-                "y": 400
-            },
-            "data": {
-                "label": "서양고대철학특강",
-                "학수번호": "PHIL418",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "자연론자들, 소피스트들, Socrates, Platon, Aristoteles, Hellenism-Roman 시대의 철학자들의 사상들 중에서 특정 주제들을 선택하여 집중적으로 다룬다. 예를 들어 “고대 희랍인들의 정의관”, “Aristoteles의 logos철학”, “Platon에 있어서 지식의 문제”, “소피스트"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL419",
-            "position": {
-                "x": 1320,
-                "y": 500
-            },
-            "data": {
-                "label": "서양근세철학특강",
-                "학수번호": "PHIL419",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "서양 근세철학사의 특정한 이론이나 학파, 사상가들을 중점적으로 강의한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL424",
-            "position": {
-                "x": 1320,
-                "y": 600
-            },
-            "data": {
-                "label": "서양현대철학특강",
-                "학수번호": "PHIL424",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "서양 현대철학의 특정한 이론이나 학파, 사상가들을 중점적으로 강의한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL431",
-            "position": {
-                "x": 1320,
-                "y": 700
-            },
-            "data": {
-                "label": "이론철학연습",
-                "학수번호": "PHIL431",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이론철학 분야의 주요 문제들을 깊이 있게 탐구한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL432",
-            "position": {
-                "x": 1320,
-                "y": 800
-            },
-            "data": {
-                "label": "실천철학연습",
-                "학수번호": "PHIL432",
-                "세부전공": null,
-                "전공역량": "윤리의식",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "실천철학 분야의 주요 문제들을 깊이 있게 탐구한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL435",
-            "position": {
-                "x": 1320,
-                "y": 900
-            },
-            "data": {
-                "label": "동양철학연습",
-                "학수번호": "PHIL435",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목에서는 동양철학에서 중요시되는 특수한 주제들을 심도 있게 탐구한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL436",
-            "position": {
-                "x": 1320,
-                "y": 1000
-            },
-            "data": {
-                "label": "서양고대철학연습",
-                "학수번호": "PHIL436",
-                "세부전공": null,
-                "전공역량": "창의적사고,비판적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "소크라테스 이전 철학부터 헬레니즘 철학까지를 주로 형이상학이나 인식론과 같은 이론철학 중심으로 분석적으로 다룬다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHIL446",
-            "position": {
-                "x": 1320,
-                "y": 1100
-            },
-            "data": {
-                "label": "서양철학원전연구",
-                "학수번호": "PHIL446",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "철학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "서양철학에 관계되는 중요한 원전을 선정하여, 전체 혹은 직접 강독하면서 그 의미를 논구한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "PHIL437",
             "position": {
                 "x": 1760,
                 "y": 0
             },
+            "학년": 4.0,
             "data": {
                 "label": "서양철학연습",
                 "학수번호": "PHIL437",
@@ -1999,6 +2066,7 @@
                 "x": 1760,
                 "y": 100
             },
+            "학년": 4.0,
             "data": {
                 "label": "서양고대철학원전연구",
                 "학수번호": "PHIL449",
@@ -2026,6 +2094,7 @@
                 "x": 1760,
                 "y": 200
             },
+            "학년": 4.0,
             "data": {
                 "label": "철학연구방법론",
                 "학수번호": "PHIL460",
@@ -2053,6 +2122,7 @@
                 "x": 1980,
                 "y": 0
             },
+            "학년": 4.0,
             "data": {
                 "label": "유가와민주주의",
                 "학수번호": "PHIL451",
@@ -2080,6 +2150,7 @@
                 "x": 1980,
                 "y": 100
             },
+            "학년": 4.0,
             "data": {
                 "label": "중국신유학특강",
                 "학수번호": "PHIL453",

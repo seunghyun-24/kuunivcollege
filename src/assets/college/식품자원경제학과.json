@@ -190,6 +190,7 @@
                 "x": 440,
                 "y": 0
             },
+            "학년": 1,
             "data": {
                 "label": "학문세계의탐구 I",
                 "학수번호": "GELI005",
@@ -212,38 +213,12 @@
             }
         },
         {
-            "id": "GEWR002",
+            "id": "IFLS800",
             "position": {
                 "x": 440,
                 "y": 100
             },
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
+            "학년": 1,
             "data": {
                 "label": "Academic English I",
                 "학수번호": "IFLS800",
@@ -266,11 +241,68 @@
             }
         },
         {
-            "id": "GEKS007",
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
             "position": {
                 "x": 440,
                 "y": 300
             },
+            "학년": 1,
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS007",
@@ -296,8 +328,9 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 400
+                "y": 500
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
                 "학수번호": "GECT002",
@@ -320,38 +353,12 @@
             }
         },
         {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "LESE151",
             "position": {
                 "x": 440,
                 "y": 600
             },
+            "학년": 1,
             "data": {
                 "label": "식품자원경제학개론",
                 "학수번호": "LESE151",
@@ -368,7 +375,7 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -379,6 +386,7 @@
                 "x": 440,
                 "y": 700
             },
+            "학년": 1,
             "data": {
                 "label": "시장과경제",
                 "학수번호": "LESE153",
@@ -395,7 +403,7 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -406,6 +414,7 @@
                 "x": 660,
                 "y": 0
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS008",
@@ -433,6 +442,7 @@
                 "x": 660,
                 "y": 100
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
@@ -460,6 +470,7 @@
                 "x": 660,
                 "y": 200
             },
+            "학년": 1,
             "data": {
                 "label": "세계화와국가경제",
                 "학수번호": "LESE154",
@@ -476,7 +487,7 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -487,6 +498,7 @@
                 "x": 660,
                 "y": 300
             },
+            "학년": 1,
             "data": {
                 "label": "경제통계학",
                 "학수번호": "LESE152",
@@ -514,6 +526,7 @@
                 "x": 880,
                 "y": 0
             },
+            "학년": 2,
             "data": {
                 "label": "응용경제수학",
                 "학수번호": "LESE155",
@@ -541,6 +554,7 @@
                 "x": 880,
                 "y": 100
             },
+            "학년": 2,
             "data": {
                 "label": "공공경제학",
                 "학수번호": "LESE205",
@@ -568,6 +582,7 @@
                 "x": 880,
                 "y": 200
             },
+            "학년": 2,
             "data": {
                 "label": "응용계량경제학",
                 "학수번호": "LESE207",
@@ -595,6 +610,7 @@
                 "x": 880,
                 "y": 300
             },
+            "학년": 2,
             "data": {
                 "label": "미시경제분석",
                 "학수번호": "LESE209",
@@ -622,6 +638,7 @@
                 "x": 880,
                 "y": 400
             },
+            "학년": 2,
             "data": {
                 "label": "보건경제학원론",
                 "학수번호": "LESE221",
@@ -649,6 +666,7 @@
                 "x": 1100,
                 "y": 0
             },
+            "학년": 2,
             "data": {
                 "label": "식품마케팅",
                 "학수번호": "LESE210",
@@ -676,6 +694,7 @@
                 "x": 1100,
                 "y": 100
             },
+            "학년": 2,
             "data": {
                 "label": "응용후생경제학",
                 "학수번호": "LESE212",
@@ -703,6 +722,7 @@
                 "x": 1100,
                 "y": 200
             },
+            "학년": 2,
             "data": {
                 "label": "거시경제분석",
                 "학수번호": "LESE216",
@@ -730,6 +750,7 @@
                 "x": 1100,
                 "y": 300
             },
+            "학년": 2,
             "data": {
                 "label": "식품산업조직론",
                 "학수번호": "LESE218",
@@ -752,281 +773,12 @@
             }
         },
         {
-            "id": "LESE302",
-            "position": {
-                "x": 1540,
-                "y": 0
-            },
-            "data": {
-                "label": "환경경제학",
-                "학수번호": "LESE302",
-                "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "환경문제에 관련된 경제학의 기초개념과 주요 환경경제이론을 이해시키고, 외부성 문제에 대한 접근방안, 환경오염의 유형별 경제분석 및 정책대응 등을 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE304",
-            "position": {
-                "x": 1540,
-                "y": 100
-            },
-            "data": {
-                "label": "자원환경정책",
-                "학수번호": "LESE304",
-                "세부전공": null,
-                "전공역량": "[창의·융합] 통합적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "자연자원과 환경에 대한 경제이론 및 정책문제를 강의하고, 이용·개발·보전에 영향을 미치는 경제적 제도적 요인을 분석하며, 세대간 자원관리문제와 자연환경문제에 대한 자원정책 이론과 기법을 응용하는 능력을 배양한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE306",
-            "position": {
-                "x": 1540,
-                "y": 200
-            },
-            "data": {
-                "label": "식품산업재무관리",
-                "학수번호": "LESE306",
-                "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "농업과 식품산업에 있어서 자금의 조달, 투자의사결정, 위험 하에서 자기자본의 보호, 재무분석, 농산업금융기관의 기능과 농산업금융정책에 대하여 논의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE308",
-            "position": {
-                "x": 1540,
-                "y": 300
-            },
-            "data": {
-                "label": "상품선물및옵션거래",
-                "학수번호": "LESE308",
-                "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "상품 선물 및 옵션 시장과 거래에 관련된 기본적인 이해를 제공하기 위하여, 선물 거래의 이론, 거래 방법, 제 규정 등을 다룬다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE312",
-            "position": {
-                "x": 1540,
-                "y": 400
-            },
-            "data": {
-                "label": "자원가치평가론",
-                "학수번호": "LESE312",
-                "세부전공": null,
-                "전공역량": "[창의·융합] 문제해결",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "자연자원과 환경자원의 가치평가에 관한 이론과 방법론을 이해시키고, 후생변화측정과 간접편익 추정의 기초이론, 확대비용편익 평가방법과 비시장가치 평가방법 특히 여행비용평가법, 특성가격평가법, 임의가치평가법 등에 대하여 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE314",
-            "position": {
-                "x": 1540,
-                "y": 500
-            },
-            "data": {
-                "label": "국제농산물무역론",
-                "학수번호": "LESE314",
-                "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "농산물무역에 관련된 기초이론, 무역의 패턴, 자유무역과 보호무역의 배경, 농산물무역정책의 분석 등에 관하여 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE322",
-            "position": {
-                "x": 1540,
-                "y": 600
-            },
-            "data": {
-                "label": "노년경제학",
-                "학수번호": "LESE322",
-                "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "요즘 사회문제화 되고 있는 고령화 현상이 경제 각 분야에 미치는 영향을 분석하고 특히 고령화 현상으로 인한 의료비 급증 문제 및 long-term care service의 효율적인 공급과 관련된 제 현상을 분석하고 이를 활용하여 이 문제에 대한 정부의 각종 정책에 대한 효과분석을 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE324",
-            "position": {
-                "x": 1540,
-                "y": 700
-            },
-            "data": {
-                "label": "바이오산업시장론",
-                "학수번호": "LESE324",
-                "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인류경제의 지속가능성을 위한 효율적인 에너지 체계의 달성이 요구되는 바, 다양한 에너지원의 수요 및 공급, 개발에 관한 이해능력과 응용방법을 소개한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE326",
-            "position": {
-                "x": 1540,
-                "y": 800
-            },
-            "data": {
-                "label": "식품안전경제학",
-                "학수번호": "LESE326",
-                "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "_x000D_\n최근 식품안전 문제는 식품에 대한 소비자의 인식과 소비패턴, 식품생산 및 국민보건에 이르기까지 많은 영향을 미치고 있다. 본 과목에서는 식품안전 문제와 관련하여 식품소비자의 의사결정에 어떠한 요인들이 합리적 의사결정의 장애요인으로 작용하는지 살펴보고 이와 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE328",
-            "position": {
-                "x": 1540,
-                "y": 900
-            },
-            "data": {
-                "label": "국제농업개발협력론",
-                "학수번호": "LESE328",
-                "세부전공": null,
-                "전공역량": "[전문·실용] 전문가적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "_x000D_\n국제식량수급 현황과 변화요인에 관한 분석을 바탕으로 국제농업개발과 협력에 관한 이론과 사례를 학습한다. 개도국을 위한 지속가능한 개발전략의 수립과 관련해 UN, OECD 등 국제기구의 연구와 활동을 학습하고, 한국이 이에 협력하고 추구할 방향을 논의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "LESE307",
             "position": {
                 "x": 1320,
                 "y": 0
             },
+            "학년": 3,
             "data": {
                 "label": "애그리비지니스세미나",
                 "학수번호": "LESE307",
@@ -1054,6 +806,7 @@
                 "x": 1320,
                 "y": 100
             },
+            "학년": 3,
             "data": {
                 "label": "국제식품정책론",
                 "학수번호": "LESE309",
@@ -1081,6 +834,7 @@
                 "x": 1320,
                 "y": 200
             },
+            "학년": 3,
             "data": {
                 "label": "불확실성과경제행위",
                 "학수번호": "LESE313",
@@ -1108,6 +862,7 @@
                 "x": 1320,
                 "y": 300
             },
+            "학년": 3,
             "data": {
                 "label": "식품소비자경제학",
                 "학수번호": "LESE317",
@@ -1135,6 +890,7 @@
                 "x": 1320,
                 "y": 400
             },
+            "학년": 3,
             "data": {
                 "label": "응용재무경제학",
                 "학수번호": "LESE319",
@@ -1162,6 +918,7 @@
                 "x": 1320,
                 "y": 500
             },
+            "학년": 3,
             "data": {
                 "label": "에너지경제론",
                 "학수번호": "LESE321",
@@ -1184,21 +941,162 @@
             }
         },
         {
-            "id": "LESE406",
+            "id": "LESE302",
             "position": {
-                "x": 1980,
+                "x": 1540,
                 "y": 0
             },
+            "학년": 3,
             "data": {
-                "label": "국제통상협상론",
-                "학수번호": "LESE406",
+                "label": "환경경제학",
+                "학수번호": "LESE302",
+                "세부전공": null,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "환경문제에 관련된 경제학의 기초개념과 주요 환경경제이론을 이해시키고, 외부성 문제에 대한 접근방안, 환경오염의 유형별 경제분석 및 정책대응 등을 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE304",
+            "position": {
+                "x": 1540,
+                "y": 100
+            },
+            "학년": 3,
+            "data": {
+                "label": "자원환경정책",
+                "학수번호": "LESE304",
+                "세부전공": null,
+                "전공역량": "[창의·융합] 통합적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "자연자원과 환경에 대한 경제이론 및 정책문제를 강의하고, 이용·개발·보전에 영향을 미치는 경제적 제도적 요인을 분석하며, 세대간 자원관리문제와 자연환경문제에 대한 자원정책 이론과 기법을 응용하는 능력을 배양한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE306",
+            "position": {
+                "x": 1540,
+                "y": 200
+            },
+            "학년": 3,
+            "data": {
+                "label": "식품산업재무관리",
+                "학수번호": "LESE306",
+                "세부전공": null,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "농업과 식품산업에 있어서 자금의 조달, 투자의사결정, 위험 하에서 자기자본의 보호, 재무분석, 농산업금융기관의 기능과 농산업금융정책에 대하여 논의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE308",
+            "position": {
+                "x": 1540,
+                "y": 300
+            },
+            "학년": 3,
+            "data": {
+                "label": "상품선물및옵션거래",
+                "학수번호": "LESE308",
+                "세부전공": null,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "상품 선물 및 옵션 시장과 거래에 관련된 기본적인 이해를 제공하기 위하여, 선물 거래의 이론, 거래 방법, 제 규정 등을 다룬다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE312",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "학년": 3,
+            "data": {
+                "label": "자원가치평가론",
+                "학수번호": "LESE312",
+                "세부전공": null,
+                "전공역량": "[창의·융합] 문제해결",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "자연자원과 환경자원의 가치평가에 관한 이론과 방법론을 이해시키고, 후생변화측정과 간접편익 추정의 기초이론, 확대비용편익 평가방법과 비시장가치 평가방법 특히 여행비용평가법, 특성가격평가법, 임의가치평가법 등에 대하여 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE314",
+            "position": {
+                "x": 1540,
+                "y": 500
+            },
+            "학년": 3,
+            "data": {
+                "label": "국제농산물무역론",
+                "학수번호": "LESE314",
                 "세부전공": null,
                 "전공역량": "[전문·실용] 전문가적사고",
                 "개설학과": "식품자원경제학과",
                 "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "국제통상협상과 관련된 경제이론과 WTO, FTA 협상과 관련된 다양한 사례에 대한 강의와 토의한다. _x000D_\n"
+                "syllabus_kr": "농산물무역에 관련된 기초이론, 무역의 패턴, 자유무역과 보호무역의 배경, 농산물무역정책의 분석 등에 관하여 강의한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1211,75 +1109,106 @@
             }
         },
         {
-            "id": "LESE408",
+            "id": "LESE322",
             "position": {
-                "x": 1980,
-                "y": 100
+                "x": 1540,
+                "y": 600
             },
+            "학년": 3,
             "data": {
-                "label": "계량분석론",
-                "학수번호": "LESE408",
+                "label": "노년경제학",
+                "학수번호": "LESE322",
                 "세부전공": null,
-                "전공역량": "[창의·융합] 창의적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "정책분석과 경제예측에 활용되는 최적화방법론과 시뮬레이션, 시계열분석에 대한 실증연구방법에 대해 강의와 토론한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE410",
-            "position": {
-                "x": 1980,
-                "y": 200
-            },
-            "data": {
-                "label": "기술경제학",
-                "학수번호": "LESE410",
-                "세부전공": null,
-                "전공역량": "[창의·융합] 통합적사고",
-                "개설학과": "식품자원경제학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "경제발전에 있어서 핵심인 연구개발과 기술혁신과 관련된 경제이론과 모형, 실증연구방법론, 다양한 사례와 정책적 시사점들을 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LESE412",
-            "position": {
-                "x": 1980,
-                "y": 300
-            },
-            "data": {
-                "label": "농식품가격분석론",
-                "학수번호": "LESE412",
-                "세부전공": null,
-                "전공역량": "[창의·융합] 창의적사고",
+                "전공역량": "[전문·실용] 전문가적사고",
                 "개설학과": "식품자원경제학과",
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "농식품가격의 형성원리·특징 및 그 통제를 강의한다._x000D_\n"
+                "syllabus_kr": "요즘 사회문제화 되고 있는 고령화 현상이 경제 각 분야에 미치는 영향을 분석하고 특히 고령화 현상으로 인한 의료비 급증 문제 및 long-term care service의 효율적인 공급과 관련된 제 현상을 분석하고 이를 활용하여 이 문제에 대한 정부의 각종 정책에 대한 효과분석을 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE324",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "학년": 3,
+            "data": {
+                "label": "바이오산업시장론",
+                "학수번호": "LESE324",
+                "세부전공": null,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인류경제의 지속가능성을 위한 효율적인 에너지 체계의 달성이 요구되는 바, 다양한 에너지원의 수요 및 공급, 개발에 관한 이해능력과 응용방법을 소개한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE326",
+            "position": {
+                "x": 1540,
+                "y": 800
+            },
+            "학년": 3,
+            "data": {
+                "label": "식품안전경제학",
+                "학수번호": "LESE326",
+                "세부전공": null,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "_x000D_\n최근 식품안전 문제는 식품에 대한 소비자의 인식과 소비패턴, 식품생산 및 국민보건에 이르기까지 많은 영향을 미치고 있다. 본 과목에서는 식품안전 문제와 관련하여 식품소비자의 의사결정에 어떠한 요인들이 합리적 의사결정의 장애요인으로 작용하는지 살펴보고 이와 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE328",
+            "position": {
+                "x": 1540,
+                "y": 900
+            },
+            "학년": 3,
+            "data": {
+                "label": "국제농업개발협력론",
+                "학수번호": "LESE328",
+                "세부전공": null,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "_x000D_\n국제식량수급 현황과 변화요인에 관한 분석을 바탕으로 국제농업개발과 협력에 관한 이론과 사례를 학습한다. 개도국을 위한 지속가능한 개발전략의 수립과 관련해 UN, OECD 등 국제기구의 연구와 활동을 학습하고, 한국이 이에 협력하고 추구할 방향을 논의한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1297,6 +1226,7 @@
                 "x": 1760,
                 "y": 0
             },
+            "학년": 4,
             "data": {
                 "label": "부동산경제론",
                 "학수번호": "LESE407",
@@ -1324,6 +1254,7 @@
                 "x": 1760,
                 "y": 100
             },
+            "학년": 4,
             "data": {
                 "label": "응용경제세미나",
                 "학수번호": "LESE411",
@@ -1351,6 +1282,7 @@
                 "x": 1760,
                 "y": 200
             },
+            "학년": 4,
             "data": {
                 "label": "법경제학",
                 "학수번호": "LESE413",
@@ -1361,6 +1293,118 @@
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "법경제학은 경제이론이 법, 제도 및 거래비용을 고려하지 않음으로 인해 발생하는 문제를 해결하기 위해 Coase의 거래비용 이론에 기초하여 법, 제도의 경제학적 분석을 공부한다. 구체적으로 사유재산권제도, 계약법, 불법행위법을 공부한다._x000D_\n_x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE406",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "국제통상협상론",
+                "학수번호": "LESE406",
+                "세부전공": null,
+                "전공역량": "[전문·실용] 전문가적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "국제통상협상과 관련된 경제이론과 WTO, FTA 협상과 관련된 다양한 사례에 대한 강의와 토의한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE408",
+            "position": {
+                "x": 1980,
+                "y": 100
+            },
+            "학년": 4,
+            "data": {
+                "label": "계량분석론",
+                "학수번호": "LESE408",
+                "세부전공": null,
+                "전공역량": "[창의·융합] 창의적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "정책분석과 경제예측에 활용되는 최적화방법론과 시뮬레이션, 시계열분석에 대한 실증연구방법에 대해 강의와 토론한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE410",
+            "position": {
+                "x": 1980,
+                "y": 200
+            },
+            "학년": 4,
+            "data": {
+                "label": "기술경제학",
+                "학수번호": "LESE410",
+                "세부전공": null,
+                "전공역량": "[창의·융합] 통합적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "경제발전에 있어서 핵심인 연구개발과 기술혁신과 관련된 경제이론과 모형, 실증연구방법론, 다양한 사례와 정책적 시사점들을 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LESE412",
+            "position": {
+                "x": 1980,
+                "y": 300
+            },
+            "학년": 4,
+            "data": {
+                "label": "농식품가격분석론",
+                "학수번호": "LESE412",
+                "세부전공": null,
+                "전공역량": "[창의·융합] 창의적사고",
+                "개설학과": "식품자원경제학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "농식품가격의 형성원리·특징 및 그 통제를 강의한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",

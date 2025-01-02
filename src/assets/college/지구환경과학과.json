@@ -190,6 +190,7 @@
                 "x": 440,
                 "y": 0
             },
+            "학년": 1,
             "data": {
                 "label": "학문세계의탐구 I",
                 "학수번호": "GELI005",
@@ -212,38 +213,12 @@
             }
         },
         {
-            "id": "GEWR002",
+            "id": "IFLS800",
             "position": {
                 "x": 440,
                 "y": 100
             },
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
+            "학년": 1,
             "data": {
                 "label": "Academic English I",
                 "학수번호": "IFLS800",
@@ -266,11 +241,68 @@
             }
         },
         {
-            "id": "GEKS007",
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
             "position": {
                 "x": 440,
                 "y": 300
             },
+            "학년": 1,
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS007",
@@ -296,8 +328,9 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 400
+                "y": 500
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
                 "학수번호": "GECT002",
@@ -320,38 +353,12 @@
             }
         },
         {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "MATH161",
             "position": {
                 "x": 440,
                 "y": 600
             },
+            "학년": 1,
             "data": {
                 "label": "미적분학및연습I",
                 "학수번호": "MATH161",
@@ -379,6 +386,7 @@
                 "x": 440,
                 "y": 700
             },
+            "학년": 1,
             "data": {
                 "label": "지구환경과학및연습 I",
                 "학수번호": "EAES151",
@@ -406,6 +414,7 @@
                 "x": 440,
                 "y": 800
             },
+            "학년": 1,
             "data": {
                 "label": "지구환경과학실험 I",
                 "학수번호": "EAES153",
@@ -433,6 +442,7 @@
                 "x": 440,
                 "y": 900
             },
+            "학년": 1,
             "data": {
                 "label": "일반물리학연습 I",
                 "학수번호": "PHYS151",
@@ -460,6 +470,7 @@
                 "x": 440,
                 "y": 1000
             },
+            "학년": 1,
             "data": {
                 "label": "일반물리학실험 I",
                 "학수번호": "PHYS161",
@@ -487,6 +498,7 @@
                 "x": 440,
                 "y": 1100
             },
+            "학년": 1,
             "data": {
                 "label": "일반화학및연습 I",
                 "학수번호": "CHEM151",
@@ -514,6 +526,7 @@
                 "x": 440,
                 "y": 1200
             },
+            "학년": 1,
             "data": {
                 "label": "일반화학실험 I",
                 "학수번호": "CHEM153",
@@ -541,6 +554,7 @@
                 "x": 660,
                 "y": 0
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS008",
@@ -568,6 +582,7 @@
                 "x": 660,
                 "y": 100
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
@@ -595,6 +610,7 @@
                 "x": 660,
                 "y": 200
             },
+            "학년": 1,
             "data": {
                 "label": "미적분학및연습II",
                 "학수번호": "MATH162",
@@ -622,6 +638,7 @@
                 "x": 660,
                 "y": 300
             },
+            "학년": 1,
             "data": {
                 "label": "지구환경과학및연습 II",
                 "학수번호": "EAES152",
@@ -649,6 +666,7 @@
                 "x": 660,
                 "y": 400
             },
+            "학년": 1,
             "data": {
                 "label": "지구환경과학실험 II",
                 "학수번호": "EAES154",
@@ -676,6 +694,7 @@
                 "x": 660,
                 "y": 500
             },
+            "학년": 1,
             "data": {
                 "label": "일반물리학연습 II",
                 "학수번호": "PHYS152",
@@ -703,6 +722,7 @@
                 "x": 660,
                 "y": 600
             },
+            "학년": 1,
             "data": {
                 "label": "일반물리학실험 II",
                 "학수번호": "PHYS162",
@@ -730,6 +750,7 @@
                 "x": 660,
                 "y": 700
             },
+            "학년": 1,
             "data": {
                 "label": "일반화학및연습 II",
                 "학수번호": "CHEM152",
@@ -757,6 +778,7 @@
                 "x": 660,
                 "y": 800
             },
+            "학년": 1,
             "data": {
                 "label": "일반화학실험 II",
                 "학수번호": "CHEM154",
@@ -784,6 +806,7 @@
                 "x": 880,
                 "y": 0
             },
+            "학년": 2,
             "data": {
                 "label": "지구물질과학",
                 "학수번호": "EAES201",
@@ -811,6 +834,7 @@
                 "x": 880,
                 "y": 100
             },
+            "학년": 2,
             "data": {
                 "label": "지구화학",
                 "학수번호": "EAES203",
@@ -838,6 +862,7 @@
                 "x": 880,
                 "y": 200
             },
+            "학년": 2,
             "data": {
                 "label": "대기화학",
                 "학수번호": "EAES205",
@@ -865,6 +890,7 @@
                 "x": 880,
                 "y": 300
             },
+            "학년": 2,
             "data": {
                 "label": "해양환경학",
                 "학수번호": "EAES208",
@@ -892,6 +918,7 @@
                 "x": 880,
                 "y": 400
             },
+            "학년": 2,
             "data": {
                 "label": "대기과학",
                 "학수번호": "EAES209",
@@ -919,6 +946,7 @@
                 "x": 1100,
                 "y": 0
             },
+            "학년": 2,
             "data": {
                 "label": "화성암석학",
                 "학수번호": "EAES202",
@@ -946,6 +974,7 @@
                 "x": 1100,
                 "y": 100
             },
+            "학년": 2,
             "data": {
                 "label": "지구물리학",
                 "학수번호": "EAES204",
@@ -973,6 +1002,7 @@
                 "x": 1100,
                 "y": 200
             },
+            "학년": 2,
             "data": {
                 "label": "자연수지구화학",
                 "학수번호": "EAES206",
@@ -1000,6 +1030,7 @@
                 "x": 1100,
                 "y": 300
             },
+            "학년": 2,
             "data": {
                 "label": "수리지질학",
                 "학수번호": "EAES207",
@@ -1022,11 +1053,40 @@
             }
         },
         {
-            "id": "EAES301",
+            "id": "SCED303",
             "position": {
                 "x": 1320,
                 "y": 0
             },
+            "학년": 3,
+            "data": {
+                "label": "과학교과논리및논술",
+                "학수번호": "SCED303",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "이과대학",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "과학 지식 습득 과정에 필요한 논리적 서술 즉 말하기와 글쓰기 능력 습득"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #ccc",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES301",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "학년": 3,
             "data": {
                 "label": "구조지질학",
                 "학수번호": "EAES301",
@@ -1052,8 +1112,9 @@
             "id": "EAES307",
             "position": {
                 "x": 1320,
-                "y": 100
+                "y": 200
             },
+            "학년": 3,
             "data": {
                 "label": "퇴적시스템",
                 "학수번호": "EAES307",
@@ -1079,8 +1140,9 @@
             "id": "EAES315",
             "position": {
                 "x": 1320,
-                "y": 200
+                "y": 300
             },
+            "학년": 3,
             "data": {
                 "label": "지진학",
                 "학수번호": "EAES315",
@@ -1106,8 +1168,9 @@
             "id": "EAES305",
             "position": {
                 "x": 1320,
-                "y": 300
+                "y": 400
             },
+            "학년": 3,
             "data": {
                 "label": "변성암석학",
                 "학수번호": "EAES305",
@@ -1133,8 +1196,9 @@
             "id": "EAES311",
             "position": {
                 "x": 1320,
-                "y": 400
+                "y": 500
             },
+            "학년": 3,
             "data": {
                 "label": "지질학",
                 "학수번호": "EAES311",
@@ -1160,8 +1224,9 @@
             "id": "EAES391",
             "position": {
                 "x": 1320,
-                "y": 500
+                "y": 600
             },
+            "학년": 3,
             "data": {
                 "label": "지구과학교과교육론",
                 "학수번호": "EAES391",
@@ -1184,38 +1249,12 @@
             }
         },
         {
-            "id": "SCED303",
-            "position": {
-                "x": 1320,
-                "y": 600
-            },
-            "data": {
-                "label": "과학교과논리및논술",
-                "학수번호": "SCED303",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "이과대학",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "과학 지식 습득 과정에 필요한 논리적 서술 즉 말하기와 글쓰기 능력 습득"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #ccc",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "EAES304",
             "position": {
                 "x": 1540,
                 "y": 0
             },
+            "학년": 3,
             "data": {
                 "label": "광물에너지자원학",
                 "학수번호": "EAES304",
@@ -1243,6 +1282,7 @@
                 "x": 1540,
                 "y": 100
             },
+            "학년": 3,
             "data": {
                 "label": "토양환경광물학",
                 "학수번호": "EAES313",
@@ -1270,6 +1310,7 @@
                 "x": 1540,
                 "y": 200
             },
+            "학년": 3,
             "data": {
                 "label": "지체구조학",
                 "학수번호": "EAES302",
@@ -1297,6 +1338,7 @@
                 "x": 1540,
                 "y": 300
             },
+            "학년": 3,
             "data": {
                 "label": "지하수환경학",
                 "학수번호": "EAES308",
@@ -1324,6 +1366,7 @@
                 "x": 1540,
                 "y": 400
             },
+            "학년": 3,
             "data": {
                 "label": "석유지질학",
                 "학수번호": "EAES312",
@@ -1351,6 +1394,7 @@
                 "x": 1540,
                 "y": 500
             },
+            "학년": 3,
             "data": {
                 "label": "지구환경Data",
                 "학수번호": "EAES314",
@@ -1378,6 +1422,7 @@
                 "x": 1540,
                 "y": 600
             },
+            "학년": 3,
             "data": {
                 "label": "지구과학교과교재연구및지도법",
                 "학수번호": "EAES394",
@@ -1400,227 +1445,12 @@
             }
         },
         {
-            "id": "EAES402",
-            "position": {
-                "x": 1980,
-                "y": 0
-            },
-            "data": {
-                "label": "지질공학",
-                "학수번호": "EAES402",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "지구환경과학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "주로 암반역학과 토질역학의 이론과 실제를 공부하여 각종 건설현장에서의 공학적 응용 능력을 배양한다. 주요 내용은 지질공학적 현장조사법, 암반과 토질의 역학적, 수리학적 특성, 지반 변형, 터널과 사면의 안정성, 각종 지반토목시설의 부지 선정과 환경 문제 등이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EAES414",
-            "position": {
-                "x": 1980,
-                "y": 100
-            },
-            "data": {
-                "label": "야외지질학실습",
-                "학수번호": "EAES414",
-                "세부전공": null,
-                "전공역량": "창의적 사고",
-                "개설학과": "지구환경과학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "야외에서 암석 및 지질구조의 식별과 기재 등을 포함한 야외 자료의 체계적인 기록법을 교수한다. 수집된 야외자료의 분석과 해석, 그리고 지질도와 지질보고서의 작성법을 배운다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EAES404",
-            "position": {
-                "x": 1980,
-                "y": 200
-            },
-            "data": {
-                "label": "지화학탐사",
-                "학수번호": "EAES404",
-                "세부전공": null,
-                "전공역량": "창의적 사고",
-                "개설학과": "지구환경과학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EAES408",
-            "position": {
-                "x": 1980,
-                "y": 300
-            },
-            "data": {
-                "label": "원격탐사/GIS",
-                "학수번호": "EAES408",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "지구환경과학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EAES418",
-            "position": {
-                "x": 1980,
-                "y": 400
-            },
-            "data": {
-                "label": "오염조사/복원",
-                "학수번호": "EAES418",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "지구환경과학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "토양, 퇴적물, 지하수에 발생하는 다양한 유무기 오염물질의 종류와 특성과 이러한 오염물질로 오염된 지중환경을 복원하기 위한 지중환경특성화 방법, 모니터링 방법, 오염정화/복원 방법 등을 학습한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EAES420",
-            "position": {
-                "x": 1980,
-                "y": 500
-            },
-            "data": {
-                "label": "지구환경과학연구Ⅱ",
-                "학수번호": "EAES420",
-                "세부전공": null,
-                "전공역량": "글로벌 리더십",
-                "개설학과": "지구환경과학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "고체-지구와 유체-지구 관련된 지구시스템의 중요성을 종합적으로 이해하고, 실내와 야외 학습 병행을 통해 지구시스템과 관련된 자연현상을 통합적으로 이해하고 해석하는 방법을 학습한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EAES422",
-            "position": {
-                "x": 1980,
-                "y": 600
-            },
-            "data": {
-                "label": "현장실습Ⅱ",
-                "학수번호": "EAES422",
-                "세부전공": null,
-                "전공역량": "글로벌 리더십",
-                "개설학과": "지구환경과학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "학교와 현장실습기관 간 산합협력 관계를 기반으로 산·학·연이 연계된 현장경험학습"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EAES412",
-            "position": {
-                "x": 1980,
-                "y": 700
-            },
-            "data": {
-                "label": "우주과학",
-                "학수번호": "EAES412",
-                "세부전공": null,
-                "전공역량": "융합적 사고",
-                "개설학과": "지구환경과학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "지구과학 교직과목 이수자를 위하여 천문학을 중심으로 강의하여 지구과학교사로서의 교육능력을 기른다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #ccc",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "EAES403",
             "position": {
                 "x": 1760,
                 "y": 0
             },
+            "학년": 4,
             "data": {
                 "label": "환경과학실습 ",
                 "학수번호": "EAES403",
@@ -1648,6 +1478,7 @@
                 "x": 1760,
                 "y": 100
             },
+            "학년": 4,
             "data": {
                 "label": "행성지질학",
                 "학수번호": "EAES423",
@@ -1675,6 +1506,7 @@
                 "x": 1760,
                 "y": 200
             },
+            "학년": 4,
             "data": {
                 "label": "응용광물학",
                 "학수번호": "EAES405",
@@ -1702,6 +1534,7 @@
                 "x": 1760,
                 "y": 300
             },
+            "학년": 4,
             "data": {
                 "label": "지구원소순환",
                 "학수번호": "EAES407",
@@ -1729,6 +1562,7 @@
                 "x": 1760,
                 "y": 400
             },
+            "학년": 4,
             "data": {
                 "label": "지질방재공학",
                 "학수번호": "EAES417",
@@ -1756,6 +1590,7 @@
                 "x": 1760,
                 "y": 500
             },
+            "학년": 4,
             "data": {
                 "label": "지구환경과학연구Ⅰ",
                 "학수번호": "EAES419",
@@ -1783,6 +1618,7 @@
                 "x": 1760,
                 "y": 600
             },
+            "학년": 4,
             "data": {
                 "label": "현장실습Ⅰ",
                 "학수번호": "EAES421",
@@ -1800,6 +1636,230 @@
             "style": {
                 "backgroundColor": "#f8f8f8",
                 "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES402",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "지질공학",
+                "학수번호": "EAES402",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "주로 암반역학과 토질역학의 이론과 실제를 공부하여 각종 건설현장에서의 공학적 응용 능력을 배양한다. 주요 내용은 지질공학적 현장조사법, 암반과 토질의 역학적, 수리학적 특성, 지반 변형, 터널과 사면의 안정성, 각종 지반토목시설의 부지 선정과 환경 문제 등이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES414",
+            "position": {
+                "x": 1980,
+                "y": 100
+            },
+            "학년": 4,
+            "data": {
+                "label": "야외지질학실습",
+                "학수번호": "EAES414",
+                "세부전공": null,
+                "전공역량": "창의적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "야외에서 암석 및 지질구조의 식별과 기재 등을 포함한 야외 자료의 체계적인 기록법을 교수한다. 수집된 야외자료의 분석과 해석, 그리고 지질도와 지질보고서의 작성법을 배운다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES404",
+            "position": {
+                "x": 1980,
+                "y": 200
+            },
+            "학년": 4,
+            "data": {
+                "label": "지화학탐사",
+                "학수번호": "EAES404",
+                "세부전공": null,
+                "전공역량": "창의적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES408",
+            "position": {
+                "x": 1980,
+                "y": 300
+            },
+            "학년": 4,
+            "data": {
+                "label": "원격탐사/GIS",
+                "학수번호": "EAES408",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES418",
+            "position": {
+                "x": 1980,
+                "y": 400
+            },
+            "학년": 4,
+            "data": {
+                "label": "오염조사/복원",
+                "학수번호": "EAES418",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "토양, 퇴적물, 지하수에 발생하는 다양한 유무기 오염물질의 종류와 특성과 이러한 오염물질로 오염된 지중환경을 복원하기 위한 지중환경특성화 방법, 모니터링 방법, 오염정화/복원 방법 등을 학습한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES420",
+            "position": {
+                "x": 1980,
+                "y": 500
+            },
+            "학년": 4,
+            "data": {
+                "label": "지구환경과학연구Ⅱ",
+                "학수번호": "EAES420",
+                "세부전공": null,
+                "전공역량": "글로벌 리더십",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "고체-지구와 유체-지구 관련된 지구시스템의 중요성을 종합적으로 이해하고, 실내와 야외 학습 병행을 통해 지구시스템과 관련된 자연현상을 통합적으로 이해하고 해석하는 방법을 학습한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES422",
+            "position": {
+                "x": 1980,
+                "y": 600
+            },
+            "학년": 4,
+            "data": {
+                "label": "현장실습Ⅱ",
+                "학수번호": "EAES422",
+                "세부전공": null,
+                "전공역량": "글로벌 리더십",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "학교와 현장실습기관 간 산합협력 관계를 기반으로 산·학·연이 연계된 현장경험학습"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EAES412",
+            "position": {
+                "x": 1980,
+                "y": 700
+            },
+            "학년": 4,
+            "data": {
+                "label": "우주과학",
+                "학수번호": "EAES412",
+                "세부전공": null,
+                "전공역량": "융합적 사고",
+                "개설학과": "지구환경과학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "지구과학 교직과목 이수자를 위하여 천문학을 중심으로 강의하여 지구과학교사로서의 교육능력을 기른다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #ccc",
                 "borderRadius": "5px",
                 "padding": "10px"
             }

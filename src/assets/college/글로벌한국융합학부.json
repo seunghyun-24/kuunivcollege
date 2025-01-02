@@ -185,38 +185,12 @@
             }
         },
         {
-            "id": "GKSS101",
+            "id": "DISS140",
             "position": {
                 "x": 440,
                 "y": 0
             },
-            "data": {
-                "label": "글로벌한국학입문",
-                "학수번호": "GKSS101",
-                "세부전공": null,
-                "전공역량": "공감소통역량",
-                "개설학과": "글로벌한국융합학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "한국 역사, 정치경제, 사회문화의 형성과정에서 나타나는 특수성과 보편성을 고찰하는 것을 목적으로 함."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "DISS140",
-            "position": {
-                "x": 440,
-                "y": 100
-            },
+            "학년": 1,
             "data": {
                 "label": "세계화의이해",
                 "학수번호": "DISS140",
@@ -242,8 +216,9 @@
             "id": "GELI005",
             "position": {
                 "x": 440,
-                "y": 200
+                "y": 100
             },
+            "학년": 1.0,
             "data": {
                 "label": "학문세계의탐구 I",
                 "학수번호": "GELI005",
@@ -266,38 +241,12 @@
             }
         },
         {
-            "id": "GEWR002",
-            "position": {
-                "x": 440,
-                "y": 300
-            },
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "IFLS800",
             "position": {
                 "x": 440,
-                "y": 400
+                "y": 200
             },
+            "학년": 1.0,
             "data": {
                 "label": "Academic English I",
                 "학수번호": "IFLS800",
@@ -320,11 +269,96 @@
             }
         },
         {
-            "id": "GEKS007",
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS101",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "글로벌한국학입문",
+                "학수번호": "GKSS101",
+                "세부전공": null,
+                "전공역량": "공감소통역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "한국 역사, 정치경제, 사회문화의 형성과정에서 나타나는 특수성과 보편성을 고찰하는 것을 목적으로 함."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
             "position": {
                 "x": 440,
                 "y": 500
             },
+            "학년": 1.0,
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS007",
@@ -350,8 +384,9 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 600
+                "y": 700
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
                 "학수번호": "GECT002",
@@ -374,227 +409,12 @@
             }
         },
         {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 700
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GKSS201",
-            "position": {
-                "x": 880,
-                "y": 0
-            },
-            "data": {
-                "label": "세계경제속의한국",
-                "학수번호": "GKSS201",
-                "세부전공": null,
-                "전공역량": "융합적사고역량",
-                "개설학과": "글로벌한국융합학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "미시경제학과 거시경제학의 기본 이론을 배우고 한국의 사례를 이용하여 이러한 이론들의 현실에 어떻게 응용이 되는지를 학습한다. 구제적으로 미시경제학 이론은 소비자의 경제적 의사 결정과 생산자의 경제적 의사 결정이론을 배우고 시장에서의 균형이론을 학습한다. 거 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GKSS203",
-            "position": {
-                "x": 880,
-                "y": 100
-            },
-            "data": {
-                "label": "한국과동아시아",
-                "학수번호": "GKSS203",
-                "세부전공": null,
-                "전공역량": "공감소통역량",
-                "개설학과": "글로벌한국융합학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "한국의 역사, 전통, 그리고 사상의 기원을 전근대 동아시아문명 교류 속에서 재구성하는 것을 목적으로 한다. 중국 중심의 문명권 속에서 형성된 전통한국의 정치와 문화, 실크로드를 통해서 전파된 불교를 중심으로 한 종교와 예술이 어떻게 한국의 전통문화의 형성 및 발전"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GKSS205",
-            "position": {
-                "x": 880,
-                "y": 200
-            },
-            "data": {
-                "label": "한국사회의이해",
-                "학수번호": "GKSS205",
-                "세부전공": null,
-                "전공역량": "융합적사고역량",
-                "개설학과": "글로벌한국융합학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 사회학적인 시각으로 볼 때 현대 한국사회의 사회적 쟁점들을 탐구하고 이해하는 데 있다. 사회학적 개념과 이론을 이용하여 한국사회의 중요한 주제인 일상 의례, 종교, 사회자본, 결혼, 가족, 주거, 젠더, 세계화 등과 같은 다양한 주제를 탐구한다. 한국사회의 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GKSS207",
-            "position": {
-                "x": 880,
-                "y": 300
-            },
-            "data": {
-                "label": "글로벌한국의문화I",
-                "학수번호": "GKSS207",
-                "세부전공": null,
-                "전공역량": "공감소통역량",
-                "개설학과": "글로벌한국융합학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 한국문화의 전통적인 영역인 종교와 문학적 전통, 예술, 관습으로부터 대중문화와 영화와 같은 현대적인 표상을 포괄하여 글로벌적 관점에서 한국문화를 전체로서 이해할 수 있도록 한다. 이 과목은 학생들에게 한국문화에 대한 깊이 있는 이해를 도모하고 한국에 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GLKS201",
-            "position": {
-                "x": 880,
-                "y": 400
-            },
-            "data": {
-                "label": "서울의이해",
-                "학수번호": "GLKS201",
-                "세부전공": null,
-                "전공역량": "융합적사고역량",
-                "개설학과": "글로벌한국융합학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "한국의 중심 도시인 서울을 이해함으로써 한국 문화에 대한 이해의 폭을   넓힌다. 이를 위해 서울의 역사를 탐구하고 서울의 다양한 문화적 일상을   체험한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "JMCO257",
-            "position": {
-                "x": 880,
-                "y": 500
-            },
-            "data": {
-                "label": "한국의문화미디어",
-                "학수번호": "JMCO257",
-                "세부전공": null,
-                "전공역량": "글로벌역량",
-                "개설학과": "글로벌한국융합학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 한국의 문화에 익숙하지 않은 유학생 및 교환학생들을 위해 특별히 디자인된 수업으로, 한국 영화, 방송, 음악, 저널리즘, 한류의 역사와 주요 쟁점을 논의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "DISS281",
-            "position": {
-                "x": 880,
-                "y": 600
-            },
-            "data": {
-                "label": "국제개발개론",
-                "학수번호": "DISS281",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "국제학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 강의는 국제개발과 관련된 원론과목으로 국제개발의 정의 및 원천 등을 다루는 주요 이론을 학습한다. 또한 개발 사례 및 최근 개발 관련 이슈를 이해하기 위해 경제역사를 학습하며, 개발 관련 이슈를 조사하기 위한 심도있는 사례 연구를 통해 이 분야에 대한 학생의 이"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GKSS102",
             "position": {
                 "x": 660,
                 "y": 0
             },
+            "학년": 1.0,
             "data": {
                 "label": "세계정치속의한국",
                 "학수번호": "GKSS102",
@@ -622,6 +442,7 @@
                 "x": 660,
                 "y": 100
             },
+            "학년": 1.0,
             "data": {
                 "label": "글로벌한국의문명I",
                 "학수번호": "GKSS104",
@@ -649,6 +470,7 @@
                 "x": 660,
                 "y": 200
             },
+            "학년": 1.0,
             "data": {
                 "label": "국제통상원룐",
                 "학수번호": "DISS114",
@@ -676,6 +498,7 @@
                 "x": 660,
                 "y": 300
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]1학년세미나 II",
                 "학수번호": "GEKS008",
@@ -703,6 +526,7 @@
                 "x": 660,
                 "y": 400
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
@@ -725,11 +549,208 @@
             }
         },
         {
+            "id": "GKSS201",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "세계경제속의한국",
+                "학수번호": "GKSS201",
+                "세부전공": null,
+                "전공역량": "융합적사고역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "미시경제학과 거시경제학의 기본 이론을 배우고 한국의 사례를 이용하여 이러한 이론들의 현실에 어떻게 응용이 되는지를 학습한다. 구제적으로 미시경제학 이론은 소비자의 경제적 의사 결정과 생산자의 경제적 의사 결정이론을 배우고 시장에서의 균형이론을 학습한다. 거 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS203",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "한국과동아시아",
+                "학수번호": "GKSS203",
+                "세부전공": null,
+                "전공역량": "공감소통역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "한국의 역사, 전통, 그리고 사상의 기원을 전근대 동아시아문명 교류 속에서 재구성하는 것을 목적으로 한다. 중국 중심의 문명권 속에서 형성된 전통한국의 정치와 문화, 실크로드를 통해서 전파된 불교를 중심으로 한 종교와 예술이 어떻게 한국의 전통문화의 형성 및 발전"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS205",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "한국사회의이해",
+                "학수번호": "GKSS205",
+                "세부전공": null,
+                "전공역량": "융합적사고역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 사회학적인 시각으로 볼 때 현대 한국사회의 사회적 쟁점들을 탐구하고 이해하는 데 있다. 사회학적 개념과 이론을 이용하여 한국사회의 중요한 주제인 일상 의례, 종교, 사회자본, 결혼, 가족, 주거, 젠더, 세계화 등과 같은 다양한 주제를 탐구한다. 한국사회의 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS207",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "글로벌한국의문화I",
+                "학수번호": "GKSS207",
+                "세부전공": null,
+                "전공역량": "공감소통역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 한국문화의 전통적인 영역인 종교와 문학적 전통, 예술, 관습으로부터 대중문화와 영화와 같은 현대적인 표상을 포괄하여 글로벌적 관점에서 한국문화를 전체로서 이해할 수 있도록 한다. 이 과목은 학생들에게 한국문화에 대한 깊이 있는 이해를 도모하고 한국에 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GLKS201",
+            "position": {
+                "x": 880,
+                "y": 400
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "서울의이해",
+                "학수번호": "GLKS201",
+                "세부전공": null,
+                "전공역량": "융합적사고역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "한국의 중심 도시인 서울을 이해함으로써 한국 문화에 대한 이해의 폭을   넓힌다. 이를 위해 서울의 역사를 탐구하고 서울의 다양한 문화적 일상을   체험한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "JMCO257",
+            "position": {
+                "x": 880,
+                "y": 500
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "한국의문화미디어",
+                "학수번호": "JMCO257",
+                "세부전공": null,
+                "전공역량": "글로벌역량",
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 한국의 문화에 익숙하지 않은 유학생 및 교환학생들을 위해 특별히 디자인된 수업으로, 한국 영화, 방송, 음악, 저널리즘, 한류의 역사와 주요 쟁점을 논의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS281",
+            "position": {
+                "x": 880,
+                "y": 600
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "국제개발개론",
+                "학수번호": "DISS281",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 강의는 국제개발과 관련된 원론과목으로 국제개발의 정의 및 원천 등을 다루는 주요 이론을 학습한다. 또한 개발 사례 및 최근 개발 관련 이슈를 이해하기 위해 경제역사를 학습하며, 개발 관련 이슈를 조사하기 위한 심도있는 사례 연구를 통해 이 분야에 대한 학생의 이"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GKSS204",
             "position": {
                 "x": 1100,
                 "y": 0
             },
+            "학년": 2.0,
             "data": {
                 "label": "한국문화의재조명",
                 "학수번호": "GKSS204",
@@ -757,6 +778,7 @@
                 "x": 1100,
                 "y": 100
             },
+            "학년": 2.0,
             "data": {
                 "label": "글로벌한국의문명 II",
                 "학수번호": "GKSS206",
@@ -784,6 +806,7 @@
                 "x": 1100,
                 "y": 200
             },
+            "학년": 2.0,
             "data": {
                 "label": "한국학데이터사이언스입문 ",
                 "학수번호": "GKSS208",
@@ -811,6 +834,7 @@
                 "x": 1100,
                 "y": 300
             },
+            "학년": 2.0,
             "data": {
                 "label": "질적한국학방법론",
                 "학수번호": "GKSS210",
@@ -838,6 +862,7 @@
                 "x": 1100,
                 "y": 400
             },
+            "학년": 2.0,
             "data": {
                 "label": "동아시아의도시화",
                 "학수번호": "GKSS212",
@@ -865,6 +890,7 @@
                 "x": 1100,
                 "y": 500
             },
+            "학년": 2.0,
             "data": {
                 "label": "동아시아지역입문",
                 "학수번호": "DISS243",
@@ -892,6 +918,7 @@
                 "x": 1100,
                 "y": 600
             },
+            "학년": 2.0,
             "data": {
                 "label": "유럽지역입문",
                 "학수번호": "DISS244",
@@ -919,6 +946,7 @@
                 "x": 1100,
                 "y": 700
             },
+            "학년": 2.0,
             "data": {
                 "label": "글로벌한국학강독I",
                 "학수번호": "GKSS202",
@@ -934,8 +962,8 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFD180",
-                "border": "2px solid #dbaf64",
+                "backgroundColor": "#c4d0e9",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -946,6 +974,7 @@
                 "x": 1320,
                 "y": 0
             },
+            "학년": 3.0,
             "data": {
                 "label": "한국의민주주의",
                 "학수번호": "GKSS301",
@@ -973,6 +1002,7 @@
                 "x": 1320,
                 "y": 100
             },
+            "학년": 3.0,
             "data": {
                 "label": "글로벌한국의대외관계",
                 "학수번호": "GKSS303",
@@ -1000,6 +1030,7 @@
                 "x": 1320,
                 "y": 200
             },
+            "학년": 3.0,
             "data": {
                 "label": "한국사회의쟁점 I",
                 "학수번호": "GKSS305",
@@ -1027,6 +1058,7 @@
                 "x": 1320,
                 "y": 300
             },
+            "학년": 3.0,
             "data": {
                 "label": "한국의국제무역",
                 "학수번호": "GKSS307",
@@ -1054,6 +1086,7 @@
                 "x": 1320,
                 "y": 400
             },
+            "학년": 3.0,
             "data": {
                 "label": "글로벌한국학특강I",
                 "학수번호": "GKSS309",
@@ -1081,6 +1114,7 @@
                 "x": 1320,
                 "y": 500
             },
+            "학년": 3.0,
             "data": {
                 "label": "한국경영의이해",
                 "학수번호": "GLKS207",
@@ -1108,6 +1142,7 @@
                 "x": 1320,
                 "y": 600
             },
+            "학년": 3.0,
             "data": {
                 "label": "세계화와인권",
                 "학수번호": "DISS338",
@@ -1135,6 +1170,7 @@
                 "x": 1540,
                 "y": 0
             },
+            "학년": 3.0,
             "data": {
                 "label": "글로벌한국의문화 II",
                 "학수번호": "GKSS304",
@@ -1162,6 +1198,7 @@
                 "x": 1540,
                 "y": 100
             },
+            "학년": 3.0,
             "data": {
                 "label": "한국과글로벌기업",
                 "학수번호": "GKSS306",
@@ -1189,6 +1226,7 @@
                 "x": 1540,
                 "y": 200
             },
+            "학년": 3.0,
             "data": {
                 "label": "한국사회의쟁점 II",
                 "학수번호": "GKSS308",
@@ -1216,6 +1254,7 @@
                 "x": 1540,
                 "y": 300
             },
+            "학년": 3.0,
             "data": {
                 "label": "시민사회와글로벌한국",
                 "학수번호": "GKSS310",
@@ -1243,6 +1282,7 @@
                 "x": 1540,
                 "y": 400
             },
+            "학년": 3.0,
             "data": {
                 "label": "북한의정치와경제",
                 "학수번호": "GKSS312",
@@ -1270,6 +1310,7 @@
                 "x": 1540,
                 "y": 500
             },
+            "학년": 3.0,
             "data": {
                 "label": "남북한관계의이해",
                 "학수번호": "GKSS314",
@@ -1297,6 +1338,7 @@
                 "x": 1540,
                 "y": 600
             },
+            "학년": 3.0,
             "data": {
                 "label": "엔터테인먼트산업",
                 "학수번호": "JMCO382",
@@ -1324,6 +1366,7 @@
                 "x": 1540,
                 "y": 700
             },
+            "학년": 3.0,
             "data": {
                 "label": "글로벌빈곤",
                 "학수번호": "DISS363",
@@ -1351,6 +1394,7 @@
                 "x": 1540,
                 "y": 800
             },
+            "학년": 3.0,
             "data": {
                 "label": "글로벌한국학강독II",
                 "학수번호": "GKSS302",
@@ -1366,8 +1410,8 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFD180",
-                "border": "2px solid #dbaf64",
+                "backgroundColor": "#c4d0e9",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1378,6 +1422,7 @@
                 "x": 1760,
                 "y": 0
             },
+            "학년": 4.0,
             "data": {
                 "label": "한국의문화외교",
                 "학수번호": "GKSS403",
@@ -1405,6 +1450,7 @@
                 "x": 1760,
                 "y": 100
             },
+            "학년": 4.0,
             "data": {
                 "label": "한국경제의쟁점",
                 "학수번호": "GKSS405",
@@ -1432,6 +1478,7 @@
                 "x": 1760,
                 "y": 200
             },
+            "학년": 4.0,
             "data": {
                 "label": "한국과국제이주",
                 "학수번호": "GKSS407",
@@ -1459,6 +1506,7 @@
                 "x": 1760,
                 "y": 300
             },
+            "학년": 4.0,
             "data": {
                 "label": "한국과국제개발",
                 "학수번호": "GKSS409",
@@ -1486,6 +1534,7 @@
                 "x": 1760,
                 "y": 400
             },
+            "학년": 4.0,
             "data": {
                 "label": "글로벌한국학세미나I",
                 "학수번호": "GKSS401",
@@ -1501,8 +1550,8 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFD180",
-                "border": "2px solid #dbaf64",
+                "backgroundColor": "#c4d0e9",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1513,6 +1562,7 @@
                 "x": 1980,
                 "y": 0
             },
+            "학년": 4.0,
             "data": {
                 "label": "글로벌한국학특강 II",
                 "학수번호": "GKSS404",
@@ -1540,6 +1590,7 @@
                 "x": 1980,
                 "y": 100
             },
+            "학년": 4.0,
             "data": {
                 "label": "글로벌한국학특강III",
                 "학수번호": "GKSS406",
@@ -1567,6 +1618,7 @@
                 "x": 1980,
                 "y": 200
             },
+            "학년": 4.0,
             "data": {
                 "label": "글로벌한국학세미나II",
                 "학수번호": "GKSS402",
@@ -1582,8 +1634,8 @@
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFD180",
-                "border": "2px solid #dbaf64",
+                "backgroundColor": "#c4d0e9",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }

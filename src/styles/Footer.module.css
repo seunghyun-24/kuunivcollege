@@ -1,7 +1,7 @@
 .footer {
   font-family: "Nanum Gothic", sans-serif;
   background-color: #343c44;
-  color: #7c7d80;
+  color: #ffffff;
   margin-top: 100px;
   padding: 20px 0;
   text-align: left;
@@ -47,7 +47,7 @@
   margin-right: 10px;
   font-size: 14px;
   margin-top: 10px;
-  color: #555;
+  color: #ffffff;
 }
 
 .secret {

@@ -185,551 +185,12 @@
             }
         },
         {
-            "id": "HOEW201",
-            "position": {
-                "x": 880,
-                "y": 0
-            },
-            "data": {
-                "label": "역사학개론",
-                "학수번호": "HOEW201",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "역사관의 유형, 시대구분의 원리, 역사인식이론, 사료 연구방법과 비판론 등에 관한 강의를 통해 역사적 사고를 함양시킨다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW223",
-            "position": {
-                "x": 880,
-                "y": 100
-            },
-            "data": {
-                "label": "다민족의중국사",
-                "학수번호": "HOEW223",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": " 중국의 역사를 漢族 중심의 시각에서 벗어나 다민족의 흥기와 몰락의 관점에서 새롭게 바라본다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW119",
-            "position": {
-                "x": 440,
-                "y": 0
-            },
-            "data": {
-                "label": "역사유산과문화콘텐츠",
-                "학수번호": "HOEW119",
-                "세부전공": null,
-                "전공역량": "창의력",
-                "개설학과": "사학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": " 건축과 기념물에서부터 의례와 관습까지 국내외의 다양한 역사유산을 현재의 관점에서 문화적으로 재현하고 향유하는 방식을 탐구한다. 이 과목에서는 특히 과거의 유산이 현대 사회의 공적 영역에서 어떻게 활용되는지를 이해하는 데 초점을 둔다. 이를 위해 국내외의 역사"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW406",
-            "position": {
-                "x": 440,
-                "y": 100
-            },
-            "data": {
-                "label": "한중관계사",
-                "학수번호": "HOEW406",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "사학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": "전공역량 안적힘",
-                "syllabus_kr": "고대부터 현대까지 한중관계를 개관하되, 특히 근세 이후의 관계를 집중적으로 다룬다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW421",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "data": {
-                "label": "중국사특강I",
-                "학수번호": "HOEW421",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "사학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": "전공역량안적힘",
-                "syllabus_kr": "중국의 역사를 특정 주제를 중심으로 접근함으로써 중국사에 대한 이해를 심화시킨다. 중국어 강의를 통해 선별된 중국어 사료에 대해 독해, 분석, 토론을 진행한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW422",
-            "position": {
-                "x": 440,
-                "y": 300
-            },
-            "data": {
-                "label": "중국사특강II",
-                "학수번호": "HOEW422",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "사학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": "전공역량안적힘",
-                "syllabus_kr": "중국의 역사를 특정 왕조 또는 시기를 중심으로 집중 강의함으로써 중국사에 대한 이해를 심화시킨다. 중국어 강의를 통해 중국어권에서 널리 통용되는 역사용어와 역사관을 습득하도록 이끈다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW431",
-            "position": {
-                "x": 440,
-                "y": 400
-            },
-            "data": {
-                "label": "서양사특강I",
-                "학수번호": "HOEW431",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "사학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": "전공역량안적힘",
-                "syllabus_kr": "서양사 가운데서 선택한 특정한 주제를 집중적으로 강의한다. 시대사나 국가사에서 다루지 못한 특수한 주제를 선택하여 그 주제에 관한 고전에서부터 최근의 연구업적까지 소개하고 강의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW432",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "서양사특강II",
-                "학수번호": "HOEW432",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "사학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": "전공역량안적힘",
-                "syllabus_kr": "서양사 가운데서 선택한 특정한 시대를 집중적으로 강의한다. 전통적인 시대구분이 포착하지 못하는 특별한 시대를 대상으로 선택하여 그 시대에 관한 다양한 시각과 연구 성과를 소개하고 강의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW454",
-            "position": {
-                "x": 440,
-                "y": 600
-            },
-            "data": {
-                "label": "일본사특강",
-                "학수번호": "HOEW454",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "사학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": "전공역량안적힘",
-                "syllabus_kr": "일본사 가운데 중요한 주제를 선택하여 집중적으로 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW457",
-            "position": {
-                "x": 440,
-                "y": 700
-            },
-            "data": {
-                "label": "내륙아시아와중화세계",
-                "학수번호": "HOEW457",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "사학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": "전공역량안적힘",
-                "syllabus_kr": " 내륙 아시아 유목민의 역사를 중국과의 관계를 통해 조명한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW458",
-            "position": {
-                "x": 440,
-                "y": 800
-            },
-            "data": {
-                "label": "동아시아사세미나",
-                "학수번호": "HOEW458",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "사학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": "전공역량안적힘",
-                "syllabus_kr": " 동아시아사의 중요한 문제를 선정하여 교수의 지도아래 학생들이 연구와 발표를 중심으로 강좌를 진행한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW459",
-            "position": {
-                "x": 440,
-                "y": 900
-            },
-            "data": {
-                "label": "동아시아사사료선독",
-                "학수번호": "HOEW459",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "사학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": "전공역량안적힘",
-                "syllabus_kr": " 동아시아사 연구에 필수적인 사료를 선정하여 사료독해능력과 분석능력을 키우고 사료를 연구에 효과적으로 이용하는 방법을 훈련시킨다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COLA173",
-            "position": {
-                "x": 440,
-                "y": 1000
-            },
-            "data": {
-                "label": "디지털인문학응용",
-                "학수번호": "COLA173",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "문과대학",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "해당 과목은 디지털 시대에 문과 학생들이 필수적으로 알아야 할 다양한 기술이 인문학 분야에서 어떻게 응용되는지 직접 배우고 연습해보는 기회를 제공한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COLA200",
-            "position": {
-                "x": 440,
-                "y": 1100
-            },
-            "data": {
-                "label": "인문융합세미나",
-                "학수번호": "COLA200",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "문과대학",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인문학을 중심으로 인문, 사회, 자연과학 등 타 학문 영역의 전문지식을 융합하는 세미나 형식으로 운영한다._x000D_\n※심화된 인문 융합 지식을 통섭하는 세미나로서 주관 학과의 전공과목에 준하는 수준으로 운영한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 440,
-                "y": 1200
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEWR002",
-            "position": {
-                "x": 440,
-                "y": 1300
-            },
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 1400
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEKS007",
-            "position": {
-                "x": 440,
-                "y": 1500
-            },
-            "data": {
-                "label": "[진로창업]1학년세미나 I",
-                "학수번호": "GEKS007",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GECT002",
-            "position": {
-                "x": 440,
-                "y": 1600
-            },
-            "data": {
-                "label": "[진로창업]SW프로그래밍의기초",
-                "학수번호": "GECT002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 1700
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "CHIN103\t",
             "position": {
                 "x": 440,
-                "y": 1800
+                "y": 0
             },
+            "학년": null,
             "data": {
                 "label": "교양중국어I",
                 "학수번호": "CHIN103\t",
@@ -755,8 +216,9 @@
             "id": "CHIN104",
             "position": {
                 "x": 440,
-                "y": 1900
+                "y": 100
             },
+            "학년": null,
             "data": {
                 "label": "교양중국어II",
                 "학수번호": "CHIN104",
@@ -782,8 +244,9 @@
             "id": "FRAN141",
             "position": {
                 "x": 440,
-                "y": 2000
+                "y": 200
             },
+            "학년": null,
             "data": {
                 "label": "교양프랑스어I",
                 "학수번호": "FRAN141",
@@ -809,8 +272,9 @@
             "id": "FRAN142",
             "position": {
                 "x": 440,
-                "y": 2100
+                "y": 300
             },
+            "학년": null,
             "data": {
                 "label": "교양프랑스어II",
                 "학수번호": "FRAN142",
@@ -836,8 +300,9 @@
             "id": "GERM161",
             "position": {
                 "x": 440,
-                "y": 2200
+                "y": 400
             },
+            "학년": null,
             "data": {
                 "label": "교양독일어I",
                 "학수번호": "GERM161",
@@ -863,8 +328,9 @@
             "id": "GERM162",
             "position": {
                 "x": 440,
-                "y": 2300
+                "y": 500
             },
+            "학년": null,
             "data": {
                 "label": "교양독일어II",
                 "학수번호": "GERM162",
@@ -890,8 +356,9 @@
             "id": "HANM141",
             "position": {
                 "x": 440,
-                "y": 2400
+                "y": 600
             },
+            "학년": null,
             "data": {
                 "label": "초급한문",
                 "학수번호": "HANM141",
@@ -917,8 +384,9 @@
             "id": "JAPN113",
             "position": {
                 "x": 440,
-                "y": 2500
+                "y": 700
             },
+            "학년": null,
             "data": {
                 "label": "교양일본어I",
                 "학수번호": "JAPN113",
@@ -944,8 +412,9 @@
             "id": "JAPN114",
             "position": {
                 "x": 440,
-                "y": 2600
+                "y": 800
             },
+            "학년": null,
             "data": {
                 "label": "교양일본어II",
                 "학수번호": "JAPN114",
@@ -971,8 +440,9 @@
             "id": "RUSS131",
             "position": {
                 "x": 440,
-                "y": 2700
+                "y": 900
             },
+            "학년": null,
             "data": {
                 "label": "교양러시아어I",
                 "학수번호": "RUSS131",
@@ -998,8 +468,9 @@
             "id": "RUSS132",
             "position": {
                 "x": 440,
-                "y": 2800
+                "y": 1000
             },
+            "학년": null,
             "data": {
                 "label": "교양러시아어II",
                 "학수번호": "RUSS132",
@@ -1025,8 +496,9 @@
             "id": "SPAN121",
             "position": {
                 "x": 440,
-                "y": 2900
+                "y": 1100
             },
+            "학년": null,
             "data": {
                 "label": "교양스페인어I",
                 "학수번호": "SPAN121",
@@ -1052,8 +524,9 @@
             "id": "SPAN122",
             "position": {
                 "x": 440,
-                "y": 3000
+                "y": 1200
             },
+            "학년": null,
             "data": {
                 "label": "교양스페인어II",
                 "학수번호": "SPAN122",
@@ -1076,777 +549,162 @@
             }
         },
         {
-            "id": "HOEW202",
+            "id": "COLA173",
             "position": {
-                "x": 1100,
-                "y": 0
+                "x": 440,
+                "y": 1300
             },
+            "학년": 1.0,
             "data": {
-                "label": "동아시아사입문",
-                "학수번호": "HOEW202",
+                "label": "디지털인문학응용",
+                "학수번호": "COLA173",
                 "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "사학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": " 동아시아의 전 시대를 개괄하여, 동양사의 전반적인 이해를 높이는 것을 목표로 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW204",
-            "position": {
-                "x": 1100,
-                "y": 100
-            },
-            "data": {
-                "label": "서양사입문",
-                "학수번호": "HOEW204",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "사학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "서양사의 전시대를 개괄하여 서양사의 전반적인 이해를 높이는 것을 목표로 한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW222",
-            "position": {
-                "x": 1100,
-                "y": 200
-            },
-            "data": {
-                "label": "티베트사",
-                "학수번호": "HOEW222",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "사학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": " 내륙아시아의 역사와 문화의 중요한 위치를 차지하는 티베트 문명의 역사에 대해 통사적인 이해를 갖도록 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW305",
-            "position": {
-                "x": 1320,
-                "y": 0
-            },
-            "data": {
-                "label": "중국문명과제국체제",
-                "학수번호": "HOEW305",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": " 중국사를 중심으로 동아시아 고대의 정치ㆍ경제ㆍ사회ㆍ문화 등을 종합적으로 검토한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW307",
-            "position": {
-                "x": 1320,
-                "y": 100
-            },
-            "data": {
-                "label": "중국근세사",
-                "학수번호": "HOEW307",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": " 송ㆍ원ㆍ명ㆍ청 시기의 중국사를 중심으로 동아시아 근세의 정치ㆍ경제ㆍ사회ㆍ문화 등을 종합적으로 검토한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW311",
-            "position": {
-                "x": 1320,
-                "y": 200
-            },
-            "data": {
-                "label": "서양고대사",
-                "학수번호": "HOEW311",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "서양문명의 원형으로서의 고대 그리스-로마 문화의 주요한 흐름을 파악한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW313",
-            "position": {
-                "x": 1320,
-                "y": 300
-            },
-            "data": {
-                "label": "서양근세사",
-                "학수번호": "HOEW313",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "르네상스·종교개혁 시대부터 계몽주의시대까지의 근대사회의 형성 과정을 개관한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW315",
-            "position": {
-                "x": 1320,
-                "y": 400
-            },
-            "data": {
-                "label": "서양최근세사",
-                "학수번호": "HOEW315",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "18세기 중엽부터 19세기 후반까지 정치혁명과 산업혁명의 진행과정을 민족주의·자유주의·사회주의 등의 이념들과 사회경제적 변화에 대한 고찰을 속에서 정리해본다._x000D_\n_x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW363",
-            "position": {
-                "x": 1320,
-                "y": 500
-            },
-            "data": {
-                "label": "영국문화사",
-                "학수번호": "HOEW363",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "앵글로-색슨시대 이후부터, 특히 튜더 시대 이후부터 현대까지 영국사를 개관한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW365",
-            "position": {
-                "x": 1320,
-                "y": 600
-            },
-            "data": {
-                "label": "독일문화사",
-                "학수번호": "HOEW365",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "게르만 이동부터 현대까지의 독일역사를 개관하면서 유럽사 속에서 독일의 위치·역할·의미를 정리해본다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW367",
-            "position": {
-                "x": 1320,
-                "y": 700
-            },
-            "data": {
-                "label": "미국문화사",
-                "학수번호": "HOEW367",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "미국사를 그 기원부터 현재까지 개관하되 특히 현대사에서 미국사가 차지하는 위치에 역점을 둔다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW306",
-            "position": {
-                "x": 1540,
-                "y": 0
-            },
-            "data": {
-                "label": "중화제국의분열과통일",
-                "학수번호": "HOEW306",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": " 위진남북조시기부터 당대까지의 중국사를 중심으로 동아시아 중세의 정치ㆍ경제ㆍ사회ㆍ문화 등을 종합적으로 검토한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW308",
-            "position": {
-                "x": 1540,
-                "y": 100
-            },
-            "data": {
-                "label": "동아시아근대사",
-                "학수번호": "HOEW308",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": " 아편전쟁부터 신해혁명시기까지의 중국사를 중심으로 동아시아 근세의 정치ㆍ경제ㆍ사회ㆍ문화 등을 종합적으로 검토한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW312",
-            "position": {
-                "x": 1540,
-                "y": 200
-            },
-            "data": {
-                "label": "서양중세사",
-                "학수번호": "HOEW312",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "중세문명의 신비를 푸는 데 열쇠가 되는 주제를 중심으로 중세문화의 주요한 흐름을 파악한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW314",
-            "position": {
-                "x": 1540,
-                "y": 300
-            },
-            "data": {
-                "label": "서양현대사",
-                "학수번호": "HOEW314",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "1870년대 제국주의시대부터 1990년대 사회주의 국가의 몰락까지의 서양현대사를 개관한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW352",
-            "position": {
-                "x": 1540,
-                "y": 400
-            },
-            "data": {
-                "label": "일본근대사",
-                "학수번호": "HOEW352",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "근현대 일본의 역사적 흐름을 기초로 정치·경제·사회 각 분야의 주요 사건들을 집중적으로 검토하여 일본의 특수성과 보편성에 대한 이해를 심화시킨다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW364",
-            "position": {
-                "x": 1540,
-                "y": 500
-            },
-            "data": {
-                "label": "프랑스문화사",
-                "학수번호": "HOEW364",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "1789년 프랑스 대혁명부터 제1차세계대전 전까지 장기 19세기 프랑스사를 공화정의 정착 과정에 촛점을 맞추어 강의한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW366",
-            "position": {
-                "x": 1540,
-                "y": 600
-            },
-            "data": {
-                "label": "러시아문화사",
-                "학수번호": "HOEW366",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "러시아의 기원부터 소비에트의 몰락까지 러시아사를 개관하면서 사회주의 실험의 성패에 주안점을 둔다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW401",
-            "position": {
-                "x": 1760,
-                "y": 0
-            },
-            "data": {
-                "label": "일본사",
-                "학수번호": "HOEW401",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "한국사를 참조하면서 일본의 역사를 개관하고 일본사의 특수성을 파악해본다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW403",
-            "position": {
-                "x": 1760,
-                "y": 100
-            },
-            "data": {
-                "label": "인도사",
-                "학수번호": "HOEW403",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인도사에서의 특정 주제를 선택하여 밀도 있는 강의를 한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW409",
-            "position": {
-                "x": 1760,
-                "y": 200
-            },
-            "data": {
-                "label": "동아시아현대사",
-                "학수번호": "HOEW409",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "중화민국 수립 시기부터 중화인민공화국 수립까지의 중국사를 중심으로 동아시아 현대의 정치·경제·사회·문화 등을 종합적으로 검토한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW417",
-            "position": {
-                "x": 1760,
-                "y": 300
-            },
-            "data": {
-                "label": "서양의자본주의와제국주의",
-                "학수번호": "HOEW417",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "1차대전부터 ‘현실’사회주의 몰락에 이르기까지의 20세기 역사를 특정 주제를 선택하여 강의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW435",
-            "position": {
-                "x": 1760,
-                "y": 400
-            },
-            "data": {
-                "label": "서양중세정치와근대국가",
-                "학수번호": "HOEW435",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
+                "전공역량": null,
+                "개설학과": "문과대학",
                 "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": " 서로마 제국의 소멸 이후 삶의 기준을 제시한 ‘교회(Ecclesia)’의 개념과 현실을 이해하고, 중세 말부터 형성되기 시작한 ‘국가(State)’의 성격과 발전 과정을 파악한다. 이 속에서 중세 교회의 성격과 세속권력과의 상관관계를 이해하고, 중세에서 근대로의 이행과정을"
+                "syllabus_kr": "해당 과목은 디지털 시대에 문과 학생들이 필수적으로 알아야 할 다양한 기술이 인문학 분야에서 어떻게 응용되는지 직접 배우고 연습해보는 기회를 제공한다. "
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "HOEW451",
+            "id": "COLA200",
             "position": {
-                "x": 1760,
-                "y": 500
+                "x": 440,
+                "y": 1400
             },
+            "학년": 1.0,
             "data": {
-                "label": "중국사학사",
-                "학수번호": "HOEW451",
+                "label": "인문융합세미나",
+                "학수번호": "COLA200",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인문학을 중심으로 인문, 사회, 자연과학 등 타 학문 영역의 전문지식을 융합하는 세미나 형식으로 운영한다._x000D_\n※심화된 인문 융합 지식을 통섭하는 세미나로서 주관 학과의 전공과목에 준하는 수준으로 운영한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 1500
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 1600
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 1700
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW119",
+            "position": {
+                "x": 440,
+                "y": 1800
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "역사유산과문화콘텐츠",
+                "학수번호": "HOEW119",
                 "세부전공": null,
                 "전공역량": "창의력",
-                "개설학과": "사학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "사(史)의 기원으로부터 시작하여 현대중국의 역사학에 이르기까지 중국사학의 발전과정을 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW402",
-            "position": {
-                "x": 1980,
-                "y": 0
-            },
-            "data": {
-                "label": "동남아시아사",
-                "학수번호": "HOEW402",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "베트남, 캄보디아, 라오스, 타이, 마얀마, 말레이시아, 싱가포르, 인도네시아, 필리핀, 부르나이 등의 10개 국가의 역사를 개괄적으로 다룬다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW412",
-            "position": {
-                "x": 1980,
-                "y": 100
-            },
-            "data": {
-                "label": "오리엔트문명사",
-                "학수번호": "HOEW412",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "근동지역의 고대 문명의 정치사와 문화사를 개관하되, 그것과 서양의 고전고대와의 연관성에 주목한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW420",
-            "position": {
-                "x": 1980,
-                "y": 200
-            },
-            "data": {
-                "label": "중국혁명과중국공산당",
-                "학수번호": "HOEW420",
-                "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": " 중국공산주의혁명사와 중화인민공화국의 역사를 검토하여 중국공산당에 의해 운용되는 오늘의 중국에 대한 이해를 심화시킨다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW444",
-            "position": {
-                "x": 1980,
-                "y": 300
-            },
-            "data": {
-                "label": "냉전사",
-                "학수번호": "HOEW444",
-                "세부전공": null,
-                "전공역량": "변화주도",
-                "개설학과": "사학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": " 제2차 세계대전 이후 진행된 미국과 소련의 세계정책을 비교하고, 20세기 후반 초강대국인 미국과 소련이 세계에 개입하는 논리와 과정을 분석한다. 이와 함께 1차 사료 분석을 통해 냉전사를 이해한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW446",
-            "position": {
-                "x": 1980,
-                "y": 400
-            },
-            "data": {
-                "label": "제노사이드와홀로코스트",
-                "학수번호": "HOEW446",
-                "세부전공": null,
-                "전공역량": "공감소통",
                 "개설학과": "사학과",
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": " 이 과목에서는 서구 근현대사의 전개과정에서 나타난 부정적 현상들 가운데 하나인 국가폭력의 문제를 다룬다. 국민국가의 성장과 더불어 서구에서 먼저 나타난 조직화된 폭력은 홀로코스트를 통해 정점에 이르렀다. 이러한 폭력은 식민의 과정을 통해 인종주의와 결합되어 "
+                "syllabus_kr": " 건축과 기념물에서부터 의례와 관습까지 국내외의 다양한 역사유산을 현재의 관점에서 문화적으로 재현하고 향유하는 방식을 탐구한다. 이 과목에서는 특히 과거의 유산이 현대 사회의 공적 영역에서 어떻게 활용되는지를 이해하는 데 초점을 둔다. 이를 위해 국내외의 역사"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1859,109 +717,85 @@
             }
         },
         {
-            "id": "HOEW450",
+            "id": "GEWR002",
             "position": {
-                "x": 1980,
-                "y": 500
+                "x": 440,
+                "y": 1900
             },
+            "학년": 1.0,
             "data": {
-                "label": "중국문화사",
-                "학수번호": "HOEW450",
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
                 "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 3,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": " 중국의 역사를 시대별 문화적 변화와 차이를 중심으로 접근하되, 특정 주제를 중심으로 강의한다."
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "HOEW466",
+            "id": "GEKS007",
             "position": {
-                "x": 1980,
-                "y": 600
+                "x": 440,
+                "y": 2000
             },
+            "학년": 1.0,
             "data": {
-                "label": "서양사학사",
-                "학수번호": "HOEW466",
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
                 "세부전공": null,
-                "전공역량": "창의력",
-                "개설학과": "사학과",
-                "개설횟수": 2,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "고전고대부터 현대까지의 서양역사서술의 실제를 개관하면서 역사학 이론의 발달과 역사사상의 형성 과정을 정리해본다._x000D_\n"
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "HOEW468",
+            "id": "GECT002",
             "position": {
-                "x": 1980,
-                "y": 700
+                "x": 440,
+                "y": 2100
             },
+            "학년": 1.0,
             "data": {
-                "label": "라틴아메리카근현대사",
-                "학수번호": "HOEW468",
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
                 "세부전공": null,
-                "전공역량": "다중정체성",
-                "개설학과": "사학과",
-                "개설횟수": 5,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": " 라틴 아메리카 근현대의 역사를 개괄한다."
+                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOEW482",
-            "position": {
-                "x": 1980,
-                "y": 800
-            },
-            "data": {
-                "label": "젠더의역사",
-                "학수번호": "HOEW482",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "사학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": " 이 과목은 젠더의 관점에서 서양의 역사를 조망한다. 이를 위해 먼저 젠더에 관한 이론적 논의를 살펴본다. 이를 바탕으로 여성에 대한 억압의 원인, 여성의 종속을 가능케 해온 구조, 이 구조를 타파하기 위한 여성운동의 전개과정을 검토한다. 더 나아가 이 과목에서는 여"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1972,6 +806,7 @@
                 "x": 660,
                 "y": 0
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]1학년세미나 II",
                 "학수번호": "GEKS008",
@@ -1999,6 +834,7 @@
                 "x": 660,
                 "y": 100
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
@@ -2016,6 +852,1238 @@
             "style": {
                 "backgroundColor": "#C8E6C9",
                 "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW201",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "역사학개론",
+                "학수번호": "HOEW201",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "역사관의 유형, 시대구분의 원리, 역사인식이론, 사료 연구방법과 비판론 등에 관한 강의를 통해 역사적 사고를 함양시킨다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW223",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "다민족의중국사",
+                "학수번호": "HOEW223",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 중국의 역사를 漢族 중심의 시각에서 벗어나 다민족의 흥기와 몰락의 관점에서 새롭게 바라본다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW202",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "동아시아사입문",
+                "학수번호": "HOEW202",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 동아시아의 전 시대를 개괄하여, 동양사의 전반적인 이해를 높이는 것을 목표로 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW204",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "서양사입문",
+                "학수번호": "HOEW204",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "서양사의 전시대를 개괄하여 서양사의 전반적인 이해를 높이는 것을 목표로 한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW222",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "티베트사",
+                "학수번호": "HOEW222",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "사학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 내륙아시아의 역사와 문화의 중요한 위치를 차지하는 티베트 문명의 역사에 대해 통사적인 이해를 갖도록 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW305",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "중국문명과제국체제",
+                "학수번호": "HOEW305",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 중국사를 중심으로 동아시아 고대의 정치ㆍ경제ㆍ사회ㆍ문화 등을 종합적으로 검토한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW307",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "중국근세사",
+                "학수번호": "HOEW307",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 송ㆍ원ㆍ명ㆍ청 시기의 중국사를 중심으로 동아시아 근세의 정치ㆍ경제ㆍ사회ㆍ문화 등을 종합적으로 검토한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW311",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "서양고대사",
+                "학수번호": "HOEW311",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "서양문명의 원형으로서의 고대 그리스-로마 문화의 주요한 흐름을 파악한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW313",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "서양근세사",
+                "학수번호": "HOEW313",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "르네상스·종교개혁 시대부터 계몽주의시대까지의 근대사회의 형성 과정을 개관한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW315",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "서양최근세사",
+                "학수번호": "HOEW315",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "18세기 중엽부터 19세기 후반까지 정치혁명과 산업혁명의 진행과정을 민족주의·자유주의·사회주의 등의 이념들과 사회경제적 변화에 대한 고찰을 속에서 정리해본다._x000D_\n_x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW363",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "영국문화사",
+                "학수번호": "HOEW363",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "앵글로-색슨시대 이후부터, 특히 튜더 시대 이후부터 현대까지 영국사를 개관한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW365",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "독일문화사",
+                "학수번호": "HOEW365",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "게르만 이동부터 현대까지의 독일역사를 개관하면서 유럽사 속에서 독일의 위치·역할·의미를 정리해본다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW367",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "미국문화사",
+                "학수번호": "HOEW367",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "미국사를 그 기원부터 현재까지 개관하되 특히 현대사에서 미국사가 차지하는 위치에 역점을 둔다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW306",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "중화제국의분열과통일",
+                "학수번호": "HOEW306",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 위진남북조시기부터 당대까지의 중국사를 중심으로 동아시아 중세의 정치ㆍ경제ㆍ사회ㆍ문화 등을 종합적으로 검토한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW308",
+            "position": {
+                "x": 1540,
+                "y": 100
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "동아시아근대사",
+                "학수번호": "HOEW308",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 아편전쟁부터 신해혁명시기까지의 중국사를 중심으로 동아시아 근세의 정치ㆍ경제ㆍ사회ㆍ문화 등을 종합적으로 검토한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW312",
+            "position": {
+                "x": 1540,
+                "y": 200
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "서양중세사",
+                "학수번호": "HOEW312",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "중세문명의 신비를 푸는 데 열쇠가 되는 주제를 중심으로 중세문화의 주요한 흐름을 파악한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW314",
+            "position": {
+                "x": 1540,
+                "y": 300
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "서양현대사",
+                "학수번호": "HOEW314",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "1870년대 제국주의시대부터 1990년대 사회주의 국가의 몰락까지의 서양현대사를 개관한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW352",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "일본근대사",
+                "학수번호": "HOEW352",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "근현대 일본의 역사적 흐름을 기초로 정치·경제·사회 각 분야의 주요 사건들을 집중적으로 검토하여 일본의 특수성과 보편성에 대한 이해를 심화시킨다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW364",
+            "position": {
+                "x": 1540,
+                "y": 500
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "프랑스문화사",
+                "학수번호": "HOEW364",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "1789년 프랑스 대혁명부터 제1차세계대전 전까지 장기 19세기 프랑스사를 공화정의 정착 과정에 촛점을 맞추어 강의한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW366",
+            "position": {
+                "x": 1540,
+                "y": 600
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "러시아문화사",
+                "학수번호": "HOEW366",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "러시아의 기원부터 소비에트의 몰락까지 러시아사를 개관하면서 사회주의 실험의 성패에 주안점을 둔다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW406",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "한중관계사",
+                "학수번호": "HOEW406",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": "전공역량 안적힘",
+                "syllabus_kr": "고대부터 현대까지 한중관계를 개관하되, 특히 근세 이후의 관계를 집중적으로 다룬다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW421",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "학년": 4,
+            "data": {
+                "label": "중국사특강I",
+                "학수번호": "HOEW421",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": "전공역량안적힘",
+                "syllabus_kr": "중국의 역사를 특정 주제를 중심으로 접근함으로써 중국사에 대한 이해를 심화시킨다. 중국어 강의를 통해 선별된 중국어 사료에 대해 독해, 분석, 토론을 진행한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW422",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "학년": 4,
+            "data": {
+                "label": "중국사특강II",
+                "학수번호": "HOEW422",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": "전공역량안적힘",
+                "syllabus_kr": "중국의 역사를 특정 왕조 또는 시기를 중심으로 집중 강의함으로써 중국사에 대한 이해를 심화시킨다. 중국어 강의를 통해 중국어권에서 널리 통용되는 역사용어와 역사관을 습득하도록 이끈다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW431",
+            "position": {
+                "x": 1760,
+                "y": 300
+            },
+            "학년": 4,
+            "data": {
+                "label": "서양사특강I",
+                "학수번호": "HOEW431",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": "전공역량안적힘",
+                "syllabus_kr": "서양사 가운데서 선택한 특정한 주제를 집중적으로 강의한다. 시대사나 국가사에서 다루지 못한 특수한 주제를 선택하여 그 주제에 관한 고전에서부터 최근의 연구업적까지 소개하고 강의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW432",
+            "position": {
+                "x": 1760,
+                "y": 400
+            },
+            "학년": 4,
+            "data": {
+                "label": "서양사특강II",
+                "학수번호": "HOEW432",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": "전공역량안적힘",
+                "syllabus_kr": "서양사 가운데서 선택한 특정한 시대를 집중적으로 강의한다. 전통적인 시대구분이 포착하지 못하는 특별한 시대를 대상으로 선택하여 그 시대에 관한 다양한 시각과 연구 성과를 소개하고 강의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW454",
+            "position": {
+                "x": 1760,
+                "y": 500
+            },
+            "학년": 4,
+            "data": {
+                "label": "일본사특강",
+                "학수번호": "HOEW454",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": "전공역량안적힘",
+                "syllabus_kr": "일본사 가운데 중요한 주제를 선택하여 집중적으로 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW457",
+            "position": {
+                "x": 1760,
+                "y": 600
+            },
+            "학년": 4,
+            "data": {
+                "label": "내륙아시아와중화세계",
+                "학수번호": "HOEW457",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": "전공역량안적힘",
+                "syllabus_kr": " 내륙 아시아 유목민의 역사를 중국과의 관계를 통해 조명한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW458",
+            "position": {
+                "x": 1760,
+                "y": 700
+            },
+            "학년": 4,
+            "data": {
+                "label": "동아시아사세미나",
+                "학수번호": "HOEW458",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": "전공역량안적힘",
+                "syllabus_kr": " 동아시아사의 중요한 문제를 선정하여 교수의 지도아래 학생들이 연구와 발표를 중심으로 강좌를 진행한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW459",
+            "position": {
+                "x": 1760,
+                "y": 800
+            },
+            "학년": 4,
+            "data": {
+                "label": "동아시아사사료선독",
+                "학수번호": "HOEW459",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": "전공역량안적힘",
+                "syllabus_kr": " 동아시아사 연구에 필수적인 사료를 선정하여 사료독해능력과 분석능력을 키우고 사료를 연구에 효과적으로 이용하는 방법을 훈련시킨다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW401",
+            "position": {
+                "x": 1760,
+                "y": 900
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "일본사",
+                "학수번호": "HOEW401",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "한국사를 참조하면서 일본의 역사를 개관하고 일본사의 특수성을 파악해본다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW403",
+            "position": {
+                "x": 1760,
+                "y": 1000
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "인도사",
+                "학수번호": "HOEW403",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인도사에서의 특정 주제를 선택하여 밀도 있는 강의를 한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW409",
+            "position": {
+                "x": 1760,
+                "y": 1100
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "동아시아현대사",
+                "학수번호": "HOEW409",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "중화민국 수립 시기부터 중화인민공화국 수립까지의 중국사를 중심으로 동아시아 현대의 정치·경제·사회·문화 등을 종합적으로 검토한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW417",
+            "position": {
+                "x": 1760,
+                "y": 1200
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "서양의자본주의와제국주의",
+                "학수번호": "HOEW417",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "1차대전부터 ‘현실’사회주의 몰락에 이르기까지의 20세기 역사를 특정 주제를 선택하여 강의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW435",
+            "position": {
+                "x": 1760,
+                "y": 1300
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "서양중세정치와근대국가",
+                "학수번호": "HOEW435",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 서로마 제국의 소멸 이후 삶의 기준을 제시한 ‘교회(Ecclesia)’의 개념과 현실을 이해하고, 중세 말부터 형성되기 시작한 ‘국가(State)’의 성격과 발전 과정을 파악한다. 이 속에서 중세 교회의 성격과 세속권력과의 상관관계를 이해하고, 중세에서 근대로의 이행과정을"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW451",
+            "position": {
+                "x": 1760,
+                "y": 1400
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "중국사학사",
+                "학수번호": "HOEW451",
+                "세부전공": null,
+                "전공역량": "창의력",
+                "개설학과": "사학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "사(史)의 기원으로부터 시작하여 현대중국의 역사학에 이르기까지 중국사학의 발전과정을 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW402",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "동남아시아사",
+                "학수번호": "HOEW402",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "베트남, 캄보디아, 라오스, 타이, 마얀마, 말레이시아, 싱가포르, 인도네시아, 필리핀, 부르나이 등의 10개 국가의 역사를 개괄적으로 다룬다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW412",
+            "position": {
+                "x": 1980,
+                "y": 100
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "오리엔트문명사",
+                "학수번호": "HOEW412",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "근동지역의 고대 문명의 정치사와 문화사를 개관하되, 그것과 서양의 고전고대와의 연관성에 주목한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW420",
+            "position": {
+                "x": 1980,
+                "y": 200
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "중국혁명과중국공산당",
+                "학수번호": "HOEW420",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 중국공산주의혁명사와 중화인민공화국의 역사를 검토하여 중국공산당에 의해 운용되는 오늘의 중국에 대한 이해를 심화시킨다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW444",
+            "position": {
+                "x": 1980,
+                "y": 300
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "냉전사",
+                "학수번호": "HOEW444",
+                "세부전공": null,
+                "전공역량": "변화주도",
+                "개설학과": "사학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 제2차 세계대전 이후 진행된 미국과 소련의 세계정책을 비교하고, 20세기 후반 초강대국인 미국과 소련이 세계에 개입하는 논리와 과정을 분석한다. 이와 함께 1차 사료 분석을 통해 냉전사를 이해한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW446",
+            "position": {
+                "x": 1980,
+                "y": 400
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "제노사이드와홀로코스트",
+                "학수번호": "HOEW446",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "사학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 이 과목에서는 서구 근현대사의 전개과정에서 나타난 부정적 현상들 가운데 하나인 국가폭력의 문제를 다룬다. 국민국가의 성장과 더불어 서구에서 먼저 나타난 조직화된 폭력은 홀로코스트를 통해 정점에 이르렀다. 이러한 폭력은 식민의 과정을 통해 인종주의와 결합되어 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW450",
+            "position": {
+                "x": 1980,
+                "y": 500
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "중국문화사",
+                "학수번호": "HOEW450",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 중국의 역사를 시대별 문화적 변화와 차이를 중심으로 접근하되, 특정 주제를 중심으로 강의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW466",
+            "position": {
+                "x": 1980,
+                "y": 600
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "서양사학사",
+                "학수번호": "HOEW466",
+                "세부전공": null,
+                "전공역량": "창의력",
+                "개설학과": "사학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "고전고대부터 현대까지의 서양역사서술의 실제를 개관하면서 역사학 이론의 발달과 역사사상의 형성 과정을 정리해본다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW468",
+            "position": {
+                "x": 1980,
+                "y": 700
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "라틴아메리카근현대사",
+                "학수번호": "HOEW468",
+                "세부전공": null,
+                "전공역량": "다중정체성",
+                "개설학과": "사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 라틴 아메리카 근현대의 역사를 개괄한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOEW482",
+            "position": {
+                "x": 1980,
+                "y": 800
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "젠더의역사",
+                "학수번호": "HOEW482",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "사학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 이 과목은 젠더의 관점에서 서양의 역사를 조망한다. 이를 위해 먼저 젠더에 관한 이론적 논의를 살펴본다. 이를 바탕으로 여성에 대한 억압의 원인, 여성의 종속을 가능케 해온 구조, 이 구조를 타파하기 위한 여성운동의 전개과정을 검토한다. 더 나아가 이 과목에서는 여"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }

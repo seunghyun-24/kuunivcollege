@@ -58,7 +58,7 @@ const buttonStyle: React.CSSProperties = {
   border: "none",
   borderRadius: "4px",
   cursor: "pointer",
-  fontFamily: "Nanum Gothic",
+  fontFamily: "'Nanum Gothic', sans-serif",
   fontSize: "14px",
 };
 

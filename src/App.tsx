@@ -13,7 +13,10 @@ const App: React.FC = () => {
   );
 
   const handleDepartmentClick = (department: string) => {
-    setSelectedDepartment(department);
+    setSelectedDepartment(null);
+    setTimeout(() => {
+      setSelectedDepartment(department);
+    }, 0);
   };
 
   return (

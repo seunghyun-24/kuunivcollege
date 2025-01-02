@@ -190,6 +190,7 @@
                 "x": 440,
                 "y": 0
             },
+            "학년": 1,
             "data": {
                 "label": "학문세계의탐구 I",
                 "학수번호": "GELI005",
@@ -212,38 +213,12 @@
             }
         },
         {
-            "id": "GEWR002",
+            "id": "IFLS800",
             "position": {
                 "x": 440,
                 "y": 100
             },
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
+            "학년": 1,
             "data": {
                 "label": "Academic English I",
                 "학수번호": "IFLS800",
@@ -266,65 +241,12 @@
             }
         },
         {
-            "id": "GEKS007",
-            "position": {
-                "x": 440,
-                "y": 300
-            },
-            "data": {
-                "label": "[진로창업]1학년세미나 I",
-                "학수번호": "GEKS007",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GECT002",
-            "position": {
-                "x": 440,
-                "y": 400
-            },
-            "data": {
-                "label": "[진로창업]SW프로그래밍의기초",
-                "학수번호": "GECT002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEBT001",
             "position": {
                 "x": 440,
-                "y": 500
+                "y": 200
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]생명과학의세계",
                 "학수번호": "GEBT001",
@@ -350,8 +272,9 @@
             "id": "PSYC201",
             "position": {
                 "x": 440,
-                "y": 600
+                "y": 300
             },
+            "학년": 1,
             "data": {
                 "label": "심리학의기초I",
                 "학수번호": "PSYC201",
@@ -377,8 +300,9 @@
             "id": "PSYC202",
             "position": {
                 "x": 440,
-                "y": 700
+                "y": 400
             },
+            "학년": 1,
             "data": {
                 "label": "심리학의기초II",
                 "학수번호": "PSYC202",
@@ -404,8 +328,9 @@
             "id": "PSYC209",
             "position": {
                 "x": 440,
-                "y": 800
+                "y": 500
             },
+            "학년": 1,
             "data": {
                 "label": "초급심리통계",
                 "학수번호": "PSYC209",
@@ -428,11 +353,96 @@
             }
         },
         {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "학년": 1,
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 800
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS008",
             "position": {
                 "x": 660,
                 "y": 0
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS008",
@@ -460,6 +470,7 @@
                 "x": 660,
                 "y": 100
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
@@ -487,6 +498,7 @@
                 "x": 660,
                 "y": 200
             },
+            "학년": 1,
             "data": {
                 "label": "심리학연구와활용",
                 "학수번호": "PSYC220",
@@ -514,6 +526,7 @@
                 "x": 880,
                 "y": 0
             },
+            "학년": 2,
             "data": {
                 "label": "학습심리학",
                 "학수번호": "PSYC216",
@@ -541,6 +554,7 @@
                 "x": 880,
                 "y": 100
             },
+            "학년": 2,
             "data": {
                 "label": "감각및지각심리학",
                 "학수번호": "PSYC221",
@@ -568,6 +582,7 @@
                 "x": 880,
                 "y": 200
             },
+            "학년": 2,
             "data": {
                 "label": "기억심리학",
                 "학수번호": "PSYC224",
@@ -595,6 +610,7 @@
                 "x": 880,
                 "y": 300
             },
+            "학년": 2,
             "data": {
                 "label": "인공지능의심리학",
                 "학수번호": "PSYC225",
@@ -622,6 +638,7 @@
                 "x": 880,
                 "y": 400
             },
+            "학년": 2,
             "data": {
                 "label": "산업심리학 ",
                 "학수번호": "PSYC241",
@@ -649,6 +666,7 @@
                 "x": 880,
                 "y": 500
             },
+            "학년": 2,
             "data": {
                 "label": "생물심리학 ",
                 "학수번호": "PSYC271",
@@ -676,6 +694,7 @@
                 "x": 880,
                 "y": 600
             },
+            "학년": 2,
             "data": {
                 "label": "사회심리학 ",
                 "학수번호": "PSYC277",
@@ -703,6 +722,7 @@
                 "x": 880,
                 "y": 700
             },
+            "학년": 2,
             "data": {
                 "label": "자연지능의계산신경과학",
                 "학수번호": "PSYC279",
@@ -730,6 +750,7 @@
                 "x": 1100,
                 "y": 0
             },
+            "학년": 2,
             "data": {
                 "label": "성격심리학",
                 "학수번호": "PSYC231",
@@ -757,6 +778,7 @@
                 "x": 1100,
                 "y": 100
             },
+            "학년": 2,
             "data": {
                 "label": "심리검사 ",
                 "학수번호": "PSYC236",
@@ -784,6 +806,7 @@
                 "x": 1100,
                 "y": 200
             },
+            "학년": 2,
             "data": {
                 "label": "조직심리학",
                 "학수번호": "PSYC242",
@@ -811,6 +834,7 @@
                 "x": 1100,
                 "y": 300
             },
+            "학년": 2,
             "data": {
                 "label": "발달심리학",
                 "학수번호": "PSYC275",
@@ -838,6 +862,7 @@
                 "x": 1100,
                 "y": 400
             },
+            "학년": 2,
             "data": {
                 "label": "인지심리학",
                 "학수번호": "PSYC321",
@@ -860,524 +885,12 @@
             }
         },
         {
-            "id": "PSYC232",
-            "position": {
-                "x": 1540,
-                "y": 0
-            },
-            "data": {
-                "label": "임상심리학",
-                "학수번호": "PSYC232",
-                "세부전공": null,
-                "전공역량": "Leadership&Link",
-                "개설학과": "심리학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "임상심리학의 역사, 이론적 틀, 전망 및 쟁점들을 알아보고, 과학과 임상실무가 어떻게 통합되는지 살펴 보고, 임상심리학의 주요영역인 심리평가, 심리치료, 연구의 세부내용 및 현황을 학습한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC306",
-            "position": {
-                "x": 1540,
-                "y": 100
-            },
-            "data": {
-                "label": "심리데이터과학의기초",
-                "학수번호": "PSYC306",
-                "세부전공": null,
-                "전공역량": "Mind&Machine",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC320",
-            "position": {
-                "x": 1540,
-                "y": 200
-            },
-            "data": {
-                "label": "동기의뇌신경과학",
-                "학수번호": "PSYC320",
-                "세부전공": null,
-                "전공역량": "Schema&Scale",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인간 및 동물은 특정 목적을 위하여 종-특유 행동을 보인다. 이러한 목적 지향적 행동을 유발하는 내외적 동기요인들을 이해하고, 어떤 뇌 영역이 개별 목적행동 또는 동기요인과 관련된 중요한 기능을 하는지 알아본다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC326",
-            "position": {
-                "x": 1540,
-                "y": 300
-            },
-            "data": {
-                "label": "언어심리학",
-                "학수번호": "PSYC326",
-                "세부전공": null,
-                "전공역량": "Mind&Machine",
-                "개설학과": "심리학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인지심리학, 언어학 및 인공지능의 관점에서 본 언어정보처리 과정에 관한 최근의 이론과 연구를 소개하고 논의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC330",
-            "position": {
-                "x": 1540,
-                "y": 400
-            },
-            "data": {
-                "label": "신경다양성",
-                "학수번호": "PSYC330",
-                "세부전공": null,
-                "전공역량": "Wellness&Wellbeing",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 강의는 신경다양성 (Neurodiversity)에 대한 최근 동향과 지식을 제공합니다. 본 강의를 통해 학생들은 자폐증, ADHD 및 학습 장애와 같은 특정 발달 장애가 개인이 세상을 경험하고 해석하며, 타인과 상호작용 하는 방식들에 어떤 영향을 미치는지에 대한 이해를 높이게 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC334",
-            "position": {
-                "x": 1540,
-                "y": 500
-            },
-            "data": {
-                "label": "상담및심리치료이론",
-                "학수번호": "PSYC334",
-                "세부전공": null,
-                "전공역량": "Wellness&Wellbeing",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "상담과 심리치료의 주요 이론들을 다룬다. 각 이론들의 성격 발달과 부적응에 대한 관점을 학습하고 이에 근거한 심리적 개입 방법들도 함께 살펴본다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC336",
-            "position": {
-                "x": 1540,
-                "y": 600
-            },
-            "data": {
-                "label": "성격의측정과활용",
-                "학수번호": "PSYC336",
-                "세부전공": null,
-                "전공역량": "Schema&Scale",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "개인 간의 차이는 자신과 다른 사람을 이해하는 데 중요하다. 나아가, 직원 선발 등의 도구로 사용될 수도 있다. 이 수업을 통해 개인 간의 차이를 어떻게 측정하고 실생활에서 어떻게 응용할 수 있는지 살펴본다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC338",
-            "position": {
-                "x": 1540,
-                "y": 700
-            },
-            "data": {
-                "label": "정서의뇌신경과학",
-                "학수번호": "PSYC338",
-                "세부전공": null,
-                "전공역량": "Schema&Scale",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "정서는 우리의 일상생활 뿐만 아니라 생존에까지 영향을 미치는 중요한 요소이다. 이 과목은 정서와 감정에 관한 이론들을 소개하고, 현재 신경과학 분야에서 정서와 관련된 주요 연구주제 및 쟁점 사항에 대한 강의를 진행한다. 또한 특정 정서를 유발하는 뇌 영역들에 대해"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC346",
-            "position": {
-                "x": 1540,
-                "y": 800
-            },
-            "data": {
-                "label": "진로발달의평가",
-                "학수번호": "PSYC346",
-                "세부전공": null,
-                "전공역량": "Schema&Scale",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생애 진로발달의 관점에서 발달적 단계에 따라 중요한 진로 발달 지표를 평가하는 심리측정 도구들을 교육한다. 진로발달을 평가하는 심리측정 도구들의 특징과 기저 이론에 대해 학습함으로써 진로발달 평가도구의 활용성에 대해 이해한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC350",
-            "position": {
-                "x": 1540,
-                "y": 900
-            },
-            "data": {
-                "label": "창의디자인",
-                "학수번호": "PSYC350",
-                "세부전공": null,
-                "전공역량": "Mind&Machine",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "디자인은 물리적 대상으로서의 상품의 개발, 생산 및 마케팅과의 연관성을 중심으로 논의되어 왔지만, 최근 그것을 사용하는 사람과 연관된 관심이 증가하고 있다. 본 교과는 디자인의 최적화와 평가에 연관된 심리적 차원들에 대한 기초적인 이해를 제공한다. 학생들은 이러"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC358",
-            "position": {
-                "x": 1540,
-                "y": 1000
-            },
-            "data": {
-                "label": "선택의뇌과학",
-                "학수번호": "PSYC358",
-                "세부전공": null,
-                "전공역량": "Leadership&Link",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목에서는 신경과학분야에서 최근에 새롭게 등장한 의사결정 신경과학 그리고 신경경제학이라는 분야에 대해 소개한다. 강의내용으로는 의사결정관련 뇌기제의 핵심 요소인 도파민 기능, 접근 및 회피회로, 가치계산, 안정성 대 유연성의 딜레마 등이 포함된다. 또한, 의"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC360",
-            "position": {
-                "x": 1540,
-                "y": 1100
-            },
-            "data": {
-                "label": "행동경제학",
-                "학수번호": "PSYC360",
-                "세부전공": null,
-                "전공역량": "Leadership&Link",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목에서는 행동경제학과 의사결정 심리학 분야의 대표 연구들과 핵심이론들을 소개한다. 강의내용으로는 전망이론, 휴리스틱과 편향, 자기통제, 그리고 사회적 의사결정 등의 주제들이 포함된다. 또한, 이 강의를 통해 수강생들은 의사결정의 심리학적 그리고 경제학적  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC370",
-            "position": {
-                "x": 1540,
-                "y": 1200
-            },
-            "data": {
-                "label": "자기와정체성",
-                "학수번호": "PSYC370",
-                "세부전공": null,
-                "전공역량": "Wellness&Wellbeing",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "심리학 연구의 기본 연구 단위는 개인이고, 그 점을 고려할 때, 자기와 정체성은 인간의 심리를 이해하는 데 필수적인 개념이다. 이 수업을 통해 자기와 정체성이 가지고 있는 여러 측면에 대해 논의한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC372",
-            "position": {
-                "x": 1540,
-                "y": 1300
-            },
-            "data": {
-                "label": "문화의적응과교류",
-                "학수번호": "PSYC372",
-                "세부전공": null,
-                "전공역량": "Creativity&Culture",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "비교문화 심리학 연구 결과를 살펴보고 다양한 문화적/사회적 집단의 차이를 이해함으로써 다원화된 사회에서의 적응과 활발한 교류를 모색한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC382",
-            "position": {
-                "x": 1540,
-                "y": 1400
-            },
-            "data": {
-                "label": "뉴미디어심리학",
-                "학수번호": "PSYC382",
-                "세부전공": null,
-                "전공역량": "Creativity&Culture",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "디지털 미디어의 발달로 인간 간의 커뮤니케이션 및 정보 확산 방식이 크게 변화하고 있다. 뉴미디어의 보급과 SNS 중심의 소통문화에 따른 인간의 라이프스타일과 트렌드 변화를 분석한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC390",
-            "position": {
-                "x": 1540,
-                "y": 1500
-            },
-            "data": {
-                "label": "인간의비합리성",
-                "학수번호": "PSYC390",
-                "세부전공": null,
-                "전공역량": "Creativity&Culture",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인간이 사회적 맥락 속에서 보여주는 비합리성에 대한 사회심리학적 관점들과 연구들을 개관한다. 대인지각, 사회적 귀인판단, 선택과 의사결정 들의 사회적 사고과정에서 비합리성의 본질, 원인, 원리 등을 교육한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC394",
-            "position": {
-                "x": 1540,
-                "y": 1600
-            },
-            "data": {
-                "label": "정서와관계",
-                "학수번호": "PSYC394",
-                "세부전공": null,
-                "전공역량": "Creativity&Culture",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "정서는 관계적, 사회적 맥락에서 기능을 수행한다. 이 수업에서는 다양한 관계적, 사회적, 문화적 맥락에서 기능하는 정서의 다양한 측면들을 현대 심리학적 연구들의 결과들을 통해 이해해본다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC396",
-            "position": {
-                "x": 1540,
-                "y": 1700
-            },
-            "data": {
-                "label": "심리학과정보처리이론",
-                "학수번호": "PSYC396",
-                "세부전공": null,
-                "전공역량": "Mind&Machine",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인간이 정보를 처리하는 과정에 대해 시각 체계를 중심으로 알아본다. 시지각 정보 처리 과정을 부호화, 표상, 해석 과정으로 세분화하여, 망막에서부터 뇌에 이르는 시각 시스템에서 어떤 연산이 이루어지는지를 살펴본다. 이를 위해, 시지각과 관련된 정신물리학 연구, 생 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC398",
-            "position": {
-                "x": 1540,
-                "y": 1800
-            },
-            "data": {
-                "label": "약물과중독행동",
-                "학수번호": "PSYC398",
-                "세부전공": null,
-                "전공역량": "Leadership&Link",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "PSYC317",
             "position": {
                 "x": 1320,
                 "y": 0
             },
+            "학년": 3,
             "data": {
                 "label": "성격의수준과영역",
                 "학수번호": "PSYC317",
@@ -1405,6 +918,7 @@
                 "x": 1320,
                 "y": 100
             },
+            "학년": 3,
             "data": {
                 "label": "AI기법을이용한인간행동과마음의탐구",
                 "학수번호": "PSYC319",
@@ -1432,6 +946,7 @@
                 "x": 1320,
                 "y": 200
             },
+            "학년": 3,
             "data": {
                 "label": "아동이상심리학",
                 "학수번호": "PSYC329",
@@ -1459,6 +974,7 @@
                 "x": 1320,
                 "y": 300
             },
+            "학년": 3,
             "data": {
                 "label": "이상심리학",
                 "학수번호": "PSYC331",
@@ -1486,6 +1002,7 @@
                 "x": 1320,
                 "y": 400
             },
+            "학년": 3,
             "data": {
                 "label": "집단상담",
                 "학수번호": "PSYC333",
@@ -1513,6 +1030,7 @@
                 "x": 1320,
                 "y": 500
             },
+            "학년": 3,
             "data": {
                 "label": "인지치료",
                 "학수번호": "PSYC335",
@@ -1540,6 +1058,7 @@
                 "x": 1320,
                 "y": 600
             },
+            "학년": 3,
             "data": {
                 "label": "정서와정신건강",
                 "학수번호": "PSYC337",
@@ -1567,6 +1086,7 @@
                 "x": 1320,
                 "y": 700
             },
+            "학년": 3,
             "data": {
                 "label": "빈곤의심리학",
                 "학수번호": "PSYC339",
@@ -1594,6 +1114,7 @@
                 "x": 1320,
                 "y": 800
             },
+            "학년": 3,
             "data": {
                 "label": "소비자광고심리학",
                 "학수번호": "PSYC353",
@@ -1621,6 +1142,7 @@
                 "x": 1320,
                 "y": 900
             },
+            "학년": 3,
             "data": {
                 "label": "문화의형성과이해",
                 "학수번호": "PSYC371",
@@ -1648,6 +1170,7 @@
                 "x": 1320,
                 "y": 1000
             },
+            "학년": 3,
             "data": {
                 "label": "인간관계의이해",
                 "학수번호": "PSYC373",
@@ -1675,6 +1198,7 @@
                 "x": 1320,
                 "y": 1100
             },
+            "학년": 3,
             "data": {
                 "label": "심리학을위한프로그래밍",
                 "학수번호": "PSYC374",
@@ -1702,6 +1226,7 @@
                 "x": 1320,
                 "y": 1200
             },
+            "학년": 3,
             "data": {
                 "label": "행동치료",
                 "학수번호": "PSYC377",
@@ -1729,6 +1254,7 @@
                 "x": 1320,
                 "y": 1300
             },
+            "학년": 3,
             "data": {
                 "label": "성격장애",
                 "학수번호": "PSYC379",
@@ -1756,6 +1282,7 @@
                 "x": 1320,
                 "y": 1400
             },
+            "학년": 3,
             "data": {
                 "label": "정서의이해",
                 "학수번호": "PSYC393",
@@ -1783,6 +1310,7 @@
                 "x": 1320,
                 "y": 1500
             },
+            "학년": 3,
             "data": {
                 "label": "리더십의심리학",
                 "학수번호": "PSYC399",
@@ -1810,6 +1338,7 @@
                 "x": 1320,
                 "y": 1600
             },
+            "학년": 3,
             "data": {
                 "label": "정서의심리학",
                 "학수번호": "PSYC491",
@@ -1832,21 +1361,22 @@
             }
         },
         {
-            "id": "PSYC422",
+            "id": "PSYC232",
             "position": {
-                "x": 1760,
+                "x": 1540,
                 "y": 0
             },
+            "학년": 3,
             "data": {
-                "label": "인지신경과학",
-                "학수번호": "PSYC422",
+                "label": "임상심리학",
+                "학수번호": "PSYC232",
                 "세부전공": null,
-                "전공역량": "Schema&Scale",
+                "전공역량": "Leadership&Link",
                 "개설학과": "심리학부",
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "지각, 운동, 학습, 기억, 정서, 주의, 의식 및 사회 인지를 포함하는 인간의 인지 과정과 그 기반을 이루는 신경 과정들을 탐색한다. 기초 신경해부학을 소개하며, 인지 기능의 뇌 기반에 대한 추론을 가능하게하는 다양한 신경과학적 방법들에 대해 논의한다."
+                "syllabus_kr": "임상심리학의 역사, 이론적 틀, 전망 및 쟁점들을 알아보고, 과학과 임상실무가 어떻게 통합되는지 살펴 보고, 임상심리학의 주요영역인 심리평가, 심리치료, 연구의 세부내용 및 현황을 학습한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1859,178 +1389,17 @@
             }
         },
         {
-            "id": "PSYC437",
+            "id": "PSYC306",
             "position": {
-                "x": 1760,
+                "x": 1540,
                 "y": 100
             },
+            "학년": 3,
             "data": {
-                "label": "예술심리학",
-                "학수번호": "PSYC437",
-                "세부전공": null,
-                "전공역량": "Leadership&Link",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "예술은 가장 오래된 인간의 활동이자, 지각, 인지, 정서, 및 사회 문화 등 다양한 심리학의 주제와 연관되는 고차원적인 주제이다. 본 교과는 예술적 경험, 창작, 및 감상과 연관된 심리학의 오랜 분야 중 하나인 경험미학의 관점을 통해 예술에 대한 이해 뿐만 아니라 인간 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC439",
-            "position": {
-                "x": 1760,
-                "y": 200
-            },
-            "data": {
-                "label": "사회신경과학",
-                "학수번호": "PSYC439",
-                "세부전공": null,
-                "전공역량": "Wellness&Wellbeing",
-                "개설학과": "심리학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인간의 다양한 사회적 행동들의 기저에 있는 뇌과학적 원리에 대한 최신 연구들이 소개된다. 또한, 현대 사회와 밀접한 관련성을 보이는 뇌과학 분야의 최근 발전 동향에 대해 알아보고 이러한 뇌과학적 기술발전이 가까운 미래사회에 보여 줄 가능한 변화들에 대해 예측하고"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC479",
-            "position": {
-                "x": 1760,
-                "y": 300
-            },
-            "data": {
-                "label": "정신사회재활",
-                "학수번호": "PSYC479",
-                "세부전공": null,
-                "전공역량": "Wellness&Wellbeing",
-                "개설학과": "심리학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "1. 정신사회재활에 대한 목적과 철학을 이해한다._x000D_\n2. 정신사회재활의 전빈적 과정을 기술할 수 있다._x000D_\n3. 정신사회재활 단계별로 관련된 주요 치료적 접근과 이슈를 파악하고 해결책을 모색한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC481",
-            "position": {
-                "x": 1760,
-                "y": 400
-            },
-            "data": {
-                "label": "뇌기능연구기법",
-                "학수번호": "PSYC481",
+                "label": "심리데이터과학의기초",
+                "학수번호": "PSYC306",
                 "세부전공": null,
                 "전공역량": "Mind&Machine",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목에서는 최근 인지신경과학 분야에서 사용되고 있는 다양한 뇌기능 연구기법들을 소개한다. 강의내용으로는 생리적 반응 측정 기법, 뇌자극 기법, 뇌영상기법이 포함된다. 이 강의를 통해 수강생들은 다양한 뇌기능 연구기법들의 이론적 토대뿐 아니라 직접 특정 연구 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC483",
-            "position": {
-                "x": 1760,
-                "y": 500
-            },
-            "data": {
-                "label": "인간의동기",
-                "학수번호": "PSYC483",
-                "세부전공": null,
-                "전공역량": "Leadership&Link",
-                "개설학과": "심리학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "동기란 사람을 움직이는 힘이다. 이 수업을 통해 사람을 움직이는 생물학적, 감정적, 사회적, 인지적 요소들에 대해 살펴본다. 나아가 동기에 대한 심리학적 지식을 실제 삶의 맥락에서 적용할 수 있는지 논의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC495",
-            "position": {
-                "x": 1760,
-                "y": 600
-            },
-            "data": {
-                "label": "윤리와기술",
-                "학수번호": "PSYC495",
-                "세부전공": null,
-                "전공역량": "Wellness&Wellbeing",
-                "개설학과": "심리학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인공지능, 사물인터넷, 머신러닝, 빅데이터 등으로 대표되는 4차 산업혁명 시대에 새롭게 등장하는 신기술 및 디지털미디어의 발전으로 인해 변화하는 인간의 삶과 윤리 문제에 대하여 논의하고 토론한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PSYC497",
-            "position": {
-                "x": 1760,
-                "y": 700
-            },
-            "data": {
-                "label": "성격과사회적상황",
-                "학수번호": "PSYC497",
-                "세부전공": null,
-                "전공역량": "Wellness&Wellbeing",
                 "개설학과": "심리학부",
                 "개설횟수": 0,
                 "내용": null,
@@ -2048,21 +1417,470 @@
             }
         },
         {
-            "id": "PSYC701",
+            "id": "PSYC320",
             "position": {
-                "x": 1760,
+                "x": 1540,
+                "y": 200
+            },
+            "학년": 3,
+            "data": {
+                "label": "동기의뇌신경과학",
+                "학수번호": "PSYC320",
+                "세부전공": null,
+                "전공역량": "Schema&Scale",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인간 및 동물은 특정 목적을 위하여 종-특유 행동을 보인다. 이러한 목적 지향적 행동을 유발하는 내외적 동기요인들을 이해하고, 어떤 뇌 영역이 개별 목적행동 또는 동기요인과 관련된 중요한 기능을 하는지 알아본다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC326",
+            "position": {
+                "x": 1540,
+                "y": 300
+            },
+            "학년": 3,
+            "data": {
+                "label": "언어심리학",
+                "학수번호": "PSYC326",
+                "세부전공": null,
+                "전공역량": "Mind&Machine",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인지심리학, 언어학 및 인공지능의 관점에서 본 언어정보처리 과정에 관한 최근의 이론과 연구를 소개하고 논의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC330",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "학년": 3,
+            "data": {
+                "label": "신경다양성",
+                "학수번호": "PSYC330",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 강의는 신경다양성 (Neurodiversity)에 대한 최근 동향과 지식을 제공합니다. 본 강의를 통해 학생들은 자폐증, ADHD 및 학습 장애와 같은 특정 발달 장애가 개인이 세상을 경험하고 해석하며, 타인과 상호작용 하는 방식들에 어떤 영향을 미치는지에 대한 이해를 높이게 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC334",
+            "position": {
+                "x": 1540,
+                "y": 500
+            },
+            "학년": 3,
+            "data": {
+                "label": "상담및심리치료이론",
+                "학수번호": "PSYC334",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "상담과 심리치료의 주요 이론들을 다룬다. 각 이론들의 성격 발달과 부적응에 대한 관점을 학습하고 이에 근거한 심리적 개입 방법들도 함께 살펴본다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC336",
+            "position": {
+                "x": 1540,
+                "y": 600
+            },
+            "학년": 3,
+            "data": {
+                "label": "성격의측정과활용",
+                "학수번호": "PSYC336",
+                "세부전공": null,
+                "전공역량": "Schema&Scale",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "개인 간의 차이는 자신과 다른 사람을 이해하는 데 중요하다. 나아가, 직원 선발 등의 도구로 사용될 수도 있다. 이 수업을 통해 개인 간의 차이를 어떻게 측정하고 실생활에서 어떻게 응용할 수 있는지 살펴본다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC338",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "학년": 3,
+            "data": {
+                "label": "정서의뇌신경과학",
+                "학수번호": "PSYC338",
+                "세부전공": null,
+                "전공역량": "Schema&Scale",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "정서는 우리의 일상생활 뿐만 아니라 생존에까지 영향을 미치는 중요한 요소이다. 이 과목은 정서와 감정에 관한 이론들을 소개하고, 현재 신경과학 분야에서 정서와 관련된 주요 연구주제 및 쟁점 사항에 대한 강의를 진행한다. 또한 특정 정서를 유발하는 뇌 영역들에 대해"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC346",
+            "position": {
+                "x": 1540,
                 "y": 800
             },
+            "학년": 3,
             "data": {
-                "label": "심리학과창업",
-                "학수번호": "PSYC701",
+                "label": "진로발달의평가",
+                "학수번호": "PSYC346",
+                "세부전공": null,
+                "전공역량": "Schema&Scale",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생애 진로발달의 관점에서 발달적 단계에 따라 중요한 진로 발달 지표를 평가하는 심리측정 도구들을 교육한다. 진로발달을 평가하는 심리측정 도구들의 특징과 기저 이론에 대해 학습함으로써 진로발달 평가도구의 활용성에 대해 이해한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC350",
+            "position": {
+                "x": 1540,
+                "y": 900
+            },
+            "학년": 3,
+            "data": {
+                "label": "창의디자인",
+                "학수번호": "PSYC350",
+                "세부전공": null,
+                "전공역량": "Mind&Machine",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "디자인은 물리적 대상으로서의 상품의 개발, 생산 및 마케팅과의 연관성을 중심으로 논의되어 왔지만, 최근 그것을 사용하는 사람과 연관된 관심이 증가하고 있다. 본 교과는 디자인의 최적화와 평가에 연관된 심리적 차원들에 대한 기초적인 이해를 제공한다. 학생들은 이러"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC358",
+            "position": {
+                "x": 1540,
+                "y": 1000
+            },
+            "학년": 3,
+            "data": {
+                "label": "선택의뇌과학",
+                "학수번호": "PSYC358",
                 "세부전공": null,
                 "전공역량": "Leadership&Link",
                 "개설학과": "심리학부",
                 "개설횟수": 0,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "심리학과 창업은 창업 전반에 대한 이해를 습득하고 이를 바탕으로 심리학을 활용한 창업 아이디어 도출을 통해 최종 사업 계획서를 작성하는 과목이다. 심리학적 지식을 종합하여 우리 사회가 필요로 하는 새로운 서비스를 기획하고 팀별 맞춤형 교육과 멘토링을 통해 창업 "
+                "syllabus_kr": "이 과목에서는 신경과학분야에서 최근에 새롭게 등장한 의사결정 신경과학 그리고 신경경제학이라는 분야에 대해 소개한다. 강의내용으로는 의사결정관련 뇌기제의 핵심 요소인 도파민 기능, 접근 및 회피회로, 가치계산, 안정성 대 유연성의 딜레마 등이 포함된다. 또한, 의"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC360",
+            "position": {
+                "x": 1540,
+                "y": 1100
+            },
+            "학년": 3,
+            "data": {
+                "label": "행동경제학",
+                "학수번호": "PSYC360",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목에서는 행동경제학과 의사결정 심리학 분야의 대표 연구들과 핵심이론들을 소개한다. 강의내용으로는 전망이론, 휴리스틱과 편향, 자기통제, 그리고 사회적 의사결정 등의 주제들이 포함된다. 또한, 이 강의를 통해 수강생들은 의사결정의 심리학적 그리고 경제학적  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC370",
+            "position": {
+                "x": 1540,
+                "y": 1200
+            },
+            "학년": 3,
+            "data": {
+                "label": "자기와정체성",
+                "학수번호": "PSYC370",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "심리학 연구의 기본 연구 단위는 개인이고, 그 점을 고려할 때, 자기와 정체성은 인간의 심리를 이해하는 데 필수적인 개념이다. 이 수업을 통해 자기와 정체성이 가지고 있는 여러 측면에 대해 논의한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC372",
+            "position": {
+                "x": 1540,
+                "y": 1300
+            },
+            "학년": 3,
+            "data": {
+                "label": "문화의적응과교류",
+                "학수번호": "PSYC372",
+                "세부전공": null,
+                "전공역량": "Creativity&Culture",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "비교문화 심리학 연구 결과를 살펴보고 다양한 문화적/사회적 집단의 차이를 이해함으로써 다원화된 사회에서의 적응과 활발한 교류를 모색한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC382",
+            "position": {
+                "x": 1540,
+                "y": 1400
+            },
+            "학년": 3,
+            "data": {
+                "label": "뉴미디어심리학",
+                "학수번호": "PSYC382",
+                "세부전공": null,
+                "전공역량": "Creativity&Culture",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "디지털 미디어의 발달로 인간 간의 커뮤니케이션 및 정보 확산 방식이 크게 변화하고 있다. 뉴미디어의 보급과 SNS 중심의 소통문화에 따른 인간의 라이프스타일과 트렌드 변화를 분석한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC390",
+            "position": {
+                "x": 1540,
+                "y": 1500
+            },
+            "학년": 3,
+            "data": {
+                "label": "인간의비합리성",
+                "학수번호": "PSYC390",
+                "세부전공": null,
+                "전공역량": "Creativity&Culture",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인간이 사회적 맥락 속에서 보여주는 비합리성에 대한 사회심리학적 관점들과 연구들을 개관한다. 대인지각, 사회적 귀인판단, 선택과 의사결정 들의 사회적 사고과정에서 비합리성의 본질, 원인, 원리 등을 교육한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC394",
+            "position": {
+                "x": 1540,
+                "y": 1600
+            },
+            "학년": 3,
+            "data": {
+                "label": "정서와관계",
+                "학수번호": "PSYC394",
+                "세부전공": null,
+                "전공역량": "Creativity&Culture",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "정서는 관계적, 사회적 맥락에서 기능을 수행한다. 이 수업에서는 다양한 관계적, 사회적, 문화적 맥락에서 기능하는 정서의 다양한 측면들을 현대 심리학적 연구들의 결과들을 통해 이해해본다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC396",
+            "position": {
+                "x": 1540,
+                "y": 1700
+            },
+            "학년": 3,
+            "data": {
+                "label": "심리학과정보처리이론",
+                "학수번호": "PSYC396",
+                "세부전공": null,
+                "전공역량": "Mind&Machine",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인간이 정보를 처리하는 과정에 대해 시각 체계를 중심으로 알아본다. 시지각 정보 처리 과정을 부호화, 표상, 해석 과정으로 세분화하여, 망막에서부터 뇌에 이르는 시각 시스템에서 어떤 연산이 이루어지는지를 살펴본다. 이를 위해, 시지각과 관련된 정신물리학 연구, 생 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC398",
+            "position": {
+                "x": 1540,
+                "y": 1800
+            },
+            "학년": 3,
+            "data": {
+                "label": "약물과중독행동",
+                "학수번호": "PSYC398",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -2078,8 +1896,9 @@
             "id": "PSYC703",
             "position": {
                 "x": 1760,
-                "y": 900
+                "y": 0
             },
+            "학년": 4,
             "data": {
                 "label": "캡스톤디자인",
                 "학수번호": "PSYC703",
@@ -2105,8 +1924,9 @@
             "id": "PSYC704",
             "position": {
                 "x": 1760,
-                "y": 1000
+                "y": 100
             },
+            "학년": 4,
             "data": {
                 "label": "심리학현장실습A1",
                 "학수번호": "PSYC704",
@@ -2132,8 +1952,9 @@
             "id": "PSYC705",
             "position": {
                 "x": 1760,
-                "y": 1100
+                "y": 200
             },
+            "학년": 4,
             "data": {
                 "label": "심리학현장실습A2",
                 "학수번호": "PSYC705",
@@ -2159,8 +1980,9 @@
             "id": "PSYC706",
             "position": {
                 "x": 1760,
-                "y": 1200
+                "y": 300
             },
+            "학년": 4,
             "data": {
                 "label": "심리학현장실습B1",
                 "학수번호": "PSYC706",
@@ -2186,8 +2008,9 @@
             "id": "PSYC707",
             "position": {
                 "x": 1760,
-                "y": 1300
+                "y": 400
             },
+            "학년": 4,
             "data": {
                 "label": "심리학현장실습B2",
                 "학수번호": "PSYC707",
@@ -2213,8 +2036,9 @@
             "id": "PSYC708",
             "position": {
                 "x": 1760,
-                "y": 1400
+                "y": 500
             },
+            "학년": 4,
             "data": {
                 "label": "심리학현장실습C",
                 "학수번호": "PSYC708",
@@ -2240,8 +2064,9 @@
             "id": "PSYC709",
             "position": {
                 "x": 1760,
-                "y": 1500
+                "y": 600
             },
+            "학년": 4,
             "data": {
                 "label": "심리학현장실습D",
                 "학수번호": "PSYC709",
@@ -2264,11 +2089,264 @@
             }
         },
         {
+            "id": "PSYC422",
+            "position": {
+                "x": 1760,
+                "y": 700
+            },
+            "학년": 4,
+            "data": {
+                "label": "인지신경과학",
+                "학수번호": "PSYC422",
+                "세부전공": null,
+                "전공역량": "Schema&Scale",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "지각, 운동, 학습, 기억, 정서, 주의, 의식 및 사회 인지를 포함하는 인간의 인지 과정과 그 기반을 이루는 신경 과정들을 탐색한다. 기초 신경해부학을 소개하며, 인지 기능의 뇌 기반에 대한 추론을 가능하게하는 다양한 신경과학적 방법들에 대해 논의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC437",
+            "position": {
+                "x": 1760,
+                "y": 800
+            },
+            "학년": 4,
+            "data": {
+                "label": "예술심리학",
+                "학수번호": "PSYC437",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "예술은 가장 오래된 인간의 활동이자, 지각, 인지, 정서, 및 사회 문화 등 다양한 심리학의 주제와 연관되는 고차원적인 주제이다. 본 교과는 예술적 경험, 창작, 및 감상과 연관된 심리학의 오랜 분야 중 하나인 경험미학의 관점을 통해 예술에 대한 이해 뿐만 아니라 인간 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC439",
+            "position": {
+                "x": 1760,
+                "y": 900
+            },
+            "학년": 4,
+            "data": {
+                "label": "사회신경과학",
+                "학수번호": "PSYC439",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인간의 다양한 사회적 행동들의 기저에 있는 뇌과학적 원리에 대한 최신 연구들이 소개된다. 또한, 현대 사회와 밀접한 관련성을 보이는 뇌과학 분야의 최근 발전 동향에 대해 알아보고 이러한 뇌과학적 기술발전이 가까운 미래사회에 보여 줄 가능한 변화들에 대해 예측하고"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC479",
+            "position": {
+                "x": 1760,
+                "y": 1000
+            },
+            "학년": 4,
+            "data": {
+                "label": "정신사회재활",
+                "학수번호": "PSYC479",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "1. 정신사회재활에 대한 목적과 철학을 이해한다._x000D_\n2. 정신사회재활의 전빈적 과정을 기술할 수 있다._x000D_\n3. 정신사회재활 단계별로 관련된 주요 치료적 접근과 이슈를 파악하고 해결책을 모색한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC481",
+            "position": {
+                "x": 1760,
+                "y": 1100
+            },
+            "학년": 4,
+            "data": {
+                "label": "뇌기능연구기법",
+                "학수번호": "PSYC481",
+                "세부전공": null,
+                "전공역량": "Mind&Machine",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목에서는 최근 인지신경과학 분야에서 사용되고 있는 다양한 뇌기능 연구기법들을 소개한다. 강의내용으로는 생리적 반응 측정 기법, 뇌자극 기법, 뇌영상기법이 포함된다. 이 강의를 통해 수강생들은 다양한 뇌기능 연구기법들의 이론적 토대뿐 아니라 직접 특정 연구 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC483",
+            "position": {
+                "x": 1760,
+                "y": 1200
+            },
+            "학년": 4,
+            "data": {
+                "label": "인간의동기",
+                "학수번호": "PSYC483",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "동기란 사람을 움직이는 힘이다. 이 수업을 통해 사람을 움직이는 생물학적, 감정적, 사회적, 인지적 요소들에 대해 살펴본다. 나아가 동기에 대한 심리학적 지식을 실제 삶의 맥락에서 적용할 수 있는지 논의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC495",
+            "position": {
+                "x": 1760,
+                "y": 1300
+            },
+            "학년": 4,
+            "data": {
+                "label": "윤리와기술",
+                "학수번호": "PSYC495",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인공지능, 사물인터넷, 머신러닝, 빅데이터 등으로 대표되는 4차 산업혁명 시대에 새롭게 등장하는 신기술 및 디지털미디어의 발전으로 인해 변화하는 인간의 삶과 윤리 문제에 대하여 논의하고 토론한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC497",
+            "position": {
+                "x": 1760,
+                "y": 1400
+            },
+            "학년": 4,
+            "data": {
+                "label": "성격과사회적상황",
+                "학수번호": "PSYC497",
+                "세부전공": null,
+                "전공역량": "Wellness&Wellbeing",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PSYC701",
+            "position": {
+                "x": 1760,
+                "y": 1500
+            },
+            "학년": 4,
+            "data": {
+                "label": "심리학과창업",
+                "학수번호": "PSYC701",
+                "세부전공": null,
+                "전공역량": "Leadership&Link",
+                "개설학과": "심리학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "심리학과 창업은 창업 전반에 대한 이해를 습득하고 이를 바탕으로 심리학을 활용한 창업 아이디어 도출을 통해 최종 사업 계획서를 작성하는 과목이다. 심리학적 지식을 종합하여 우리 사회가 필요로 하는 새로운 서비스를 기획하고 팀별 맞춤형 교육과 멘토링을 통해 창업 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "PSYC423",
             "position": {
                 "x": 1980,
                 "y": 0
             },
+            "학년": 4,
             "data": {
                 "label": "주의와반응선택",
                 "학수번호": "PSYC423",
@@ -2296,6 +2374,7 @@
                 "x": 1980,
                 "y": 100
             },
+            "학년": 4,
             "data": {
                 "label": "심리학자율연구",
                 "학수번호": "PSYC424",
@@ -2323,6 +2402,7 @@
                 "x": 1980,
                 "y": 200
             },
+            "학년": 4,
             "data": {
                 "label": "한국인의심리의식특성",
                 "학수번호": "PSYC468",
@@ -2350,6 +2430,7 @@
                 "x": 1980,
                 "y": 300
             },
+            "학년": 4,
             "data": {
                 "label": "소비자트랜드분석실습",
                 "학수번호": "PSYC472",
@@ -2377,6 +2458,7 @@
                 "x": 1980,
                 "y": 400
             },
+            "학년": 4,
             "data": {
                 "label": "사용자경험과심리학",
                 "학수번호": "PSYC493",
@@ -2404,6 +2486,7 @@
                 "x": 1980,
                 "y": 500
             },
+            "학년": 4,
             "data": {
                 "label": "공감의기술",
                 "학수번호": "PSYC496",
@@ -2431,6 +2514,7 @@
                 "x": 1980,
                 "y": 600
             },
+            "학년": 4,
             "data": {
                 "label": "현대사회의진로적응성",
                 "학수번호": "PSYC498",

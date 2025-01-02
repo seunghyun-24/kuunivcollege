@@ -65,7 +65,7 @@ const SideBar: React.FC<SideBarProps> = ({ department }) => {
       </p>
       {departmentInfo.roadmap && (
         <p>
-          <strong>전공지식 체계도:</strong>{" "}
+          <strong>전공이수 체계도:</strong>{" "}
           <a
             href={require(`../assets/collegeInfo/roadmap/${departmentInfo.roadmap}`)}
             target="_blank"

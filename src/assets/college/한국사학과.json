@@ -185,308 +185,12 @@
             }
         },
         {
-            "id": "HOKA001",
+            "id": "CHIN103\t",
             "position": {
                 "x": 440,
                 "y": 0
             },
-            "data": {
-                "label": "한국역사입문",
-                "학수번호": "HOKA001",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "한국사학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": " 역사학을 전공하는 학생들을 위한 한국사 입문과목이다. 한국사를 바라보는 관점을 공부하고 기초 자료와 사료 비판 방법을 탐구한다. 나아가 최근 연구동향과 쟁점들을 살펴보면서 한국사 전공의 기초 지식을 습득하고 몇 가지 주제를 선정하여 직접 고찰한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOKA004",
-            "position": {
-                "x": 440,
-                "y": 100
-            },
-            "data": {
-                "label": "INTRODUCTION TO KOREAN AND EAST ASIAN HISTORY ",
-                "학수번호": "HOKA004",
-                "세부전공": null,
-                "전공역량": "다문화포용",
-                "개설학과": "한국사학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": "1-1다문화포용",
-                "syllabus_kr": "한국과 동아시아의 역사에 대해 세계사적인 맥락 속에서 종합적으로 강의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOKA005",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "data": {
-                "label": "한국사입문",
-                "학수번호": "HOKA005",
-                "세부전공": null,
-                "전공역량": "다문화포용",
-                "개설학과": "한국사학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "한국의 역사에 대해 세계사적인 맥락 속에서 종합적으로 강의 한다"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COLA173",
-            "position": {
-                "x": 440,
-                "y": 300
-            },
-            "data": {
-                "label": "디지털인문학응용",
-                "학수번호": "COLA173",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "문과대학",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "해당 과목은 디지털 시대에 문과 학생들이 필수적으로 알아야 할 다양한 기술이 인문학 분야에서 어떻게 응용되는지 직접 배우고 연습해보는 기회를 제공한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COLA200",
-            "position": {
-                "x": 440,
-                "y": 400
-            },
-            "data": {
-                "label": "인문융합세미나",
-                "학수번호": "COLA200",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "문과대학",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인문학을 중심으로 인문, 사회, 자연과학 등 타 학문 영역의 전문지식을 융합하는 세미나 형식으로 운영한다._x000D_\n※심화된 인문 융합 지식을 통섭하는 세미나로서 주관 학과의 전공과목에 준하는 수준으로 운영한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEWR002",
-            "position": {
-                "x": 440,
-                "y": 600
-            },
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 700
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEKS007",
-            "position": {
-                "x": 440,
-                "y": 800
-            },
-            "data": {
-                "label": "[진로창업]1학년세미나 I",
-                "학수번호": "GEKS007",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GECT002",
-            "position": {
-                "x": 440,
-                "y": 900
-            },
-            "data": {
-                "label": "[진로창업]SW프로그래밍의기초",
-                "학수번호": "GECT002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 1000
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHIN103\t",
-            "position": {
-                "x": 440,
-                "y": 1100
-            },
+            "학년": null,
             "data": {
                 "label": "교양중국어I",
                 "학수번호": "CHIN103\t",
@@ -512,8 +216,9 @@
             "id": "CHIN104",
             "position": {
                 "x": 440,
-                "y": 1200
+                "y": 100
             },
+            "학년": null,
             "data": {
                 "label": "교양중국어II",
                 "학수번호": "CHIN104",
@@ -539,8 +244,9 @@
             "id": "FRAN141",
             "position": {
                 "x": 440,
-                "y": 1300
+                "y": 200
             },
+            "학년": null,
             "data": {
                 "label": "교양프랑스어I",
                 "학수번호": "FRAN141",
@@ -566,8 +272,9 @@
             "id": "FRAN142",
             "position": {
                 "x": 440,
-                "y": 1400
+                "y": 300
             },
+            "학년": null,
             "data": {
                 "label": "교양프랑스어II",
                 "학수번호": "FRAN142",
@@ -593,8 +300,9 @@
             "id": "GERM161",
             "position": {
                 "x": 440,
-                "y": 1500
+                "y": 400
             },
+            "학년": null,
             "data": {
                 "label": "교양독일어I",
                 "학수번호": "GERM161",
@@ -620,8 +328,9 @@
             "id": "GERM162",
             "position": {
                 "x": 440,
-                "y": 1600
+                "y": 500
             },
+            "학년": null,
             "data": {
                 "label": "교양독일어II",
                 "학수번호": "GERM162",
@@ -647,8 +356,9 @@
             "id": "HANM141",
             "position": {
                 "x": 440,
-                "y": 1700
+                "y": 600
             },
+            "학년": null,
             "data": {
                 "label": "초급한문",
                 "학수번호": "HANM141",
@@ -674,8 +384,9 @@
             "id": "JAPN113",
             "position": {
                 "x": 440,
-                "y": 1800
+                "y": 700
             },
+            "학년": null,
             "data": {
                 "label": "교양일본어I",
                 "학수번호": "JAPN113",
@@ -701,8 +412,9 @@
             "id": "JAPN114",
             "position": {
                 "x": 440,
-                "y": 1900
+                "y": 800
             },
+            "학년": null,
             "data": {
                 "label": "교양일본어II",
                 "학수번호": "JAPN114",
@@ -728,8 +440,9 @@
             "id": "RUSS131",
             "position": {
                 "x": 440,
-                "y": 2000
+                "y": 900
             },
+            "학년": null,
             "data": {
                 "label": "교양러시아어I",
                 "학수번호": "RUSS131",
@@ -755,8 +468,9 @@
             "id": "RUSS132",
             "position": {
                 "x": 440,
-                "y": 2100
+                "y": 1000
             },
+            "학년": null,
             "data": {
                 "label": "교양러시아어II",
                 "학수번호": "RUSS132",
@@ -782,8 +496,9 @@
             "id": "SPAN121",
             "position": {
                 "x": 440,
-                "y": 2200
+                "y": 1100
             },
+            "학년": null,
             "data": {
                 "label": "교양스페인어I",
                 "학수번호": "SPAN121",
@@ -809,8 +524,9 @@
             "id": "SPAN122",
             "position": {
                 "x": 440,
-                "y": 2300
+                "y": 1200
             },
+            "학년": null,
             "data": {
                 "label": "교양스페인어II",
                 "학수번호": "SPAN122",
@@ -833,21 +549,162 @@
             }
         },
         {
-            "id": "HOKA201",
+            "id": "COLA173",
             "position": {
-                "x": 880,
-                "y": 0
+                "x": 440,
+                "y": 1300
             },
+            "학년": 1.0,
             "data": {
-                "label": "고적조사실습",
-                "학수번호": "HOKA201",
+                "label": "디지털인문학응용",
+                "학수번호": "COLA173",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "해당 과목은 디지털 시대에 문과 학생들이 필수적으로 알아야 할 다양한 기술이 인문학 분야에서 어떻게 응용되는지 직접 배우고 연습해보는 기회를 제공한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COLA200",
+            "position": {
+                "x": 440,
+                "y": 1400
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "인문융합세미나",
+                "학수번호": "COLA200",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인문학을 중심으로 인문, 사회, 자연과학 등 타 학문 영역의 전문지식을 융합하는 세미나 형식으로 운영한다._x000D_\n※심화된 인문 융합 지식을 통섭하는 세미나로서 주관 학과의 전공과목에 준하는 수준으로 운영한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 1500
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 1600
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 1700
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOKA001",
+            "position": {
+                "x": 440,
+                "y": 1800
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "한국역사입문",
+                "학수번호": "HOKA001",
                 "세부전공": null,
                 "전공역량": "통합적사고",
                 "개설학과": "한국사학과",
-                "개설횟수": 5,
+                "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "한국의 주요 유적과 유물에 대하여 연구?답사함으로써 역사와 문화에 대한 이해의 폭을  넓힌다._x000D_\n"
+                "syllabus_kr": " 역사학을 전공하는 학생들을 위한 한국사 입문과목이다. 한국사를 바라보는 관점을 공부하고 기초 자료와 사료 비판 방법을 탐구한다. 나아가 최근 연구동향과 쟁점들을 살펴보면서 한국사 전공의 기초 지식을 습득하고 몇 가지 주제를 선정하여 직접 고찰한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -860,21 +717,50 @@
             }
         },
         {
-            "id": "HOKA217",
+            "id": "HOKA004",
             "position": {
-                "x": 880,
-                "y": 100
+                "x": 440,
+                "y": 1900
             },
+            "학년": 1.0,
             "data": {
-                "label": "한국근대사",
-                "학수번호": "HOKA217",
+                "label": "INTRODUCTION TO KOREAN AND EAST ASIAN HISTORY ",
+                "학수번호": "HOKA004",
                 "세부전공": null,
-                "전공역량": "전문가적사고",
+                "전공역량": "다문화포용",
+                "개설학과": "한국사학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": "1-1다문화포용",
+                "syllabus_kr": "한국과 동아시아의 역사에 대해 세계사적인 맥락 속에서 종합적으로 강의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOKA005",
+            "position": {
+                "x": 440,
+                "y": 2000
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "한국사입문",
+                "학수번호": "HOKA005",
+                "세부전공": null,
+                "전공역량": "다문화포용",
                 "개설학과": "한국사학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "1876년 개항 이후부터 1910년까지의 한국사를 제국주의 열강의 침략에 저항하면서 전개된 민족주의 운동을 사상사 중심으로 강의한다._x000D_\n"
+                "syllabus_kr": "한국의 역사에 대해 세계사적인 맥락 속에서 종합적으로 강의 한다"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -887,136 +773,85 @@
             }
         },
         {
-            "id": "HOKA231",
+            "id": "GEWR002",
             "position": {
-                "x": 880,
-                "y": 200
+                "x": 440,
+                "y": 2100
             },
+            "학년": 1.0,
             "data": {
-                "label": "한국고대사",
-                "학수번호": "HOKA231",
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
                 "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "한국사학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": " 한국 고대사회와 삶의 특성을 파악하고 그 성격을 이해한다. 이해의 수준을 높이기 위해 기본이 되는 개념 및 사료와 자료를 학습하고, 한국고대사 연구의 핵심 주제들을 탐구하여 이해의 폭을 넓히고자 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOKA233",
-            "position": {
-                "x": 880,
-                "y": 300
-            },
-            "data": {
-                "label": "조선시대사",
-                "학수번호": "HOKA233",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "한국사학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": " 조선의 건국으로부터 19세기까지의 역사를 정치, 경제, 사회, 문화 부문으로 나누어 개관한다. 조선이 유교 사회가 되면서 이전의 전통과 단절되고 새롭게 그 체제가 구축되는 과정을 양반, 세법, 가족 등의 주제를 통해서 검토하게 된다. 각 주제에 대한 강의에서는 당대  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "HOKA235",
-            "position": {
-                "x": 880,
-                "y": 400
-            },
-            "data": {
-                "label": "한국정치사",
-                "학수번호": "HOKA235",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "한국사학과",
+                "전공역량": null,
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": " 고대부터 현대까지의 정치제도를 통해 한국사의 시대상을 해석하는 것을 목표로 한다. 해당 강의는 시대를 분절적으로 바라보는 것이 아니라, 하나의 분야를 통해 통시적으로 조망하는 능력을 함양하는 것에 도움을 줄 것이다."
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "HOKA237",
+            "id": "GEKS007",
             "position": {
-                "x": 880,
-                "y": 500
+                "x": 440,
+                "y": 2200
             },
+            "학년": 1.0,
             "data": {
-                "label": "한국사회사",
-                "학수번호": "HOKA237",
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
                 "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "한국사학과",
+                "전공역량": null,
+                "개설학과": null,
                 "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": " 고대부터 현대까지 사회상을 고찰한다. 시대별로 신분, 생활, 주거, 음식 등 다양한 주제가 포함될 것이다. 그를 통해 시대별 사회의 특징적 형태로부터 역사를 통시적으로 이해하는 역량을 가질 수 있도록 하는 것이 본 강의의 목표이다."
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "HOKA241",
+            "id": "GECT002",
             "position": {
-                "x": 880,
-                "y": 600
+                "x": 440,
+                "y": 2300
             },
+            "학년": 1.0,
             "data": {
-                "label": "한국사와데이터과학I",
-                "학수번호": "HOKA241",
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
                 "세부전공": null,
-                "전공역량": "창의적사고",
-                "개설학과": "한국사학과",
-                "개설횟수": 2,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": " 역사와 데이터는 불가분의 관계이다. AI, 인공지능이 대두되는 시대에 역사 연구에서도 더 이상 텍스트만으로 연구할 수 있는 시대가 아니다. 따라서 방대한 데이터를 다루는 방법을 익히는 기초 방법론에 대해서 공부할 것이다. 빅데이터 분석을 위한 프로그램을 학습한다."
+                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1027,6 +862,7 @@
                 "x": 660,
                 "y": 0
             },
+            "학년": 1.0,
             "data": {
                 "label": "Topics in History of Korea",
                 "학수번호": "HOKA002",
@@ -1054,6 +890,7 @@
                 "x": 660,
                 "y": 100
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]1학년세미나 II",
                 "학수번호": "GEKS008",
@@ -1081,6 +918,7 @@
                 "x": 660,
                 "y": 200
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
@@ -1103,11 +941,208 @@
             }
         },
         {
+            "id": "HOKA201",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "고적조사실습",
+                "학수번호": "HOKA201",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "한국사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "한국의 주요 유적과 유물에 대하여 연구?답사함으로써 역사와 문화에 대한 이해의 폭을  넓힌다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOKA217",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "한국근대사",
+                "학수번호": "HOKA217",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "한국사학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "1876년 개항 이후부터 1910년까지의 한국사를 제국주의 열강의 침략에 저항하면서 전개된 민족주의 운동을 사상사 중심으로 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOKA231",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "한국고대사",
+                "학수번호": "HOKA231",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "한국사학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 한국 고대사회와 삶의 특성을 파악하고 그 성격을 이해한다. 이해의 수준을 높이기 위해 기본이 되는 개념 및 사료와 자료를 학습하고, 한국고대사 연구의 핵심 주제들을 탐구하여 이해의 폭을 넓히고자 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOKA233",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "조선시대사",
+                "학수번호": "HOKA233",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "한국사학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 조선의 건국으로부터 19세기까지의 역사를 정치, 경제, 사회, 문화 부문으로 나누어 개관한다. 조선이 유교 사회가 되면서 이전의 전통과 단절되고 새롭게 그 체제가 구축되는 과정을 양반, 세법, 가족 등의 주제를 통해서 검토하게 된다. 각 주제에 대한 강의에서는 당대  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOKA235",
+            "position": {
+                "x": 880,
+                "y": 400
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "한국정치사",
+                "학수번호": "HOKA235",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "한국사학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 고대부터 현대까지의 정치제도를 통해 한국사의 시대상을 해석하는 것을 목표로 한다. 해당 강의는 시대를 분절적으로 바라보는 것이 아니라, 하나의 분야를 통해 통시적으로 조망하는 능력을 함양하는 것에 도움을 줄 것이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOKA237",
+            "position": {
+                "x": 880,
+                "y": 500
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "한국사회사",
+                "학수번호": "HOKA237",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "한국사학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 고대부터 현대까지 사회상을 고찰한다. 시대별로 신분, 생활, 주거, 음식 등 다양한 주제가 포함될 것이다. 그를 통해 시대별 사회의 특징적 형태로부터 역사를 통시적으로 이해하는 역량을 가질 수 있도록 하는 것이 본 강의의 목표이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "HOKA241",
+            "position": {
+                "x": 880,
+                "y": 600
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "한국사와데이터과학I",
+                "학수번호": "HOKA241",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "한국사학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": " 역사와 데이터는 불가분의 관계이다. AI, 인공지능이 대두되는 시대에 역사 연구에서도 더 이상 텍스트만으로 연구할 수 있는 시대가 아니다. 따라서 방대한 데이터를 다루는 방법을 익히는 기초 방법론에 대해서 공부할 것이다. 빅데이터 분석을 위한 프로그램을 학습한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "HOKA232",
             "position": {
                 "x": 1100,
                 "y": 0
             },
+            "학년": 2.0,
             "data": {
                 "label": "고려시대사",
                 "학수번호": "HOKA232",
@@ -1135,6 +1170,7 @@
                 "x": 1100,
                 "y": 100
             },
+            "학년": 2.0,
             "data": {
                 "label": "한국현대사",
                 "학수번호": "HOKA234",
@@ -1162,6 +1198,7 @@
                 "x": 1100,
                 "y": 200
             },
+            "학년": 2.0,
             "data": {
                 "label": "한국경제사",
                 "학수번호": "HOKA236",
@@ -1189,6 +1226,7 @@
                 "x": 1100,
                 "y": 300
             },
+            "학년": 2.0,
             "data": {
                 "label": "한국문화사",
                 "학수번호": "HOKA238",
@@ -1216,6 +1254,7 @@
                 "x": 1100,
                 "y": 400
             },
+            "학년": 2.0,
             "data": {
                 "label": "한국사와데이터과학II",
                 "학수번호": "HOKA242",
@@ -1243,6 +1282,7 @@
                 "x": 1320,
                 "y": 0
             },
+            "학년": 3.0,
             "data": {
                 "label": "한국사학사",
                 "학수번호": "HOKA301",
@@ -1270,6 +1310,7 @@
                 "x": 1320,
                 "y": 100
             },
+            "학년": 3.0,
             "data": {
                 "label": "한국사자료선독I",
                 "학수번호": "HOKA303",
@@ -1297,6 +1338,7 @@
                 "x": 1320,
                 "y": 200
             },
+            "학년": 3.0,
             "data": {
                 "label": "한국사연습II",
                 "학수번호": "HOKA305",
@@ -1324,6 +1366,7 @@
                 "x": 1320,
                 "y": 300
             },
+            "학년": 3.0,
             "data": {
                 "label": "북한의한국사연구동향",
                 "학수번호": "HOKA337",
@@ -1351,6 +1394,7 @@
                 "x": 1320,
                 "y": 400
             },
+            "학년": 3.0,
             "data": {
                 "label": "한국생태환경사",
                 "학수번호": "HOKA341",
@@ -1378,6 +1422,7 @@
                 "x": 1320,
                 "y": 500
             },
+            "학년": 3.0,
             "data": {
                 "label": "박물관과문화콘텐츠",
                 "학수번호": "HOKA343",
@@ -1405,6 +1450,7 @@
                 "x": 1540,
                 "y": 0
             },
+            "학년": 3.0,
             "data": {
                 "label": "한국사자료선독II",
                 "학수번호": "HOKA304",
@@ -1432,6 +1478,7 @@
                 "x": 1540,
                 "y": 100
             },
+            "학년": 3.0,
             "data": {
                 "label": "한국사연습I",
                 "학수번호": "HOKA306",
@@ -1459,6 +1506,7 @@
                 "x": 1540,
                 "y": 200
             },
+            "학년": 3.0,
             "data": {
                 "label": "한국국제관계사",
                 "학수번호": "HOKA308",
@@ -1486,6 +1534,7 @@
                 "x": 1540,
                 "y": 300
             },
+            "학년": 3.0,
             "data": {
                 "label": "해외의한국사연구동향",
                 "학수번호": "HOKA336",
@@ -1513,6 +1562,7 @@
                 "x": 1540,
                 "y": 400
             },
+            "학년": 3.0,
             "data": {
                 "label": "북한사특강",
                 "학수번호": "HOKA344",
@@ -1540,6 +1590,7 @@
                 "x": 1540,
                 "y": 500
             },
+            "학년": 3.0,
             "data": {
                 "label": "한국여성사",
                 "학수번호": "HOKA354",
@@ -1567,6 +1618,7 @@
                 "x": 1540,
                 "y": 600
             },
+            "학년": 3.0,
             "data": {
                 "label": "한국생활사",
                 "학수번호": "HOKA358",
@@ -1594,6 +1646,7 @@
                 "x": 1760,
                 "y": 0
             },
+            "학년": 4.0,
             "data": {
                 "label": "한국사회운동사",
                 "학수번호": "HOKA431",
@@ -1621,6 +1674,7 @@
                 "x": 1760,
                 "y": 100
             },
+            "학년": 4.0,
             "data": {
                 "label": "한국과학사",
                 "학수번호": "HOKA441",
@@ -1648,6 +1702,7 @@
                 "x": 1760,
                 "y": 200
             },
+            "학년": 4.0,
             "data": {
                 "label": "한국사상사",
                 "학수번호": "HOKA443",
@@ -1675,6 +1730,7 @@
                 "x": 1760,
                 "y": 300
             },
+            "학년": 4.0,
             "data": {
                 "label": "영상과역사학",
                 "학수번호": "HOKA445",
@@ -1702,6 +1758,7 @@
                 "x": 1980,
                 "y": 0
             },
+            "학년": 4.0,
             "data": {
                 "label": "한국금석문",
                 "학수번호": "HOKA440",
@@ -1729,6 +1786,7 @@
                 "x": 1980,
                 "y": 100
             },
+            "학년": 4.0,
             "data": {
                 "label": "한국민족운동사",
                 "학수번호": "HOKA442",
@@ -1756,6 +1814,7 @@
                 "x": 1980,
                 "y": 200
             },
+            "학년": 4.0,
             "data": {
                 "label": "한국고고학",
                 "학수번호": "HOKA444",
@@ -1783,6 +1842,7 @@
                 "x": 1980,
                 "y": 300
             },
+            "학년": 4.0,
             "data": {
                 "label": "공공역사",
                 "학수번호": "HOKA446",
@@ -1810,6 +1870,7 @@
                 "x": 1980,
                 "y": 400
             },
+            "학년": 4.0,
             "data": {
                 "label": "한국예술사",
                 "학수번호": "HOKA468",

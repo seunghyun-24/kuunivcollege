@@ -185,794 +185,12 @@
             }
         },
         {
-            "id": "POLI214",
-            "position": {
-                "x": 1100,
-                "y": 0
-            },
-            "data": {
-                "label": "서양근대정치사상",
-                "학수번호": "POLI214",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 주제별로는 르네상스와 종교개혁에서 마르크시즘 이전까지, 인물별로는 마키아벨리에서 마르크스 이전까지 서양정치사상의 주요 저작들을 배우고, 자유, 평등, 사회계약, 인권 등 근대 서양정치사상의 주제에 내포되어 있는 보편적 의미를 생각해 본다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI234",
-            "position": {
-                "x": 1100,
-                "y": 100
-            },
-            "data": {
-                "label": "비교정치개설",
-                "학수번호": "POLI234",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "비교정치학의 범위, 접근방법, 그리고 비교정치 분야에서 다루는 주요 이론적 관심사가 무엇인가를 개괄적으로 소개한다. 특히, 정치체제와 정치과정에 대한 비교연구, 그리고 국가와 사회의 역동적인 상호관계 등을 다룬 대표적인 정치학자들의 서로 다른 시각과 이론을 소 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI212",
-            "position": {
-                "x": 1100,
-                "y": 200
-            },
-            "data": {
-                "label": "동양정치사상",
-                "학수번호": "POLI212",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "유교를 중심으로 동아시아 삼국에서의 정치사상의 흐름과 특징을 다룬다. 중국에서 발생?전개된 유학의 정치사상이 조선과 도쿠가와 일본에서 수용?적용되는 과정에서 어떻게 변화되어 갔는가를 개관한다. 이를 통해 19세기 말 서구와의 접촉 이전의 사상 상황을 이해함으로 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI228",
-            "position": {
-                "x": 1100,
-                "y": 300
-            },
-            "data": {
-                "label": "일본정치론",
-                "학수번호": "POLI228",
-                "세부전공": null,
-                "전공역량": "갈등통합",
-                "개설학과": "정치외교학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "전후 일본의 정치체제와 사회구조를 그 연속성과 변화를 중심으로 분석한다. 특히 일본의 정당체제와 대미관계를 중심으로 이해하고 발전국가론의 모델로서의 적실성을 검토한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI230",
-            "position": {
-                "x": 1100,
-                "y": 400
-            },
-            "data": {
-                "label": "선거와투표행태",
-                "학수번호": "POLI230",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "정치외교학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목의 목적은 현대 대의민주주의의 핵심적인 정치과정인 선거정치(Electoral Politics)와 투표행태와 관련한 주요 이론과 쟁점들을 논의하는 것이다.  더불어 본 강의는 한국 선거정치의 변화와 주요 쟁점들을 구체적 사례로 탐구할 것이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI236",
-            "position": {
-                "x": 1100,
-                "y": 500
-            },
-            "data": {
-                "label": "미국외교정책론",
-                "학수번호": "POLI236",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "정치외교학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "미국외교정책을 역사적으로 개괄하면서 미국외교정책의 목적과 수단, 그리고 정책결정과정을 검토하여 미국외교정책의 이해를 도모한다._x000D_\n_x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI238",
-            "position": {
-                "x": 1100,
-                "y": 600
-            },
-            "data": {
-                "label": "법과정치사상",
-                "학수번호": "POLI238",
-                "세부전공": null,
-                "전공역량": "갈등통합",
-                "개설학과": "정치외교학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목의 목적은 법의 본질과 기능에 대한 다양한 논의를 정치사상의 주요 흐름들을 통해 파악하고, 우리의 삶과 밀접한 연관성이 있는 주제를 통해 법과 시민이 어떻게 상호작용하는 지를 살펴보는 것이다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI239",
-            "position": {
-                "x": 1100,
-                "y": 700
-            },
-            "data": {
-                "label": "의회와입법과정",
-                "학수번호": "POLI239",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 다양한 정치체제에서 의회의 역할과 기능을 살펴본다. 이 과목에서 다루게 될 주제들은 의회가 작동되는 정치적 조건, 의회의 구조, 입법과정의 주요특징들, 그리고 주요 정책영역에서 나타나는 의회의 행태 등이다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI241",
-            "position": {
-                "x": 1100,
-                "y": 800
-            },
-            "data": {
-                "label": "정치학을위한게임이론개설",
-                "학수번호": "POLI241",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 정치학을 위한 게임이론을 입문적 수준에서 소개한다. 이 과목은 비협동적 게임이론의 기본 개념과 분석적 도구들을 소개하고 이를 정치학적 문제들에 적용하는 능력을 계발하는 것을 목적으로 한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI244",
-            "position": {
-                "x": 1100,
-                "y": 900
-            },
-            "data": {
-                "label": "국제법과국제정치",
-                "학수번호": "POLI244",
-                "세부전공": null,
-                "전공역량": "사회공헌",
-                "개설학과": "정치외교학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 국제법 이해의 기초를 다지는 개설과목으로서, 국제법의 개념 및 연원과 국제사회의 여러 성원(국가, 지역공동체, 국제기구, 개인)에 관련된 법과 제도 등에 관해 포괄적으로 강의한다. 국제관계의 다양한 영역들을 규제하는 법들에 대해 학습하여 기초지식을 심화"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI247",
-            "position": {
-                "x": 1100,
-                "y": 1000
-            },
-            "data": {
-                "label": "정치제도론",
-                "학수번호": "POLI247",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 정치제도에 관한 비교정치 이론들과 각 제도 유형의 특징들을 고찰한다. 과목에서 다룰 주요 주제들은 대통령제, 의원내각제 및 혼합체제, 그리고 다양한 선거제도들의 작동 메커니즘과 그 정치적 영향 등이다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI250",
-            "position": {
-                "x": 1100,
-                "y": 1100
-            },
-            "data": {
-                "label": "국제기구론",
-                "학수번호": "POLI250",
-                "세부전공": null,
-                "전공역량": "갈등통합",
-                "개설학과": "정치외교학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "유엔을 포함한 정부간 및 비정부간 국제기구들의 역할과 그들이 국제사회에 미치는 영향을 비교 조사한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI252",
-            "position": {
-                "x": 1100,
-                "y": 1200
-            },
-            "data": {
-                "label": "중국정치론",
-                "학수번호": "POLI252",
-                "세부전공": null,
-                "전공역량": "변화주도",
-                "개설학과": "정치외교학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "중국공산당이 1949년 공산당정권을 수립하기까지의 성장과정, 그리고 중국정치체제가 오늘에 이르기까지 중국 지도자가 취한 각종 조치의 내용, 성격 등 중국정치세력을 다룬다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI255",
-            "position": {
-                "x": 1100,
-                "y": 1300
-            },
-            "data": {
-                "label": "국가론",
-                "학수번호": "POLI255",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 국가란 무엇인지 고찰한다. 과목에서는 먼저 국가의 존재 이유를 비롯하여 국가에 관한 주요한 학문적 논쟁의 논점과 역사를 살펴본다. 이후 개인과 국가, 시장과 국가의 관계를 중심으로 국가의 역할과 권위를 둘러싼 다양한 이론적·이념적 관점들을 분석하고,  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI231",
-            "position": {
-                "x": 880,
-                "y": 0
-            },
-            "data": {
-                "label": "국제정치론",
-                "학수번호": "POLI231",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "국제관계를 이해하는 데 필요한 기본개념과 원칙을 소개한다. 특히 국제정치의 중심이론인 권력론을 중심으로 이론적 기초를 다진다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI211",
-            "position": {
-                "x": 880,
-                "y": 100
-            },
-            "data": {
-                "label": "한국정치사상",
-                "학수번호": "POLI211",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "단군신화로부터 대한제국에 이르기까지의 한국정치사상의 흐름과 내용을 이해함으로써 오늘의 현실을 바라보는 시각과 미래에 대한 전망을 얻는 것을 목적으로 한다. 고대국가의 신화, 삼국시대와 통일신라시대의 삼교, 고려의 불교, 조선의 성리학, 근대서구사상과 의 만남 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI213",
-            "position": {
-                "x": 880,
-                "y": 200
-            },
-            "data": {
-                "label": "서양고대.중세정치사상",
-                "학수번호": "POLI213",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목의 목적은 호머와 소크라테스로부터 마르실리우스에 이르는 서양 고대중세 정치철학자의 주요저작들을 읽고, 개인과 공동체, 인간과 자연, 권위와 지배, 그리고 정치와 삶의 관계를 함께 고민하는 것이다.  _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI220",
-            "position": {
-                "x": 880,
-                "y": 300
-            },
-            "data": {
-                "label": "시민정치론",
-                "학수번호": "POLI220",
-                "세부전공": null,
-                "전공역량": "사회공헌",
-                "개설학과": "정치외교학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "국가와 시민사회간의 상호관계를 통해 정치를 분석한다. 국가부문에서는 통치를 위한 관료적 기제, 국가권력의 사회적 기반, 정책결정의 특성, 시민사회 및 경제에 대한 국가개입 등을 논의하며, 시민사회에 대해서는 사회관계, 이데올로기, 헤게모니, 공적 영역의 창출, 사 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI221",
-            "position": {
-                "x": 880,
-                "y": 400
-            },
-            "data": {
-                "label": "동북아국제관계론",
-                "학수번호": "POLI221",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "동북아 지역의 국제관계의 특징과 핵심 쟁점을 정치, 경제, 군사적 측면에서 분석 연구한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI223",
-            "position": {
-                "x": 880,
-                "y": 500
-            },
-            "data": {
-                "label": "정치학방법론",
-                "학수번호": "POLI223",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "정치학을 전공하는 데 있어서 갖추어야 할 방법론적 기반을 체득시키며 특히 개념 정의의 방법, 이론의 구조와 모형, 가설의 설정과 검증 방법 등을 이해하고, 실제 정치 조사방법의 여러 가지 기법을 습득한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI225",
-            "position": {
-                "x": 880,
-                "y": 600
-            },
-            "data": {
-                "label": "한국정치사",
-                "학수번호": "POLI225",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "해방을 전후한 현대 한국정치사연구, 특히 한반도를 둘러싼 국제정치를 국내정치와 연관시켜 분석함으로써 한국정치가 안고 있는 민족과업의 본질을 정확히 파악하고 국가발전의 바람직한 향로를 모색하고자 한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI227",
-            "position": {
-                "x": 880,
-                "y": 700
-            },
-            "data": {
-                "label": "정당론",
-                "학수번호": "POLI227",
-                "세부전공": null,
-                "전공역량": "갈등통합",
-                "개설학과": "정치외교학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "정치체제에 있어서 정당의 위치, 정치발전과 정당발전의 관계, 민족국가 ? 독재국가 ? 신생국가에서 있어서 정당의 기능 및 구조, 문화, 그를 뒷받침하는 조건을 한국의 정당정치와의 연관에서 규명한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI233",
-            "position": {
-                "x": 880,
-                "y": 800
-            },
-            "data": {
-                "label": "외교사",
-                "학수번호": "POLI233",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "현대국제체제의 근원인 1648년 웨스트팔리아 조약 체결부터 제2차 세계대전의 종결시까지 세계 국제정치사를 개괄한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI235",
-            "position": {
-                "x": 880,
-                "y": 900
-            },
-            "data": {
-                "label": "중국외교정책론",
-                "학수번호": "POLI235",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "정치외교학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "중국외교정책의 목적과 수단이 역사적으로 어떠한 변화를 겪었으며, 외교정책 결정과정의 특징과 요인들은 무엇인지 분석한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI254",
-            "position": {
-                "x": 880,
-                "y": 1000
-            },
-            "data": {
-                "label": "사회과학적분석과글쓰기",
-                "학수번호": "POLI254",
-                "세부전공": null,
-                "전공역량": "의사소통",
-                "개설학과": "정치외교학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 사회과학에서 중요한 분석적 읽기와 논리적 글쓰기의 이론과 실제를 다룬다. 이를 통해 학문적인 글의 구성을 이해하고 비판적으로 해석할 뿐만 아니라, 실제로 논리적인 사고와 글쓰기를 통해 효과적인 소통과 합리적 토론이 가능할 수 있도록 돕는다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI215",
-            "position": {
-                "x": 440,
-                "y": 0
-            },
-            "data": {
-                "label": "정치학전공입문",
-                "학수번호": "POLI215",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "정치학의 이해에 도움이 되는 기본 개념 및 이론과 정치학의 전반적인 흐름에 대해 학습한다. 정치학 이론을 실제 사례에 접목하여 분석력을 갖춘다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI375",
-            "position": {
-                "x": 440,
-                "y": 100
-            },
-            "data": {
-                "label": "인턴십프로그램I",
-                "학수번호": "POLI375",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "정치외교학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": "전공역량안적힘",
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI414",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "data": {
-                "label": "정치사상특수과제연구",
-                "학수번호": "POLI414",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "정치외교학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "정치사상분야에서 논쟁이 되고 있는 특수 과제를 선정하여 집중적으로 다루어 봄으로써 정치사상의 현재적 의미를 발견한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI424",
-            "position": {
-                "x": 440,
-                "y": 300
-            },
-            "data": {
-                "label": "유럽정치론",
-                "학수번호": "POLI424",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "정치외교학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GELI005",
             "position": {
                 "x": 440,
-                "y": 400
+                "y": 0
             },
+            "학년": 1.0,
             "data": {
                 "label": "학문세계의탐구 I",
                 "학수번호": "GELI005",
@@ -995,38 +213,12 @@
             }
         },
         {
-            "id": "GEWR002",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "IFLS800",
             "position": {
                 "x": 440,
-                "y": 600
+                "y": 100
             },
+            "학년": 1.0,
             "data": {
                 "label": "Academic English I",
                 "학수번호": "IFLS800",
@@ -1049,11 +241,96 @@
             }
         },
         {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI215",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "정치학전공입문",
+                "학수번호": "POLI215",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "정치학의 이해에 도움이 되는 기본 개념 및 이론과 정치학의 전반적인 흐름에 대해 학습한다. 정치학 이론을 실제 사례에 접목하여 분석력을 갖춘다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 700
+                "y": 500
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS007",
@@ -1079,8 +356,9 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 800
+                "y": 600
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
                 "학수번호": "GECT002",
@@ -1103,1199 +381,12 @@
             }
         },
         {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 900
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI373",
-            "position": {
-                "x": 1540,
-                "y": 0
-            },
-            "data": {
-                "label": "한국정치론",
-                "학수번호": "POLI373",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 한국정치의 중요한 이론적 쟁점들을 비판적으로 검토함으로써 한국정치에 대한 체계적인 이해를 돕고자 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI336",
-            "position": {
-                "x": 1540,
-                "y": 100
-            },
-            "data": {
-                "label": "한국외교정책론",
-                "학수번호": "POLI336",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "정치외교학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "해방 이후의 한국외교정책의 방향과 변화를 역사적으로 추적하고, 한국외교정책의 방향과 문제점을 이론적으로 모색하여 분석틀을 제시한다.  _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI317",
-            "position": {
-                "x": 1540,
-                "y": 200
-            },
-            "data": {
-                "label": "동남아시아정치론",
-                "학수번호": "POLI317",
-                "세부전공": null,
-                "전공역량": "다문화포용",
-                "개설학과": "정치외교학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과목은 세계에서 가장 다양하고 역동적인 지역들 중 하나인 동남아시아의 정치에 대한 기초지식을 제공한다. 강의의 첫 부분에서는 동남아시아 국가들이 가진 다양한 정치시스템들의 역사적 연원을 추적하며, 둘째 부분에서는 버마, 캄보디아, 인도네시아, 말레이시아, 필"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI333",
-            "position": {
-                "x": 1540,
-                "y": 300
-            },
-            "data": {
-                "label": "현대정치철학",
-                "학수번호": "POLI333",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목의 목적은 현대 정치철학의 주요 흐름들을 파악하고, 우리의 삶과 밀접한 연관성이 있는 주제를 통해 자율성과 공공선이 조화되고, 차이의 인지에 기초한 협력이 증진되고, 복지와 분배가 자기실현의 조건으로 고려될 수 있는 정치적.도덕적 원칙을 찾는 것이다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI364",
-            "position": {
-                "x": 1540,
-                "y": 400
-            },
-            "data": {
-                "label": "동아시아와세계정치",
-                "학수번호": "POLI364",
-                "세부전공": null,
-                "전공역량": "창의적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "근대 이후 진행되어온 서구중심의 국제질서의 맥락에서 한-중-일을 비롯한 동아시아의 국제관계를 탐구한다. 특히 동아시아 지역질서의 변화와 지속을 국제정치학, 역사사회학, 경제학 등 융합적 접근법을 통해 분석하여 동아시아의 과거, 현재, 미래를 종합적으로 조망해 보"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI378",
-            "position": {
-                "x": 1540,
-                "y": 500
-            },
-            "data": {
-                "label": "내전연구",
-                "학수번호": "POLI378",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "정치외교학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "냉전 이후 전 세계 무력갈등의 95% 이상이 한 국가 내에서 발생한 정부군과 반군간의 교전이며, 내전을 겪는 국가들의 정치 불안정은 인접국가들과 해당 지역 전체의 평화에 심각한 위협이 되어왔다. 이 수업은 이러한 정치현상에 대한 비교 연구들을 소개하고, 왜 내전과 같"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI379",
-            "position": {
-                "x": 1540,
-                "y": 600
-            },
-            "data": {
-                "label": "현대국제안보론",
-                "학수번호": "POLI379",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "국제안보에 관한 다양한 접근과 이론들을 소개하고, 국제안보의 새로운 쟁점들을 논의한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI383",
-            "position": {
-                "x": 1540,
-                "y": 700
-            },
-            "data": {
-                "label": "개발과원조의정치",
-                "학수번호": "POLI383",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "정치외교학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과목은 저개발과 빈곤의 정치적 원인 및 결과를 다양한 이론적 관점에서 검토하고, 정치발전 및 경제개발을 위한 정책적 방안을 심도 있게 논의한다. 또한 개발과 원조에 관한 분석적이고 종합적인 시각을 가질 수 있도록 이론적 논의와 더불어 다양한 사례연구를 통해 구"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI384",
-            "position": {
-                "x": 1540,
-                "y": 800
-            },
-            "data": {
-                "label": "정치심리학",
-                "학수번호": "POLI384",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "정치학의 한 분야인 정치심리학(political psychology)에서 다루어 온 기본 개념들을 검토하고, 논쟁의 중심에 있었던 주제들을 위주로 최근 연구 동향을 살펴본다. 정치심리학이란 사람들이 정치 현상을 보는 시각이 어떻게 형성되고, 그렇게 형성된 정치관이 정치행태나 의"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI385",
-            "position": {
-                "x": 1540,
-                "y": 900
-            },
-            "data": {
-                "label": "환경협력의정치경제",
-                "학수번호": "POLI385",
-                "세부전공": null,
-                "전공역량": "사회공헌",
-                "개설학과": "정치외교학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과목은 국제협력과 제도와 관련된 다양한 이론적 토대를 검토하여 환경협력의 정치경제적 요인을 논의한다. 특히, 기후변화와 초월경성 대기오염 문제를 중심으로 여론, 이해집단, 국내제도 및 국제조약이 환경협력에 미치는 영향을 분석한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI253",
-            "position": {
-                "x": 1760,
-                "y": 0
-            },
-            "data": {
-                "label": "시민정치리빙랩",
-                "학수번호": "POLI253",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "정치외교학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "정치학 교육은 대체로 정치 현상을 분석하고 인과관계를 밝히는데 초점을 맞춘다. 본 수업은 정치학 강의를 통해 습득한 이론 지식과 분석적, 논리적, 창의적 사고력을 토대로 우리가 현실에서 직면하는 문제들을 해결할 수 있는 기회를 제공한다. 이를 통해 학생들은 시민정"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI256",
-            "position": {
-                "x": 1760,
-                "y": 100
-            },
-            "data": {
-                "label": "국제정치리빙랩",
-                "학수번호": "POLI256",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "정치외교학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "국제정치의 많은 부분은 현장에서 일어난다. 국제정치의 주요 주제인 평화, 발전, 인권, 환경 등 다양한 논의는 국가 간 활동 혹은 국제기구 및 비정부기구에서 일어난다. 따라서 국제정치 현장에서 일어나는 많은 과정을 배우고 간접적으로 체험해보는 것은 중요하다. 이 수"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI350",
-            "position": {
-                "x": 1760,
-                "y": 200
-            },
-            "data": {
-                "label": "정치가론",
-                "학수번호": "POLI350",
-                "세부전공": null,
-                "전공역량": "자기실헌",
-                "개설학과": "정치외교학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "동서양 정치사상에서 등장하는 이상적 정치인에 대한 논의와 실제 역사 속에 등장했던 지도자들의 기록을 중심으로, 대중의 의사롭부터 출발하여 민의를 넘어서는 새로운 세계를 설계할 수 있는 정치 지도자의 자질과 덕목을 살펴보는 것이 본 과목의 목적이다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI382",
-            "position": {
-                "x": 1760,
-                "y": 300
-            },
-            "data": {
-                "label": "비교정치세미나",
-                "학수번호": "POLI382",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "정치외교학과3,4학년 학부 학생들의 비교정치 분야와 관련된 논문작성과 글쓰기 실력 향상을 위한 강의. 학생 개개인이 정치외교학과 전공수업을 통해 쌓아온 지식을 바탕으로 양질의 논문을 작성하고 비교정치 분야 관련 글쓰기 실력을 향상시키는 것을 목표로 함."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI389",
-            "position": {
-                "x": 1760,
-                "y": 400
-            },
-            "data": {
-                "label": "기술과국제정치",
-                "학수번호": "POLI389",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 기술 발전이 국제정치에 미치는 영향을 탐구한다. 기술과 관련된 국제 관계의 주요 이론을 소개하고, 기술 발전이 전쟁과 평화 및 국제 갈등과 협력에 미치는 영향을 살펴본다. 이 과목은 핵 무기의 개발이 국제 정치에 미치는 영향을 비롯해, 새로운 산업 혁명 속"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI391",
-            "position": {
-                "x": 1760,
-                "y": 500
-            },
-            "data": {
-                "label": "민족주의와국제정치",
-                "학수번호": "POLI391",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 민족주의의 다양하고 복잡한 본질을 탐구하고, 국제정치에서 민족주의의 역할을 살펴본다. 국가 정체성, 애국심, 민족주의적 감정 등 민족주의의 다양한 정의 및 관련 개념들을 탐구하고, 이러한 개념적 이해를 바탕으로 민족주의가 전쟁, 민족 갈등, 영토 분쟁,  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI392",
-            "position": {
-                "x": 1760,
-                "y": 600
-            },
-            "data": {
-                "label": "권위주의체제연구",
-                "학수번호": "POLI392",
-                "세부전공": null,
-                "전공역량": "창의적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 현대 정치체제의 근간으로 성장해 온 서구식 자유 민주주주의와 20세기 동안 그에 도전하며 대안으로 제시되었던 나치즘, 파시즘, 공산주의 등과 같은 다양한 정치체제를 분석하고자 한다. 또한, 제 2차 세계대전후 역사의 뒤안길로 사라진 나치즘/파시즘과 80년대"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI425",
-            "position": {
-                "x": 1760,
-                "y": 700
-            },
-            "data": {
-                "label": "미국정치론",
-                "학수번호": "POLI425",
-                "세부전공": null,
-                "전공역량": "창의적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "유럽 국가와 대비되는 미국의 정치체제를 민주주의 이론적 측면과 정당정치의 특성, 이익집단 정치 등의 개념을 통하여 구조, 기능, 경제, 사회, 문화의 변화와 관련하여 고찰함으로써 정치형태와 정책방향을 규명한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI312",
-            "position": {
-                "x": 1320,
-                "y": 0
-            },
-            "data": {
-                "label": "20세기국제관계사",
-                "학수번호": "POLI312",
-                "세부전공": null,
-                "전공역량": "갈등통합",
-                "개설학과": "정치외교학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "20세기 이후의 국제질서의 특징과 변동과정을 역사적으로 개괄하고, 20세기 국제관계의 핵심 쟁점들을 소개한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI313",
-            "position": {
-                "x": 1320,
-                "y": 100
-            },
-            "data": {
-                "label": "인권",
-                "학수번호": "POLI313",
-                "세부전공": null,
-                "전공역량": "다문화포용",
-                "개설학과": "정치외교학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 다문화 공존의 필요성이 정치사회적 사실로 받아들여지고 있는 시점에 인권의 문제를 어떻게 접근하는 것이 적절한 지에 대한 논의들을 살펴보고, 이 과정을 통해 한편으로는 특수한 문화적 경험이 존중되고 다른 한편으로는 보편적 인간성을 확보할 수 있는 제도 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI320",
-            "position": {
-                "x": 1320,
-                "y": 200
-            },
-            "data": {
-                "label": "정치문화",
-                "학수번호": "POLI320",
-                "세부전공": null,
-                "전공역량": "다문화포용",
-                "개설학과": "정치외교학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 정치문화에 관한 이론들과 각 사례들을 고찰한다. 과목에서 다룰 주요 주제들은 인종, 종교, 민족, 언어 등에 기반한 ‘정체성의 정치학’이 중심을 이룬다. 다양한 정치문화와 정체성의 형성 및 유지가 현실정치와 어떠한 관계를 이루는 가를 살펴본다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI321",
-            "position": {
-                "x": 1320,
-                "y": 300
-            },
-            "data": {
-                "label": "정치경제론",
-                "학수번호": "POLI321",
-                "세부전공": null,
-                "전공역량": "사회공헌",
-                "개설학과": "정치외교학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "국가와 시민사회의 관계, 즉 자본주의 사회에 있어 경제 및 산업정책을 중심으로 한 국가의 역할을 연구의 주된 대상으로 하면서, 경제 사회복지정책 등에 관한 내용 분석뿐만 아니라 산업화와 산업사회에서 발생하는 광범위한 정치, 경제, 사회문제를 다룬다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI322",
-            "position": {
-                "x": 1320,
-                "y": 400
-            },
-            "data": {
-                "label": "북한정치론",
-                "학수번호": "POLI322",
-                "세부전공": null,
-                "전공역량": "공감력",
-                "개설학과": "정치외교학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "북한정치의 역사적 구조적 성격을 규명하고 국가의 형성과정과 정치이념, 사회주의 체제로서의 특수성과 보편성 등을 중심으로 북한의 정치현실을 체계적으로 이해하는데 목적을 둔다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI325",
-            "position": {
-                "x": 1320,
-                "y": 500
-            },
-            "data": {
-                "label": "사회주의체제연구",
-                "학수번호": "POLI325",
-                "세부전공": null,
-                "전공역량": "공감력",
-                "개설학과": "정치외교학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "사회주의체제의 형성과정과 사회주의체제의 특징을 역사적, 이념적, 정치사회적 차원에서 비교 분석하고 현실 사회주의의 몰락에도 불구하고 대안적 이데올로기로서의 존재 가치의 가능성에 대하여 살펴본다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI326",
-            "position": {
-                "x": 1320,
-                "y": 600
-            },
-            "data": {
-                "label": "정치과정론",
-                "학수번호": "POLI326",
-                "세부전공": null,
-                "전공역량": "창의적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "정치체제의 생성과 퇴화, 그리고 다른 정치체제로의 이행을 다룬다. 먼저 정치적 변동의 제반 현상, 즉 혁명, 쿠데타, 사회운동을 이론적으로 분석한다. 다음으로 정치적 변동을 야기하는 경제적, 국제체제적, 사회 심리적 요인을 논의한다. 마지막으로 현대 정치변동론의 중"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI330",
-            "position": {
-                "x": 1320,
-                "y": 700
-            },
-            "data": {
-                "label": "현대정치이론",
-                "학수번호": "POLI330",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "현대정치분석에 활용되어 온 국가론, 엘리트 이론, 정치문화론, 정치과정론, 근대화론과 종속이론 등의 대표적인 이론들을 접근방법과 이론적 구성 요소, 주요 개념을 중심으로 심층적으로 이해한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI331",
-            "position": {
-                "x": 1320,
-                "y": 800
-            },
-            "data": {
-                "label": "국제관계이론",
-                "학수번호": "POLI331",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "국제관계의 일반이론화 작업의 노력들을 검토한다. 즉, 국제정치학의 형성배경과 발전과정 및 서구의 경쟁적인 이론들을 포괄적으로 논의함으로써 국제관계를 이해하려는 다양한 지적 노력을 조사한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI338",
-            "position": {
-                "x": 1320,
-                "y": 900
-            },
-            "data": {
-                "label": "국제정치경제론",
-                "학수번호": "POLI338",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "정치외교학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "국제관계현상을 체계와 국가, 그리고 정책결정자라는 세 가지 분석단위 및 차원에서 동시적이고 다각적으로 접근하여 국제경제체제의 밑바닥에 흐르는 권력의 논리를 체계적이고 종합적으로 밝히고자 한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI342",
-            "position": {
-                "x": 1320,
-                "y": 1000
-            },
-            "data": {
-                "label": "민주주의",
-                "학수번호": "POLI342",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과목은 민주주의의 이론, 제도, 실천 그리고 중요쟁점들을 개관한다. 민주주의란 무엇인가라는 정의로부터 시작하여 대표, 참여, 책임과 같은 민주주의를 작동시키는 주요원리들, 정부의 구조, 정당과 이익집단 등과 같은 제도들, 민주주의를 발전시킬 수 있는 사회적 기 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI355",
-            "position": {
-                "x": 1320,
-                "y": 1100
-            },
-            "data": {
-                "label": "동아시아정치론",
-                "학수번호": "POLI355",
-                "세부전공": null,
-                "전공역량": "창의적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 동아시아 정치 및 경제발전을 다룬다. 특히 일본, 한국, 중국 등 동아시아 “국가주도형” 경제발전사례들에 집중하여, 각 사례의 정치 및 경제발전 과정과 전략, 그리고 주요 행위자들 간의 동학을 비교분석한다. 90년대 이후 이들 경제체제들이 직면한 위기 및  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI367",
-            "position": {
-                "x": 1320,
-                "y": 1200
-            },
-            "data": {
-                "label": "국제무역의정치경제",
-                "학수번호": "POLI367",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "정치외교학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과목은 국가 간 무역과 국내/외 정치와의  상호영향을 정치학의 관점에서 고찰한다. 먼저 국제무역에 관한 정치학의 이론들을 논의하고, 세계무역기구, 자유무역협정, 그리고 국제무역과 국가 간의 협력과 갈등, 정치 및 경제발전을 비롯한 주요 국내정치와 국제정치 현상"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI433",
-            "position": {
-                "x": 1320,
-                "y": 1300
-            },
-            "data": {
-                "label": "국제규범과제도",
-                "학수번호": "POLI433",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "정치외교학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "21세기 국제정치의 특징 중 하나는 비국가 행위자의 등장과 국제규범의 중요성이다. 이는 기존에 국가 중심으로 논의되던 국제질서에 대한 논의에 관한 도전이었고, 탈냉전 이후 이 분야에 축적된 연구가 있었다. 특히 기존에 국가나 국제기구를 넘어서는 비정부기구, 개인, "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI453",
-            "position": {
-                "x": 1320,
-                "y": 1400
-            },
-            "data": {
-                "label": "비교정치경제",
-                "학수번호": "POLI453",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 정치와 경제의 상호작용을 주제별로 탐색한다. 핵심적인 주제는 불평등, 경제성장, 복지국가, 재분배, 투표선택, 노동시장제도 등이다. 사례연구는 선진민주주의를 대상으로 한다. 경제적 요인이 미치는 정치적 영향과 정치적 변수가 미치는 경제적 결과에 대한 심"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI329",
-            "position": {
-                "x": 1980,
-                "y": 0
-            },
-            "data": {
-                "label": "한국정치세미나",
-                "학수번호": "POLI329",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "분단시대의 한국정치경제사를 재조명함으로써 민주와 독재에 대한 기초적이면서 종합적인 이해를 구하고자 한다. 아울러 정치와 경제의 내재적 연계 및 국제체제에 관한 균형된 고찰을 유도하고 연속과 변동을 동시에 강조하는 상반되는 여러 이론과 제안을 비교할 수 있는  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI366",
-            "position": {
-                "x": 1980,
-                "y": 100
-            },
-            "data": {
-                "label": "금융통화의국제정치경제",
-                "학수번호": "POLI366",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "정치외교학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과목은 국제통화 및 금융의 관계를 정치경제학적 시각에서 분석한다. 다루는 주제로는 글로벌 자본시장 자유화가 국내경제정책에 미치는 영향, 통화 및 금융의 문제에서 국제기구와 역할과 글로벌 거버넌스, 국제금융과 경제개발, 그리고 국제금융위기 원인과 결과들에 대"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI386",
-            "position": {
-                "x": 1980,
-                "y": 200
-            },
-            "data": {
-                "label": "법과정의",
-                "학수번호": "POLI386",
-                "세부전공": null,
-                "전공역량": "공감력",
-                "개설학과": "정치외교학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 동서양의 정치학 전통에서 가장 오래된 주제인 정의란 무엇인가를 중심으로 정치사상과 법을 매개로 다투는 현실적 갈등 사례를 함께 살펴보는 수업이다. 정치사상 차원에서 롤즈, 노직, 드워킨, 센, 왈저, 영, 포기 등의 정의론 주장을 검토하고 최근 세계적으로 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI387",
-            "position": {
-                "x": 1980,
-                "y": 300
-            },
-            "data": {
-                "label": "한국헌정론",
-                "학수번호": "POLI387",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 한국 헌법의 제정과 유지, 개정을 초래한 정치사와 정치 과정을 고찰한다. 특히 헌법 개정을 둘러싼 정치적 논쟁과 개정 헌법이 초래하는 정치적 효과를 논의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI388",
-            "position": {
-                "x": 1980,
-                "y": 400
-            },
-            "data": {
-                "label": "헌법과정치제도",
-                "학수번호": "POLI388",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "- 본 교과목은 헌법 제정 및 개정과 관련된 정치학을 다룬다. _x000D_\n- 학생들은 비교정치학의 시각에서 헌법 제정 및 개정과 관련된 다양한 이론과 사례들을 배운다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI390",
-            "position": {
-                "x": 1980,
-                "y": 500
-            },
-            "data": {
-                "label": "법과민주주의",
-                "학수번호": "POLI390",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 법과 사법부가 정치에 미치는 영향을 다룬다. 특히 헌법의 정치적 의미, 권력분립 또는 권력융합 등의 구조적 이슈, 민주주의 체제에서 선출되지 않은 사법부가 담당하는 역할과 정치 및 정책에 미치는 영향, 그리고 법치주의와 민주주의와의 관계 등에 집중하여  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI393",
-            "position": {
-                "x": 1980,
-                "y": 600
-            },
-            "data": {
-                "label": "일본과국제정치",
-                "학수번호": "POLI393",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "정치외교학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "근대 및 현대 일본외교정책을 역사적으로 개괄하면서 일본외교정책의 목표와 수단, 정책결정과정의 특징을 연구한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI438",
-            "position": {
-                "x": 1980,
-                "y": 700
-            },
-            "data": {
-                "label": "현대외교정책결정론",
-                "학수번호": "POLI438",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "정치외교학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "현대의  외교정책결정에 관한 주요 이론들을 검토하고, 나아가 주요 국가들의 외교정책결정의 과정과 핵심 요인들을 분석 검토한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI457",
-            "position": {
-                "x": 1980,
-                "y": 800
-            },
-            "data": {
-                "label": "국제정치세미나",
-                "학수번호": "POLI457",
-                "세부전공": null,
-                "전공역량": "창의적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "정치외교학과 3,4학년 학부 학생들의 국제정치관련 논문작성과 글쓰기 실력 향상을 위한 강의. 학생 개개인이 정치외교학과 전공수업을 통해 쌓아온 지식을 바탕으로 양질의 논문을 작성하고 국제정치 분야 관련 글쓰기 실력을 향상시키는 것을 목표로 함."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "POLI458",
-            "position": {
-                "x": 1980,
-                "y": 900
-            },
-            "data": {
-                "label": "정치사상세미나",
-                "학수번호": "POLI458",
-                "세부전공": null,
-                "전공역량": "창의적사고",
-                "개설학과": "정치외교학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "정치사상분야에서 논쟁이 되고 있는 특수 과제를 선정하여 집중적으로 다루어 봄으로써 정치사상의 현재적 의미를 발견한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEKS008",
             "position": {
                 "x": 660,
                 "y": 0
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]1학년세미나 II",
                 "학수번호": "GEKS008",
@@ -2323,6 +414,7 @@
                 "x": 660,
                 "y": 100
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
@@ -2343,9 +435,2021 @@
                 "borderRadius": "5px",
                 "padding": "10px"
             }
+        },
+        {
+            "id": "POLI231",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "국제정치론",
+                "학수번호": "POLI231",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "국제관계를 이해하는 데 필요한 기본개념과 원칙을 소개한다. 특히 국제정치의 중심이론인 권력론을 중심으로 이론적 기초를 다진다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI211",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "한국정치사상",
+                "학수번호": "POLI211",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "단군신화로부터 대한제국에 이르기까지의 한국정치사상의 흐름과 내용을 이해함으로써 오늘의 현실을 바라보는 시각과 미래에 대한 전망을 얻는 것을 목적으로 한다. 고대국가의 신화, 삼국시대와 통일신라시대의 삼교, 고려의 불교, 조선의 성리학, 근대서구사상과 의 만남 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI213",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "서양고대.중세정치사상",
+                "학수번호": "POLI213",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목의 목적은 호머와 소크라테스로부터 마르실리우스에 이르는 서양 고대중세 정치철학자의 주요저작들을 읽고, 개인과 공동체, 인간과 자연, 권위와 지배, 그리고 정치와 삶의 관계를 함께 고민하는 것이다.  _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI220",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "시민정치론",
+                "학수번호": "POLI220",
+                "세부전공": null,
+                "전공역량": "사회공헌",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "국가와 시민사회간의 상호관계를 통해 정치를 분석한다. 국가부문에서는 통치를 위한 관료적 기제, 국가권력의 사회적 기반, 정책결정의 특성, 시민사회 및 경제에 대한 국가개입 등을 논의하며, 시민사회에 대해서는 사회관계, 이데올로기, 헤게모니, 공적 영역의 창출, 사 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI221",
+            "position": {
+                "x": 880,
+                "y": 400
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "동북아국제관계론",
+                "학수번호": "POLI221",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "동북아 지역의 국제관계의 특징과 핵심 쟁점을 정치, 경제, 군사적 측면에서 분석 연구한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI223",
+            "position": {
+                "x": 880,
+                "y": 500
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "정치학방법론",
+                "학수번호": "POLI223",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "정치학을 전공하는 데 있어서 갖추어야 할 방법론적 기반을 체득시키며 특히 개념 정의의 방법, 이론의 구조와 모형, 가설의 설정과 검증 방법 등을 이해하고, 실제 정치 조사방법의 여러 가지 기법을 습득한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI225",
+            "position": {
+                "x": 880,
+                "y": 600
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "한국정치사",
+                "학수번호": "POLI225",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "해방을 전후한 현대 한국정치사연구, 특히 한반도를 둘러싼 국제정치를 국내정치와 연관시켜 분석함으로써 한국정치가 안고 있는 민족과업의 본질을 정확히 파악하고 국가발전의 바람직한 향로를 모색하고자 한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI227",
+            "position": {
+                "x": 880,
+                "y": 700
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "정당론",
+                "학수번호": "POLI227",
+                "세부전공": null,
+                "전공역량": "갈등통합",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "정치체제에 있어서 정당의 위치, 정치발전과 정당발전의 관계, 민족국가 ? 독재국가 ? 신생국가에서 있어서 정당의 기능 및 구조, 문화, 그를 뒷받침하는 조건을 한국의 정당정치와의 연관에서 규명한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI233",
+            "position": {
+                "x": 880,
+                "y": 800
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "외교사",
+                "학수번호": "POLI233",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "현대국제체제의 근원인 1648년 웨스트팔리아 조약 체결부터 제2차 세계대전의 종결시까지 세계 국제정치사를 개괄한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI235",
+            "position": {
+                "x": 880,
+                "y": 900
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "중국외교정책론",
+                "학수번호": "POLI235",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "중국외교정책의 목적과 수단이 역사적으로 어떠한 변화를 겪었으며, 외교정책 결정과정의 특징과 요인들은 무엇인지 분석한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI254",
+            "position": {
+                "x": 880,
+                "y": 1000
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "사회과학적분석과글쓰기",
+                "학수번호": "POLI254",
+                "세부전공": null,
+                "전공역량": "의사소통",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 사회과학에서 중요한 분석적 읽기와 논리적 글쓰기의 이론과 실제를 다룬다. 이를 통해 학문적인 글의 구성을 이해하고 비판적으로 해석할 뿐만 아니라, 실제로 논리적인 사고와 글쓰기를 통해 효과적인 소통과 합리적 토론이 가능할 수 있도록 돕는다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI214",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "서양근대정치사상",
+                "학수번호": "POLI214",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 주제별로는 르네상스와 종교개혁에서 마르크시즘 이전까지, 인물별로는 마키아벨리에서 마르크스 이전까지 서양정치사상의 주요 저작들을 배우고, 자유, 평등, 사회계약, 인권 등 근대 서양정치사상의 주제에 내포되어 있는 보편적 의미를 생각해 본다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI234",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "비교정치개설",
+                "학수번호": "POLI234",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "비교정치학의 범위, 접근방법, 그리고 비교정치 분야에서 다루는 주요 이론적 관심사가 무엇인가를 개괄적으로 소개한다. 특히, 정치체제와 정치과정에 대한 비교연구, 그리고 국가와 사회의 역동적인 상호관계 등을 다룬 대표적인 정치학자들의 서로 다른 시각과 이론을 소 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI212",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "동양정치사상",
+                "학수번호": "POLI212",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "유교를 중심으로 동아시아 삼국에서의 정치사상의 흐름과 특징을 다룬다. 중국에서 발생?전개된 유학의 정치사상이 조선과 도쿠가와 일본에서 수용?적용되는 과정에서 어떻게 변화되어 갔는가를 개관한다. 이를 통해 19세기 말 서구와의 접촉 이전의 사상 상황을 이해함으로 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI228",
+            "position": {
+                "x": 1100,
+                "y": 300
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "일본정치론",
+                "학수번호": "POLI228",
+                "세부전공": null,
+                "전공역량": "갈등통합",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "전후 일본의 정치체제와 사회구조를 그 연속성과 변화를 중심으로 분석한다. 특히 일본의 정당체제와 대미관계를 중심으로 이해하고 발전국가론의 모델로서의 적실성을 검토한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI230",
+            "position": {
+                "x": 1100,
+                "y": 400
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "선거와투표행태",
+                "학수번호": "POLI230",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목의 목적은 현대 대의민주주의의 핵심적인 정치과정인 선거정치(Electoral Politics)와 투표행태와 관련한 주요 이론과 쟁점들을 논의하는 것이다.  더불어 본 강의는 한국 선거정치의 변화와 주요 쟁점들을 구체적 사례로 탐구할 것이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI236",
+            "position": {
+                "x": 1100,
+                "y": 500
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "미국외교정책론",
+                "학수번호": "POLI236",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "미국외교정책을 역사적으로 개괄하면서 미국외교정책의 목적과 수단, 그리고 정책결정과정을 검토하여 미국외교정책의 이해를 도모한다._x000D_\n_x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI238",
+            "position": {
+                "x": 1100,
+                "y": 600
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "법과정치사상",
+                "학수번호": "POLI238",
+                "세부전공": null,
+                "전공역량": "갈등통합",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목의 목적은 법의 본질과 기능에 대한 다양한 논의를 정치사상의 주요 흐름들을 통해 파악하고, 우리의 삶과 밀접한 연관성이 있는 주제를 통해 법과 시민이 어떻게 상호작용하는 지를 살펴보는 것이다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI239",
+            "position": {
+                "x": 1100,
+                "y": 700
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "의회와입법과정",
+                "학수번호": "POLI239",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 다양한 정치체제에서 의회의 역할과 기능을 살펴본다. 이 과목에서 다루게 될 주제들은 의회가 작동되는 정치적 조건, 의회의 구조, 입법과정의 주요특징들, 그리고 주요 정책영역에서 나타나는 의회의 행태 등이다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI241",
+            "position": {
+                "x": 1100,
+                "y": 800
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "정치학을위한게임이론개설",
+                "학수번호": "POLI241",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 정치학을 위한 게임이론을 입문적 수준에서 소개한다. 이 과목은 비협동적 게임이론의 기본 개념과 분석적 도구들을 소개하고 이를 정치학적 문제들에 적용하는 능력을 계발하는 것을 목적으로 한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI244",
+            "position": {
+                "x": 1100,
+                "y": 900
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "국제법과국제정치",
+                "학수번호": "POLI244",
+                "세부전공": null,
+                "전공역량": "사회공헌",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 국제법 이해의 기초를 다지는 개설과목으로서, 국제법의 개념 및 연원과 국제사회의 여러 성원(국가, 지역공동체, 국제기구, 개인)에 관련된 법과 제도 등에 관해 포괄적으로 강의한다. 국제관계의 다양한 영역들을 규제하는 법들에 대해 학습하여 기초지식을 심화"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI247",
+            "position": {
+                "x": 1100,
+                "y": 1000
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "정치제도론",
+                "학수번호": "POLI247",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 정치제도에 관한 비교정치 이론들과 각 제도 유형의 특징들을 고찰한다. 과목에서 다룰 주요 주제들은 대통령제, 의원내각제 및 혼합체제, 그리고 다양한 선거제도들의 작동 메커니즘과 그 정치적 영향 등이다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI250",
+            "position": {
+                "x": 1100,
+                "y": 1100
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "국제기구론",
+                "학수번호": "POLI250",
+                "세부전공": null,
+                "전공역량": "갈등통합",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "유엔을 포함한 정부간 및 비정부간 국제기구들의 역할과 그들이 국제사회에 미치는 영향을 비교 조사한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI252",
+            "position": {
+                "x": 1100,
+                "y": 1200
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "중국정치론",
+                "학수번호": "POLI252",
+                "세부전공": null,
+                "전공역량": "변화주도",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "중국공산당이 1949년 공산당정권을 수립하기까지의 성장과정, 그리고 중국정치체제가 오늘에 이르기까지 중국 지도자가 취한 각종 조치의 내용, 성격 등 중국정치세력을 다룬다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI255",
+            "position": {
+                "x": 1100,
+                "y": 1300
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "국가론",
+                "학수번호": "POLI255",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 국가란 무엇인지 고찰한다. 과목에서는 먼저 국가의 존재 이유를 비롯하여 국가에 관한 주요한 학문적 논쟁의 논점과 역사를 살펴본다. 이후 개인과 국가, 시장과 국가의 관계를 중심으로 국가의 역할과 권위를 둘러싼 다양한 이론적·이념적 관점들을 분석하고,  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI375",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "학년": 3,
+            "data": {
+                "label": "인턴십프로그램I",
+                "학수번호": "POLI375",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "정치외교학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": "전공역량안적힘",
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI312",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "20세기국제관계사",
+                "학수번호": "POLI312",
+                "세부전공": null,
+                "전공역량": "갈등통합",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "20세기 이후의 국제질서의 특징과 변동과정을 역사적으로 개괄하고, 20세기 국제관계의 핵심 쟁점들을 소개한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI313",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "인권",
+                "학수번호": "POLI313",
+                "세부전공": null,
+                "전공역량": "다문화포용",
+                "개설학과": "정치외교학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 다문화 공존의 필요성이 정치사회적 사실로 받아들여지고 있는 시점에 인권의 문제를 어떻게 접근하는 것이 적절한 지에 대한 논의들을 살펴보고, 이 과정을 통해 한편으로는 특수한 문화적 경험이 존중되고 다른 한편으로는 보편적 인간성을 확보할 수 있는 제도 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI320",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "정치문화",
+                "학수번호": "POLI320",
+                "세부전공": null,
+                "전공역량": "다문화포용",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 정치문화에 관한 이론들과 각 사례들을 고찰한다. 과목에서 다룰 주요 주제들은 인종, 종교, 민족, 언어 등에 기반한 ‘정체성의 정치학’이 중심을 이룬다. 다양한 정치문화와 정체성의 형성 및 유지가 현실정치와 어떠한 관계를 이루는 가를 살펴본다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI321",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "정치경제론",
+                "학수번호": "POLI321",
+                "세부전공": null,
+                "전공역량": "사회공헌",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "국가와 시민사회의 관계, 즉 자본주의 사회에 있어 경제 및 산업정책을 중심으로 한 국가의 역할을 연구의 주된 대상으로 하면서, 경제 사회복지정책 등에 관한 내용 분석뿐만 아니라 산업화와 산업사회에서 발생하는 광범위한 정치, 경제, 사회문제를 다룬다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI322",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "북한정치론",
+                "학수번호": "POLI322",
+                "세부전공": null,
+                "전공역량": "공감력",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "북한정치의 역사적 구조적 성격을 규명하고 국가의 형성과정과 정치이념, 사회주의 체제로서의 특수성과 보편성 등을 중심으로 북한의 정치현실을 체계적으로 이해하는데 목적을 둔다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI325",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "사회주의체제연구",
+                "학수번호": "POLI325",
+                "세부전공": null,
+                "전공역량": "공감력",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "사회주의체제의 형성과정과 사회주의체제의 특징을 역사적, 이념적, 정치사회적 차원에서 비교 분석하고 현실 사회주의의 몰락에도 불구하고 대안적 이데올로기로서의 존재 가치의 가능성에 대하여 살펴본다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI326",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "정치과정론",
+                "학수번호": "POLI326",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "정치체제의 생성과 퇴화, 그리고 다른 정치체제로의 이행을 다룬다. 먼저 정치적 변동의 제반 현상, 즉 혁명, 쿠데타, 사회운동을 이론적으로 분석한다. 다음으로 정치적 변동을 야기하는 경제적, 국제체제적, 사회 심리적 요인을 논의한다. 마지막으로 현대 정치변동론의 중"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI330",
+            "position": {
+                "x": 1320,
+                "y": 800
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "현대정치이론",
+                "학수번호": "POLI330",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "현대정치분석에 활용되어 온 국가론, 엘리트 이론, 정치문화론, 정치과정론, 근대화론과 종속이론 등의 대표적인 이론들을 접근방법과 이론적 구성 요소, 주요 개념을 중심으로 심층적으로 이해한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI331",
+            "position": {
+                "x": 1320,
+                "y": 900
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "국제관계이론",
+                "학수번호": "POLI331",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "국제관계의 일반이론화 작업의 노력들을 검토한다. 즉, 국제정치학의 형성배경과 발전과정 및 서구의 경쟁적인 이론들을 포괄적으로 논의함으로써 국제관계를 이해하려는 다양한 지적 노력을 조사한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI338",
+            "position": {
+                "x": 1320,
+                "y": 1000
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "국제정치경제론",
+                "학수번호": "POLI338",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "국제관계현상을 체계와 국가, 그리고 정책결정자라는 세 가지 분석단위 및 차원에서 동시적이고 다각적으로 접근하여 국제경제체제의 밑바닥에 흐르는 권력의 논리를 체계적이고 종합적으로 밝히고자 한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI342",
+            "position": {
+                "x": 1320,
+                "y": 1100
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "민주주의",
+                "학수번호": "POLI342",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 민주주의의 이론, 제도, 실천 그리고 중요쟁점들을 개관한다. 민주주의란 무엇인가라는 정의로부터 시작하여 대표, 참여, 책임과 같은 민주주의를 작동시키는 주요원리들, 정부의 구조, 정당과 이익집단 등과 같은 제도들, 민주주의를 발전시킬 수 있는 사회적 기 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI355",
+            "position": {
+                "x": 1320,
+                "y": 1200
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "동아시아정치론",
+                "학수번호": "POLI355",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 동아시아 정치 및 경제발전을 다룬다. 특히 일본, 한국, 중국 등 동아시아 “국가주도형” 경제발전사례들에 집중하여, 각 사례의 정치 및 경제발전 과정과 전략, 그리고 주요 행위자들 간의 동학을 비교분석한다. 90년대 이후 이들 경제체제들이 직면한 위기 및  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI367",
+            "position": {
+                "x": 1320,
+                "y": 1300
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "국제무역의정치경제",
+                "학수번호": "POLI367",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 국가 간 무역과 국내/외 정치와의  상호영향을 정치학의 관점에서 고찰한다. 먼저 국제무역에 관한 정치학의 이론들을 논의하고, 세계무역기구, 자유무역협정, 그리고 국제무역과 국가 간의 협력과 갈등, 정치 및 경제발전을 비롯한 주요 국내정치와 국제정치 현상"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI433",
+            "position": {
+                "x": 1320,
+                "y": 1400
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "국제규범과제도",
+                "학수번호": "POLI433",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "21세기 국제정치의 특징 중 하나는 비국가 행위자의 등장과 국제규범의 중요성이다. 이는 기존에 국가 중심으로 논의되던 국제질서에 대한 논의에 관한 도전이었고, 탈냉전 이후 이 분야에 축적된 연구가 있었다. 특히 기존에 국가나 국제기구를 넘어서는 비정부기구, 개인, "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI453",
+            "position": {
+                "x": 1320,
+                "y": 1500
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "비교정치경제",
+                "학수번호": "POLI453",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 정치와 경제의 상호작용을 주제별로 탐색한다. 핵심적인 주제는 불평등, 경제성장, 복지국가, 재분배, 투표선택, 노동시장제도 등이다. 사례연구는 선진민주주의를 대상으로 한다. 경제적 요인이 미치는 정치적 영향과 정치적 변수가 미치는 경제적 결과에 대한 심"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI373",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "한국정치론",
+                "학수번호": "POLI373",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 한국정치의 중요한 이론적 쟁점들을 비판적으로 검토함으로써 한국정치에 대한 체계적인 이해를 돕고자 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI336",
+            "position": {
+                "x": 1540,
+                "y": 100
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "한국외교정책론",
+                "학수번호": "POLI336",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "해방 이후의 한국외교정책의 방향과 변화를 역사적으로 추적하고, 한국외교정책의 방향과 문제점을 이론적으로 모색하여 분석틀을 제시한다.  _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI317",
+            "position": {
+                "x": 1540,
+                "y": 200
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "동남아시아정치론",
+                "학수번호": "POLI317",
+                "세부전공": null,
+                "전공역량": "다문화포용",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 세계에서 가장 다양하고 역동적인 지역들 중 하나인 동남아시아의 정치에 대한 기초지식을 제공한다. 강의의 첫 부분에서는 동남아시아 국가들이 가진 다양한 정치시스템들의 역사적 연원을 추적하며, 둘째 부분에서는 버마, 캄보디아, 인도네시아, 말레이시아, 필"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI333",
+            "position": {
+                "x": 1540,
+                "y": 300
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "현대정치철학",
+                "학수번호": "POLI333",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목의 목적은 현대 정치철학의 주요 흐름들을 파악하고, 우리의 삶과 밀접한 연관성이 있는 주제를 통해 자율성과 공공선이 조화되고, 차이의 인지에 기초한 협력이 증진되고, 복지와 분배가 자기실현의 조건으로 고려될 수 있는 정치적.도덕적 원칙을 찾는 것이다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI364",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "동아시아와세계정치",
+                "학수번호": "POLI364",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "근대 이후 진행되어온 서구중심의 국제질서의 맥락에서 한-중-일을 비롯한 동아시아의 국제관계를 탐구한다. 특히 동아시아 지역질서의 변화와 지속을 국제정치학, 역사사회학, 경제학 등 융합적 접근법을 통해 분석하여 동아시아의 과거, 현재, 미래를 종합적으로 조망해 보"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI378",
+            "position": {
+                "x": 1540,
+                "y": 500
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "내전연구",
+                "학수번호": "POLI378",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "냉전 이후 전 세계 무력갈등의 95% 이상이 한 국가 내에서 발생한 정부군과 반군간의 교전이며, 내전을 겪는 국가들의 정치 불안정은 인접국가들과 해당 지역 전체의 평화에 심각한 위협이 되어왔다. 이 수업은 이러한 정치현상에 대한 비교 연구들을 소개하고, 왜 내전과 같"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI379",
+            "position": {
+                "x": 1540,
+                "y": 600
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "현대국제안보론",
+                "학수번호": "POLI379",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "국제안보에 관한 다양한 접근과 이론들을 소개하고, 국제안보의 새로운 쟁점들을 논의한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI383",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "개발과원조의정치",
+                "학수번호": "POLI383",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 저개발과 빈곤의 정치적 원인 및 결과를 다양한 이론적 관점에서 검토하고, 정치발전 및 경제개발을 위한 정책적 방안을 심도 있게 논의한다. 또한 개발과 원조에 관한 분석적이고 종합적인 시각을 가질 수 있도록 이론적 논의와 더불어 다양한 사례연구를 통해 구"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI384",
+            "position": {
+                "x": 1540,
+                "y": 800
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "정치심리학",
+                "학수번호": "POLI384",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "정치학의 한 분야인 정치심리학(political psychology)에서 다루어 온 기본 개념들을 검토하고, 논쟁의 중심에 있었던 주제들을 위주로 최근 연구 동향을 살펴본다. 정치심리학이란 사람들이 정치 현상을 보는 시각이 어떻게 형성되고, 그렇게 형성된 정치관이 정치행태나 의"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI385",
+            "position": {
+                "x": 1540,
+                "y": 900
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "환경협력의정치경제",
+                "학수번호": "POLI385",
+                "세부전공": null,
+                "전공역량": "사회공헌",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 국제협력과 제도와 관련된 다양한 이론적 토대를 검토하여 환경협력의 정치경제적 요인을 논의한다. 특히, 기후변화와 초월경성 대기오염 문제를 중심으로 여론, 이해집단, 국내제도 및 국제조약이 환경협력에 미치는 영향을 분석한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI414",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "정치사상특수과제연구",
+                "학수번호": "POLI414",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "정치사상분야에서 논쟁이 되고 있는 특수 과제를 선정하여 집중적으로 다루어 봄으로써 정치사상의 현재적 의미를 발견한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI424",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "학년": 4,
+            "data": {
+                "label": "유럽정치론",
+                "학수번호": "POLI424",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "정치외교학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI253",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "시민정치리빙랩",
+                "학수번호": "POLI253",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "정치학 교육은 대체로 정치 현상을 분석하고 인과관계를 밝히는데 초점을 맞춘다. 본 수업은 정치학 강의를 통해 습득한 이론 지식과 분석적, 논리적, 창의적 사고력을 토대로 우리가 현실에서 직면하는 문제들을 해결할 수 있는 기회를 제공한다. 이를 통해 학생들은 시민정"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI256",
+            "position": {
+                "x": 1760,
+                "y": 300
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "국제정치리빙랩",
+                "학수번호": "POLI256",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "국제정치의 많은 부분은 현장에서 일어난다. 국제정치의 주요 주제인 평화, 발전, 인권, 환경 등 다양한 논의는 국가 간 활동 혹은 국제기구 및 비정부기구에서 일어난다. 따라서 국제정치 현장에서 일어나는 많은 과정을 배우고 간접적으로 체험해보는 것은 중요하다. 이 수"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI350",
+            "position": {
+                "x": 1760,
+                "y": 400
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "정치가론",
+                "학수번호": "POLI350",
+                "세부전공": null,
+                "전공역량": "자기실헌",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "동서양 정치사상에서 등장하는 이상적 정치인에 대한 논의와 실제 역사 속에 등장했던 지도자들의 기록을 중심으로, 대중의 의사롭부터 출발하여 민의를 넘어서는 새로운 세계를 설계할 수 있는 정치 지도자의 자질과 덕목을 살펴보는 것이 본 과목의 목적이다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI382",
+            "position": {
+                "x": 1760,
+                "y": 500
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "비교정치세미나",
+                "학수번호": "POLI382",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "정치외교학과3,4학년 학부 학생들의 비교정치 분야와 관련된 논문작성과 글쓰기 실력 향상을 위한 강의. 학생 개개인이 정치외교학과 전공수업을 통해 쌓아온 지식을 바탕으로 양질의 논문을 작성하고 비교정치 분야 관련 글쓰기 실력을 향상시키는 것을 목표로 함."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI389",
+            "position": {
+                "x": 1760,
+                "y": 600
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "기술과국제정치",
+                "학수번호": "POLI389",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 기술 발전이 국제정치에 미치는 영향을 탐구한다. 기술과 관련된 국제 관계의 주요 이론을 소개하고, 기술 발전이 전쟁과 평화 및 국제 갈등과 협력에 미치는 영향을 살펴본다. 이 과목은 핵 무기의 개발이 국제 정치에 미치는 영향을 비롯해, 새로운 산업 혁명 속"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI391",
+            "position": {
+                "x": 1760,
+                "y": 700
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "민족주의와국제정치",
+                "학수번호": "POLI391",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 민족주의의 다양하고 복잡한 본질을 탐구하고, 국제정치에서 민족주의의 역할을 살펴본다. 국가 정체성, 애국심, 민족주의적 감정 등 민족주의의 다양한 정의 및 관련 개념들을 탐구하고, 이러한 개념적 이해를 바탕으로 민족주의가 전쟁, 민족 갈등, 영토 분쟁,  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI392",
+            "position": {
+                "x": 1760,
+                "y": 800
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "권위주의체제연구",
+                "학수번호": "POLI392",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 현대 정치체제의 근간으로 성장해 온 서구식 자유 민주주주의와 20세기 동안 그에 도전하며 대안으로 제시되었던 나치즘, 파시즘, 공산주의 등과 같은 다양한 정치체제를 분석하고자 한다. 또한, 제 2차 세계대전후 역사의 뒤안길로 사라진 나치즘/파시즘과 80년대"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI425",
+            "position": {
+                "x": 1760,
+                "y": 900
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "미국정치론",
+                "학수번호": "POLI425",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "유럽 국가와 대비되는 미국의 정치체제를 민주주의 이론적 측면과 정당정치의 특성, 이익집단 정치 등의 개념을 통하여 구조, 기능, 경제, 사회, 문화의 변화와 관련하여 고찰함으로써 정치형태와 정책방향을 규명한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI329",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "한국정치세미나",
+                "학수번호": "POLI329",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "분단시대의 한국정치경제사를 재조명함으로써 민주와 독재에 대한 기초적이면서 종합적인 이해를 구하고자 한다. 아울러 정치와 경제의 내재적 연계 및 국제체제에 관한 균형된 고찰을 유도하고 연속과 변동을 동시에 강조하는 상반되는 여러 이론과 제안을 비교할 수 있는  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI366",
+            "position": {
+                "x": 1980,
+                "y": 100
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "금융통화의국제정치경제",
+                "학수번호": "POLI366",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 국제통화 및 금융의 관계를 정치경제학적 시각에서 분석한다. 다루는 주제로는 글로벌 자본시장 자유화가 국내경제정책에 미치는 영향, 통화 및 금융의 문제에서 국제기구와 역할과 글로벌 거버넌스, 국제금융과 경제개발, 그리고 국제금융위기 원인과 결과들에 대"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI386",
+            "position": {
+                "x": 1980,
+                "y": 200
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "법과정의",
+                "학수번호": "POLI386",
+                "세부전공": null,
+                "전공역량": "공감력",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 동서양의 정치학 전통에서 가장 오래된 주제인 정의란 무엇인가를 중심으로 정치사상과 법을 매개로 다투는 현실적 갈등 사례를 함께 살펴보는 수업이다. 정치사상 차원에서 롤즈, 노직, 드워킨, 센, 왈저, 영, 포기 등의 정의론 주장을 검토하고 최근 세계적으로 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI387",
+            "position": {
+                "x": 1980,
+                "y": 300
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "한국헌정론",
+                "학수번호": "POLI387",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 한국 헌법의 제정과 유지, 개정을 초래한 정치사와 정치 과정을 고찰한다. 특히 헌법 개정을 둘러싼 정치적 논쟁과 개정 헌법이 초래하는 정치적 효과를 논의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI388",
+            "position": {
+                "x": 1980,
+                "y": 400
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "헌법과정치제도",
+                "학수번호": "POLI388",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "- 본 교과목은 헌법 제정 및 개정과 관련된 정치학을 다룬다. _x000D_\n- 학생들은 비교정치학의 시각에서 헌법 제정 및 개정과 관련된 다양한 이론과 사례들을 배운다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI390",
+            "position": {
+                "x": 1980,
+                "y": 500
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "법과민주주의",
+                "학수번호": "POLI390",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 법과 사법부가 정치에 미치는 영향을 다룬다. 특히 헌법의 정치적 의미, 권력분립 또는 권력융합 등의 구조적 이슈, 민주주의 체제에서 선출되지 않은 사법부가 담당하는 역할과 정치 및 정책에 미치는 영향, 그리고 법치주의와 민주주의와의 관계 등에 집중하여  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI393",
+            "position": {
+                "x": 1980,
+                "y": 600
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "일본과국제정치",
+                "학수번호": "POLI393",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "근대 및 현대 일본외교정책을 역사적으로 개괄하면서 일본외교정책의 목표와 수단, 정책결정과정의 특징을 연구한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI438",
+            "position": {
+                "x": 1980,
+                "y": 700
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "현대외교정책결정론",
+                "학수번호": "POLI438",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "현대의  외교정책결정에 관한 주요 이론들을 검토하고, 나아가 주요 국가들의 외교정책결정의 과정과 핵심 요인들을 분석 검토한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI457",
+            "position": {
+                "x": 1980,
+                "y": 800
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "국제정치세미나",
+                "학수번호": "POLI457",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "정치외교학과 3,4학년 학부 학생들의 국제정치관련 논문작성과 글쓰기 실력 향상을 위한 강의. 학생 개개인이 정치외교학과 전공수업을 통해 쌓아온 지식을 바탕으로 양질의 논문을 작성하고 국제정치 분야 관련 글쓰기 실력을 향상시키는 것을 목표로 함."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "POLI458",
+            "position": {
+                "x": 1980,
+                "y": 900
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "정치사상세미나",
+                "학수번호": "POLI458",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "정치외교학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "정치사상분야에서 논쟁이 되고 있는 특수 과제를 선정하여 집중적으로 다루어 봄으로써 정치사상의 현재적 의미를 발견한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
         }
     ],
     "edges": [
+        {
+            "id": "recommended-POLI231-POLI389",
+            "source": "POLI231",
+            "target": "POLI389",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
+        {
+            "id": "recommended-POLI231-POLI391",
+            "source": "POLI231",
+            "target": "POLI391",
+            "type": "step",
+            "data": {
+                "type": "recommended"
+            },
+            "markerEnd": {
+                "type": "ArrowClosed"
+            }
+        },
         {
             "id": "recommended-POLI225-POLI387",
             "source": "POLI225",
@@ -2374,30 +2478,6 @@
             "id": "recommended-POLI247-POLI388",
             "source": "POLI247",
             "target": "POLI388",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-POLI231-POLI389",
-            "source": "POLI231",
-            "target": "POLI389",
-            "type": "step",
-            "data": {
-                "type": "recommended"
-            },
-            "markerEnd": {
-                "type": "ArrowClosed"
-            }
-        },
-        {
-            "id": "recommended-POLI231-POLI391",
-            "source": "POLI231",
-            "target": "POLI391",
             "type": "step",
             "data": {
                 "type": "recommended"

@@ -9,26 +9,26 @@ node_colors = {
     "교양선택": "#f8f8f8",
     "전공필수": "#D1C4E9",
     "전공선택": "#f8f8f8",
-    "전공필수선택" : "#FFD180",
+    "전공필수선택" : "#c4d0e9",
     "전공인정": "#FFFFFF",
     "기타": "#FFFFFF",
 }
 node_line_colors = {
-    "학문의기초": "#ff3c3c",
+    "학문의기초": "#92c3a5",
     "교양필수": "#92c3a5",
     "교양선택": "#F8BBD0",
     "전공필수": "#9a49c2",
     "전공선택": "#8f8f8f",
-    "전공필수선택" : "#dbaf64",
-    "전공인정": "#8f8f8f",
+    "전공필수선택" : "#55aad4",
+    "전공인정": "#55aad4",
     "기타": "#ccc",
 }
 
 def calculate_x_position(학년, 학기):
-    if 학기 is None  or 학기 == 0 or 학기 == 'NaN':
-        학기 = 1.5
-    if 학년 is None or 학년 == 0 or 학년 == 'NaN':
-        학년 = 1 
+    if 학기 is None  or 학기 == 0:
+        학기 = 1
+    if 학년 is None or 학년 == 0:
+        학년 = 1
     return 학년 * 440 + ((학기) - 1) * 220
 
 def create_year_and_semester_nodes():
@@ -64,28 +64,56 @@ def create_year_and_semester_nodes():
     
     return year_nodes + semester_nodes
 
+def sort_courses_by_grade_and_semester(courses):
+    def sort_key(course):
+        grade = course.get("학년", None) 
+        semester = course.get("학기", None) 
+
+        if grade is None:
+            grade = float('-inf')
+        if semester is None or semester == 0 or semester == 'null':
+            semester = float(0)
+        return (grade, semester)
+
+    return sorted(courses, key=sort_key)
+
 def parse_courses(courses):
     nodes = create_year_and_semester_nodes()
     x_groups = {}
-    zero_semester_nodes = []
 
     for course in courses:
         x = calculate_x_position(course["학년"], course["학기"])
         if x not in x_groups:
             x_groups[x] = []
+            
+        if (course["학년"] == 0 or course["학년"] is None) and course["구분"] == "전공인정": # 전공인정인데 과목이 불분명한 경우 표시하지 않기
+            continue
+        
         x_groups[x].append(course)
 
+    current_grade = None
+    zero_cnt = 0
     for x, group_courses in x_groups.items():
-        current_y = 0
+        grade = grade = x // 440
+        if grade != current_grade:
+            current_grade = grade
+            zero_cnt = 0
+            
         for index, course in enumerate(group_courses):
             color = node_colors.get(course["구분"], node_colors["기타"])
             line_color = node_line_colors.get(course["구분"], node_line_colors["기타"])
+            
+            if course["학기"] == 2: 
+                y = (index + zero_cnt) * (node_height + node_spacing)
+            else:
+                y = index * (node_height + node_spacing)
             node = {
                 "id": course["학수번호"],
                 "position": {
                     "x": int(x),
-                    "y": current_y + index * (node_height + node_spacing),
+                    "y": y,
                 },
+                "학년": course["학년"],
                 "data": {
                     "label": course["교과목명"],
                     "학수번호": course["학수번호"],
@@ -107,30 +135,17 @@ def parse_courses(courses):
                     "padding": "10px"
                 },
             }
-            if (course["학기"] == 0 or course["학기"] == 'null'):
-                zero_semester_nodes.append(node)
-            else:
-                nodes.append(node)
 
-    for zero_node in zero_semester_nodes:
-        학년 = int(zero_node["id"].split("-")[0])
-        first_semester_x = calculate_x_position(학년, 1)
-        second_semester_x = calculate_x_position(학년, 2)
-
-        first_y = [
-            node["position"]["y"] for node in nodes if node["position"]["x"] == first_semester_x
-        ]
-        second_y = [
-            node["position"]["y"] for node in nodes if node["position"]["x"] == second_semester_x
-        ]
-
-        max_y = max(max(first_y, default=0), max(second_y, default=0))
-
-        zero_node["position"] = {
-            "x": (first_semester_x + second_semester_x) / 2,  
-            "y": max_y + node_height + node_spacing,        
-        }
-        nodes.append(zero_node)
+            # if (course["학기"] == 0 or course["학기"] is None) and (course["학년"] != 0 or course["학년"] is not None):
+            #     node["position"] = {
+            #         "x": int(x),
+            #         "y": index * (node_height + node_spacing),
+            #     }
+            #     node["type"] = "customZeroNode"
+            #     nodes.append(node)
+            #     zero_cnt += 1
+            # else:
+            nodes.append(node)
 
     edges = []
     for course in courses:
@@ -163,6 +178,7 @@ def process_course_files(directory, save_directory):
             try:
                 with open(os.path.join(directory, filename), "r", encoding="utf-8") as file:
                     courses = json.load(file)
+                    courses = sort_courses_by_grade_and_semester(courses)
                     result = parse_courses(courses)
                     output_file = os.path.join(save_directory, f"{filename.split('.')[0]}.json")
                     with open(output_file, "w", encoding="utf-8") as outfile:

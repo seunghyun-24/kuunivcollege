@@ -7,19 +7,19 @@ export const InformationBox = () => {
     교양선택: "#f8f8f8",
     전공필수: "#D1C4E9",
     전공선택: "#f8f8f8",
-    전공필수선택: "#FFD180",
+    전공필수선택: "#c4d0e9",
     전공인정: "#FFFFFF",
     기타: "#FFFFFF",
   };
 
   const nodeLineColors = {
-    학문의기초: "#ff3c3c",
+    학문의기초: "#92c3a5",
     교양필수: "#92c3a5",
     교양선택: "#F8BBD0",
     전공필수: "#9a49c2",
     전공선택: "#8f8f8f",
-    전공필수선택: "#dbaf64",
-    전공인정: "#8f8f8f",
+    전공필수선택: "#55aad4",
+    전공인정: "#55aad4",
     기타: "#ccc",
   };
 
@@ -129,7 +129,7 @@ export const InformationBox = () => {
 
 const legendContainerStyle: React.CSSProperties = {
   backgroundColor: "#fff",
-  fontFamily: "Nanum Gothic",
+  fontFamily: "'Nanum Gothic', sans-serif",
   padding: "10px",
   zIndex: 10,
 };
@@ -138,7 +138,7 @@ const legendItemStyle = {
   display: "flex",
   alignItems: "center",
   marginBottom: "5px",
-  fontFamily: "Nanum Gothic",
+  fontFamily: "'Nanum Gothic', sans-serif",
   fontSize: "12px",
 };
 
@@ -155,18 +155,18 @@ const gaugeContainerStyle = {
   height: "10px",
   border: "1px solid #333",
   borderRadius: "2px",
-  fontFamily: "Nanum Gothic",
+  fontFamily: "'Nanum Gothic', sans-serif",
   overflow: "hidden",
 };
 
 const gaugeSegmentStyle = {
   flex: 1,
-  fontFamily: "Nanum Gothic",
+  fontFamily: "'Nanum Gothic', sans-serif",
   height: "100%",
 };
 
 const labelStyle = {
-  fontFamily: "Nanum Gothic",
+  fontFamily: "'Nanum Gothic', sans-serif",
   fontSize: "12px",
   color: "#333",
 };

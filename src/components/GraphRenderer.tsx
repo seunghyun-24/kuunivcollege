@@ -1,19 +1,26 @@
-import React, { useCallback, useEffect, useState } from "react";
+import React, { useCallback, useEffect, useMemo, useState } from "react";
 import {
   Background,
   Controls,
   useNodesState,
   useEdgesState,
   ReactFlow,
+  useReactFlow,
 } from "@xyflow/react";
 import "@xyflow/react/dist/style.css";
 import "../styles/ReactFlowStyles.css";
-import { CustomNode, YearNode, SemesterNode } from "../styles/CustomNode";
+import {
+  CustomNode,
+  CustomZeroNode,
+  YearNode,
+  SemesterNode,
+} from "../styles/CustomNode";
 import { GroupNode } from "../styles/GroupNode";
 import { findConnectedNodesAndEdges } from "../utils/calculateRelationCourses";
 
 const nodeTypes = {
   customNode: CustomNode,
+  customZeroNode: CustomZeroNode,
   yearNode: YearNode,
   semesterNode: SemesterNode,
   groupNode: GroupNode,
@@ -30,6 +37,7 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
   edges,
   onBoundsChange,
 }) => {
+  const reactFlowInstance = useReactFlow();
   const [styledNodes, , onNodesChange] = useNodesState(nodes);
   const [styledEdges, , onEdgesChange] = useEdgesState(edges);
   const [hoveredNodeId, setHoveredNodeId] = useState<string | null>(null);
@@ -60,6 +68,15 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
     setConnectedNodeIds(new Set());
     setConnectedEdgeIds(new Set());
   };
+
+  const defaultViewport = useMemo(
+    () => ({
+      x: -Math.min(...nodes.map((node) => node.position.x)) * 0.5,
+      y: -Math.min(...nodes.map((node) => node.position.y)) * 0.5,
+      zoom: 0.5,
+    }),
+    [nodes]
+  );
 
   const styledNodesWithHighlight = styledNodes.map((node) => ({
     ...node,
@@ -108,30 +125,20 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
     },
   }));
 
-  const calculateGraphBounds = useCallback(() => {
-    const maxX = Math.max(...styledNodes.map((node) => node.position.x), 600);
-    const maxY = Math.max(
-      ...styledNodes.map((node) => node.position.y * 0.6),
-      1000
-    );
-    return { width: maxX, height: maxY };
-  }, [styledNodes]);
-
-  const topY = Math.min(...styledNodes.map((node) => node.position.y));
-  const minX = Math.min(...nodes.map((node) => node.position.x));
-
-  const [previousBounds, setPreviousBounds] = useState({ width: 0, height: 0 });
-
   useEffect(() => {
-    const bounds = calculateGraphBounds();
-    if (
-      bounds.width !== previousBounds.width ||
-      bounds.height !== previousBounds.height
-    ) {
-      setPreviousBounds(bounds);
-      onBoundsChange(bounds);
-    }
-  }, [styledNodes, calculateGraphBounds, onBoundsChange, previousBounds]);
+    const bounds = {
+      width: Math.max(...styledNodes.map((node) => node.position.x), 600),
+      height: Math.max(
+        ...styledNodes.map((node) => node.position.y * 0.6),
+        1000
+      ),
+    };
+    onBoundsChange(bounds);
+  }, [styledNodes, onBoundsChange]);
+
+  const resetView = useCallback(() => {
+    reactFlowInstance.setViewport(defaultViewport);
+  }, [defaultViewport, reactFlowInstance]);
 
   return (
     <>
@@ -146,14 +153,14 @@ const GraphRenderer: React.FC<GraphRendererProps> = ({
           nodeTypes={nodeTypes}
           zoomOnScroll={true}
           panOnDrag={false}
-          defaultViewport={{ x: -minX * 0.5, y: -topY * 0.5, zoom: 0.5 }}
+          defaultViewport={defaultViewport}
           maxZoom={5.0}
           minZoom={0.5}
           nodesConnectable={false}
           nodesDraggable={false}
         >
           <Background color="#ddd" gap={16} />
-          <Controls position="top-right" />
+          <Controls position="top-right" onFitView={resetView} />
         </ReactFlow>
       </div>
     </>

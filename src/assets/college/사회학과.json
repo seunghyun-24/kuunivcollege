@@ -185,119 +185,12 @@
             }
         },
         {
-            "id": "SOCI291",
+            "id": "COLA173",
             "position": {
                 "x": 440,
                 "y": 0
             },
-            "data": {
-                "label": "사회학적상상력",
-                "학수번호": "SOCI291",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": "전공역량안적힘",
-                "syllabus_kr": "이 수업의 목적은 사회학의 기본 개념, 이론, 관점, 방법론 및 주요 연구를 소개하면서 사회학적 상상력을 키우는 데 있다. 수업을 통해 사회 현상에 대한 체계적이고 종합적인 이해와 분석을 할 수 있을 것이다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI292",
-            "position": {
-                "x": 440,
-                "y": 100
-            },
-            "data": {
-                "label": "사회학발달사",
-                "학수번호": "SOCI292",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": "전공역량안적힘",
-                "syllabus_kr": "사회학의 고전이론뿐만 아니라 현대이론에 이르기까지 사회학 이론의 변화와 발전을 역사적으로 고찰한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI294",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "data": {
-                "label": "사회조사방법",
-                "학수번호": "SOCI294",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": "전공역량안적힘",
-                "syllabus_kr": "사회현상들을 경험적으로 연구하는 데 필요한 양적·질적 방법을 학습하는 데 목적이 있다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI295",
-            "position": {
-                "x": 440,
-                "y": 300
-            },
-            "data": {
-                "label": "사회통계",
-                "학수번호": "SOCI295",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": "전공역량안적힘",
-                "syllabus_kr": "사회현상을 분석하는 데 필요한 양적자료의 통계적 처리방법을 이론과 실습을 병행하여 연구한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COLA173",
-            "position": {
-                "x": 440,
-                "y": 400
-            },
+            "학년": 1.0,
             "data": {
                 "label": "디지털인문학응용",
                 "학수번호": "COLA173",
@@ -314,7 +207,7 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -323,8 +216,9 @@
             "id": "COLA200",
             "position": {
                 "x": 440,
-                "y": 500
+                "y": 100
             },
+            "학년": 1.0,
             "data": {
                 "label": "인문융합세미나",
                 "학수번호": "COLA200",
@@ -341,7 +235,7 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -350,8 +244,9 @@
             "id": "GELI005",
             "position": {
                 "x": 440,
-                "y": 600
+                "y": 200
             },
+            "학년": 1.0,
             "data": {
                 "label": "학문세계의탐구 I",
                 "학수번호": "GELI005",
@@ -374,38 +269,12 @@
             }
         },
         {
-            "id": "GEWR002",
-            "position": {
-                "x": 440,
-                "y": 700
-            },
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "IFLS800",
             "position": {
                 "x": 440,
-                "y": 800
+                "y": 300
             },
+            "학년": 1.0,
             "data": {
                 "label": "Academic English I",
                 "학수번호": "IFLS800",
@@ -428,11 +297,68 @@
             }
         },
         {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "GEKS007",
             "position": {
                 "x": 440,
-                "y": 900
+                "y": 600
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS007",
@@ -458,8 +384,9 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 1000
+                "y": 700
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
                 "학수번호": "GECT002",
@@ -482,1145 +409,12 @@
             }
         },
         {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 1100
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI205",
-            "position": {
-                "x": 1320,
-                "y": 0
-            },
-            "data": {
-                "label": "사회계층론",
-                "학수번호": "SOCI205",
-                "세부전공": null,
-                "전공역량": "사회적책임",
-                "개설학과": "사회학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "사회계층의 기본적인 개념과 이론을 소개하고 계층연구의 방법을 이해한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI225",
-            "position": {
-                "x": 1320,
-                "y": 100
-            },
-            "data": {
-                "label": "한국사회의구조와변동",
-                "학수번호": "SOCI225",
-                "세부전공": null,
-                "전공역량": "글로벌리더쉽",
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "한국사회에 대한 사회학적 이해를 목적으로 하여 한국의 문화 특성, 가족, 계급, 종교, 교육, 경제사회, 정치문화, 시민사회와 시민운동, 한국의 사회 변동을 검토한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI249",
-            "position": {
-                "x": 1320,
-                "y": 200
-            },
-            "data": {
-                "label": "중급사회통계",
-                "학수번호": "SOCI249",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "사회학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI315",
-            "position": {
-                "x": 1320,
-                "y": 300
-            },
-            "data": {
-                "label": "사회발전론",
-                "학수번호": "SOCI315",
-                "세부전공": null,
-                "전공역량": "글로벌리더쉽",
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "사회발전의 기본 이론과 정책적 이슈를 체계적으로 연구한다. 사회발전에 관한 기존의 이론, 후발국의 발전전략, 그리고 발전을 둘러싼 현대사회의 다양한 이슈들을 체계적으로 논의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI321",
-            "position": {
-                "x": 1320,
-                "y": 400
-            },
-            "data": {
-                "label": "데이터사이언스와사회학",
-                "학수번호": "SOCI321",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "데이터 사이언스와 사회와의 관계를 종합적으로 검토하는 수업이다. 빅데이터 시대를 살고 있는 현대의 데이터와 밀접한 관계를 가지고 발전해 온 사회학을 데이터 사회학적 관점으로 재조명하고, 데이터 사이언스와 사회학의 상생적 접목을 고민하는 것이 본 교육의 주 목적"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI343",
-            "position": {
-                "x": 1320,
-                "y": 500
-            },
-            "data": {
-                "label": "비교사회학",
-                "학수번호": "SOCI343",
-                "세부전공": null,
-                "전공역량": "글로벌리더쉽",
-                "개설학과": "사회학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "사회의 구조, 변동 및 문화의 특성 등을 사회간의 비교연구를 통하여 고찰한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI352",
-            "position": {
-                "x": 1320,
-                "y": 600
-            },
-            "data": {
-                "label": "생애과정의사회학",
-                "학수번호": "SOCI352",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "사회학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 생애과정 상의 위치에 따라 사람들이 어떻게 유사한 혹은 차별적인 경험을 갖게 되는 지를 검토한다. 생애과정관점의 고유한 특성들 또한 소개될 것이다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI355",
-            "position": {
-                "x": 1320,
-                "y": 700
-            },
-            "data": {
-                "label": "사회조사실습",
-                "학수번호": "SOCI355",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "사회학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "사회조사의 방법을 현지조사 및 자료분석의 실습을 통해 이론과 실제의 관계를 실증적으로 이해한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI361",
-            "position": {
-                "x": 1320,
-                "y": 800
-            },
-            "data": {
-                "label": "영상사회학",
-                "학수번호": "SOCI361",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "영상물의 시청과 해석을 통해 사회현상의 양태, 원인과 결과를 이해한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI363",
-            "position": {
-                "x": 1320,
-                "y": 900
-            },
-            "data": {
-                "label": "질적연구방법",
-                "학수번호": "SOCI363",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "사회학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "사회현상과 문화의 이해를 위한 방법론으로서 참여관찰방법, 비참여관찰방법 등에 대하여 학습한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI365",
-            "position": {
-                "x": 1320,
-                "y": 1000
-            },
-            "data": {
-                "label": "노동사회학",
-                "학수번호": "SOCI365",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "사회학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "현대사회의 중요한 문제인 노동과 관련된 다양한 이슈들을 사회학적으로 분석하고 이해한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI373",
-            "position": {
-                "x": 1320,
-                "y": 1100
-            },
-            "data": {
-                "label": "사회변동론",
-                "학수번호": "SOCI373",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "사회학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "사회변동의 원인, 과정, 결과 등에 관한 사회학적 이론들을 소개한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI379",
-            "position": {
-                "x": 1320,
-                "y": 1200
-            },
-            "data": {
-                "label": "일반사회교과교육론",
-                "학수번호": "SOCI379",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "중고등학교에 개설된 일반사회 과목을 강의하기 위해서 필요한 이론과 방법론을 다루는데 초점을 둔다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI207",
-            "position": {
-                "x": 880,
-                "y": 0
-            },
-            "data": {
-                "label": "현대사회학이론",
-                "학수번호": "SOCI207",
-                "세부전공": null,
-                "전공역량": "창의융합적사고",
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "현대사회학의 주요 이론들을 비교하며 종합적으로 이해한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI233",
-            "position": {
-                "x": 880,
-                "y": 100
-            },
-            "data": {
-                "label": "사회조직론",
-                "학수번호": "SOCI233",
-                "세부전공": null,
-                "전공역량": "글로벌리더쉽",
-                "개설학과": "사회학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "사회구성원들이 일정한 목적을 달성하기 위해서 일정한 질서하에 결합되는 규칙적인 상호작용의 양식을 해명하는 개념과 원리를 내용으로 한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI240",
-            "position": {
-                "x": 880,
-                "y": 200
-            },
-            "data": {
-                "label": "사회심리학",
-                "학수번호": "SOCI240",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "사회학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "개인의 심리적 과정(학습, 동기, 태도, 성격 등)과 사회적 환경(성, 연령, 인종/종족, 지역, 문화와 관습, 계층, 정치체계 등)과의 상호작용을 사회학적 시각에서 연구한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI243",
-            "position": {
-                "x": 880,
-                "y": 300
-            },
-            "data": {
-                "label": "사회행위론",
-                "학수번호": "SOCI243",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "사회학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "사회학의 이론적 기반을 제공하고자 하는 수업이다. _x000D_\n현대사회학사에서  사회학의 공통된 관심사로 주로 행위(action), 구조(structures/orders), 변동(change) 등이 언급되고 있다. _x000D_\n이 수업은 이 중 행위에 관한 이론적 논의들을 검토한다. 행위에 대한 사회학적 접근을 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI255",
-            "position": {
-                "x": 880,
-                "y": 400
-            },
-            "data": {
-                "label": "환경사회학",
-                "학수번호": "SOCI255",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인간, 사회조직, 환경 사이의 상호관계를 이론적으로 검토하고, 사회문제로서의 환경문제에 대한 진단과 총체적 대안들을 습득한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI273",
-            "position": {
-                "x": 880,
-                "y": 500
-            },
-            "data": {
-                "label": "북한사회의이해",
-                "학수번호": "SOCI273",
-                "세부전공": null,
-                "전공역량": "글로벌리더쉽",
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "북한사회의 역사적, 구조적 성격과 특성을 사회학적 관점에서 이해하고, 통일과 통일 후 남북한 사회통합을 준비하는 이론적·경험적 연구들을 고찰한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI297",
-            "position": {
-                "x": 880,
-                "y": 600
-            },
-            "data": {
-                "label": "도시와사회",
-                "학수번호": "SOCI297",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "사회학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 도시 사회학에 대한 개론으로서 도시와 도시화에 대한 사회학적 이론 및 개념, 연구를 소개한다. 특히 도시화, 도시개발 및 재개발, 도시 성장, 도시 문제를 살펴봄으로써 각자 살고 있는 도시에 대해 사회학적인 접근 및 이해를 심화시키는 것을 목표로 한다._x000D_\n_x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI299",
-            "position": {
-                "x": 880,
-                "y": 700
-            },
-            "data": {
-                "label": "대중문화론",
-                "학수번호": "SOCI299",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목의 주된 목표는 대중문화의 흐름에 대한 소개를 하고, 그러한 흐름을 문화의 사회경제적인 기반을 다룬 문화사회학적 시각에서 살펴보는 것이다. 이를 위하여, 이론적으로는 고전사회학자들의 이데올로기나 권력 같은 문화에 대한 개념과 이론뿐만 아니라 현대사회학 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI236",
-            "position": {
-                "x": 1100,
-                "y": 0
-            },
-            "data": {
-                "label": "가족사회학",
-                "학수번호": "SOCI236",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "사회학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "사회집단 가운데 가장 기본적인 집단의 가족을 연구하되 가족구조, 사회화 및 가족과 사회와의 관계에 중점을 둔다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI246",
-            "position": {
-                "x": 1100,
-                "y": 100
-            },
-            "data": {
-                "label": "젠더,국가와정책",
-                "학수번호": "SOCI246",
-                "세부전공": null,
-                "전공역량": "사회적책임",
-                "개설학과": "사회학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "현대 국가에 내재되어 있는 젠더 구조와 그 역사적 배경, 거버넌스의 역동성을 이해하고 이를 분석하는 사회학의 시각과 방법을 익힌다. 성별분업과 노동정책, 복지와 저출산·가족정책, 여성대표성, 소수자 권리와 차별시정 정책 등 정책 분야별 젠더 쟁점을 이해한다. 최근"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI248",
-            "position": {
-                "x": 1100,
-                "y": 200
-            },
-            "data": {
-                "label": "사회연결망분석",
-                "학수번호": "SOCI248",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "사회학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "사회연결망의 기본 개념과 이론을 다루고, 궁극적으로는 분석의 방법과 기술을 고찰한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI262",
-            "position": {
-                "x": 1100,
-                "y": 300
-            },
-            "data": {
-                "label": "정보사회학",
-                "학수번호": "SOCI262",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "사회학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "정보화사회의 특성, 전망 및 그 사회적 결과 등을 사회학적 관점에서 고찰한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI264",
-            "position": {
-                "x": 1100,
-                "y": 400
-            },
-            "data": {
-                "label": "복지사회학",
-                "학수번호": "SOCI264",
-                "세부전공": null,
-                "전공역량": "사회적책임",
-                "개설학과": "사회학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "복지사회의 쾌적한 삶을 위한 사회제도적 장치와 사회정책을 연구한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI272",
-            "position": {
-                "x": 1100,
-                "y": 500
-            },
-            "data": {
-                "label": "행위와실천의상상력",
-                "학수번호": "SOCI272",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "사회학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "공정과 정의, 자유, 능력주의 등에 대한 논쟁이 오래다. 이에 적극 개입하는 사회학적 상상력을 학습하는 이론 수업이다. 개인-구조 연계, 주관-객관 연계, 공-사 연계에 관한 경험적 실천의 토대가 되는 포괄적인 개념적 상상력을 제공하는 것을 목적으로 한다. 첫째, 행위 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI242",
-            "position": {
-                "x": 1540,
-                "y": 0
-            },
-            "data": {
-                "label": "사회문제론",
-                "학수번호": "SOCI242",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "사회학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "일탈행동과 사회문제의 이론들을 이해하고, 한국의 사회문제의 원인, 과정, 결과를 연구하고, 사회문제의 개선을 위한 정책을 모색한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI282",
-            "position": {
-                "x": 1540,
-                "y": 100
-            },
-            "data": {
-                "label": "사회혁신과창의성",
-                "학수번호": "SOCI282",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "사회학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 혁신과 창의성을 만들어내는 사회, 문화, 조직, 제도적 조건을 학습한다. 이를 통해 사회학이 가진 문제해결 능력과 혁신적 역할을 배운다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI316",
-            "position": {
-                "x": 1540,
-                "y": 200
-            },
-            "data": {
-                "label": "현대사회사상",
-                "학수번호": "SOCI316",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "사회학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 사회학과 전공선택과목이다. 사회학을 심화전공하는 학생과현 대 사회사상가들의 저작에 관심 있는 학생이 대상이다. 강좌는 앤소니 기든스(Anthony Giddens, 1938?현재), 지그문트 바우만(Zygmunt Bauman, 1925?2017), 울리히 벡(Ulrich Beck, 1944?2015), 위르겐"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI318",
-            "position": {
-                "x": 1540,
-                "y": 300
-            },
-            "data": {
-                "label": "사회학의핵심현장",
-                "학수번호": "SOCI318",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "사회학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "사회학의 주요쟁점을 구성하는 사회적 사실은 현실적으로는 역사적인 시공간 속에서 특정의 사건이나 제도적 요소로 드러난다. 사회학적 쟁점들이 응축된 특수한 사건이나 제도적 국면이 전개된 역사적 시간과 지리적 공간을 ‘사회학의 핵심현장’이라고 말할 수 있다. 사회"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI347",
-            "position": {
-                "x": 1540,
-                "y": 400
-            },
-            "data": {
-                "label": "한국의사회와문화",
-                "학수번호": "SOCI347",
-                "세부전공": null,
-                "전공역량": "창의융합적사고",
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 강좌는 사회학적 시각을 활용하여 한국의 사회와 문화에 대한 이해를 제고하는 데 그 목적이 있다. 강의는 ‘발전’이 어떻게 한국의 사회, 문화, 그리고 한국인들의 삶에 영향을 미쳤는가에 초점을 맞추어 진행된다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI348",
-            "position": {
-                "x": 1540,
-                "y": 500
-            },
-            "data": {
-                "label": "집합행동론",
-                "학수번호": "SOCI348",
-                "세부전공": null,
-                "전공역량": "글로벌리더쉽",
-                "개설학과": "사회학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "군중행동, 유언비어, 유행, 사회운동, 혁명 등과 같은 집합행동의 형태들에 관한 일반이론 및 특수이론 등을 고찰한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI358",
-            "position": {
-                "x": 1540,
-                "y": 600
-            },
-            "data": {
-                "label": "직업과사회",
-                "학수번호": "SOCI358",
-                "세부전공": null,
-                "전공역량": "글로벌리더쉽",
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "직업의 선택과 이동, 취업과 승진, 일과 삶의 균형 등 일과 직업에 관한 사회학적 탐구를 시도한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI360",
-            "position": {
-                "x": 1540,
-                "y": 700
-            },
-            "data": {
-                "label": "과학기술사회학",
-                "학수번호": "SOCI360",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "사회학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "과학과 기술이 사회구조 및 변동에 미치는 영향과 사회와 과학과의 관계에 대해 사회학적인 관점에서 고찰한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI362",
-            "position": {
-                "x": 1540,
-                "y": 800
-            },
-            "data": {
-                "label": "종교사회학",
-                "학수번호": "SOCI362",
-                "세부전공": null,
-                "전공역량": "사회적책임",
-                "개설학과": "사회학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "종교현상에 대한 사회학적 연구의 이론들과 종교와 사회의 관계에 관하여 고찰한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI375",
-            "position": {
-                "x": 1540,
-                "y": 900
-            },
-            "data": {
-                "label": "건강과의료의사회학",
-                "학수번호": "SOCI375",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "사회학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 사회학적 관점을 통해 건강과 질병의 사회적 구성을 검토한다. 건강의 사회적 결정요인들과 의료체계 내 권력의 역할 또한 소개될 것이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI376",
-            "position": {
-                "x": 1540,
-                "y": 1000
-            },
-            "data": {
-                "label": "정신건강의사회학",
-                "학수번호": "SOCI376",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "사회학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 사회학적 정신건강 연구 분야 및 관련이슈들을 개괄적으로 소개 한다. 강의의 목적은 학생들이 정신질환의 원인과 결과, 혹은 치유방법에 대한 사회학적 접근의 특성을 이해하도록 돕는 것이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI380",
-            "position": {
-                "x": 1540,
-                "y": 1100
-            },
-            "data": {
-                "label": "일반사회교과교재연구및지도법",
-                "학수번호": "SOCI380",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "교직과목"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI381",
-            "position": {
-                "x": 1540,
-                "y": 1200
-            },
-            "data": {
-                "label": "일반사회교과논리및논술",
-                "학수번호": "SOCI381",
-                "세부전공": null,
-                "전공역량": "공감소통",
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "교직과목"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI398",
-            "position": {
-                "x": 1540,
-                "y": 1300
-            },
-            "data": {
-                "label": "젠더와사회",
-                "학수번호": "SOCI398",
-                "세부전공": null,
-                "전공역량": "사회적책임",
-                "개설학과": "사회학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 첫째, 여성다움과 남성다움이 사회문화적으로 구성되는 방식과 젠더화된 문화가 여성과 남성의 삶에 작동하는 방식을 이해하는데 목적을 둔다. 둘째, 여성과 남성의 생활세계 경험에 주목하면서 젠더 불평등을 유지하고 강화해 온 사회제도와 문화를 비판적으로 관"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "SOCI290",
             "position": {
                 "x": 660,
                 "y": 0
             },
+            "학년": 1.0,
             "data": {
                 "label": "사회학으로의초대",
                 "학수번호": "SOCI290",
@@ -1648,6 +442,7 @@
                 "x": 660,
                 "y": 100
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]1학년세미나 II",
                 "학수번호": "GEKS008",
@@ -1675,6 +470,7 @@
                 "x": 660,
                 "y": 200
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
@@ -1697,21 +493,134 @@
             }
         },
         {
-            "id": "SOCI446",
+            "id": "SOCI291",
             "position": {
-                "x": 1980,
+                "x": 880,
                 "y": 0
             },
+            "학년": 2,
             "data": {
-                "label": "문화사회학",
-                "학수번호": "SOCI446",
+                "label": "사회학적상상력",
+                "학수번호": "SOCI291",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": "전공역량안적힘",
+                "syllabus_kr": "이 수업의 목적은 사회학의 기본 개념, 이론, 관점, 방법론 및 주요 연구를 소개하면서 사회학적 상상력을 키우는 데 있다. 수업을 통해 사회 현상에 대한 체계적이고 종합적인 이해와 분석을 할 수 있을 것이다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI292",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "학년": 2,
+            "data": {
+                "label": "사회학발달사",
+                "학수번호": "SOCI292",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": "전공역량안적힘",
+                "syllabus_kr": "사회학의 고전이론뿐만 아니라 현대이론에 이르기까지 사회학 이론의 변화와 발전을 역사적으로 고찰한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI294",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "학년": 2,
+            "data": {
+                "label": "사회조사방법",
+                "학수번호": "SOCI294",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": "전공역량안적힘",
+                "syllabus_kr": "사회현상들을 경험적으로 연구하는 데 필요한 양적·질적 방법을 학습하는 데 목적이 있다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI295",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "학년": 2,
+            "data": {
+                "label": "사회통계",
+                "학수번호": "SOCI295",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": "전공역량안적힘",
+                "syllabus_kr": "사회현상을 분석하는 데 필요한 양적자료의 통계적 처리방법을 이론과 실습을 병행하여 연구한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI207",
+            "position": {
+                "x": 880,
+                "y": 400
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "현대사회학이론",
+                "학수번호": "SOCI207",
                 "세부전공": null,
                 "전공역량": "창의융합적사고",
                 "개설학과": "사회학과",
                 "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "문화와 문화변동의 현상을 사회학적 관점에서 고찰한다._x000D_\n"
+                "syllabus_kr": "현대사회학의 주요 이론들을 비교하며 종합적으로 이해한다. "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1724,156 +633,22 @@
             }
         },
         {
-            "id": "SOCI458",
+            "id": "SOCI233",
             "position": {
-                "x": 1980,
-                "y": 100
-            },
-            "data": {
-                "label": "과학과민주주의",
-                "학수번호": "SOCI458",
-                "세부전공": null,
-                "전공역량": "사회적책임",
-                "개설학과": "사회학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "1980년대 이후 급격한 과학의 상업화로 인해 과학기술을 둘러싼 상황이 크게 바뀌고 있다. 과학기술과 사회의 관계가 고도화되고 GMO와 인공지능 등 신흥기술(emerging technology)이 급속히 발달하면서 과학기술을 둘러싼 불확실성이 소거불가능한 포스트-정상 과학(post-no"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI464",
-            "position": {
-                "x": 1980,
-                "y": 200
-            },
-            "data": {
-                "label": "법과사회",
-                "학수번호": "SOCI464",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "법의 사회적 기초 및 법과 사회의 관계에 관한 이론을 사회학적으로 고찰한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI466",
-            "position": {
-                "x": 1980,
-                "y": 300
-            },
-            "data": {
-                "label": "범죄사회학",
-                "학수번호": "SOCI466",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "범죄를 설명하는 이론과 범죄행위를 예방하고 교정하는 방안을 강구한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI468",
-            "position": {
-                "x": 1980,
-                "y": 400
-            },
-            "data": {
-                "label": "노년사회학",
-                "학수번호": "SOCI468",
-                "세부전공": null,
-                "전공역량": "사회적책임",
-                "개설학과": "사회학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "현대사회의 노령화현상에 대해 토의하고, 노인들의 재사회화과정과 사회적응에 관한 사회 및 심리적 반응 기제를 연구한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI480",
-            "position": {
-                "x": 1980,
+                "x": 880,
                 "y": 500
             },
+            "학년": 2.0,
             "data": {
-                "label": "사회운동조직론",
-                "학수번호": "SOCI480",
-                "세부전공": null,
-                "전공역량": "사회적책임",
-                "개설학과": "사회학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "사회운동의 구조, 특성, 변동과정을 사회학적 이론과 경험적 연구를 통해 이해한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SOCI482",
-            "position": {
-                "x": 1980,
-                "y": 600
-            },
-            "data": {
-                "label": "국제지역사회연구",
-                "학수번호": "SOCI482",
+                "label": "사회조직론",
+                "학수번호": "SOCI233",
                 "세부전공": null,
                 "전공역량": "글로벌리더쉽",
                 "개설학과": "사회학과",
                 "개설횟수": 2,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "이 수업은 세계화 시대의 사회현상을 정확히 독해하고, 오늘날 세계사회가 안고 있는 글로벌 이슈를 논의한다. 국제지역전문가의 역할을 특별히 강조할 것이다."
+                "syllabus_kr": "사회구성원들이 일정한 목적을 달성하기 위해서 일정한 질서하에 결합되는 규칙적인 상호작용의 양식을 해명하는 개념과 원리를 내용으로 한다. _x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1886,21 +661,22 @@
             }
         },
         {
-            "id": "SOCI486",
+            "id": "SOCI240",
             "position": {
-                "x": 1980,
-                "y": 700
+                "x": 880,
+                "y": 600
             },
+            "학년": 2.0,
             "data": {
-                "label": "조직과환경",
-                "학수번호": "SOCI486",
+                "label": "사회심리학",
+                "학수번호": "SOCI240",
                 "세부전공": null,
                 "전공역량": "공감소통",
                 "개설학과": "사회학과",
-                "개설횟수": 1,
+                "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "본 교과목은 거시조직이론과 그 발전과정의 탐색을 통해 조직과 조직환경간의 관계를 이해하는데 있다.  조직과 환경의 상호작용을 설명하는 이론들을 살피고, 현재의 경험적 사례들에 어떻게 적용할 수 있는지를 이해한다._x000D_\n"
+                "syllabus_kr": "개인의 심리적 과정(학습, 동기, 태도, 성격 등)과 사회적 환경(성, 연령, 인종/종족, 지역, 문화와 관습, 계층, 정치체계 등)과의 상호작용을 사회학적 시각에서 연구한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1913,21 +689,50 @@
             }
         },
         {
-            "id": "SOCI490",
+            "id": "SOCI243",
             "position": {
-                "x": 1980,
+                "x": 880,
+                "y": 700
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "사회행위론",
+                "학수번호": "SOCI243",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "사회학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "사회학의 이론적 기반을 제공하고자 하는 수업이다. _x000D_\n현대사회학사에서  사회학의 공통된 관심사로 주로 행위(action), 구조(structures/orders), 변동(change) 등이 언급되고 있다. _x000D_\n이 수업은 이 중 행위에 관한 이론적 논의들을 검토한다. 행위에 대한 사회학적 접근을 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI255",
+            "position": {
+                "x": 880,
                 "y": 800
             },
+            "학년": 2.0,
             "data": {
-                "label": "식품과사회",
-                "학수번호": "SOCI490",
+                "label": "환경사회학",
+                "학수번호": "SOCI255",
                 "세부전공": null,
                 "전공역량": "문제해결",
                 "개설학과": "사회학과",
-                "개설횟수": 2,
+                "개설횟수": 5,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "현대사회의 먹거리 생산·유통·소비의 구조와 동학을 사회학적으로 분석하는 것을 목적으로 하여, 특히 대량생산·대량소비 방식이 어떤 과정을 통해 만들어지고, 작동하는지, 또 그것이 가진 의미와 문제점이 무엇인지에 주목한다. "
+                "syllabus_kr": "인간, 사회조직, 환경 사이의 상호관계를 이론적으로 검토하고, 사회문제로서의 환경문제에 대한 진단과 총체적 대안들을 습득한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1940,21 +745,1002 @@
             }
         },
         {
-            "id": "SOCI496",
+            "id": "SOCI273",
             "position": {
-                "x": 1980,
+                "x": 880,
                 "y": 900
             },
+            "학년": 2.0,
             "data": {
-                "label": "사회문제와복지국가",
-                "학수번호": "SOCI496",
+                "label": "북한사회의이해",
+                "학수번호": "SOCI273",
+                "세부전공": null,
+                "전공역량": "글로벌리더쉽",
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "북한사회의 역사적, 구조적 성격과 특성을 사회학적 관점에서 이해하고, 통일과 통일 후 남북한 사회통합을 준비하는 이론적·경험적 연구들을 고찰한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI297",
+            "position": {
+                "x": 880,
+                "y": 1000
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "도시와사회",
+                "학수번호": "SOCI297",
                 "세부전공": null,
                 "전공역량": "문제해결",
                 "개설학과": "사회학과",
                 "개설횟수": 4,
                 "내용": null,
                 "메모": null,
-                "syllabus_kr": "본 과목은 사회문제와 복지국가의 개념과 이론을 검토한다. 이 과목은  복지국가가 산업사회의 문제에 대응하기 위해 어떤 이념과 제도를 발전시키는 지를 이론적, 역사적으로 검토하는 것이다. 이와 더불어 본 과목은 후기 산업사회의 문제를 살펴보고 이에 대한 복지국가의"
+                "syllabus_kr": "이 과목은 도시 사회학에 대한 개론으로서 도시와 도시화에 대한 사회학적 이론 및 개념, 연구를 소개한다. 특히 도시화, 도시개발 및 재개발, 도시 성장, 도시 문제를 살펴봄으로써 각자 살고 있는 도시에 대해 사회학적인 접근 및 이해를 심화시키는 것을 목표로 한다._x000D_\n_x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI299",
+            "position": {
+                "x": 880,
+                "y": 1100
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "대중문화론",
+                "학수번호": "SOCI299",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목의 주된 목표는 대중문화의 흐름에 대한 소개를 하고, 그러한 흐름을 문화의 사회경제적인 기반을 다룬 문화사회학적 시각에서 살펴보는 것이다. 이를 위하여, 이론적으로는 고전사회학자들의 이데올로기나 권력 같은 문화에 대한 개념과 이론뿐만 아니라 현대사회학 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI236",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "가족사회학",
+                "학수번호": "SOCI236",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "사회학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "사회집단 가운데 가장 기본적인 집단의 가족을 연구하되 가족구조, 사회화 및 가족과 사회와의 관계에 중점을 둔다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI246",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "젠더,국가와정책",
+                "학수번호": "SOCI246",
+                "세부전공": null,
+                "전공역량": "사회적책임",
+                "개설학과": "사회학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "현대 국가에 내재되어 있는 젠더 구조와 그 역사적 배경, 거버넌스의 역동성을 이해하고 이를 분석하는 사회학의 시각과 방법을 익힌다. 성별분업과 노동정책, 복지와 저출산·가족정책, 여성대표성, 소수자 권리와 차별시정 정책 등 정책 분야별 젠더 쟁점을 이해한다. 최근"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI248",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "사회연결망분석",
+                "학수번호": "SOCI248",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "사회학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "사회연결망의 기본 개념과 이론을 다루고, 궁극적으로는 분석의 방법과 기술을 고찰한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI262",
+            "position": {
+                "x": 1100,
+                "y": 300
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "정보사회학",
+                "학수번호": "SOCI262",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "사회학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "정보화사회의 특성, 전망 및 그 사회적 결과 등을 사회학적 관점에서 고찰한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI264",
+            "position": {
+                "x": 1100,
+                "y": 400
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "복지사회학",
+                "학수번호": "SOCI264",
+                "세부전공": null,
+                "전공역량": "사회적책임",
+                "개설학과": "사회학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "복지사회의 쾌적한 삶을 위한 사회제도적 장치와 사회정책을 연구한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI272",
+            "position": {
+                "x": 1100,
+                "y": 500
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "행위와실천의상상력",
+                "학수번호": "SOCI272",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "사회학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "공정과 정의, 자유, 능력주의 등에 대한 논쟁이 오래다. 이에 적극 개입하는 사회학적 상상력을 학습하는 이론 수업이다. 개인-구조 연계, 주관-객관 연계, 공-사 연계에 관한 경험적 실천의 토대가 되는 포괄적인 개념적 상상력을 제공하는 것을 목적으로 한다. 첫째, 행위 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI205",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "사회계층론",
+                "학수번호": "SOCI205",
+                "세부전공": null,
+                "전공역량": "사회적책임",
+                "개설학과": "사회학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "사회계층의 기본적인 개념과 이론을 소개하고 계층연구의 방법을 이해한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI225",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "한국사회의구조와변동",
+                "학수번호": "SOCI225",
+                "세부전공": null,
+                "전공역량": "글로벌리더쉽",
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "한국사회에 대한 사회학적 이해를 목적으로 하여 한국의 문화 특성, 가족, 계급, 종교, 교육, 경제사회, 정치문화, 시민사회와 시민운동, 한국의 사회 변동을 검토한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI249",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "중급사회통계",
+                "학수번호": "SOCI249",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "사회학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI315",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "사회발전론",
+                "학수번호": "SOCI315",
+                "세부전공": null,
+                "전공역량": "글로벌리더쉽",
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "사회발전의 기본 이론과 정책적 이슈를 체계적으로 연구한다. 사회발전에 관한 기존의 이론, 후발국의 발전전략, 그리고 발전을 둘러싼 현대사회의 다양한 이슈들을 체계적으로 논의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI321",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "데이터사이언스와사회학",
+                "학수번호": "SOCI321",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "데이터 사이언스와 사회와의 관계를 종합적으로 검토하는 수업이다. 빅데이터 시대를 살고 있는 현대의 데이터와 밀접한 관계를 가지고 발전해 온 사회학을 데이터 사회학적 관점으로 재조명하고, 데이터 사이언스와 사회학의 상생적 접목을 고민하는 것이 본 교육의 주 목적"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI343",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "비교사회학",
+                "학수번호": "SOCI343",
+                "세부전공": null,
+                "전공역량": "글로벌리더쉽",
+                "개설학과": "사회학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "사회의 구조, 변동 및 문화의 특성 등을 사회간의 비교연구를 통하여 고찰한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI352",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "생애과정의사회학",
+                "학수번호": "SOCI352",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "사회학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 생애과정 상의 위치에 따라 사람들이 어떻게 유사한 혹은 차별적인 경험을 갖게 되는 지를 검토한다. 생애과정관점의 고유한 특성들 또한 소개될 것이다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI355",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "사회조사실습",
+                "학수번호": "SOCI355",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "사회학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "사회조사의 방법을 현지조사 및 자료분석의 실습을 통해 이론과 실제의 관계를 실증적으로 이해한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI361",
+            "position": {
+                "x": 1320,
+                "y": 800
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "영상사회학",
+                "학수번호": "SOCI361",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "영상물의 시청과 해석을 통해 사회현상의 양태, 원인과 결과를 이해한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI363",
+            "position": {
+                "x": 1320,
+                "y": 900
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "질적연구방법",
+                "학수번호": "SOCI363",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "사회학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "사회현상과 문화의 이해를 위한 방법론으로서 참여관찰방법, 비참여관찰방법 등에 대하여 학습한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI365",
+            "position": {
+                "x": 1320,
+                "y": 1000
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "노동사회학",
+                "학수번호": "SOCI365",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "사회학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "현대사회의 중요한 문제인 노동과 관련된 다양한 이슈들을 사회학적으로 분석하고 이해한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI373",
+            "position": {
+                "x": 1320,
+                "y": 1100
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "사회변동론",
+                "학수번호": "SOCI373",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "사회학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "사회변동의 원인, 과정, 결과 등에 관한 사회학적 이론들을 소개한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI379",
+            "position": {
+                "x": 1320,
+                "y": 1200
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "일반사회교과교육론",
+                "학수번호": "SOCI379",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "중고등학교에 개설된 일반사회 과목을 강의하기 위해서 필요한 이론과 방법론을 다루는데 초점을 둔다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI242",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "사회문제론",
+                "학수번호": "SOCI242",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "사회학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "일탈행동과 사회문제의 이론들을 이해하고, 한국의 사회문제의 원인, 과정, 결과를 연구하고, 사회문제의 개선을 위한 정책을 모색한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI282",
+            "position": {
+                "x": 1540,
+                "y": 100
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "사회혁신과창의성",
+                "학수번호": "SOCI282",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "사회학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 혁신과 창의성을 만들어내는 사회, 문화, 조직, 제도적 조건을 학습한다. 이를 통해 사회학이 가진 문제해결 능력과 혁신적 역할을 배운다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI316",
+            "position": {
+                "x": 1540,
+                "y": 200
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "현대사회사상",
+                "학수번호": "SOCI316",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "사회학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 사회학과 전공선택과목이다. 사회학을 심화전공하는 학생과현 대 사회사상가들의 저작에 관심 있는 학생이 대상이다. 강좌는 앤소니 기든스(Anthony Giddens, 1938?현재), 지그문트 바우만(Zygmunt Bauman, 1925?2017), 울리히 벡(Ulrich Beck, 1944?2015), 위르겐"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI318",
+            "position": {
+                "x": 1540,
+                "y": 300
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "사회학의핵심현장",
+                "학수번호": "SOCI318",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "사회학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "사회학의 주요쟁점을 구성하는 사회적 사실은 현실적으로는 역사적인 시공간 속에서 특정의 사건이나 제도적 요소로 드러난다. 사회학적 쟁점들이 응축된 특수한 사건이나 제도적 국면이 전개된 역사적 시간과 지리적 공간을 ‘사회학의 핵심현장’이라고 말할 수 있다. 사회"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI347",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "한국의사회와문화",
+                "학수번호": "SOCI347",
+                "세부전공": null,
+                "전공역량": "창의융합적사고",
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 강좌는 사회학적 시각을 활용하여 한국의 사회와 문화에 대한 이해를 제고하는 데 그 목적이 있다. 강의는 ‘발전’이 어떻게 한국의 사회, 문화, 그리고 한국인들의 삶에 영향을 미쳤는가에 초점을 맞추어 진행된다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI348",
+            "position": {
+                "x": 1540,
+                "y": 500
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "집합행동론",
+                "학수번호": "SOCI348",
+                "세부전공": null,
+                "전공역량": "글로벌리더쉽",
+                "개설학과": "사회학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "군중행동, 유언비어, 유행, 사회운동, 혁명 등과 같은 집합행동의 형태들에 관한 일반이론 및 특수이론 등을 고찰한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI358",
+            "position": {
+                "x": 1540,
+                "y": 600
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "직업과사회",
+                "학수번호": "SOCI358",
+                "세부전공": null,
+                "전공역량": "글로벌리더쉽",
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "직업의 선택과 이동, 취업과 승진, 일과 삶의 균형 등 일과 직업에 관한 사회학적 탐구를 시도한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI360",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "과학기술사회학",
+                "학수번호": "SOCI360",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "사회학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "과학과 기술이 사회구조 및 변동에 미치는 영향과 사회와 과학과의 관계에 대해 사회학적인 관점에서 고찰한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI362",
+            "position": {
+                "x": 1540,
+                "y": 800
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "종교사회학",
+                "학수번호": "SOCI362",
+                "세부전공": null,
+                "전공역량": "사회적책임",
+                "개설학과": "사회학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "종교현상에 대한 사회학적 연구의 이론들과 종교와 사회의 관계에 관하여 고찰한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI375",
+            "position": {
+                "x": 1540,
+                "y": 900
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "건강과의료의사회학",
+                "학수번호": "SOCI375",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "사회학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 사회학적 관점을 통해 건강과 질병의 사회적 구성을 검토한다. 건강의 사회적 결정요인들과 의료체계 내 권력의 역할 또한 소개될 것이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI376",
+            "position": {
+                "x": 1540,
+                "y": 1000
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "정신건강의사회학",
+                "학수번호": "SOCI376",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "사회학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 사회학적 정신건강 연구 분야 및 관련이슈들을 개괄적으로 소개 한다. 강의의 목적은 학생들이 정신질환의 원인과 결과, 혹은 치유방법에 대한 사회학적 접근의 특성을 이해하도록 돕는 것이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI380",
+            "position": {
+                "x": 1540,
+                "y": 1100
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "일반사회교과교재연구및지도법",
+                "학수번호": "SOCI380",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "교직과목"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI381",
+            "position": {
+                "x": 1540,
+                "y": 1200
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "일반사회교과논리및논술",
+                "학수번호": "SOCI381",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "교직과목"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI398",
+            "position": {
+                "x": 1540,
+                "y": 1300
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "젠더와사회",
+                "학수번호": "SOCI398",
+                "세부전공": null,
+                "전공역량": "사회적책임",
+                "개설학과": "사회학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 첫째, 여성다움과 남성다움이 사회문화적으로 구성되는 방식과 젠더화된 문화가 여성과 남성의 삶에 작동하는 방식을 이해하는데 목적을 둔다. 둘째, 여성과 남성의 생활세계 경험에 주목하면서 젠더 불평등을 유지하고 강화해 온 사회제도와 문화를 비판적으로 관"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1972,6 +1758,7 @@
                 "x": 1760,
                 "y": 0
             },
+            "학년": 4.0,
             "data": {
                 "label": "팬데믹사회학",
                 "학수번호": "SOCI463",
@@ -1999,6 +1786,7 @@
                 "x": 1760,
                 "y": 100
             },
+            "학년": 4.0,
             "data": {
                 "label": "정치사회학",
                 "학수번호": "SOCI465",
@@ -2026,6 +1814,7 @@
                 "x": 1760,
                 "y": 200
             },
+            "학년": 4.0,
             "data": {
                 "label": "경제사회학",
                 "학수번호": "SOCI467",
@@ -2053,6 +1842,7 @@
                 "x": 1760,
                 "y": 300
             },
+            "학년": 4.0,
             "data": {
                 "label": "역사사회학",
                 "학수번호": "SOCI471",
@@ -2080,6 +1870,7 @@
                 "x": 1760,
                 "y": 400
             },
+            "학년": 4.0,
             "data": {
                 "label": "몸과섹슈얼리티",
                 "학수번호": "SOCI481",
@@ -2107,6 +1898,7 @@
                 "x": 1760,
                 "y": 500
             },
+            "학년": 4.0,
             "data": {
                 "label": "실업과고용정책",
                 "학수번호": "SOCI485",
@@ -2134,6 +1926,7 @@
                 "x": 1760,
                 "y": 600
             },
+            "학년": 4.0,
             "data": {
                 "label": "국제이주와다문화사회",
                 "학수번호": "SOCI493",
@@ -2161,6 +1954,7 @@
                 "x": 1760,
                 "y": 700
             },
+            "학년": 4.0,
             "data": {
                 "label": "복지국가의비교사회학",
                 "학수번호": "SOCI495",
@@ -2188,6 +1982,7 @@
                 "x": 1760,
                 "y": 800
             },
+            "학년": 4.0,
             "data": {
                 "label": "빈곤과빈곤정책",
                 "학수번호": "SOCI497",
@@ -2198,6 +1993,286 @@
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "이 강의는  빈곤문제의 정의, 측정, 그리고 이에 대한 정책적 대응에 대한 이론적 이해를 높이는 것을  목적으로 한다.  첫째. 빈곤문제의 원인과 정도를 측정하는 방법에 대한 이론을 소개한다. 둘째, 서구 국가들에서 빈곤 문제의 추이와 이에 대한 정책적 대응을 국제비교"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI446",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "문화사회학",
+                "학수번호": "SOCI446",
+                "세부전공": null,
+                "전공역량": "창의융합적사고",
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "문화와 문화변동의 현상을 사회학적 관점에서 고찰한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI458",
+            "position": {
+                "x": 1980,
+                "y": 100
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "과학과민주주의",
+                "학수번호": "SOCI458",
+                "세부전공": null,
+                "전공역량": "사회적책임",
+                "개설학과": "사회학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "1980년대 이후 급격한 과학의 상업화로 인해 과학기술을 둘러싼 상황이 크게 바뀌고 있다. 과학기술과 사회의 관계가 고도화되고 GMO와 인공지능 등 신흥기술(emerging technology)이 급속히 발달하면서 과학기술을 둘러싼 불확실성이 소거불가능한 포스트-정상 과학(post-no"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI464",
+            "position": {
+                "x": 1980,
+                "y": 200
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "법과사회",
+                "학수번호": "SOCI464",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "법의 사회적 기초 및 법과 사회의 관계에 관한 이론을 사회학적으로 고찰한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI466",
+            "position": {
+                "x": 1980,
+                "y": 300
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "범죄사회학",
+                "학수번호": "SOCI466",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "범죄를 설명하는 이론과 범죄행위를 예방하고 교정하는 방안을 강구한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI468",
+            "position": {
+                "x": 1980,
+                "y": 400
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "노년사회학",
+                "학수번호": "SOCI468",
+                "세부전공": null,
+                "전공역량": "사회적책임",
+                "개설학과": "사회학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "현대사회의 노령화현상에 대해 토의하고, 노인들의 재사회화과정과 사회적응에 관한 사회 및 심리적 반응 기제를 연구한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI480",
+            "position": {
+                "x": 1980,
+                "y": 500
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "사회운동조직론",
+                "학수번호": "SOCI480",
+                "세부전공": null,
+                "전공역량": "사회적책임",
+                "개설학과": "사회학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "사회운동의 구조, 특성, 변동과정을 사회학적 이론과 경험적 연구를 통해 이해한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI482",
+            "position": {
+                "x": 1980,
+                "y": 600
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "국제지역사회연구",
+                "학수번호": "SOCI482",
+                "세부전공": null,
+                "전공역량": "글로벌리더쉽",
+                "개설학과": "사회학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 세계화 시대의 사회현상을 정확히 독해하고, 오늘날 세계사회가 안고 있는 글로벌 이슈를 논의한다. 국제지역전문가의 역할을 특별히 강조할 것이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI486",
+            "position": {
+                "x": 1980,
+                "y": 700
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "조직과환경",
+                "학수번호": "SOCI486",
+                "세부전공": null,
+                "전공역량": "공감소통",
+                "개설학과": "사회학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 거시조직이론과 그 발전과정의 탐색을 통해 조직과 조직환경간의 관계를 이해하는데 있다.  조직과 환경의 상호작용을 설명하는 이론들을 살피고, 현재의 경험적 사례들에 어떻게 적용할 수 있는지를 이해한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI490",
+            "position": {
+                "x": 1980,
+                "y": 800
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "식품과사회",
+                "학수번호": "SOCI490",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "사회학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "현대사회의 먹거리 생산·유통·소비의 구조와 동학을 사회학적으로 분석하는 것을 목적으로 하여, 특히 대량생산·대량소비 방식이 어떤 과정을 통해 만들어지고, 작동하는지, 또 그것이 가진 의미와 문제점이 무엇인지에 주목한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SOCI496",
+            "position": {
+                "x": 1980,
+                "y": 900
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "사회문제와복지국가",
+                "학수번호": "SOCI496",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "사회학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 사회문제와 복지국가의 개념과 이론을 검토한다. 이 과목은  복지국가가 산업사회의 문제에 대응하기 위해 어떤 이념과 제도를 발전시키는 지를 이론적, 역사적으로 검토하는 것이다. 이와 더불어 본 과목은 후기 산업사회의 문제를 살펴보고 이에 대한 복지국가의"
             },
             "type": "customNode",
             "sourcePosition": "Right",

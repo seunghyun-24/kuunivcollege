@@ -1,14 +1,9 @@
 .mainContent {
   flex: 1;
-  padding: 20px;
   background-color: #f9f9f9;
   border-radius: 8px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  position: relative;
   overflow: auto;
   width: 100%;
   height: 600px;
@@ -40,7 +35,7 @@
   padding: 20px;
   max-width: 800px;
   margin: 0 auto;
-  text-align: center;
+  text-align: left;
 }
 
 .header {
@@ -51,15 +46,16 @@
 
 .introText {
   font-family: "Nanum Gothic", sans-serif;
-  font-size: 18px;
+  font-size: 14px;
   line-height: 1.8;
   margin-bottom: 20px;
+  text-align: left;
 }
 
 .infoList {
   font-family: "Nanum Gothic", sans-serif;
-  font-size: 16px;
-  justify-items: center;
+  font-size: 14px;
+  text-align: left;
   list-style: none;
   margin-bottom: 20px;
   padding: 0;
@@ -67,37 +63,33 @@
 
 .infoList li {
   text-align: left;
-  margin-bottom: 10px;
-}
-
-.resourcesHeader {
-  font-family: "Nanum Gothic", sans-serif;
-  font-size: 18px;
-  font-weight: bold;
-  margin-bottom: 15px;
+  margin-bottom: 14px;
 }
 
 .resourcesList {
   font-family: "Nanum Gothic", sans-serif;
-  margin: 0 auto;
   list-style: none;
-  align-items: center;
   padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
 }
 
 .resourcesList li {
-  font-family: "Nanum Gothic", sans-serif;
-  margin-bottom: 10px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: inline;
 }
 
 .resourcesList a {
   font-family: "Nanum Gothic", sans-serif;
   text-decoration: none;
+  font-size: 14px;
   color: #862633;
-  margin-left: 10px;
+}
+
+.separator {
+  color: #cccccc; /* 구분자 색상 */
+  margin: 0 8px; /* 구분자와 링크 사이 여백 */
 }
 
 .resourcesList a:hover {

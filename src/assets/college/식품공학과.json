@@ -190,6 +190,7 @@
                 "x": 440,
                 "y": 0
             },
+            "학년": 1,
             "data": {
                 "label": "학문세계의탐구 I",
                 "학수번호": "GELI005",
@@ -212,38 +213,12 @@
             }
         },
         {
-            "id": "GEWR002",
+            "id": "IFLS800",
             "position": {
                 "x": 440,
                 "y": 100
             },
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
+            "학년": 1,
             "data": {
                 "label": "Academic English I",
                 "학수번호": "IFLS800",
@@ -266,11 +241,68 @@
             }
         },
         {
-            "id": "GEKS007",
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
             "position": {
                 "x": 440,
                 "y": 300
             },
+            "학년": 1,
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS007",
@@ -296,8 +328,9 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 400
+                "y": 500
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
                 "학수번호": "GECT002",
@@ -320,38 +353,12 @@
             }
         },
         {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "LIBS151",
             "position": {
                 "x": 440,
                 "y": 600
             },
+            "학년": 1,
             "data": {
                 "label": "일반생물학및연습 I",
                 "학수번호": "LIBS151",
@@ -379,6 +386,7 @@
                 "x": 440,
                 "y": 700
             },
+            "학년": 1,
             "data": {
                 "label": "일반생물학실험 I",
                 "학수번호": "LIBS153",
@@ -406,6 +414,7 @@
                 "x": 440,
                 "y": 800
             },
+            "학년": 1,
             "data": {
                 "label": "화학의기초및연습 I",
                 "학수번호": "LIET151",
@@ -433,6 +442,7 @@
                 "x": 440,
                 "y": 900
             },
+            "학년": 1,
             "data": {
                 "label": "화학의기초실험 I",
                 "학수번호": "LIET155",
@@ -460,6 +470,7 @@
                 "x": 440,
                 "y": 1000
             },
+            "학년": 1,
             "data": {
                 "label": "생명물리학및연습",
                 "학수번호": "PHYS183",
@@ -487,6 +498,7 @@
                 "x": 440,
                 "y": 1100
             },
+            "학년": 1,
             "data": {
                 "label": "일반물리학 실험 I",
                 "학수번호": "PHYS161",
@@ -514,6 +526,7 @@
                 "x": 660,
                 "y": 0
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS008",
@@ -541,6 +554,7 @@
                 "x": 660,
                 "y": 100
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
@@ -568,6 +582,7 @@
                 "x": 660,
                 "y": 200
             },
+            "학년": 1,
             "data": {
                 "label": "일반생물학및연습 II",
                 "학수번호": "LIBS152",
@@ -595,6 +610,7 @@
                 "x": 660,
                 "y": 300
             },
+            "학년": 1,
             "data": {
                 "label": "일반생물학실험 II",
                 "학수번호": "LIBS154",
@@ -622,6 +638,7 @@
                 "x": 660,
                 "y": 400
             },
+            "학년": 1,
             "data": {
                 "label": "화학의기초및연습 II",
                 "학수번호": "LIET152",
@@ -649,6 +666,7 @@
                 "x": 660,
                 "y": 500
             },
+            "학년": 1,
             "data": {
                 "label": "화학의기초실험 II",
                 "학수번호": "LIET156",
@@ -676,6 +694,7 @@
                 "x": 660,
                 "y": 600
             },
+            "학년": 1,
             "data": {
                 "label": "미적분학및연습 I",
                 "학수번호": "MATH161",
@@ -703,6 +722,7 @@
                 "x": 880,
                 "y": 0
             },
+            "학년": 2,
             "data": {
                 "label": "생물통계학",
                 "학수번호": "LIET153",
@@ -730,6 +750,7 @@
                 "x": 880,
                 "y": 100
             },
+            "학년": 2,
             "data": {
                 "label": "식품과학기초",
                 "학수번호": "LIFS217",
@@ -757,6 +778,7 @@
                 "x": 880,
                 "y": 200
             },
+            "학년": 2,
             "data": {
                 "label": "식품미생물학I",
                 "학수번호": "LIFS219",
@@ -784,6 +806,7 @@
                 "x": 880,
                 "y": 300
             },
+            "학년": 2,
             "data": {
                 "label": "식품물리화학",
                 "학수번호": "LIFS221",
@@ -811,6 +834,7 @@
                 "x": 880,
                 "y": 400
             },
+            "학년": 2,
             "data": {
                 "label": "식품생화학I",
                 "학수번호": "LIFS329",
@@ -838,6 +862,7 @@
                 "x": 880,
                 "y": 500
             },
+            "학년": 2,
             "data": {
                 "label": "유기화학 I",
                 "학수번호": "LIBT271",
@@ -854,277 +879,7 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIFS223",
-            "position": {
-                "x": 1320,
-                "y": 0
-            },
-            "data": {
-                "label": "식품화학I",
-                "학수번호": "LIFS223",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "식품공학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "식품 탄수화물 물리화학적 구조 및 반응, 지질의 산화, 단백질의 구조 및 식품내의 작용, 식품의 향기, 영양가 감소에 영향을 주는 탄수화물의 작용 기전을 설명하는 데 중점을 둔다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIFS321",
-            "position": {
-                "x": 1320,
-                "y": 100
-            },
-            "data": {
-                "label": "근육식품학",
-                "학수번호": "LIFS321",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "식품공학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "근육의 구조와 성상, 근섬유의 및 구성 단백질의 특성, 근육수축기작 등 식육으로 이용되는 근육의 생화학적 특성을 강의하며, 이러한 근육이 사후 식육으로 변화하는 이화학적 기전과 사후강직 및 근육식품의 품질에 대해 강의. 근육의 유전학적, 조직학적 특성 분석 및 사 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIFS323",
-            "position": {
-                "x": 1320,
-                "y": 200
-            },
-            "data": {
-                "label": "식품분석학",
-                "학수번호": "LIFS323",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "식품공학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "식품의 주요 구성성분 및 미량성분의 정성 및 정량 분석을 위한 화학적,  기기적 분석에 관하여 실습함. 수분, 조단백질, 조지방질, 조섬유, 조회분, 비타민류, 미네랄류, 색소, 향미성분 등 다양한 식품성분의 정량분석, 크로마토그래피를 활용한 유기산, 아미노산, 유리당 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIFS325",
-            "position": {
-                "x": 1320,
-                "y": 300
-            },
-            "data": {
-                "label": "식품위생학",
-                "학수번호": "LIFS325",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "식품공학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "식품위생의 기초적인 개념부터 식품의 오염원, 독소형 식중독과 감염형 식중독의 특성 및 동정방법, 식중독의 병인학적 특성, 식품의 독성물질, 위생관리, 식품위해요소중점관리제도 등의 기초 지식, 최근의 식품 내 위해미생물 제어기술 및 식품위생검사법과 국제적인 식품 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIFS327",
-            "position": {
-                "x": 1320,
-                "y": 400
-            },
-            "data": {
-                "label": "식품법규",
-                "학수번호": "LIFS327",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "식품공학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "식품위생법, 건강기능식품에관한법률, 식품관련법규, 식품공전, 식품첨가물공전, 국제식품규격위원회 (Codex Alimentarius Commission), 국제기구(WHO, FAO, OIE), 식품의약품안전청 및 외국 식품안전관리부서 활동에 관한 강의 및 토의_x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIFS331",
-            "position": {
-                "x": 1320,
-                "y": 500
-            },
-            "data": {
-                "label": "유가공학",
-                "학수번호": "LIFS331",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "식품공학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "우유의 화학적 조성, 유 단백질, 유지방, 염류, 무기질류, 유당, 효소, 발효유의 스타터(starter) 등에 관한 강의와 실험. 또한, 유제품 생산에 관여하는 여러 종류의 미생물의 생리, 증식 등에 관한 강의와 치즈와 발효유의 제조실험을 병행한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIFS333",
-            "position": {
-                "x": 1320,
-                "y": 600
-            },
-            "data": {
-                "label": "식품공학및가공학실험I",
-                "학수번호": "LIFS333",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "식품공학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "식품 및 생물소재 공학 및 가공에 필요한 실습을 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIFS337",
-            "position": {
-                "x": 1320,
-                "y": 700
-            },
-            "data": {
-                "label": "식품공학I",
-                "학수번호": "LIFS337",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "식품공학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "식품 및 생물소재 가공에 필요한 유체역학, 열전달 및 물질전달에 관한 기본 이론과 공정설계에 대하여 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIFS339",
-            "position": {
-                "x": 1320,
-                "y": 800
-            },
-            "data": {
-                "label": "식품위생학실험",
-                "학수번호": "LIFS339",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "식품공학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "식품위생학 실험은 식품 위해요소 제어 및 식품 안전성 확보를 위한 일련의 실험기법을 익히는 강의로 식품위생학을 수강한 학생을 대상으로 한다. 주요 실험 내용으로 식품 중 식중독균의 정량평가(총세균수, 위생 지표세균 등), 다양한 식중독균의 분리 및 동정, 항균효과 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIFS343",
-            "position": {
-                "x": 1320,
-                "y": 900
-            },
-            "data": {
-                "label": "식품생화학실험",
-                "학수번호": "LIFS343",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "식품공학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과목은 식품생화학 이론 강의 내용의 이해도를 높이고 학생참여를 유도하기 위한 실험 및 실습과목으로 실험을 직접 수행하고 레포트를 제출하는 wet lab section과 생화학 문제를 공부하는 dry lab section으로 구성된다. 생화학 이론 강의에서 공부한 내용을 바탕으로  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -1135,6 +890,7 @@
                 "x": 1100,
                 "y": 0
             },
+            "학년": 2,
             "data": {
                 "label": "식품미생물학Ⅱ",
                 "학수번호": "LIFS252",
@@ -1162,6 +918,7 @@
                 "x": 1100,
                 "y": 100
             },
+            "학년": 2,
             "data": {
                 "label": "발효식품학",
                 "학수번호": "LIFS256",
@@ -1189,6 +946,7 @@
                 "x": 1100,
                 "y": 200
             },
+            "학년": 2,
             "data": {
                 "label": "식품생화학II",
                 "학수번호": "LIFS330",
@@ -1216,6 +974,7 @@
                 "x": 1100,
                 "y": 300
             },
+            "학년": 2,
             "data": {
                 "label": "식품미생물학실험",
                 "학수번호": "LIFS340",
@@ -1243,6 +1002,7 @@
                 "x": 1100,
                 "y": 400
             },
+            "학년": 2,
             "data": {
                 "label": "유기화학 II",
                 "학수번호": "LIBT272",
@@ -1259,6 +1019,286 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS223",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "학년": 3,
+            "data": {
+                "label": "식품화학I",
+                "학수번호": "LIFS223",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "식품 탄수화물 물리화학적 구조 및 반응, 지질의 산화, 단백질의 구조 및 식품내의 작용, 식품의 향기, 영양가 감소에 영향을 주는 탄수화물의 작용 기전을 설명하는 데 중점을 둔다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS321",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "학년": 3,
+            "data": {
+                "label": "근육식품학",
+                "학수번호": "LIFS321",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "근육의 구조와 성상, 근섬유의 및 구성 단백질의 특성, 근육수축기작 등 식육으로 이용되는 근육의 생화학적 특성을 강의하며, 이러한 근육이 사후 식육으로 변화하는 이화학적 기전과 사후강직 및 근육식품의 품질에 대해 강의. 근육의 유전학적, 조직학적 특성 분석 및 사 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS323",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "학년": 3,
+            "data": {
+                "label": "식품분석학",
+                "학수번호": "LIFS323",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "식품공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "식품의 주요 구성성분 및 미량성분의 정성 및 정량 분석을 위한 화학적,  기기적 분석에 관하여 실습함. 수분, 조단백질, 조지방질, 조섬유, 조회분, 비타민류, 미네랄류, 색소, 향미성분 등 다양한 식품성분의 정량분석, 크로마토그래피를 활용한 유기산, 아미노산, 유리당 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS325",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "학년": 3,
+            "data": {
+                "label": "식품위생학",
+                "학수번호": "LIFS325",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "식품위생의 기초적인 개념부터 식품의 오염원, 독소형 식중독과 감염형 식중독의 특성 및 동정방법, 식중독의 병인학적 특성, 식품의 독성물질, 위생관리, 식품위해요소중점관리제도 등의 기초 지식, 최근의 식품 내 위해미생물 제어기술 및 식품위생검사법과 국제적인 식품 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS327",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "학년": 3,
+            "data": {
+                "label": "식품법규",
+                "학수번호": "LIFS327",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "식품위생법, 건강기능식품에관한법률, 식품관련법규, 식품공전, 식품첨가물공전, 국제식품규격위원회 (Codex Alimentarius Commission), 국제기구(WHO, FAO, OIE), 식품의약품안전청 및 외국 식품안전관리부서 활동에 관한 강의 및 토의_x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS331",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "학년": 3,
+            "data": {
+                "label": "유가공학",
+                "학수번호": "LIFS331",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "우유의 화학적 조성, 유 단백질, 유지방, 염류, 무기질류, 유당, 효소, 발효유의 스타터(starter) 등에 관한 강의와 실험. 또한, 유제품 생산에 관여하는 여러 종류의 미생물의 생리, 증식 등에 관한 강의와 치즈와 발효유의 제조실험을 병행한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS333",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "학년": 3,
+            "data": {
+                "label": "식품공학및가공학실험I",
+                "학수번호": "LIFS333",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "식품 및 생물소재 공학 및 가공에 필요한 실습을 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS337",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "학년": 3,
+            "data": {
+                "label": "식품공학I",
+                "학수번호": "LIFS337",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "식품 및 생물소재 가공에 필요한 유체역학, 열전달 및 물질전달에 관한 기본 이론과 공정설계에 대하여 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS339",
+            "position": {
+                "x": 1320,
+                "y": 800
+            },
+            "학년": 3,
+            "data": {
+                "label": "식품위생학실험",
+                "학수번호": "LIFS339",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "식품위생학 실험은 식품 위해요소 제어 및 식품 안전성 확보를 위한 일련의 실험기법을 익히는 강의로 식품위생학을 수강한 학생을 대상으로 한다. 주요 실험 내용으로 식품 중 식중독균의 정량평가(총세균수, 위생 지표세균 등), 다양한 식중독균의 분리 및 동정, 항균효과 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS343",
+            "position": {
+                "x": 1320,
+                "y": 900
+            },
+            "학년": 3,
+            "data": {
+                "label": "식품생화학실험",
+                "학수번호": "LIFS343",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 식품생화학 이론 강의 내용의 이해도를 높이고 학생참여를 유도하기 위한 실험 및 실습과목으로 실험을 직접 수행하고 레포트를 제출하는 wet lab section과 생화학 문제를 공부하는 dry lab section으로 구성된다. 생화학 이론 강의에서 공부한 내용을 바탕으로  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
                 "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
@@ -1270,6 +1310,7 @@
                 "x": 1540,
                 "y": 0
             },
+            "학년": 3,
             "data": {
                 "label": "육가공학",
                 "학수번호": "LIFS320",
@@ -1297,6 +1338,7 @@
                 "x": 1540,
                 "y": 100
             },
+            "학년": 3,
             "data": {
                 "label": "식품생물공학",
                 "학수번호": "LIFS324",
@@ -1324,6 +1366,7 @@
                 "x": 1540,
                 "y": 200
             },
+            "학년": 3,
             "data": {
                 "label": "식품안전성",
                 "학수번호": "LIFS326",
@@ -1351,6 +1394,7 @@
                 "x": 1540,
                 "y": 300
             },
+            "학년": 3,
             "data": {
                 "label": "식품위해요소중점관리학",
                 "학수번호": "LIFS328",
@@ -1378,6 +1422,7 @@
                 "x": 1540,
                 "y": 400
             },
+            "학년": 3,
             "data": {
                 "label": "식품공학및가공학실험II",
                 "학수번호": "LIFS334",
@@ -1405,6 +1450,7 @@
                 "x": 1540,
                 "y": 500
             },
+            "학년": 3,
             "data": {
                 "label": "식품공학II",
                 "학수번호": "LIFS338",
@@ -1432,6 +1478,7 @@
                 "x": 1540,
                 "y": 600
             },
+            "학년": 3,
             "data": {
                 "label": "식품분석학실험",
                 "학수번호": "LIFS341",
@@ -1459,6 +1506,7 @@
                 "x": 1540,
                 "y": 700
             },
+            "학년": 3,
             "data": {
                 "label": "곡류과학",
                 "학수번호": "LIFS354",
@@ -1486,6 +1534,7 @@
                 "x": 1540,
                 "y": 800
             },
+            "학년": 3,
             "data": {
                 "label": "식품화학Ⅱ",
                 "학수번호": "LIFS364",
@@ -1513,6 +1562,7 @@
                 "x": 1540,
                 "y": 900
             },
+            "학년": 3,
             "data": {
                 "label": "식중독세균학",
                 "학수번호": "LIFS366",
@@ -1535,119 +1585,12 @@
             }
         },
         {
-            "id": "LIFS402",
-            "position": {
-                "x": 1980,
-                "y": 0
-            },
-            "data": {
-                "label": "건강기능식품학",
-                "학수번호": "LIFS402",
-                "세부전공": null,
-                "전공역량": "문제해결",
-                "개설학과": "식품공학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "최근 식품  중에 들어있는 화합 물질 등이 생리적으로나 건강에 효능이 있는 것으로 알려지면서 식품의 중요성이 더욱  강조되고 있다. 이런 생리활성 물질들을 갖는 식품들을 기능성 식품이라 통칭하고 이들을 질병예방이나 치료에 이용하기 위해 물질 탐색 및 개발이 활발 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIFS404",
-            "position": {
-                "x": 1980,
-                "y": 100
-            },
-            "data": {
-                "label": "발효산업미생물학",
-                "학수번호": "LIFS404",
-                "세부전공": null,
-                "전공역량": "창의적사고",
-                "개설학과": "식품공학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "발효식품, 발효유, 주류, 유기산, 생화학 소재 등 식품 및 발효공업 제조 산업에서 이용되는 이론과 실제의 예를 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIFS464",
-            "position": {
-                "x": 1980,
-                "y": 200
-            },
-            "data": {
-                "label": "식품포장공학",
-                "학수번호": "LIFS464",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "식품공학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "Macro 및 micro 식품포장소재의 특성, 물성, 응용성과 식품포장 방법에 대한 최신 정보를 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "LIFS466",
-            "position": {
-                "x": 1980,
-                "y": 300
-            },
-            "data": {
-                "label": "식품독성학",
-                "학수번호": "LIFS466",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "식품공학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "식품독성학의 기초원리. 식품공급에서의 독성물질: 행동 양식, 독성물질에 대한 방어체계, 독성물질/영양소 상호작용, 위험평가에 대해서 논의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "LIFS405",
             "position": {
                 "x": 1760,
                 "y": 0
             },
+            "학년": 4,
             "data": {
                 "label": "식품저장학",
                 "학수번호": "LIFS405",
@@ -1675,6 +1618,7 @@
                 "x": 1760,
                 "y": 100
             },
+            "학년": 4,
             "data": {
                 "label": "과실채소류과학",
                 "학수번호": "LIFS457",
@@ -1702,6 +1646,7 @@
                 "x": 1760,
                 "y": 200
             },
+            "학년": 4,
             "data": {
                 "label": "식품성분및재료학",
                 "학수번호": "LIFS475",
@@ -1712,6 +1657,118 @@
                 "내용": null,
                 "메모": null,
                 "syllabus_kr": "식품 재료 속에 포함되어 있는 성분의 구조와 물리 화학적 특성과 식품 재료의 기능, 응용 및 특성을 다룬다. 식품의 기본 물질인 물, 단백질, 탄수화물, 핵산, 지질과 같은 분자의 특성과 구조-기능 관계, 식품 성분이 미치는 영양 및 생리학적 효과를 다룬다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS402",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "건강기능식품학",
+                "학수번호": "LIFS402",
+                "세부전공": null,
+                "전공역량": "문제해결",
+                "개설학과": "식품공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "최근 식품  중에 들어있는 화합 물질 등이 생리적으로나 건강에 효능이 있는 것으로 알려지면서 식품의 중요성이 더욱  강조되고 있다. 이런 생리활성 물질들을 갖는 식품들을 기능성 식품이라 통칭하고 이들을 질병예방이나 치료에 이용하기 위해 물질 탐색 및 개발이 활발 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS404",
+            "position": {
+                "x": 1980,
+                "y": 100
+            },
+            "학년": 4,
+            "data": {
+                "label": "발효산업미생물학",
+                "학수번호": "LIFS404",
+                "세부전공": null,
+                "전공역량": "창의적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "발효식품, 발효유, 주류, 유기산, 생화학 소재 등 식품 및 발효공업 제조 산업에서 이용되는 이론과 실제의 예를 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS464",
+            "position": {
+                "x": 1980,
+                "y": 200
+            },
+            "학년": 4,
+            "data": {
+                "label": "식품포장공학",
+                "학수번호": "LIFS464",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "Macro 및 micro 식품포장소재의 특성, 물성, 응용성과 식품포장 방법에 대한 최신 정보를 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "LIFS466",
+            "position": {
+                "x": 1980,
+                "y": 300
+            },
+            "학년": 4,
+            "data": {
+                "label": "식품독성학",
+                "학수번호": "LIFS466",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "식품공학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "식품독성학의 기초원리. 식품공급에서의 독성물질: 행동 양식, 독성물질에 대한 방어체계, 독성물질/영양소 상호작용, 위험평가에 대해서 논의한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",

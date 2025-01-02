@@ -185,1739 +185,12 @@
             }
         },
         {
-            "id": "SPAN201",
-            "position": {
-                "x": 880,
-                "y": 0
-            },
-            "data": {
-                "label": "시청각스페인어I",
-                "학수번호": "SPAN201",
-                "세부전공": null,
-                "전공역량": "외국어구사능력",
-                "개설학과": "서어서문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인어의 시청각 교육을 습득한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN211",
-            "position": {
-                "x": 880,
-                "y": 100
-            },
-            "data": {
-                "label": "중급스페인어연습I",
-                "학수번호": "SPAN211",
-                "세부전공": null,
-                "전공역량": "외국어구사능력",
-                "개설학과": "서어서문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "초급 스페인어 과정을 이수한 학생들을 대상으로 중급 수준의 말하기, 듣기, 읽기, 쓰기의 네 분야에 대한 스페인어 실력을 종합적으로 배양하도록 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN213",
-            "position": {
-                "x": 880,
-                "y": 200
-            },
-            "data": {
-                "label": "스페인어산문강독",
-                "학수번호": "SPAN213",
-                "세부전공": null,
-                "전공역량": "외국어구사능력",
-                "개설학과": "서어서문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "다양한 스페인 산문 강독을 통하여 스페인어를 익힌다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN218",
-            "position": {
-                "x": 880,
-                "y": 300
-            },
-            "data": {
-                "label": "라틴아메리카단편소설강독",
-                "학수번호": "SPAN218",
-                "세부전공": null,
-                "전공역량": "외국어구사능력",
-                "개설학과": "서어서문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "라틴아메리카 대표적 작가들의 단편소설들을 선정하여 강독함으로써 스페인어 어휘능력을 향상시키고 소설을 연구할 능력을 배양한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN202",
-            "position": {
-                "x": 1100,
-                "y": 0
-            },
-            "data": {
-                "label": "시청각스페인어II",
-                "학수번호": "SPAN202",
-                "세부전공": null,
-                "전공역량": "외국어구사능력",
-                "개설학과": "서어서문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인어의 시청각 교육을 습득한다. _x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN212",
-            "position": {
-                "x": 1100,
-                "y": 100
-            },
-            "data": {
-                "label": "중급스페인어연습II",
-                "학수번호": "SPAN212",
-                "세부전공": null,
-                "전공역량": "외국어구사능력",
-                "개설학과": "서어서문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "초급 스페인어 및 중급 스페인어 연습 1 과정을 이수한 학생들을 대상으로 중급 수준의 말하기, 듣기, 읽기, 쓰기의 네 분야에 대한 스페인어 실력을 종합적으로 배양하도록 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN220",
-            "position": {
-                "x": 1100,
-                "y": 200
-            },
-            "data": {
-                "label": "라틴아메리카사회와영화",
-                "학수번호": "SPAN220",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "라틴아메리카의 주요 영화를 중심으로 작품의 이면에 있는 라틴아메리카 사회를 이해한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN216",
-            "position": {
-                "x": 1320,
-                "y": 0
-            },
-            "data": {
-                "label": "고급스페인어회화",
-                "학수번호": "SPAN216",
-                "세부전공": null,
-                "전공역량": "외국어구사능력",
-                "개설학과": "서어서문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "고급 과정의 스페인어 회화 수업으로 학생들의 능력을 증진시킨다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN301",
-            "position": {
-                "x": 1320,
-                "y": 100
-            },
-            "data": {
-                "label": "스페인어학개론",
-                "학수번호": "SPAN301",
-                "세부전공": null,
-                "전공역량": "디지털기술활용",
-                "개설학과": "서어서문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인어 분석을 위한 언어학의 제반 이론을 습득한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN303",
-            "position": {
-                "x": 1320,
-                "y": 200
-            },
-            "data": {
-                "label": "스페인어어원및계통론",
-                "학수번호": "SPAN303",
-                "세부전공": null,
-                "전공역량": "종합적사고",
-                "개설학과": "서어서문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인어의 어원과 계통을 연구한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN313",
-            "position": {
-                "x": 1320,
-                "y": 300
-            },
-            "data": {
-                "label": "서중남미지역학I",
-                "학수번호": "SPAN313",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인과 중남미 지역의 연구를 수행한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN315",
-            "position": {
-                "x": 1320,
-                "y": 400
-            },
-            "data": {
-                "label": "라틴아메리카문화사",
-                "학수번호": "SPAN315",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "라틴아메리카 문화의 전반적인 이해를 도모한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN321",
-            "position": {
-                "x": 1320,
-                "y": 500
-            },
-            "data": {
-                "label": "서문학사",
-                "학수번호": "SPAN321",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "서문학을 시대별로 개관하고, 현대에 이르기까지 주요작품 및 작가를 통해 서문학의 흐름을 이해한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN323",
-            "position": {
-                "x": 1320,
-                "y": 600
-            },
-            "data": {
-                "label": "스페인시",
-                "학수번호": "SPAN323",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인 시를 연구한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN327",
-            "position": {
-                "x": 1320,
-                "y": 700
-            },
-            "data": {
-                "label": "스페인소설",
-                "학수번호": "SPAN327",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인 소설 중 중요한 작품을 선정하여 그 시대적 환경을 검토하고 작품을 분석한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN329",
-            "position": {
-                "x": 1320,
-                "y": 800
-            },
-            "data": {
-                "label": "라틴아메리카소설",
-                "학수번호": "SPAN329",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "라틴아메리카 소설 중 중요한 작품을 선정하여 그 시대적 환경을 검토하고 작품을 분석한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN337",
-            "position": {
-                "x": 1320,
-                "y": 900
-            },
-            "data": {
-                "label": "라틴아메리카식민지시대연구",
-                "학수번호": "SPAN337",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "라틴아메리카의 식민지시대에 산출된 문헌 및 영상 자료 등을 통해 당시의 다양한 사회문화적 현상에 대한 개괄적 접근을 하도록 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN339",
-            "position": {
-                "x": 1320,
-                "y": 1000
-            },
-            "data": {
-                "label": "스페인·라틴아메리카경제와사회발전",
-                "학수번호": "SPAN339",
-                "세부전공": null,
-                "전공역량": "종합적사고",
-                "개설학과": "서어서문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인?라틴아메리카의 경제상황과 사회발전 방향의 관계를 경제적, 역사적_x000D_\n인 관점에서 관찰하고 그 특수성과 보편성 분석을 통하여 스페인?라틴아메_x000D_\n리카의 경영환경을 이해한다. 경제발전에 대한 이론적 관찰을 기초로 스페인_x000D_\n?라틴아메리카 경제현황과 사회발전에 대 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN351",
-            "position": {
-                "x": 1320,
-                "y": 1100
-            },
-            "data": {
-                "label": "스페인어번역및통역",
-                "학수번호": "SPAN351",
-                "세부전공": null,
-                "전공역량": "외국어구사능력",
-                "개설학과": "서어서문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인어의 번역 및 통역에 있어 이론 및 실제 운영상의 문제점을 분석하고 연습한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN353",
-            "position": {
-                "x": 1320,
-                "y": 1200
-            },
-            "data": {
-                "label": "스페인어방언학",
-                "학수번호": "SPAN353",
-                "세부전공": null,
-                "전공역량": "종합적사고",
-                "개설학과": "서어서문학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN357",
-            "position": {
-                "x": 1320,
-                "y": 1300
-            },
-            "data": {
-                "label": "스페인어구조의이해",
-                "학수번호": "SPAN357",
-                "세부전공": null,
-                "전공역량": "디지털기술활용",
-                "개설학과": "서어서문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "문장구성성분, 동사구조, 대명사체계, 구문구조, 정보구조 등 현대 스페인어 문법의 주요 현상에 대해 심도있게 다룬다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN361",
-            "position": {
-                "x": 1320,
-                "y": 1400
-            },
-            "data": {
-                "label": "스페인희곡",
-                "학수번호": "SPAN361",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인의 대표적 희곡을 중심으로 각 작품의 구체적 분석을 통하여 그 특성을 파악한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN369",
-            "position": {
-                "x": 1320,
-                "y": 1500
-            },
-            "data": {
-                "label": "라틴아메리카작가론",
-                "학수번호": "SPAN369",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "라틴아메리카문학을 주도한 주요 작가를 선정하여 대표적 작품과 함께 연구 분석한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN371",
-            "position": {
-                "x": 1320,
-                "y": 1600
-            },
-            "data": {
-                "label": "스페인중세문학",
-                "학수번호": "SPAN371",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "중세 스페인문학의 다양한 작품과 작가들의 연구를 통해 스페인문학 이해의 기반을 다진다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN373",
-            "position": {
-                "x": 1320,
-                "y": 1700
-            },
-            "data": {
-                "label": "라틴아메리카사상사",
-                "학수번호": "SPAN373",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "라틴아메리카 사상가들의 주요 텍스트를 분석하여 라틴아메리카의 사고와 이데올로기에 대한 넓은 관점을 제시한다. 정체성을 찾기 위한 라틴아메리카 지식인들의 노력과 근대성의 비판담론에 대해 알아본다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN375",
-            "position": {
-                "x": 1320,
-                "y": 1800
-            },
-            "data": {
-                "label": "돈키호테론",
-                "학수번호": "SPAN375",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "고전 소설인 돈키호테를 다양한 관점에서 연구한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN302",
-            "position": {
-                "x": 1540,
-                "y": 0
-            },
-            "data": {
-                "label": "스페인어사",
-                "학수번호": "SPAN302",
-                "세부전공": null,
-                "전공역량": "종합적사고",
-                "개설학과": "서어서문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인어의 발달사를 시대 및 지역별로 연구한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN312",
-            "position": {
-                "x": 1540,
-                "y": 100
-            },
-            "data": {
-                "label": "스페인문화사",
-                "학수번호": "SPAN312",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인문화의 전반적인 이해를 도모한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN314",
-            "position": {
-                "x": 1540,
-                "y": 200
-            },
-            "data": {
-                "label": "서중남미지역학II",
-                "학수번호": "SPAN314",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인과 중남미 지역의 연구를 수행한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN326",
-            "position": {
-                "x": 1540,
-                "y": 300
-            },
-            "data": {
-                "label": "라틴아메리카문학사",
-                "학수번호": "SPAN326",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "라틴아메리카 문학의 사적 흐름에 따라 라틴아메리카 문학의 특성들을 파악한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN328",
-            "position": {
-                "x": 1540,
-                "y": 400
-            },
-            "data": {
-                "label": "라틴아메리카시",
-                "학수번호": "SPAN328",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "라틴아메리카 시를 연구한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN332",
-            "position": {
-                "x": 1540,
-                "y": 500
-            },
-            "data": {
-                "label": "스페인황금세기문학",
-                "학수번호": "SPAN332",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "16, 17세기 스페인문학 흐름의 연구와 작품분석을 한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN336",
-            "position": {
-                "x": 1540,
-                "y": 600
-            },
-            "data": {
-                "label": "스페인사회와영화",
-                "학수번호": "SPAN336",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인의 주요 영화를 중심으로 작품의 이면에 있는 스페인 사회를 이해한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN338",
-            "position": {
-                "x": 1540,
-                "y": 700
-            },
-            "data": {
-                "label": "스페인·라틴아메리카정치와사회변동",
-                "학수번호": "SPAN338",
-                "세부전공": null,
-                "전공역량": "종합적사고",
-                "개설학과": "서어서문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인 및 라틴아메리카 주요 국가들의 정치적 상황과 사회적 역동성에 대해_x000D_\n다룬다. 스페인과 독립 이후 라틴아메리카 전반의 정치적 상황의 전개에 대_x000D_\n해 거시적으로 다룬 후 주요 독립 국가들의 정치 상황 및 사회적 특성을 다_x000D_\n룬다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN343",
-            "position": {
-                "x": 1540,
-                "y": 800
-            },
-            "data": {
-                "label": "스페인어,텍스트그리고기술",
-                "학수번호": "SPAN343",
-                "세부전공": null,
-                "전공역량": "디지털기술활용",
-                "개설학과": "서어서문학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과목은 디지털 시대의 스페인어 데이터를 활용한 인문학 연구 방법에 중점을 두며, 학생들은 스페인어 텍스트 분석, 데이터 시각화, 디지털 아카이브 구축과 같은 디지털 인문학의 핵심 도구와 방법론을 심층적으로 탐구하고 실습한다. 이 과정을 통해 스페인 및 라틴아메"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN352",
-            "position": {
-                "x": 1540,
-                "y": 900
-            },
-            "data": {
-                "label": "스페인어교수법",
-                "학수번호": "SPAN352",
-                "세부전공": null,
-                "전공역량": "외국어구사능력",
-                "개설학과": "서어서문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인어를 지도하고 학습하는 방법론을 모색한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN356",
-            "position": {
-                "x": 1540,
-                "y": 1000
-            },
-            "data": {
-                "label": "스페인어권사회의이해",
-                "학수번호": "SPAN356",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인어를 사용하는 문화권의 언어, 문학, 문화이론 등에 대한 전반적인 이해를 돕는다. 또한 중남미와 스페인의 역사, 성, 인종, 정치와 기업 환경 등에 대해서도 고찰한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN364",
-            "position": {
-                "x": 1540,
-                "y": 1100
-            },
-            "data": {
-                "label": "스페인문학비평",
-                "학수번호": "SPAN364",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인문학이 가진 독특한 문학현상에 대한 연구로 20세기 중후반의 세계적인 스페인 소설을 중심으로 연구한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN366",
-            "position": {
-                "x": 1540,
-                "y": 1200
-            },
-            "data": {
-                "label": "스페인작가론",
-                "학수번호": "SPAN366",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인 문학을 주도한 주요 작가를 선정하여 대표적 작품과 함께 연구 분석한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN376",
-            "position": {
-                "x": 1540,
-                "y": 1300
-            },
-            "data": {
-                "label": "스페인근현대문학",
-                "학수번호": "SPAN376",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "18세기에서 현대에 이르기까지 스페인 문학의 사조와 대표적인 작품에 대한 이해를 도모한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN384",
-            "position": {
-                "x": 1540,
-                "y": 1400
-            },
-            "data": {
-                "label": "스페인에세이",
-                "학수번호": "SPAN384",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인의 사상적 흐름을 주도한 주요 작가들의 대표 작품을 발췌하여 강독함으로써 개별 작가들의 세계관과 사상적 배경을 이해한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN386",
-            "position": {
-                "x": 1540,
-                "y": 1500
-            },
-            "data": {
-                "label": "스페인어음성음운론",
-                "학수번호": "SPAN386",
-                "세부전공": null,
-                "전공역량": "디지털기술활용",
-                "개설학과": "서어서문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인어의 올바른 조음방법 및 스페인과 중남미에서 사용되는 스페인어의 음성학적 차이에 대하여 고찰하고 음운론에 대하여 설명한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN401",
-            "position": {
-                "x": 1760,
-                "y": 0
-            },
-            "data": {
-                "label": "사회언어학",
-                "학수번호": "SPAN401",
-                "세부전공": null,
-                "전공역량": "디지털기술활용",
-                "개설학과": "서어서문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "사회언어학 이론을 스페인어 분석에 적용한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN411",
-            "position": {
-                "x": 1760,
-                "y": 100
-            },
-            "data": {
-                "label": "스페인문학과신화",
-                "학수번호": "SPAN411",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "스페인과 유럽 문화의 이해를 돕기 위하여 스페인 문학 속에 나타난 스페인 및 고전신화의 창조, 변형, 차용, 이주의 모습을 분석, 이해한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN415",
-            "position": {
-                "x": 1760,
-                "y": 200
-            },
-            "data": {
-                "label": "라틴아메리카페미니즘연구",
-                "학수번호": "SPAN415",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "라틴아메리카 사회 속에 나타나는 페미니즘과 남성주의를 연구한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN417",
-            "position": {
-                "x": 1760,
-                "y": 300
-            },
-            "data": {
-                "label": "보르헤스와포스트모더니즘",
-                "학수번호": "SPAN417",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "라틴아메리카 사회 속에 나타나는 페미니즘과 남성주의를 연구한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN455",
-            "position": {
-                "x": 1760,
-                "y": 400
-            },
-            "data": {
-                "label": "라틴아메리카조사방법론",
-                "학수번호": "SPAN455",
-                "세부전공": null,
-                "전공역량": "디지털기술활용",
-                "개설학과": "서어서문학과",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "정성적·정량적 조사방법 -문헌조사, 담화분석, 통계적 추론-을 통해서 라틴아메리카 문화 및 지역 연구에 대한 이해를 높이고자 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN457",
-            "position": {
-                "x": 1760,
-                "y": 500
-            },
-            "data": {
-                "label": "라틴아메리카데이터과학의이해",
-                "학수번호": "SPAN457",
-                "세부전공": null,
-                "전공역량": "디지털기술활용",
-                "개설학과": "서어서문학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "데이터를 수집하고 분석하고 시각화하여 효과적으로 그 의미를 발견하는 것은 연구 뿐만 아니라 기업 및 사회에서도 유용한 기술이다. 본 과목은 컴퓨터 프로그래밍 언어와 통계 프로그램의 활용을 통해 학생들이 라틴아메리카의 정치, 경제, 사회, 문화와 관련된 다양한 데 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN475",
-            "position": {
-                "x": 1760,
-                "y": 600
-            },
-            "data": {
-                "label": "스페인어통사의미화용론",
-                "학수번호": "SPAN475",
-                "세부전공": null,
-                "전공역량": "종합적사고",
-                "개설학과": "서어서문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "통사, 의미, 화용론 이론을 스페인어 분석에 적용한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN479",
-            "position": {
-                "x": 1760,
-                "y": 700
-            },
-            "data": {
-                "label": "라틴아메리카인디오세계연구",
-                "학수번호": "SPAN479",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "콜럼버스 이전 시대의 라틴아메리카 원주민들의 문명과 신화를 알아보고 오늘날 원주민의 현실에 대해 연구한다. 또한 그들의 세계관이 근대 세계가 간과하는 어떠한 가치관을 지니는지 살펴본다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN481",
-            "position": {
-                "x": 1760,
-                "y": 800
-            },
-            "data": {
-                "label": "라틴아메리카국제관계",
-                "학수번호": "SPAN481",
-                "세부전공": null,
-                "전공역량": "종합적사고",
-                "개설학과": "서어서문학과",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "오늘날 라틴아메리카의 국제관계를 라틴아메리카 국가들 간 국제문제를 통해 살펴보려고 하며, 각 주제와 관련된 라틴아메리카 지역기구 또는 국제분쟁 사례를 살펴봄으로써 라틴아메리카의 지역협력과 분쟁해결이 어떻게 이루어지고 있는지 이해하고자 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN424",
-            "position": {
-                "x": 1980,
-                "y": 0
-            },
-            "data": {
-                "label": "라틴아메리카문학이론연구",
-                "학수번호": "SPAN424",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 5,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "라틴아메리카문학 전반에 나타나는 특징적인 이론들을 연구한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN458",
-            "position": {
-                "x": 1980,
-                "y": 100
-            },
-            "data": {
-                "label": "스페인어자연어및음성데이터처리",
-                "학수번호": "SPAN458",
-                "세부전공": null,
-                "전공역량": "디지털기술활용",
-                "개설학과": "서어서문학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 인공지능 및 딥러닝 기술을 습득하고 그를 활용한 문서분류, 자동요약, 자동질의응답시스템, 음성 텍스트 변환 등의 스페인어 자연어 및 음성 데이터 처리의 학습을 목표로 한다. 그리고 그를 바탕으로 현재 그리고 미래의 스페인어 텍스트 및 음성 데이터 처리 산"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN474",
-            "position": {
-                "x": 1980,
-                "y": 200
-            },
-            "data": {
-                "label": "라틴아메리카문화이론연구",
-                "학수번호": "SPAN474",
-                "세부전공": null,
-                "전공역량": "인문학적소양",
-                "개설학과": "서어서문학과",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN480 ",
-            "position": {
-                "x": 1980,
-                "y": 300
-            },
-            "data": {
-                "label": "라틴아메리카개발협력",
-                "학수번호": "SPAN480 ",
-                "세부전공": null,
-                "전공역량": "종합적사고",
-                "개설학과": "서어서문학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": null
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "SPAN171",
-            "position": {
-                "x": 440,
-                "y": 0
-            },
-            "data": {
-                "label": "스페인어I",
-                "학수번호": "SPAN171",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "서어서문학과",
-                "개설횟수": 4,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "기초적인 스페인어를 습득하고 이를 전공하려는 학생에게 다양한 교육 매체를 통하여 어느 정도 심화된 스페인어에 대한 지식을 습득하도록 하여 향후 전공 영역과의 지속성을 유지한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COLA173",
-            "position": {
-                "x": 440,
-                "y": 100
-            },
-            "data": {
-                "label": "디지털인문학응용",
-                "학수번호": "COLA173",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "문과대학",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "해당 과목은 디지털 시대에 문과 학생들이 필수적으로 알아야 할 다양한 기술이 인문학 분야에서 어떻게 응용되는지 직접 배우고 연습해보는 기회를 제공한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COLA200",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "data": {
-                "label": "인문융합세미나",
-                "학수번호": "COLA200",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "문과대학",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인문학을 중심으로 인문, 사회, 자연과학 등 타 학문 영역의 전문지식을 융합하는 세미나 형식으로 운영한다._x000D_\n※심화된 인문 융합 지식을 통섭하는 세미나로서 주관 학과의 전공과목에 준하는 수준으로 운영한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 440,
-                "y": 300
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEWR002",
-            "position": {
-                "x": 440,
-                "y": 400
-            },
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEKS007",
-            "position": {
-                "x": 440,
-                "y": 600
-            },
-            "data": {
-                "label": "[진로창업]1학년세미나 I",
-                "학수번호": "GEKS007",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GECT002",
-            "position": {
-                "x": 440,
-                "y": 700
-            },
-            "data": {
-                "label": "[진로창업]SW프로그래밍의기초",
-                "학수번호": "GECT002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 800
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "CHIN103\t",
             "position": {
                 "x": 440,
-                "y": 900
+                "y": 0
             },
+            "학년": null,
             "data": {
                 "label": "교양중국어I",
                 "학수번호": "CHIN103\t",
@@ -1943,8 +216,9 @@
             "id": "CHIN104",
             "position": {
                 "x": 440,
-                "y": 1000
+                "y": 100
             },
+            "학년": null,
             "data": {
                 "label": "교양중국어II",
                 "학수번호": "CHIN104",
@@ -1970,8 +244,9 @@
             "id": "FRAN141",
             "position": {
                 "x": 440,
-                "y": 1100
+                "y": 200
             },
+            "학년": null,
             "data": {
                 "label": "교양프랑스어I",
                 "학수번호": "FRAN141",
@@ -1997,8 +272,9 @@
             "id": "FRAN142",
             "position": {
                 "x": 440,
-                "y": 1200
+                "y": 300
             },
+            "학년": null,
             "data": {
                 "label": "교양프랑스어II",
                 "학수번호": "FRAN142",
@@ -2024,8 +300,9 @@
             "id": "GERM161",
             "position": {
                 "x": 440,
-                "y": 1300
+                "y": 400
             },
+            "학년": null,
             "data": {
                 "label": "교양독일어I",
                 "학수번호": "GERM161",
@@ -2051,8 +328,9 @@
             "id": "GERM162",
             "position": {
                 "x": 440,
-                "y": 1400
+                "y": 500
             },
+            "학년": null,
             "data": {
                 "label": "교양독일어II",
                 "학수번호": "GERM162",
@@ -2078,8 +356,9 @@
             "id": "HANM141",
             "position": {
                 "x": 440,
-                "y": 1500
+                "y": 600
             },
+            "학년": null,
             "data": {
                 "label": "초급한문",
                 "학수번호": "HANM141",
@@ -2105,8 +384,9 @@
             "id": "JAPN113",
             "position": {
                 "x": 440,
-                "y": 1600
+                "y": 700
             },
+            "학년": null,
             "data": {
                 "label": "교양일본어I",
                 "학수번호": "JAPN113",
@@ -2132,8 +412,9 @@
             "id": "JAPN114",
             "position": {
                 "x": 440,
-                "y": 1700
+                "y": 800
             },
+            "학년": null,
             "data": {
                 "label": "교양일본어II",
                 "학수번호": "JAPN114",
@@ -2159,8 +440,9 @@
             "id": "RUSS131",
             "position": {
                 "x": 440,
-                "y": 1800
+                "y": 900
             },
+            "학년": null,
             "data": {
                 "label": "교양러시아어I",
                 "학수번호": "RUSS131",
@@ -2186,8 +468,9 @@
             "id": "RUSS132",
             "position": {
                 "x": 440,
-                "y": 1900
+                "y": 1000
             },
+            "학년": null,
             "data": {
                 "label": "교양러시아어II",
                 "학수번호": "RUSS132",
@@ -2213,8 +496,9 @@
             "id": "SPAN121",
             "position": {
                 "x": 440,
-                "y": 2000
+                "y": 1100
             },
+            "학년": null,
             "data": {
                 "label": "교양스페인어I",
                 "학수번호": "SPAN121",
@@ -2240,8 +524,9 @@
             "id": "SPAN122",
             "position": {
                 "x": 440,
-                "y": 2100
+                "y": 1200
             },
+            "학년": null,
             "data": {
                 "label": "교양스페인어II",
                 "학수번호": "SPAN122",
@@ -2264,11 +549,264 @@
             }
         },
         {
+            "id": "COLA173",
+            "position": {
+                "x": 440,
+                "y": 1300
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "디지털인문학응용",
+                "학수번호": "COLA173",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "해당 과목은 디지털 시대에 문과 학생들이 필수적으로 알아야 할 다양한 기술이 인문학 분야에서 어떻게 응용되는지 직접 배우고 연습해보는 기회를 제공한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COLA200",
+            "position": {
+                "x": 440,
+                "y": 1400
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "인문융합세미나",
+                "학수번호": "COLA200",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인문학을 중심으로 인문, 사회, 자연과학 등 타 학문 영역의 전문지식을 융합하는 세미나 형식으로 운영한다._x000D_\n※심화된 인문 융합 지식을 통섭하는 세미나로서 주관 학과의 전공과목에 준하는 수준으로 운영한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 1500
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 1600
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 1700
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN171",
+            "position": {
+                "x": 440,
+                "y": 1800
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "스페인어I",
+                "학수번호": "SPAN171",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "기초적인 스페인어를 습득하고 이를 전공하려는 학생에게 다양한 교육 매체를 통하여 어느 정도 심화된 스페인어에 대한 지식을 습득하도록 하여 향후 전공 영역과의 지속성을 유지한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 1900
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 2000
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 2100
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "SPAN172",
             "position": {
                 "x": 660,
                 "y": 0
             },
+            "학년": 1.0,
             "data": {
                 "label": "스페인어II",
                 "학수번호": "SPAN172",
@@ -2285,7 +823,7 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -2296,6 +834,7 @@
                 "x": 660,
                 "y": 100
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]1학년세미나 II",
                 "학수번호": "GEKS008",
@@ -2323,6 +862,7 @@
                 "x": 660,
                 "y": 200
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
@@ -2340,6 +880,1546 @@
             "style": {
                 "backgroundColor": "#C8E6C9",
                 "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN201",
+            "position": {
+                "x": 880,
+                "y": 0
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "시청각스페인어I",
+                "학수번호": "SPAN201",
+                "세부전공": null,
+                "전공역량": "외국어구사능력",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인어의 시청각 교육을 습득한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN211",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "중급스페인어연습I",
+                "학수번호": "SPAN211",
+                "세부전공": null,
+                "전공역량": "외국어구사능력",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "초급 스페인어 과정을 이수한 학생들을 대상으로 중급 수준의 말하기, 듣기, 읽기, 쓰기의 네 분야에 대한 스페인어 실력을 종합적으로 배양하도록 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN213",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "스페인어산문강독",
+                "학수번호": "SPAN213",
+                "세부전공": null,
+                "전공역량": "외국어구사능력",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "다양한 스페인 산문 강독을 통하여 스페인어를 익힌다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN218",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "라틴아메리카단편소설강독",
+                "학수번호": "SPAN218",
+                "세부전공": null,
+                "전공역량": "외국어구사능력",
+                "개설학과": "서어서문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "라틴아메리카 대표적 작가들의 단편소설들을 선정하여 강독함으로써 스페인어 어휘능력을 향상시키고 소설을 연구할 능력을 배양한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN202",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "시청각스페인어II",
+                "학수번호": "SPAN202",
+                "세부전공": null,
+                "전공역량": "외국어구사능력",
+                "개설학과": "서어서문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인어의 시청각 교육을 습득한다. _x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN212",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "중급스페인어연습II",
+                "학수번호": "SPAN212",
+                "세부전공": null,
+                "전공역량": "외국어구사능력",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "초급 스페인어 및 중급 스페인어 연습 1 과정을 이수한 학생들을 대상으로 중급 수준의 말하기, 듣기, 읽기, 쓰기의 네 분야에 대한 스페인어 실력을 종합적으로 배양하도록 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN220",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "학년": 2.0,
+            "data": {
+                "label": "라틴아메리카사회와영화",
+                "학수번호": "SPAN220",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "라틴아메리카의 주요 영화를 중심으로 작품의 이면에 있는 라틴아메리카 사회를 이해한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN216",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "고급스페인어회화",
+                "학수번호": "SPAN216",
+                "세부전공": null,
+                "전공역량": "외국어구사능력",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "고급 과정의 스페인어 회화 수업으로 학생들의 능력을 증진시킨다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN301",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인어학개론",
+                "학수번호": "SPAN301",
+                "세부전공": null,
+                "전공역량": "디지털기술활용",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인어 분석을 위한 언어학의 제반 이론을 습득한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN303",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인어어원및계통론",
+                "학수번호": "SPAN303",
+                "세부전공": null,
+                "전공역량": "종합적사고",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인어의 어원과 계통을 연구한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN313",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "서중남미지역학I",
+                "학수번호": "SPAN313",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인과 중남미 지역의 연구를 수행한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN315",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "라틴아메리카문화사",
+                "학수번호": "SPAN315",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "라틴아메리카 문화의 전반적인 이해를 도모한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN321",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "서문학사",
+                "학수번호": "SPAN321",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "서문학을 시대별로 개관하고, 현대에 이르기까지 주요작품 및 작가를 통해 서문학의 흐름을 이해한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN323",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인시",
+                "학수번호": "SPAN323",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인 시를 연구한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN327",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인소설",
+                "학수번호": "SPAN327",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인 소설 중 중요한 작품을 선정하여 그 시대적 환경을 검토하고 작품을 분석한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN329",
+            "position": {
+                "x": 1320,
+                "y": 800
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "라틴아메리카소설",
+                "학수번호": "SPAN329",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "라틴아메리카 소설 중 중요한 작품을 선정하여 그 시대적 환경을 검토하고 작품을 분석한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN337",
+            "position": {
+                "x": 1320,
+                "y": 900
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "라틴아메리카식민지시대연구",
+                "학수번호": "SPAN337",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "라틴아메리카의 식민지시대에 산출된 문헌 및 영상 자료 등을 통해 당시의 다양한 사회문화적 현상에 대한 개괄적 접근을 하도록 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN339",
+            "position": {
+                "x": 1320,
+                "y": 1000
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인·라틴아메리카경제와사회발전",
+                "학수번호": "SPAN339",
+                "세부전공": null,
+                "전공역량": "종합적사고",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인?라틴아메리카의 경제상황과 사회발전 방향의 관계를 경제적, 역사적_x000D_\n인 관점에서 관찰하고 그 특수성과 보편성 분석을 통하여 스페인?라틴아메_x000D_\n리카의 경영환경을 이해한다. 경제발전에 대한 이론적 관찰을 기초로 스페인_x000D_\n?라틴아메리카 경제현황과 사회발전에 대 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN351",
+            "position": {
+                "x": 1320,
+                "y": 1100
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인어번역및통역",
+                "학수번호": "SPAN351",
+                "세부전공": null,
+                "전공역량": "외국어구사능력",
+                "개설학과": "서어서문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인어의 번역 및 통역에 있어 이론 및 실제 운영상의 문제점을 분석하고 연습한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN353",
+            "position": {
+                "x": 1320,
+                "y": 1200
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인어방언학",
+                "학수번호": "SPAN353",
+                "세부전공": null,
+                "전공역량": "종합적사고",
+                "개설학과": "서어서문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN357",
+            "position": {
+                "x": 1320,
+                "y": 1300
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인어구조의이해",
+                "학수번호": "SPAN357",
+                "세부전공": null,
+                "전공역량": "디지털기술활용",
+                "개설학과": "서어서문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "문장구성성분, 동사구조, 대명사체계, 구문구조, 정보구조 등 현대 스페인어 문법의 주요 현상에 대해 심도있게 다룬다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN361",
+            "position": {
+                "x": 1320,
+                "y": 1400
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인희곡",
+                "학수번호": "SPAN361",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인의 대표적 희곡을 중심으로 각 작품의 구체적 분석을 통하여 그 특성을 파악한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN369",
+            "position": {
+                "x": 1320,
+                "y": 1500
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "라틴아메리카작가론",
+                "학수번호": "SPAN369",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "라틴아메리카문학을 주도한 주요 작가를 선정하여 대표적 작품과 함께 연구 분석한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN371",
+            "position": {
+                "x": 1320,
+                "y": 1600
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인중세문학",
+                "학수번호": "SPAN371",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "중세 스페인문학의 다양한 작품과 작가들의 연구를 통해 스페인문학 이해의 기반을 다진다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN373",
+            "position": {
+                "x": 1320,
+                "y": 1700
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "라틴아메리카사상사",
+                "학수번호": "SPAN373",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "라틴아메리카 사상가들의 주요 텍스트를 분석하여 라틴아메리카의 사고와 이데올로기에 대한 넓은 관점을 제시한다. 정체성을 찾기 위한 라틴아메리카 지식인들의 노력과 근대성의 비판담론에 대해 알아본다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN375",
+            "position": {
+                "x": 1320,
+                "y": 1800
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "돈키호테론",
+                "학수번호": "SPAN375",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "고전 소설인 돈키호테를 다양한 관점에서 연구한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN302",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인어사",
+                "학수번호": "SPAN302",
+                "세부전공": null,
+                "전공역량": "종합적사고",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인어의 발달사를 시대 및 지역별로 연구한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN312",
+            "position": {
+                "x": 1540,
+                "y": 100
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인문화사",
+                "학수번호": "SPAN312",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인문화의 전반적인 이해를 도모한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN314",
+            "position": {
+                "x": 1540,
+                "y": 200
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "서중남미지역학II",
+                "학수번호": "SPAN314",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인과 중남미 지역의 연구를 수행한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN326",
+            "position": {
+                "x": 1540,
+                "y": 300
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "라틴아메리카문학사",
+                "학수번호": "SPAN326",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "라틴아메리카 문학의 사적 흐름에 따라 라틴아메리카 문학의 특성들을 파악한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN328",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "라틴아메리카시",
+                "학수번호": "SPAN328",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "라틴아메리카 시를 연구한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN332",
+            "position": {
+                "x": 1540,
+                "y": 500
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인황금세기문학",
+                "학수번호": "SPAN332",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "16, 17세기 스페인문학 흐름의 연구와 작품분석을 한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN336",
+            "position": {
+                "x": 1540,
+                "y": 600
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인사회와영화",
+                "학수번호": "SPAN336",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인의 주요 영화를 중심으로 작품의 이면에 있는 스페인 사회를 이해한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN338",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인·라틴아메리카정치와사회변동",
+                "학수번호": "SPAN338",
+                "세부전공": null,
+                "전공역량": "종합적사고",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인 및 라틴아메리카 주요 국가들의 정치적 상황과 사회적 역동성에 대해_x000D_\n다룬다. 스페인과 독립 이후 라틴아메리카 전반의 정치적 상황의 전개에 대_x000D_\n해 거시적으로 다룬 후 주요 독립 국가들의 정치 상황 및 사회적 특성을 다_x000D_\n룬다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN343",
+            "position": {
+                "x": 1540,
+                "y": 800
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인어,텍스트그리고기술",
+                "학수번호": "SPAN343",
+                "세부전공": null,
+                "전공역량": "디지털기술활용",
+                "개설학과": "서어서문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 디지털 시대의 스페인어 데이터를 활용한 인문학 연구 방법에 중점을 두며, 학생들은 스페인어 텍스트 분석, 데이터 시각화, 디지털 아카이브 구축과 같은 디지털 인문학의 핵심 도구와 방법론을 심층적으로 탐구하고 실습한다. 이 과정을 통해 스페인 및 라틴아메"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN352",
+            "position": {
+                "x": 1540,
+                "y": 900
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인어교수법",
+                "학수번호": "SPAN352",
+                "세부전공": null,
+                "전공역량": "외국어구사능력",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인어를 지도하고 학습하는 방법론을 모색한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN356",
+            "position": {
+                "x": 1540,
+                "y": 1000
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인어권사회의이해",
+                "학수번호": "SPAN356",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인어를 사용하는 문화권의 언어, 문학, 문화이론 등에 대한 전반적인 이해를 돕는다. 또한 중남미와 스페인의 역사, 성, 인종, 정치와 기업 환경 등에 대해서도 고찰한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN364",
+            "position": {
+                "x": 1540,
+                "y": 1100
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인문학비평",
+                "학수번호": "SPAN364",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인문학이 가진 독특한 문학현상에 대한 연구로 20세기 중후반의 세계적인 스페인 소설을 중심으로 연구한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN366",
+            "position": {
+                "x": 1540,
+                "y": 1200
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인작가론",
+                "학수번호": "SPAN366",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인 문학을 주도한 주요 작가를 선정하여 대표적 작품과 함께 연구 분석한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN376",
+            "position": {
+                "x": 1540,
+                "y": 1300
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인근현대문학",
+                "학수번호": "SPAN376",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "18세기에서 현대에 이르기까지 스페인 문학의 사조와 대표적인 작품에 대한 이해를 도모한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN384",
+            "position": {
+                "x": 1540,
+                "y": 1400
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인에세이",
+                "학수번호": "SPAN384",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인의 사상적 흐름을 주도한 주요 작가들의 대표 작품을 발췌하여 강독함으로써 개별 작가들의 세계관과 사상적 배경을 이해한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN386",
+            "position": {
+                "x": 1540,
+                "y": 1500
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "스페인어음성음운론",
+                "학수번호": "SPAN386",
+                "세부전공": null,
+                "전공역량": "디지털기술활용",
+                "개설학과": "서어서문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인어의 올바른 조음방법 및 스페인과 중남미에서 사용되는 스페인어의 음성학적 차이에 대하여 고찰하고 음운론에 대하여 설명한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN401",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "사회언어학",
+                "학수번호": "SPAN401",
+                "세부전공": null,
+                "전공역량": "디지털기술활용",
+                "개설학과": "서어서문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "사회언어학 이론을 스페인어 분석에 적용한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN411",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "스페인문학과신화",
+                "학수번호": "SPAN411",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "스페인과 유럽 문화의 이해를 돕기 위하여 스페인 문학 속에 나타난 스페인 및 고전신화의 창조, 변형, 차용, 이주의 모습을 분석, 이해한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN415",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "라틴아메리카페미니즘연구",
+                "학수번호": "SPAN415",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "라틴아메리카 사회 속에 나타나는 페미니즘과 남성주의를 연구한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN417",
+            "position": {
+                "x": 1760,
+                "y": 300
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "보르헤스와포스트모더니즘",
+                "학수번호": "SPAN417",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "라틴아메리카 사회 속에 나타나는 페미니즘과 남성주의를 연구한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN455",
+            "position": {
+                "x": 1760,
+                "y": 400
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "라틴아메리카조사방법론",
+                "학수번호": "SPAN455",
+                "세부전공": null,
+                "전공역량": "디지털기술활용",
+                "개설학과": "서어서문학과",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "정성적·정량적 조사방법 -문헌조사, 담화분석, 통계적 추론-을 통해서 라틴아메리카 문화 및 지역 연구에 대한 이해를 높이고자 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN457",
+            "position": {
+                "x": 1760,
+                "y": 500
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "라틴아메리카데이터과학의이해",
+                "학수번호": "SPAN457",
+                "세부전공": null,
+                "전공역량": "디지털기술활용",
+                "개설학과": "서어서문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "데이터를 수집하고 분석하고 시각화하여 효과적으로 그 의미를 발견하는 것은 연구 뿐만 아니라 기업 및 사회에서도 유용한 기술이다. 본 과목은 컴퓨터 프로그래밍 언어와 통계 프로그램의 활용을 통해 학생들이 라틴아메리카의 정치, 경제, 사회, 문화와 관련된 다양한 데 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN475",
+            "position": {
+                "x": 1760,
+                "y": 600
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "스페인어통사의미화용론",
+                "학수번호": "SPAN475",
+                "세부전공": null,
+                "전공역량": "종합적사고",
+                "개설학과": "서어서문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "통사, 의미, 화용론 이론을 스페인어 분석에 적용한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN479",
+            "position": {
+                "x": 1760,
+                "y": 700
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "라틴아메리카인디오세계연구",
+                "학수번호": "SPAN479",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 4,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "콜럼버스 이전 시대의 라틴아메리카 원주민들의 문명과 신화를 알아보고 오늘날 원주민의 현실에 대해 연구한다. 또한 그들의 세계관이 근대 세계가 간과하는 어떠한 가치관을 지니는지 살펴본다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN481",
+            "position": {
+                "x": 1760,
+                "y": 800
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "라틴아메리카국제관계",
+                "학수번호": "SPAN481",
+                "세부전공": null,
+                "전공역량": "종합적사고",
+                "개설학과": "서어서문학과",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "오늘날 라틴아메리카의 국제관계를 라틴아메리카 국가들 간 국제문제를 통해 살펴보려고 하며, 각 주제와 관련된 라틴아메리카 지역기구 또는 국제분쟁 사례를 살펴봄으로써 라틴아메리카의 지역협력과 분쟁해결이 어떻게 이루어지고 있는지 이해하고자 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN424",
+            "position": {
+                "x": 1980,
+                "y": 0
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "라틴아메리카문학이론연구",
+                "학수번호": "SPAN424",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 5,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "라틴아메리카문학 전반에 나타나는 특징적인 이론들을 연구한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN458",
+            "position": {
+                "x": 1980,
+                "y": 100
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "스페인어자연어및음성데이터처리",
+                "학수번호": "SPAN458",
+                "세부전공": null,
+                "전공역량": "디지털기술활용",
+                "개설학과": "서어서문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 인공지능 및 딥러닝 기술을 습득하고 그를 활용한 문서분류, 자동요약, 자동질의응답시스템, 음성 텍스트 변환 등의 스페인어 자연어 및 음성 데이터 처리의 학습을 목표로 한다. 그리고 그를 바탕으로 현재 그리고 미래의 스페인어 텍스트 및 음성 데이터 처리 산"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN474",
+            "position": {
+                "x": 1980,
+                "y": 200
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "라틴아메리카문화이론연구",
+                "학수번호": "SPAN474",
+                "세부전공": null,
+                "전공역량": "인문학적소양",
+                "개설학과": "서어서문학과",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "SPAN480 ",
+            "position": {
+                "x": 1980,
+                "y": 300
+            },
+            "학년": 4.0,
+            "data": {
+                "label": "라틴아메리카개발협력",
+                "학수번호": "SPAN480 ",
+                "세부전공": null,
+                "전공역량": "종합적사고",
+                "개설학과": "서어서문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": null
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
             }

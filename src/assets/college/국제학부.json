@@ -185,11 +185,264 @@
             }
         },
         {
+            "id": "DISS140",
+            "position": {
+                "x": 440,
+                "y": 0
+            },
+            "학년": 1,
+            "data": {
+                "label": "세계화의이해",
+                "학수번호": "DISS140",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "세계화의 기본개념을 정치사상사적 측면, 국제정치경제적 측면, 문화론적 측면에서 논의하고, 세계화가 국가, 지역 그리고 범세계적 차원에서 어떠한 영향을 가져올 것인지를 분석한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 100
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 300
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS115",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "경제학입문",
+                "학수번호": "DISS115",
+                "세부전공": null,
+                "전공역량": "종합적·융복합적사고력",
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "경제학의 기본 논리와 시장, 시장에서의 수요와 공급, 이를 통한 자원 배분, 경쟁과 효율성, 정부의 역할 등을 포함하는 미시 및 거시 기본 경제원리들에 관한 입문과정이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS123",
+            "position": {
+                "x": 440,
+                "y": 500
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "정치학입문",
+                "학수번호": "DISS123",
+                "세부전공": null,
+                "전공역량": "종합적·융복합적사고력",
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "정치학의 기본 개념을 소개하는 입문과정이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 600
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 700
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 800
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "DISS114",
             "position": {
                 "x": 660,
                 "y": 0
             },
+            "학년": 1.0,
             "data": {
                 "label": "국제통상원론",
                 "학수번호": "DISS114",
@@ -217,6 +470,7 @@
                 "x": 660,
                 "y": 100
             },
+            "학년": 1.0,
             "data": {
                 "label": "국제관계원론",
                 "학수번호": "DISS122",
@@ -244,6 +498,7 @@
                 "x": 660,
                 "y": 200
             },
+            "학년": 1.0,
             "data": {
                 "label": "조사방법론",
                 "학수번호": "DISS112",
@@ -271,6 +526,7 @@
                 "x": 660,
                 "y": 300
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]1학년세미나 II",
                 "학수번호": "GEKS008",
@@ -298,6 +554,7 @@
                 "x": 660,
                 "y": 400
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
@@ -320,11 +577,68 @@
             }
         },
         {
-            "id": "DISS281",
+            "id": "DISS241",
             "position": {
                 "x": 880,
                 "y": 0
             },
+            "학년": 2,
+            "data": {
+                "label": "현대한국",
+                "학수번호": "DISS241",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 3,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "한국의 산업화 과정에서 나타나는 가족관계, 종교, 정치, 경제, 사회변화 등을 사회학적 관점에서 살펴보고 이를 통해 현대 한국사회를 보다 정확하게 이해할 수 있는 기회를 제공한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS214",
+            "position": {
+                "x": 880,
+                "y": 100
+            },
+            "학년": 2,
+            "data": {
+                "label": "한국과국제법",
+                "학수번호": "GKSS214",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "통일, 영토분쟁, 경제협력 등 한국과 관련된 국제법 문제를 심도 있게 논의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS281",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "학년": 2.0,
             "data": {
                 "label": "국제개발개론",
                 "학수번호": "DISS281",
@@ -350,8 +664,9 @@
             "id": "DISS210",
             "position": {
                 "x": 880,
-                "y": 100
+                "y": 300
             },
+            "학년": 2.0,
             "data": {
                 "label": "세계화와한국경제",
                 "학수번호": "DISS210",
@@ -377,8 +692,9 @@
             "id": "DISS215",
             "position": {
                 "x": 880,
-                "y": 200
+                "y": 400
             },
+            "학년": 2.0,
             "data": {
                 "label": "금융시장및금융기관",
                 "학수번호": "DISS215",
@@ -404,8 +720,9 @@
             "id": "DISS230",
             "position": {
                 "x": 880,
-                "y": 300
+                "y": 500
             },
+            "학년": 2.0,
             "data": {
                 "label": "국제경영의이해",
                 "학수번호": "DISS230",
@@ -431,8 +748,9 @@
             "id": "DISS242",
             "position": {
                 "x": 880,
-                "y": 400
+                "y": 600
             },
+            "학년": 2.0,
             "data": {
                 "label": "북미지역입문",
                 "학수번호": "DISS242",
@@ -458,8 +776,9 @@
             "id": "DISS282",
             "position": {
                 "x": 880,
-                "y": 500
+                "y": 700
             },
+            "학년": 2.0,
             "data": {
                 "label": "한국외교콜로퀴움",
                 "학수번호": "DISS282",
@@ -485,8 +804,9 @@
             "id": "GKSS203",
             "position": {
                 "x": 880,
-                "y": 600
+                "y": 800
             },
+            "학년": 2.0,
             "data": {
                 "label": "한국과동아시아",
                 "학수번호": "GKSS203",
@@ -509,443 +829,12 @@
             }
         },
         {
-            "id": "DISS115",
-            "position": {
-                "x": 440,
-                "y": 0
-            },
-            "data": {
-                "label": "경제학입문",
-                "학수번호": "DISS115",
-                "세부전공": null,
-                "전공역량": "종합적·융복합적사고력",
-                "개설학과": "국제학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "경제학의 기본 논리와 시장, 시장에서의 수요와 공급, 이를 통한 자원 배분, 경쟁과 효율성, 정부의 역할 등을 포함하는 미시 및 거시 기본 경제원리들에 관한 입문과정이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "DISS123",
-            "position": {
-                "x": 440,
-                "y": 100
-            },
-            "data": {
-                "label": "정치학입문",
-                "학수번호": "DISS123",
-                "세부전공": null,
-                "전공역량": "종합적·융복합적사고력",
-                "개설학과": "국제학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "정치학의 기본 개념을 소개하는 입문과정이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "DISS140",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "data": {
-                "label": "세계화의이해",
-                "학수번호": "DISS140",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "국제학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "세계화의 기본개념을 정치사상사적 측면, 국제정치경제적 측면, 문화론적 측면에서 논의하고, 세계화가 국가, 지역 그리고 범세계적 차원에서 어떠한 영향을 가져올 것인지를 분석한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "DISS241",
-            "position": {
-                "x": 440,
-                "y": 300
-            },
-            "data": {
-                "label": "현대한국",
-                "학수번호": "DISS241",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "국제학부",
-                "개설횟수": 3,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "한국의 산업화 과정에서 나타나는 가족관계, 종교, 정치, 경제, 사회변화 등을 사회학적 관점에서 살펴보고 이를 통해 현대 한국사회를 보다 정확하게 이해할 수 있는 기회를 제공한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "DISS358",
-            "position": {
-                "x": 440,
-                "y": 400
-            },
-            "data": {
-                "label": "전후일본과동아시아",
-                "학수번호": "DISS358",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "국제학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "원폭, 항복, 그리고 점령으로 이어지는 일본의 제2차 세계대전 후 사건들을 소개한다. 이러한 역사적 사건들이 전후 일본의 재건에 어떤 영향과 유산을 남겼는가를 고찰한다. 이어서 경제재건의 정치경제, 국제관계, 그리고 사회적비용을 고찰한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "DISS429",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "환경과국제관계",
-                "학수번호": "DISS429",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "국제학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "기후변화, 황사, 수질 오염 등의 지구 환경을 주제로 한 각 주권국가간 주요 이슈를 살펴본다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "DISS477",
-            "position": {
-                "x": 440,
-                "y": 600
-            },
-            "data": {
-                "label": "개발협력의주요이슈",
-                "학수번호": "DISS477",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "국제학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 강의는 국제개발 및 협력의 주요 이슈를 이해하고, 개발원조의 효율성을 분석한다._x000D_"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GKSS214",
-            "position": {
-                "x": 440,
-                "y": 700
-            },
-            "data": {
-                "label": "한국과국제법",
-                "학수번호": "GKSS214",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "글로벌한국융합학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "통일, 영토분쟁, 경제협력 등 한국과 관련된 국제법 문제를 심도 있게 논의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GKSS315",
-            "position": {
-                "x": 440,
-                "y": 800
-            },
-            "data": {
-                "label": "한국통상정책",
-                "학수번호": "GKSS315",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "글로벌한국융합학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "국제통상 이슈에 대하여 연구조사, 발표, 토론, 강평 등을 통하여 학습함으로써, 국제 통상 현안에 대한 실질적인 대응능력을 제고한다. 또한 통상분쟁사례를 분석하여, 국제 통상규정이 실제 사례에서는 어떻게 해석되며 적용되는가에 대하여 알아본다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GKSS410",
-            "position": {
-                "x": 440,
-                "y": 900
-            },
-            "data": {
-                "label": "한미관계",
-                "학수번호": "GKSS410",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "글로벌한국융합학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "한미관계의 역사적 배경과 안보, 정치, 경제, 사회 등 각 방면에 있어서 상호관계를 파악하고 21세기 한미관계의 바람직한 방향을 모색한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 440,
-                "y": 1000
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEWR002",
-            "position": {
-                "x": 440,
-                "y": 1100
-            },
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 1200
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEKS007",
-            "position": {
-                "x": 440,
-                "y": 1300
-            },
-            "data": {
-                "label": "[진로창업]1학년세미나 I",
-                "학수번호": "GEKS007",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GECT002",
-            "position": {
-                "x": 440,
-                "y": 1400
-            },
-            "data": {
-                "label": "[진로창업]SW프로그래밍의기초",
-                "학수번호": "GECT002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 1500
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "DISS212",
             "position": {
                 "x": 1100,
                 "y": 0
             },
+            "학년": 2.0,
             "data": {
                 "label": "국제통상정책의이론과실제",
                 "학수번호": "DISS212",
@@ -973,6 +862,7 @@
                 "x": 1100,
                 "y": 100
             },
+            "학년": 2.0,
             "data": {
                 "label": "국제협상론",
                 "학수번호": "DISS221",
@@ -1000,6 +890,7 @@
                 "x": 1100,
                 "y": 200
             },
+            "학년": 2.0,
             "data": {
                 "label": "전쟁과평화",
                 "학수번호": "DISS222",
@@ -1027,6 +918,7 @@
                 "x": 1100,
                 "y": 300
             },
+            "학년": 2.0,
             "data": {
                 "label": "국제기구론",
                 "학수번호": "DISS223",
@@ -1054,6 +946,7 @@
                 "x": 1100,
                 "y": 400
             },
+            "학년": 2.0,
             "data": {
                 "label": "국제경영윤리",
                 "학수번호": "DISS232",
@@ -1081,6 +974,7 @@
                 "x": 1100,
                 "y": 500
             },
+            "학년": 2.0,
             "data": {
                 "label": "동아시아지역입문",
                 "학수번호": "DISS243",
@@ -1108,6 +1002,7 @@
                 "x": 1100,
                 "y": 600
             },
+            "학년": 2.0,
             "data": {
                 "label": "유럽지역입문",
                 "학수번호": "DISS244",
@@ -1135,6 +1030,7 @@
                 "x": 1100,
                 "y": 700
             },
+            "학년": 2.0,
             "data": {
                 "label": "국제법",
                 "학수번호": "DISS251",
@@ -1162,6 +1058,7 @@
                 "x": 1100,
                 "y": 800
             },
+            "학년": 2.0,
             "data": {
                 "label": "국제개발의동역학",
                 "학수번호": "DISS256",
@@ -1189,6 +1086,7 @@
                 "x": 1100,
                 "y": 900
             },
+            "학년": 2.0,
             "data": {
                 "label": "기술.정보와사회",
                 "학수번호": "DISS261",
@@ -1216,6 +1114,7 @@
                 "x": 1100,
                 "y": 1000
             },
+            "학년": 2.0,
             "data": {
                 "label": "국제학데이터사이언스",
                 "학수번호": "DISS283",
@@ -1243,6 +1142,7 @@
                 "x": 1100,
                 "y": 1100
             },
+            "학년": 2.0,
             "data": {
                 "label": "국제금융:이론및실제",
                 "학수번호": "DISS311",
@@ -1270,6 +1170,7 @@
                 "x": 1100,
                 "y": 1200
             },
+            "학년": 2.0,
             "data": {
                 "label": "한국문화의재조명",
                 "학수번호": "GKSS204",
@@ -1297,6 +1198,7 @@
                 "x": 1100,
                 "y": 1300
             },
+            "학년": 2.0,
             "data": {
                 "label": "동아시아의도시화",
                 "학수번호": "GKSS212",
@@ -1319,11 +1221,68 @@
             }
         },
         {
-            "id": "DISS252",
+            "id": "DISS358",
             "position": {
                 "x": 1320,
                 "y": 0
             },
+            "학년": 3,
+            "data": {
+                "label": "전후일본과동아시아",
+                "학수번호": "DISS358",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "원폭, 항복, 그리고 점령으로 이어지는 일본의 제2차 세계대전 후 사건들을 소개한다. 이러한 역사적 사건들이 전후 일본의 재건에 어떤 영향과 유산을 남겼는가를 고찰한다. 이어서 경제재건의 정치경제, 국제관계, 그리고 사회적비용을 고찰한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS315",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "학년": 3,
+            "data": {
+                "label": "한국통상정책",
+                "학수번호": "GKSS315",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "국제통상 이슈에 대하여 연구조사, 발표, 토론, 강평 등을 통하여 학습함으로써, 국제 통상 현안에 대한 실질적인 대응능력을 제고한다. 또한 통상분쟁사례를 분석하여, 국제 통상규정이 실제 사례에서는 어떻게 해석되며 적용되는가에 대하여 알아본다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS252",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "학년": 3.0,
             "data": {
                 "label": "국제경제법",
                 "학수번호": "DISS252",
@@ -1349,8 +1308,9 @@
             "id": "DISS284",
             "position": {
                 "x": 1320,
-                "y": 100
+                "y": 300
             },
+            "학년": 3.0,
             "data": {
                 "label": "국제학주요쟁점데이터분석",
                 "학수번호": "DISS284",
@@ -1376,8 +1336,9 @@
             "id": "DISS319",
             "position": {
                 "x": 1320,
-                "y": 200
+                "y": 400
             },
+            "학년": 3.0,
             "data": {
                 "label": "국제금융특강",
                 "학수번호": "DISS319",
@@ -1403,8 +1364,9 @@
             "id": "DISS320",
             "position": {
                 "x": 1320,
-                "y": 300
+                "y": 500
             },
+            "학년": 3.0,
             "data": {
                 "label": "외교사",
                 "학수번호": "DISS320",
@@ -1430,8 +1392,9 @@
             "id": "DISS322",
             "position": {
                 "x": 1320,
-                "y": 400
+                "y": 600
             },
+            "학년": 3.0,
             "data": {
                 "label": "국제정치경제",
                 "학수번호": "DISS322",
@@ -1457,8 +1420,9 @@
             "id": "DISS325",
             "position": {
                 "x": 1320,
-                "y": 500
+                "y": 700
             },
+            "학년": 3.0,
             "data": {
                 "label": "국제관계특강I",
                 "학수번호": "DISS325",
@@ -1484,8 +1448,9 @@
             "id": "DISS337",
             "position": {
                 "x": 1320,
-                "y": 600
+                "y": 800
             },
+            "학년": 3.0,
             "data": {
                 "label": "NGO와국제거버넌스",
                 "학수번호": "DISS337",
@@ -1511,8 +1476,9 @@
             "id": "DISS338",
             "position": {
                 "x": 1320,
-                "y": 700
+                "y": 900
             },
+            "학년": 3.0,
             "data": {
                 "label": "세계화와인권",
                 "학수번호": "DISS338",
@@ -1538,8 +1504,9 @@
             "id": "DISS357",
             "position": {
                 "x": 1320,
-                "y": 800
+                "y": 1000
             },
+            "학년": 3.0,
             "data": {
                 "label": "국제금융:시장및기관",
                 "학수번호": "DISS357",
@@ -1565,8 +1532,9 @@
             "id": "GKSS303",
             "position": {
                 "x": 1320,
-                "y": 900
+                "y": 1100
             },
+            "학년": 3.0,
             "data": {
                 "label": "글로벌한국의대외관계",
                 "학수번호": "GKSS303",
@@ -1592,8 +1560,9 @@
             "id": "GKSS309",
             "position": {
                 "x": 1320,
-                "y": 1000
+                "y": 1200
             },
+            "학년": 3.0,
             "data": {
                 "label": "글로벌한국학특강I",
                 "학수번호": "GKSS309",
@@ -1621,6 +1590,7 @@
                 "x": 1540,
                 "y": 0
             },
+            "학년": 3.0,
             "data": {
                 "label": "동아시아경제론",
                 "학수번호": "DISS310",
@@ -1648,6 +1618,7 @@
                 "x": 1540,
                 "y": 100
             },
+            "학년": 3.0,
             "data": {
                 "label": "세계화와경제개발",
                 "학수번호": "DISS312",
@@ -1675,6 +1646,7 @@
                 "x": 1540,
                 "y": 200
             },
+            "학년": 3.0,
             "data": {
                 "label": "국제경제협력론",
                 "학수번호": "DISS314",
@@ -1702,6 +1674,7 @@
                 "x": 1540,
                 "y": 300
             },
+            "학년": 3.0,
             "data": {
                 "label": "국제관계특강II",
                 "학수번호": "DISS328",
@@ -1729,6 +1702,7 @@
                 "x": 1540,
                 "y": 400
             },
+            "학년": 3.0,
             "data": {
                 "label": "미국경제론",
                 "학수번호": "DISS333",
@@ -1756,6 +1730,7 @@
                 "x": 1540,
                 "y": 500
             },
+            "학년": 3.0,
             "data": {
                 "label": "개발도상국의경제지리학",
                 "학수번호": "DISS362",
@@ -1783,6 +1758,7 @@
                 "x": 1540,
                 "y": 600
             },
+            "학년": 3.0,
             "data": {
                 "label": "글로벌빈곤",
                 "학수번호": "DISS363",
@@ -1810,6 +1786,7 @@
                 "x": 1540,
                 "y": 700
             },
+            "학년": 3.0,
             "data": {
                 "label": "디지털통상",
                 "학수번호": "DISS364",
@@ -1837,6 +1814,7 @@
                 "x": 1540,
                 "y": 800
             },
+            "학년": 3.0,
             "data": {
                 "label": "국제학연구고급데이터분석",
                 "학수번호": "DISS365",
@@ -1864,6 +1842,7 @@
                 "x": 1540,
                 "y": 900
             },
+            "학년": 3.0,
             "data": {
                 "label": "북한의정치와경제",
                 "학수번호": "GKSS312",
@@ -1891,6 +1870,7 @@
                 "x": 1540,
                 "y": 1000
             },
+            "학년": 3.0,
             "data": {
                 "label": "남북한관계의이해",
                 "학수번호": "GKSS314",
@@ -1913,11 +1893,96 @@
             }
         },
         {
-            "id": "DISS412",
+            "id": "DISS429",
             "position": {
                 "x": 1760,
                 "y": 0
             },
+            "학년": 4,
+            "data": {
+                "label": "환경과국제관계",
+                "학수번호": "DISS429",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "기후변화, 황사, 수질 오염 등의 지구 환경을 주제로 한 각 주권국가간 주요 이슈를 살펴본다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS477",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "학년": 4,
+            "data": {
+                "label": "개발협력의주요이슈",
+                "학수번호": "DISS477",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "국제학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 강의는 국제개발 및 협력의 주요 이슈를 이해하고, 개발원조의 효율성을 분석한다._x000D_"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GKSS410",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "학년": 4,
+            "data": {
+                "label": "한미관계",
+                "학수번호": "GKSS410",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "글로벌한국융합학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "한미관계의 역사적 배경과 안보, 정치, 경제, 사회 등 각 방면에 있어서 상호관계를 파악하고 21세기 한미관계의 바람직한 방향을 모색한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "DISS412",
+            "position": {
+                "x": 1760,
+                "y": 300
+            },
+            "학년": 4.0,
             "data": {
                 "label": "국제통상특강ll",
                 "학수번호": "DISS412",
@@ -1943,8 +2008,9 @@
             "id": "DISS413",
             "position": {
                 "x": 1760,
-                "y": 100
+                "y": 400
             },
+            "학년": 4.0,
             "data": {
                 "label": "유럽경제론",
                 "학수번호": "DISS413",
@@ -1970,8 +2036,9 @@
             "id": "DISS421",
             "position": {
                 "x": 1760,
-                "y": 200
+                "y": 500
             },
+            "학년": 4.0,
             "data": {
                 "label": "북미국제관계",
                 "학수번호": "DISS421",
@@ -1997,8 +2064,9 @@
             "id": "DISS428",
             "position": {
                 "x": 1760,
-                "y": 300
+                "y": 600
             },
+            "학년": 4.0,
             "data": {
                 "label": "에너지와국제관계",
                 "학수번호": "DISS428",
@@ -2024,8 +2092,9 @@
             "id": "DISS433",
             "position": {
                 "x": 1760,
-                "y": 400
+                "y": 700
             },
+            "학년": 4.0,
             "data": {
                 "label": "동아시아학특강I",
                 "학수번호": "DISS433",
@@ -2051,8 +2120,9 @@
             "id": "DISS476",
             "position": {
                 "x": 1760,
-                "y": 500
+                "y": 800
             },
+            "학년": 4.0,
             "data": {
                 "label": "지속가능발전의주요이슈",
                 "학수번호": "DISS476",
@@ -2078,8 +2148,9 @@
             "id": "DISS479",
             "position": {
                 "x": 1760,
-                "y": 600
+                "y": 900
             },
+            "학년": 4.0,
             "data": {
                 "label": "교육보건및개발",
                 "학수번호": "DISS479",
@@ -2105,8 +2176,9 @@
             "id": "DISS485",
             "position": {
                 "x": 1760,
-                "y": 700
+                "y": 1000
             },
+            "학년": 4.0,
             "data": {
                 "label": "물과지속가능성",
                 "학수번호": "DISS485",
@@ -2132,8 +2204,9 @@
             "id": "GKSS403",
             "position": {
                 "x": 1760,
-                "y": 800
+                "y": 1100
             },
+            "학년": 4.0,
             "data": {
                 "label": "한국의문화외교",
                 "학수번호": "GKSS403",
@@ -2159,8 +2232,9 @@
             "id": "GKSS409",
             "position": {
                 "x": 1760,
-                "y": 900
+                "y": 1200
             },
+            "학년": 4.0,
             "data": {
                 "label": "한국과국제개발",
                 "학수번호": "GKSS409",
@@ -2188,6 +2262,7 @@
                 "x": 1980,
                 "y": 0
             },
+            "학년": 4.0,
             "data": {
                 "label": "동아시아국제관계",
                 "학수번호": "DISS423",
@@ -2215,6 +2290,7 @@
                 "x": 1980,
                 "y": 100
             },
+            "학년": 4.0,
             "data": {
                 "label": "유럽연합의국제관계",
                 "학수번호": "DISS427",
@@ -2242,6 +2318,7 @@
                 "x": 1980,
                 "y": 200
             },
+            "학년": 4.0,
             "data": {
                 "label": "세미나:세계화와주요이슈",
                 "학수번호": "DISS453",
@@ -2269,6 +2346,7 @@
                 "x": 1980,
                 "y": 300
             },
+            "학년": 4.0,
             "data": {
                 "label": "자원과국제개발",
                 "학수번호": "DISS472",
@@ -2296,6 +2374,7 @@
                 "x": 1980,
                 "y": 400
             },
+            "학년": 4.0,
             "data": {
                 "label": "국제분쟁해결",
                 "학수번호": "DISS475",
@@ -2323,6 +2402,7 @@
                 "x": 1980,
                 "y": 500
             },
+            "학년": 4.0,
             "data": {
                 "label": "기후환경법과정치",
                 "학수번호": "DISS481",
@@ -2350,6 +2430,7 @@
                 "x": 1980,
                 "y": 600
             },
+            "학년": 4.0,
             "data": {
                 "label": "동아시아환경관리",
                 "학수번호": "DISS483",
@@ -2377,6 +2458,7 @@
                 "x": 1980,
                 "y": 700
             },
+            "학년": 4.0,
             "data": {
                 "label": "글로벌한국학특강II",
                 "학수번호": "GKSS404",

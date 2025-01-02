@@ -190,6 +190,7 @@
                 "x": 440,
                 "y": 0
             },
+            "학년": 1,
             "data": {
                 "label": "학문세계의탐구 I",
                 "학수번호": "GELI005",
@@ -212,38 +213,12 @@
             }
         },
         {
-            "id": "GEWR002",
+            "id": "IFLS800",
             "position": {
                 "x": 440,
                 "y": 100
             },
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
+            "학년": 1,
             "data": {
                 "label": "Academic English I",
                 "학수번호": "IFLS800",
@@ -266,11 +241,68 @@
             }
         },
         {
-            "id": "GEKS007",
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 200
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
             "position": {
                 "x": 440,
                 "y": 300
             },
+            "학년": 1,
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 400
+            },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS007",
@@ -296,8 +328,9 @@
             "id": "GECT002",
             "position": {
                 "x": 440,
-                "y": 400
+                "y": 500
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]SW프로그래밍의기초",
                 "학수번호": "GECT002",
@@ -320,38 +353,12 @@
             }
         },
         {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "CHEM150",
             "position": {
                 "x": 440,
                 "y": 600
             },
+            "학년": 1,
             "data": {
                 "label": "일반화학및연습",
                 "학수번호": "CHEM150",
@@ -379,6 +386,7 @@
                 "x": 440,
                 "y": 700
             },
+            "학년": 1,
             "data": {
                 "label": "일반화학실험",
                 "학수번호": "CHEM155",
@@ -406,6 +414,7 @@
                 "x": 440,
                 "y": 800
             },
+            "학년": 1,
             "data": {
                 "label": "일반물리학및연습 I",
                 "학수번호": "PHYS151",
@@ -433,6 +442,7 @@
                 "x": 440,
                 "y": 900
             },
+            "학년": 1,
             "data": {
                 "label": "일반물리학실험 I",
                 "학수번호": "PHYS161",
@@ -460,6 +470,7 @@
                 "x": 440,
                 "y": 1000
             },
+            "학년": 1,
             "data": {
                 "label": "미적분학및연습 I",
                 "학수번호": "MATH161",
@@ -487,6 +498,7 @@
                 "x": 660,
                 "y": 0
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS008",
@@ -514,6 +526,7 @@
                 "x": 660,
                 "y": 100
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
@@ -541,6 +554,7 @@
                 "x": 660,
                 "y": 200
             },
+            "학년": 1,
             "data": {
                 "label": "일반물리학및연습 II",
                 "학수번호": "PHYS152",
@@ -568,6 +582,7 @@
                 "x": 660,
                 "y": 300
             },
+            "학년": 1,
             "data": {
                 "label": "일반물리학실험 II",
                 "학수번호": "PHYS162",
@@ -595,6 +610,7 @@
                 "x": 660,
                 "y": 400
             },
+            "학년": 1,
             "data": {
                 "label": "미적분학및연습 II",
                 "학수번호": "MATH162",
@@ -622,6 +638,7 @@
                 "x": 660,
                 "y": 500
             },
+            "학년": 1,
             "data": {
                 "label": "생명과학",
                 "학수번호": "LIBS150",
@@ -644,686 +661,12 @@
             }
         },
         {
-            "id": "BMED202",
-            "position": {
-                "x": 1100,
-                "y": 0
-            },
-            "data": {
-                "label": "공학수학II",
-                "학수번호": "BMED202",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생체 및 의료에 있어 여러 현상을 해석하기 위해 수학적 문제 해석에 필수적이다. 본 과목은 이러한 목적을 달성하기 위한 기본적 수학지식에 관해 심화된 학습을 목표로 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED208",
-            "position": {
-                "x": 1100,
-                "y": 100
-            },
-            "data": {
-                "label": "생체유체역학",
-                "학수번호": "BMED208",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생체 내 혈액과 같은 유체의 흐름 및 역학에 대한 기본 지식에 대해 학습한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED212",
-            "position": {
-                "x": 1100,
-                "y": 200
-            },
-            "data": {
-                "label": "기초광학",
-                "학수번호": "BMED212",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "전통적인 광학 기초 이론 및 관련 방법론을 학습하여 바이오포토닉스 분야의 기초를 마련한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED218",
-            "position": {
-                "x": 1100,
-                "y": 300
-            },
-            "data": {
-                "label": "생리학",
-                "학수번호": "BMED218",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "의학 진단 및 치료에 기초가 되는 인체의 생명유지에 필요한 생체기능과 각 기관의 중요한 생리기전에 대하여 강의한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED224",
-            "position": {
-                "x": 1100,
-                "y": 400
-            },
-            "data": {
-                "label": "물리화학",
-                "학수번호": "BMED224",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "바이오의공학 분야와 연관된 각종 생물학적 또는 화학적 현상의 이해에 필요한 물리화학 지식을 학습한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED228",
-            "position": {
-                "x": 1100,
-                "y": 500
-            },
-            "data": {
-                "label": "의공학의이해",
-                "학수번호": "BMED228",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 과목은 의공학과에 입학한 신입생들을 대상으로 의공학 전반에 대해서 학습하는 과목이다. 의공학의 역사, 원리 및 생체신호, 생체재료, 생체역학, 바이오센서, 의료영상, 의학물리 등 분야를 소개한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED230",
-            "position": {
-                "x": 1100,
-                "y": 600
-            },
-            "data": {
-                "label": "전자회로",
-                "학수번호": "BMED230",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "전자회로의 원리를 이해하고 주파수 특성, 집적회로 등을 구현하고 설계하는 방법에 대하여 학습하며, 이들의 생체 의공분야 응용에 대한 학습"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED323",
-            "position": {
-                "x": 1320,
-                "y": 0
-            },
-            "data": {
-                "label": "의공학실험Ⅰ",
-                "학수번호": "BMED323",
-                "세부전공": null,
-                "전공역량": "문제해결|통합적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 oscilloscope, function generator 등을 이용하여 전기회로 기초소자에 대한 이해를 위한 실험을 진행한다. 아날로그 회로에 대한 이론과 이를 응용한 실험이 포함된다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED329",
-            "position": {
-                "x": 1320,
-                "y": 100
-            },
-            "data": {
-                "label": "의공학실험Ⅲ",
-                "학수번호": "BMED329",
-                "세부전공": null,
-                "전공역량": "문제해결|통합적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목에서는 각종 의료영상 기법 대해서 실험실습 통해서 학습을 한다. 광학 및 x선CT, 초음파, MRI, 핵의학 감마 영상기법을 각종 실험을 통해서 익힌다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED301",
-            "position": {
-                "x": 1320,
-                "y": 200
-            },
-            "data": {
-                "label": "생화학",
-                "학수번호": "BMED301",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생체를 구성하고 있는 생화학 물질의 구조와 기능에 대하여 강의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED303",
-            "position": {
-                "x": 1320,
-                "y": 300
-            },
-            "data": {
-                "label": "분자생물학",
-                "학수번호": "BMED303",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "분자수준의 생물학적 현상들을 탐구하고 분자생물학 기술들에 대하여 학습한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED307",
-            "position": {
-                "x": 1320,
-                "y": 400
-            },
-            "data": {
-                "label": "생체전달시스템",
-                "학수번호": "BMED307",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생체 시스템과 관련된 열 및 물질전달 현상의 기본원리를 이해하고 이를 해석하기 위한 수치해석적인 방법을 학습한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED309",
-            "position": {
-                "x": 1320,
-                "y": 500
-            },
-            "data": {
-                "label": "의료영상",
-                "학수번호": "BMED309",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "다양한 의료용 영상(X선, 초음파, 자기공명, 핵의학검사 영상 등)의 획득 원리와 의료용 영상기기의 하드웨어에 대하여 학습한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED311",
-            "position": {
-                "x": 1320,
-                "y": 600
-            },
-            "data": {
-                "label": "생체신호처리",
-                "학수번호": "BMED311",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생체 신호처리에 대한 원리를 이해하고 응용한다. 이를 위해 또한 생리학, 생물학적인 모델링과 분석에 필수적으로 요구되는 내용에 대해 교육한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED313",
-            "position": {
-                "x": 1320,
-                "y": 700
-            },
-            "data": {
-                "label": "생체재료",
-                "학수번호": "BMED313",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 강의는 생체재료의 구조, 물리화학적 특성, 기계적 물성 및 생체특성에 대해 소개한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED321",
-            "position": {
-                "x": 1320,
-                "y": 800
-            },
-            "data": {
-                "label": "디지털시스템",
-                "학수번호": "BMED321",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "마이크로 프로세서, 논리회로 및 기타 디지털 시스템의 원리 및 설계에 관한 학습과 이들 기술의 생체의공학 분야 응용 학습"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED325",
-            "position": {
-                "x": 1320,
-                "y": 900
-            },
-            "data": {
-                "label": "생체데이터과학",
-                "학수번호": "BMED325",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "의공학 분야의 소프트웨어 개발을 위해 데이터를 구조적으로 표현하는 방식과 이를 구현하는데 필요한 알고리즘들을 배운다. 또한, 효율적인 바이오 메디컬 데이터 분석과 처리를 위한 알고리즘들을 학습함으로써 의공학부 상위 레벨의 과목들을 수강하기 위한 기초를 다진다"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED326",
-            "position": {
-                "x": 1540,
-                "y": 0
-            },
-            "data": {
-                "label": "의공학실험Ⅱ",
-                "학수번호": "BMED326",
-                "세부전공": null,
-                "전공역량": "문제해결|통합적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "의공학에서 자주 접하는 생물학 및 생화학적인 실험과 함께 각종 생체 재료의 간단한 제조 방법 및 특성 분석 방법을 학습한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED306",
-            "position": {
-                "x": 1540,
-                "y": 100
-            },
-            "data": {
-                "label": "세포생물학",
-                "학수번호": "BMED306",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "세포의 일반적 특성과 세포를 이루는 각 구성요소의 기능 및 기능 조절을 위한 신호전달 과정에 대하여 학습한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED312",
-            "position": {
-                "x": 1540,
-                "y": 200
-            },
-            "data": {
-                "label": "생체정보계측",
-                "학수번호": "BMED312",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "기본적인 생체신호의 특징을 살펴보고 그 측정 방법에 대하여 학습한다. 또한 여러 생체 신호 계측기기 사용 실습을 통해 생체 신호 계측에 대한 실질적인 지식을 배양할 수 있다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED318",
-            "position": {
-                "x": 1540,
-                "y": 300
-            },
-            "data": {
-                "label": "의학영상처리",
-                "학수번호": "BMED318",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생체신호처리 이론을 기반으로 의학영상의 생성 및 처리에 관한 기본 알고리듬들을 학습하고, 의료영상에 대한 컴퓨터 실습 과제를 통하여 그 이해도를 높인다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED328",
-            "position": {
-                "x": 1540,
-                "y": 400
-            },
-            "data": {
-                "label": "수치해석의생체응용",
-                "학수번호": "BMED328",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "세포, 조직 및 장기에서 발생하는 여러 가지 생체의공학적 현상에 대한 지배방정식을 유도하고 그에 대한 수치해석적 분석을 통한 결과의 예측을 통해 생체현상에 대한 이해도를 고취한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED332",
-            "position": {
-                "x": 1540,
-                "y": 500
-            },
-            "data": {
-                "label": "생체정보학",
-                "학수번호": "BMED332",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "Human genome project나 DNA chip 등에 대한 소개와 함께 현재 사용되는 생물정보학의 기술에 대한 소개를 하고, 생물학 뿐만이 아닌 전산학과 통계학 등 수리과학과 연계된 학제간 융합 지식을 강의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED334",
-            "position": {
-                "x": 1540,
-                "y": 600
-            },
-            "data": {
-                "label": "의학물리",
-                "학수번호": "BMED334",
-                "세부전공": null,
-                "전공역량": "전문가적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 2,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "의학물리학 분야에 필요한 기초 양자역학, 핵물리학, 방사선의학물리학 및 계측학, 방사선 방호 등에 대해 강의한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "BMED336",
-            "position": {
-                "x": 1540,
-                "y": 700
-            },
-            "data": {
-                "label": "바이오메디컬빅데이터",
-                "학수번호": "BMED336",
-                "세부전공": null,
-                "전공역량": "통합적사고",
-                "개설학과": "바이오의공학부",
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 바이오메디컬 분야에서의 빅데이터 활용 방법에 대해 소개한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "BMED205",
             "position": {
                 "x": 880,
                 "y": 0
             },
+            "학년": 2,
             "data": {
                 "label": "공학수학I",
                 "학수번호": "BMED205",
@@ -1351,6 +694,7 @@
                 "x": 880,
                 "y": 100
             },
+            "학년": 2,
             "data": {
                 "label": "생체역학",
                 "학수번호": "BMED211",
@@ -1378,6 +722,7 @@
                 "x": 880,
                 "y": 200
             },
+            "학년": 2,
             "data": {
                 "label": "해부학",
                 "학수번호": "BMED215",
@@ -1405,6 +750,7 @@
                 "x": 880,
                 "y": 300
             },
+            "학년": 2,
             "data": {
                 "label": "회로이론",
                 "학수번호": "BMED217",
@@ -1432,6 +778,7 @@
                 "x": 880,
                 "y": 400
             },
+            "학년": 2,
             "data": {
                 "label": "유기화학",
                 "학수번호": "BMED219",
@@ -1459,6 +806,7 @@
                 "x": 880,
                 "y": 500
             },
+            "학년": 2,
             "data": {
                 "label": "의공학프로그래밍",
                 "학수번호": "BMED223",
@@ -1481,11 +829,712 @@
             }
         },
         {
+            "id": "BMED202",
+            "position": {
+                "x": 1100,
+                "y": 0
+            },
+            "학년": 2,
+            "data": {
+                "label": "공학수학II",
+                "학수번호": "BMED202",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생체 및 의료에 있어 여러 현상을 해석하기 위해 수학적 문제 해석에 필수적이다. 본 과목은 이러한 목적을 달성하기 위한 기본적 수학지식에 관해 심화된 학습을 목표로 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED208",
+            "position": {
+                "x": 1100,
+                "y": 100
+            },
+            "학년": 2,
+            "data": {
+                "label": "생체유체역학",
+                "학수번호": "BMED208",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생체 내 혈액과 같은 유체의 흐름 및 역학에 대한 기본 지식에 대해 학습한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED212",
+            "position": {
+                "x": 1100,
+                "y": 200
+            },
+            "학년": 2,
+            "data": {
+                "label": "기초광학",
+                "학수번호": "BMED212",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "전통적인 광학 기초 이론 및 관련 방법론을 학습하여 바이오포토닉스 분야의 기초를 마련한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED218",
+            "position": {
+                "x": 1100,
+                "y": 300
+            },
+            "학년": 2,
+            "data": {
+                "label": "생리학",
+                "학수번호": "BMED218",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "의학 진단 및 치료에 기초가 되는 인체의 생명유지에 필요한 생체기능과 각 기관의 중요한 생리기전에 대하여 강의한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED224",
+            "position": {
+                "x": 1100,
+                "y": 400
+            },
+            "학년": 2,
+            "data": {
+                "label": "물리화학",
+                "학수번호": "BMED224",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "바이오의공학 분야와 연관된 각종 생물학적 또는 화학적 현상의 이해에 필요한 물리화학 지식을 학습한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED228",
+            "position": {
+                "x": 1100,
+                "y": 500
+            },
+            "학년": 2,
+            "data": {
+                "label": "의공학의이해",
+                "학수번호": "BMED228",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 과목은 의공학과에 입학한 신입생들을 대상으로 의공학 전반에 대해서 학습하는 과목이다. 의공학의 역사, 원리 및 생체신호, 생체재료, 생체역학, 바이오센서, 의료영상, 의학물리 등 분야를 소개한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED230",
+            "position": {
+                "x": 1100,
+                "y": 600
+            },
+            "학년": 2,
+            "data": {
+                "label": "전자회로",
+                "학수번호": "BMED230",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "전자회로의 원리를 이해하고 주파수 특성, 집적회로 등을 구현하고 설계하는 방법에 대하여 학습하며, 이들의 생체 의공분야 응용에 대한 학습"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED323",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "학년": 3,
+            "data": {
+                "label": "의공학실험Ⅰ",
+                "학수번호": "BMED323",
+                "세부전공": null,
+                "전공역량": "문제해결|통합적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 oscilloscope, function generator 등을 이용하여 전기회로 기초소자에 대한 이해를 위한 실험을 진행한다. 아날로그 회로에 대한 이론과 이를 응용한 실험이 포함된다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED329",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "학년": 3,
+            "data": {
+                "label": "의공학실험Ⅲ",
+                "학수번호": "BMED329",
+                "세부전공": null,
+                "전공역량": "문제해결|통합적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목에서는 각종 의료영상 기법 대해서 실험실습 통해서 학습을 한다. 광학 및 x선CT, 초음파, MRI, 핵의학 감마 영상기법을 각종 실험을 통해서 익힌다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED301",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "학년": 3,
+            "data": {
+                "label": "생화학",
+                "학수번호": "BMED301",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생체를 구성하고 있는 생화학 물질의 구조와 기능에 대하여 강의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED303",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "학년": 3,
+            "data": {
+                "label": "분자생물학",
+                "학수번호": "BMED303",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "분자수준의 생물학적 현상들을 탐구하고 분자생물학 기술들에 대하여 학습한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED307",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "학년": 3,
+            "data": {
+                "label": "생체전달시스템",
+                "학수번호": "BMED307",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생체 시스템과 관련된 열 및 물질전달 현상의 기본원리를 이해하고 이를 해석하기 위한 수치해석적인 방법을 학습한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED309",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "학년": 3,
+            "data": {
+                "label": "의료영상",
+                "학수번호": "BMED309",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "다양한 의료용 영상(X선, 초음파, 자기공명, 핵의학검사 영상 등)의 획득 원리와 의료용 영상기기의 하드웨어에 대하여 학습한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED311",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "학년": 3,
+            "data": {
+                "label": "생체신호처리",
+                "학수번호": "BMED311",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생체 신호처리에 대한 원리를 이해하고 응용한다. 이를 위해 또한 생리학, 생물학적인 모델링과 분석에 필수적으로 요구되는 내용에 대해 교육한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED313",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "학년": 3,
+            "data": {
+                "label": "생체재료",
+                "학수번호": "BMED313",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 강의는 생체재료의 구조, 물리화학적 특성, 기계적 물성 및 생체특성에 대해 소개한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED321",
+            "position": {
+                "x": 1320,
+                "y": 800
+            },
+            "학년": 3,
+            "data": {
+                "label": "디지털시스템",
+                "학수번호": "BMED321",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "마이크로 프로세서, 논리회로 및 기타 디지털 시스템의 원리 및 설계에 관한 학습과 이들 기술의 생체의공학 분야 응용 학습"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED325",
+            "position": {
+                "x": 1320,
+                "y": 900
+            },
+            "학년": 3,
+            "data": {
+                "label": "생체데이터과학",
+                "학수번호": "BMED325",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "의공학 분야의 소프트웨어 개발을 위해 데이터를 구조적으로 표현하는 방식과 이를 구현하는데 필요한 알고리즘들을 배운다. 또한, 효율적인 바이오 메디컬 데이터 분석과 처리를 위한 알고리즘들을 학습함으로써 의공학부 상위 레벨의 과목들을 수강하기 위한 기초를 다진다"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED326",
+            "position": {
+                "x": 1540,
+                "y": 0
+            },
+            "학년": 3,
+            "data": {
+                "label": "의공학실험Ⅱ",
+                "학수번호": "BMED326",
+                "세부전공": null,
+                "전공역량": "문제해결|통합적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "의공학에서 자주 접하는 생물학 및 생화학적인 실험과 함께 각종 생체 재료의 간단한 제조 방법 및 특성 분석 방법을 학습한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED306",
+            "position": {
+                "x": 1540,
+                "y": 100
+            },
+            "학년": 3,
+            "data": {
+                "label": "세포생물학",
+                "학수번호": "BMED306",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "세포의 일반적 특성과 세포를 이루는 각 구성요소의 기능 및 기능 조절을 위한 신호전달 과정에 대하여 학습한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED312",
+            "position": {
+                "x": 1540,
+                "y": 200
+            },
+            "학년": 3,
+            "data": {
+                "label": "생체정보계측",
+                "학수번호": "BMED312",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "기본적인 생체신호의 특징을 살펴보고 그 측정 방법에 대하여 학습한다. 또한 여러 생체 신호 계측기기 사용 실습을 통해 생체 신호 계측에 대한 실질적인 지식을 배양할 수 있다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED318",
+            "position": {
+                "x": 1540,
+                "y": 300
+            },
+            "학년": 3,
+            "data": {
+                "label": "의학영상처리",
+                "학수번호": "BMED318",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생체신호처리 이론을 기반으로 의학영상의 생성 및 처리에 관한 기본 알고리듬들을 학습하고, 의료영상에 대한 컴퓨터 실습 과제를 통하여 그 이해도를 높인다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED328",
+            "position": {
+                "x": 1540,
+                "y": 400
+            },
+            "학년": 3,
+            "data": {
+                "label": "수치해석의생체응용",
+                "학수번호": "BMED328",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "세포, 조직 및 장기에서 발생하는 여러 가지 생체의공학적 현상에 대한 지배방정식을 유도하고 그에 대한 수치해석적 분석을 통한 결과의 예측을 통해 생체현상에 대한 이해도를 고취한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED332",
+            "position": {
+                "x": 1540,
+                "y": 500
+            },
+            "학년": 3,
+            "data": {
+                "label": "생체정보학",
+                "학수번호": "BMED332",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "Human genome project나 DNA chip 등에 대한 소개와 함께 현재 사용되는 생물정보학의 기술에 대한 소개를 하고, 생물학 뿐만이 아닌 전산학과 통계학 등 수리과학과 연계된 학제간 융합 지식을 강의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED334",
+            "position": {
+                "x": 1540,
+                "y": 600
+            },
+            "학년": 3,
+            "data": {
+                "label": "의학물리",
+                "학수번호": "BMED334",
+                "세부전공": null,
+                "전공역량": "전문가적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 2,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "의학물리학 분야에 필요한 기초 양자역학, 핵물리학, 방사선의학물리학 및 계측학, 방사선 방호 등에 대해 강의한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "BMED336",
+            "position": {
+                "x": 1540,
+                "y": 700
+            },
+            "학년": 3,
+            "data": {
+                "label": "바이오메디컬빅데이터",
+                "학수번호": "BMED336",
+                "세부전공": null,
+                "전공역량": "통합적사고",
+                "개설학과": "바이오의공학부",
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 바이오메디컬 분야에서의 빅데이터 활용 방법에 대해 소개한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "BMED330",
             "position": {
                 "x": 1760,
                 "y": 0
             },
+            "학년": 4,
             "data": {
                 "label": "바이오메디컬소재공정",
                 "학수번호": "BMED330",
@@ -1513,6 +1562,7 @@
                 "x": 1760,
                 "y": 100
             },
+            "학년": 4,
             "data": {
                 "label": "바이오포토닉스",
                 "학수번호": "BMED403",
@@ -1540,6 +1590,7 @@
                 "x": 1760,
                 "y": 200
             },
+            "학년": 4,
             "data": {
                 "label": "생체적합성",
                 "학수번호": "BMED419",
@@ -1567,6 +1618,7 @@
                 "x": 1760,
                 "y": 300
             },
+            "학년": 4,
             "data": {
                 "label": "현대방사선치료학",
                 "학수번호": "BMED423",
@@ -1594,6 +1646,7 @@
                 "x": 1760,
                 "y": 400
             },
+            "학년": 4,
             "data": {
                 "label": "바이오마이크로나노기기",
                 "학수번호": "BMED429",
@@ -1621,6 +1674,7 @@
                 "x": 1760,
                 "y": 500
             },
+            "학년": 4,
             "data": {
                 "label": "의공학특강Ⅰ",
                 "학수번호": "BMED431",
@@ -1648,6 +1702,7 @@
                 "x": 1760,
                 "y": 600
             },
+            "학년": 4,
             "data": {
                 "label": "의공학프로젝트: 캡스톤디자인Ⅰ",
                 "학수번호": "BMED433",
@@ -1675,6 +1730,7 @@
                 "x": 1760,
                 "y": 700
             },
+            "학년": 4,
             "data": {
                 "label": "의공학프로젝트: 캡스톤디자인Ⅱ",
                 "학수번호": "BMED434",
@@ -1702,6 +1758,7 @@
                 "x": 1760,
                 "y": 800
             },
+            "학년": 4,
             "data": {
                 "label": "바이오메디컬인공지능Ⅰ",
                 "학수번호": "BMED435",
@@ -1729,6 +1786,7 @@
                 "x": 1980,
                 "y": 0
             },
+            "학년": 4,
             "data": {
                 "label": "신경및뇌공학",
                 "학수번호": "BMED404",
@@ -1756,6 +1814,7 @@
                 "x": 1980,
                 "y": 100
             },
+            "학년": 4,
             "data": {
                 "label": "바이오메디컬통계학",
                 "학수번호": "BMED420",
@@ -1783,6 +1842,7 @@
                 "x": 1980,
                 "y": 200
             },
+            "학년": 4,
             "data": {
                 "label": "바이오인공장기",
                 "학수번호": "BMED422",
@@ -1810,6 +1870,7 @@
                 "x": 1980,
                 "y": 300
             },
+            "학년": 4,
             "data": {
                 "label": "의공학특강Ⅱ",
                 "학수번호": "BMED424",
@@ -1837,6 +1898,7 @@
                 "x": 1980,
                 "y": 400
             },
+            "학년": 4,
             "data": {
                 "label": "의료기기법제도와기술사업화",
                 "학수번호": "BMED432",
@@ -1864,6 +1926,7 @@
                 "x": 1980,
                 "y": 500
             },
+            "학년": 4,
             "data": {
                 "label": "의료로봇",
                 "학수번호": "BMED436",
@@ -1891,6 +1954,7 @@
                 "x": 1980,
                 "y": 600
             },
+            "학년": 4,
             "data": {
                 "label": "바이오메디컬인공지능Ⅱ",
                 "학수번호": "BMED438",
@@ -1918,6 +1982,7 @@
                 "x": 1980,
                 "y": 700
             },
+            "학년": 4,
             "data": {
                 "label": "의료산업및비즈니스모델",
                 "학수번호": "BMED440",

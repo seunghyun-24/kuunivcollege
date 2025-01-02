@@ -190,6 +190,7 @@
                 "x": 440,
                 "y": 0
             },
+            "학년": 1,
             "data": {
                 "label": "학문세계의탐구 I",
                 "학수번호": "GELI005",
@@ -212,38 +213,12 @@
             }
         },
         {
-            "id": "GEWR002",
+            "id": "IFLS800",
             "position": {
                 "x": 440,
                 "y": 100
             },
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
+            "학년": 1,
             "data": {
                 "label": "Academic English I",
                 "학수번호": "IFLS800",
@@ -266,65 +241,12 @@
             }
         },
         {
-            "id": "GEKS007",
-            "position": {
-                "x": 440,
-                "y": 300
-            },
-            "data": {
-                "label": "[진로창업]1학년세미나 I",
-                "학수번호": "GEKS007",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GECT002",
-            "position": {
-                "x": 440,
-                "y": 400
-            },
-            "data": {
-                "label": "[진로창업]SW프로그래밍의기초",
-                "학수번호": "GECT002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "GEBT001",
             "position": {
                 "x": 440,
-                "y": 500
+                "y": 200
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]생명과학의세계",
                 "학수번호": "GEBT001",
@@ -350,8 +272,9 @@
             "id": null,
             "position": {
                 "x": 440,
-                "y": 600
+                "y": 300
             },
+            "학년": 1,
             "data": {
                 "label": "교양고급영어, 교양외국어 I, II 중 택1",
                 "학수번호": null,
@@ -374,38 +297,12 @@
             }
         },
         {
-            "id": "MATH161",
-            "position": {
-                "x": 440,
-                "y": 700
-            },
-            "data": {
-                "label": "미적분학및연습I",
-                "학수번호": "MATH161",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "수학과",
-                "메모": null,
-                "syllabus_kr": "일계함수의 미분과 적분, 적분의 응용, 극좌표계, 수열과 급수, 벡터와 벡터 공간"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "EGRN150",
             "position": {
                 "x": 440,
-                "y": 800
+                "y": 400
             },
+            "학년": 1,
             "data": {
                 "label": "공업역학",
                 "학수번호": "EGRN150",
@@ -422,7 +319,7 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -431,8 +328,9 @@
             "id": "EGRN153",
             "position": {
                 "x": 440,
-                "y": 900
+                "y": 500
             },
+            "학년": 1,
             "data": {
                 "label": "공업통계",
                 "학수번호": "EGRN153",
@@ -449,169 +347,7 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS151",
-            "position": {
-                "x": 440,
-                "y": 1000
-            },
-            "data": {
-                "label": "일반물리학및연습I",
-                "학수번호": "PHYS151",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "물리학과",
-                "메모": null,
-                "syllabus_kr": "대학에서 과학 및 공학을 공부하는 데에 필요한 물리학의 기본지식과 이에 근거한 방법론 및 과학적 사고방식을 가르치는 과목이다. 주요 내용은 물리량을 기술하는 방법, Newton 역학, 파동현상, 열역학이며, 미적분을 이용한 수준이다. 3시간의 강의가 있고, 1시간의 연습 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS161",
-            "position": {
-                "x": 440,
-                "y": 1100
-            },
-            "data": {
-                "label": "일반물리학실험I",
-                "학수번호": "PHYS161",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "물리학과",
-                "메모": null,
-                "syllabus_kr": "일반물리학및연습 I 에서 강의 및 문제풀이로 배우는 내용을 실험을 통해서 배우는 과목이다. 주요 내용은 date분석법, Newton 역학, 파동현상, 열역학에 관한 실험이다. 한번 3시간 실험으로 진행되며, 2인 1조를 원칙으로 하고, 8개조가 한 반을 구성하여 조교 및 교수의  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EGRN127",
-            "position": {
-                "x": 440,
-                "y": 1200
-            },
-            "data": {
-                "label": "기초공학가상실험Ⅰ",
-                "학수번호": "EGRN127",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "공과대학",
-                "메모": null,
-                "syllabus_kr": "이 과목에서는 여러 가지 “물리적 현상”을 관찰하고, _x000D_\n그 원리를 수학/과학의 기초 지식을 이용하여 규명하고,_x000D_\n실험으로부터 배운 원리를 실생활에 응용하는 능력을 함양하는데 있다. _x000D_\n이를 통하여 상급반(2학년 이상)에서 배우게 될 전공에 대한 흥미를 _x000D_\n유도한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS152",
-            "position": {
-                "x": 440,
-                "y": 1300
-            },
-            "data": {
-                "label": "일반물리학및연습II",
-                "학수번호": "PHYS152",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "물리학과",
-                "메모": null,
-                "syllabus_kr": "대학에서 과학 및 공학을 공부하는 데에 필요한 물리학의 기본지식과 이에 근거한 방법론 및 과학적 사고방식을 가르치는 과목이다. 주요 내용은 전자기학, 광학 및 현대물리학이며, 미적분을 이용한 수준이다. 3시간의 강의가 있고, 1시간의 연습시간에 과제물에 대한 문제 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "PHYS162",
-            "position": {
-                "x": 440,
-                "y": 1400
-            },
-            "data": {
-                "label": "일반물리학실험II",
-                "학수번호": "PHYS162",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "물리학과",
-                "메모": null,
-                "syllabus_kr": "일반물리학및연습 II 에서 강의 및 문제풀이로 배우는 내용을 실험을 통해서 배우는 과목이다. 주요 내용은 date분석법, Newton 역학, 파동현상, 열역학에 관한 실험이다. 한번 3시간 실험으로 진행되며, 2인 1조를 원칙으로 하고, 8개조가 한 반을 구성하여 조교 및 교수의 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EGRN128",
-            "position": {
-                "x": 440,
-                "y": 1500
-            },
-            "data": {
-                "label": "기초공학가상실험Ⅱ",
-                "학수번호": "EGRN128",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "공과대학",
-                "메모": null,
-                "syllabus_kr": "기초공학(가상)실험 1에 이어 기초공학(가상)실험 2에서는 여러 가지 “물 _x000D_\n리적 현상”을 관찰하고, 그 원리를 수학/과학의 기초 지식을 이용하여 규 _x000D_\n명하고, 실험으로부터 배운 원리를 실생활에 응용하는 능력을 함양하는데 _x000D_\n있다._x000D_\n이를 통하여 상급반(2학년 이상)에 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
+                "border": "2px solid #92c3a5",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
@@ -620,8 +356,9 @@
             "id": "CHEM150",
             "position": {
                 "x": 440,
-                "y": 1600
+                "y": 600
             },
+            "학년": 1,
             "data": {
                 "label": "일반화학및연습",
                 "학수번호": "CHEM150",
@@ -647,8 +384,9 @@
             "id": "CHEM155",
             "position": {
                 "x": 440,
-                "y": 1700
+                "y": 700
             },
+            "학년": 1,
             "data": {
                 "label": "일반화학실험",
                 "학수번호": "CHEM155",
@@ -671,119 +409,12 @@
             }
         },
         {
-            "id": "CHEM151",
-            "position": {
-                "x": 440,
-                "y": 1800
-            },
-            "data": {
-                "label": "일반화학및연습I",
-                "학수번호": "CHEM151",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "화학과",
-                "메모": null,
-                "syllabus_kr": "이공계 분야들에 관련된 화학에 관한 기본개념과 이론들을 강의와 연습을 통해 토의하고, 응용분야들인 환경화학이나 생물화학 및 공업화학 등을 소개 한다"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM153",
-            "position": {
-                "x": 440,
-                "y": 1900
-            },
-            "data": {
-                "label": "일반화학실험I",
-                "학수번호": "CHEM153",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "화학과",
-                "메모": null,
-                "syllabus_kr": "일반화학 강의에서 다룬 내용들을 실제 실험을 통하여 화합물의 합성법을 배우고 물성을 측정한다. 또한, 화학에 관련된 실험을 수행하는데 필요한 기본 테크닉들을 익힌다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM152",
-            "position": {
-                "x": 440,
-                "y": 2000
-            },
-            "data": {
-                "label": "일반화학및연습II",
-                "학수번호": "CHEM152",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "화학과",
-                "메모": null,
-                "syllabus_kr": "이공계 분야들에 관련된 화학에 관한 기본개념과 이론들을 강의와 연습을 통해 토의하고, 응용분야들인 환경화학이나 생물화학 및 공업화학 등을 소개 한다"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHEM154",
-            "position": {
-                "x": 440,
-                "y": 2100
-            },
-            "data": {
-                "label": "일반화학실험II",
-                "학수번호": "CHEM154",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "화학과",
-                "메모": null,
-                "syllabus_kr": "일반화학 강의에서 다룬 내용들을 실제 실험을 통하여 화합물의 합성법을 배우고 물성을 측정한다. 또한, 화학에 관련된 실험을 수행하는데 필요한 기본 테크닉들을 익힌다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #F8BBD0",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "LIBS150",
             "position": {
                 "x": 440,
-                "y": 2200
+                "y": 800
             },
+            "학년": 1,
             "data": {
                 "label": "생명과학",
                 "학수번호": "LIBS150",
@@ -809,8 +440,9 @@
             "id": "IMEN151",
             "position": {
                 "x": 440,
-                "y": 2300
+                "y": 900
             },
+            "학년": 1,
             "data": {
                 "label": "선형대수",
                 "학수번호": "IMEN151",
@@ -833,11 +465,264 @@
             }
         },
         {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 1000
+            },
+            "학년": 1,
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 1100
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 1200
+            },
+            "학년": 1,
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "MATH161",
+            "position": {
+                "x": 440,
+                "y": 1300
+            },
+            "학년": 1,
+            "data": {
+                "label": "미적분학및연습I",
+                "학수번호": "MATH161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 5,
+                "내용": "수학과",
+                "메모": null,
+                "syllabus_kr": "일계함수의 미분과 적분, 적분의 응용, 극좌표계, 수열과 급수, 벡터와 벡터 공간"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS151",
+            "position": {
+                "x": 440,
+                "y": 1400
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반물리학및연습I",
+                "학수번호": "PHYS151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 5,
+                "내용": "물리학과",
+                "메모": null,
+                "syllabus_kr": "대학에서 과학 및 공학을 공부하는 데에 필요한 물리학의 기본지식과 이에 근거한 방법론 및 과학적 사고방식을 가르치는 과목이다. 주요 내용은 물리량을 기술하는 방법, Newton 역학, 파동현상, 열역학이며, 미적분을 이용한 수준이다. 3시간의 강의가 있고, 1시간의 연습 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS161",
+            "position": {
+                "x": 440,
+                "y": 1500
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반물리학실험I",
+                "학수번호": "PHYS161",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 5,
+                "내용": "물리학과",
+                "메모": null,
+                "syllabus_kr": "일반물리학및연습 I 에서 강의 및 문제풀이로 배우는 내용을 실험을 통해서 배우는 과목이다. 주요 내용은 date분석법, Newton 역학, 파동현상, 열역학에 관한 실험이다. 한번 3시간 실험으로 진행되며, 2인 1조를 원칙으로 하고, 8개조가 한 반을 구성하여 조교 및 교수의  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EGRN127",
+            "position": {
+                "x": 440,
+                "y": 1600
+            },
+            "학년": 1,
+            "data": {
+                "label": "기초공학가상실험Ⅰ",
+                "학수번호": "EGRN127",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 2,
+                "내용": "공과대학",
+                "메모": null,
+                "syllabus_kr": "이 과목에서는 여러 가지 “물리적 현상”을 관찰하고, _x000D_\n그 원리를 수학/과학의 기초 지식을 이용하여 규명하고,_x000D_\n실험으로부터 배운 원리를 실생활에 응용하는 능력을 함양하는데 있다. _x000D_\n이를 통하여 상급반(2학년 이상)에서 배우게 될 전공에 대한 흥미를 _x000D_\n유도한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM151",
+            "position": {
+                "x": 440,
+                "y": 1700
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반화학및연습I",
+                "학수번호": "CHEM151",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 5,
+                "내용": "화학과",
+                "메모": null,
+                "syllabus_kr": "이공계 분야들에 관련된 화학에 관한 기본개념과 이론들을 강의와 연습을 통해 토의하고, 응용분야들인 환경화학이나 생물화학 및 공업화학 등을 소개 한다"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM153",
+            "position": {
+                "x": 440,
+                "y": 1800
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반화학실험I",
+                "학수번호": "CHEM153",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 5,
+                "내용": "화학과",
+                "메모": null,
+                "syllabus_kr": "일반화학 강의에서 다룬 내용들을 실제 실험을 통하여 화합물의 합성법을 배우고 물성을 측정한다. 또한, 화학에 관련된 실험을 수행하는데 필요한 기본 테크닉들을 익힌다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "IMEN153",
             "position": {
                 "x": 440,
-                "y": 2400
+                "y": 1900
             },
+            "학년": 1,
             "data": {
                 "label": "투자경제성분석",
                 "학수번호": "IMEN153",
@@ -863,8 +748,9 @@
             "id": "IMEN158",
             "position": {
                 "x": 440,
-                "y": 2500
+                "y": 2000
             },
+            "학년": 1,
             "data": {
                 "label": "데이터분석을위한프로그래밍언어",
                 "학수번호": "IMEN158",
@@ -892,6 +778,7 @@
                 "x": 660,
                 "y": 0
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]1학년세미나 I",
                 "학수번호": "GEKS008",
@@ -919,6 +806,7 @@
                 "x": 660,
                 "y": 100
             },
+            "학년": 1,
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
@@ -946,6 +834,7 @@
                 "x": 660,
                 "y": 200
             },
+            "학년": 1,
             "data": {
                 "label": "미적분학및연습II",
                 "학수번호": "MATH162",
@@ -968,11 +857,152 @@
             }
         },
         {
-            "id": "IMEN156",
+            "id": "PHYS152",
             "position": {
                 "x": 660,
                 "y": 300
             },
+            "학년": 1,
+            "data": {
+                "label": "일반물리학및연습II",
+                "학수번호": "PHYS152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 5,
+                "내용": "물리학과",
+                "메모": null,
+                "syllabus_kr": "대학에서 과학 및 공학을 공부하는 데에 필요한 물리학의 기본지식과 이에 근거한 방법론 및 과학적 사고방식을 가르치는 과목이다. 주요 내용은 전자기학, 광학 및 현대물리학이며, 미적분을 이용한 수준이다. 3시간의 강의가 있고, 1시간의 연습시간에 과제물에 대한 문제 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "PHYS162",
+            "position": {
+                "x": 660,
+                "y": 400
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반물리학실험II",
+                "학수번호": "PHYS162",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 5,
+                "내용": "물리학과",
+                "메모": null,
+                "syllabus_kr": "일반물리학및연습 II 에서 강의 및 문제풀이로 배우는 내용을 실험을 통해서 배우는 과목이다. 주요 내용은 date분석법, Newton 역학, 파동현상, 열역학에 관한 실험이다. 한번 3시간 실험으로 진행되며, 2인 1조를 원칙으로 하고, 8개조가 한 반을 구성하여 조교 및 교수의 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EGRN128",
+            "position": {
+                "x": 660,
+                "y": 500
+            },
+            "학년": 1,
+            "data": {
+                "label": "기초공학가상실험Ⅱ",
+                "학수번호": "EGRN128",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 2,
+                "내용": "공과대학",
+                "메모": null,
+                "syllabus_kr": "기초공학(가상)실험 1에 이어 기초공학(가상)실험 2에서는 여러 가지 “물 _x000D_\n리적 현상”을 관찰하고, 그 원리를 수학/과학의 기초 지식을 이용하여 규 _x000D_\n명하고, 실험으로부터 배운 원리를 실생활에 응용하는 능력을 함양하는데 _x000D_\n있다._x000D_\n이를 통하여 상급반(2학년 이상)에 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM152",
+            "position": {
+                "x": 660,
+                "y": 600
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반화학및연습II",
+                "학수번호": "CHEM152",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 5,
+                "내용": "화학과",
+                "메모": null,
+                "syllabus_kr": "이공계 분야들에 관련된 화학에 관한 기본개념과 이론들을 강의와 연습을 통해 토의하고, 응용분야들인 환경화학이나 생물화학 및 공업화학 등을 소개 한다"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "CHEM154",
+            "position": {
+                "x": 660,
+                "y": 700
+            },
+            "학년": 1,
+            "data": {
+                "label": "일반화학실험II",
+                "학수번호": "CHEM154",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 5,
+                "내용": "화학과",
+                "메모": null,
+                "syllabus_kr": "일반화학 강의에서 다룬 내용들을 실제 실험을 통하여 화합물의 합성법을 배우고 물성을 측정한다. 또한, 화학에 관련된 실험을 수행하는데 필요한 기본 테크닉들을 익힌다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #F8BBD0",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IMEN156",
+            "position": {
+                "x": 660,
+                "y": 800
+            },
+            "학년": 1,
             "data": {
                 "label": "산업공학개론",
                 "학수번호": "IMEN156",
@@ -995,119 +1025,12 @@
             }
         },
         {
-            "id": "IMEN213",
+            "id": "IMEN225",
             "position": {
                 "x": 880,
                 "y": 0
             },
-            "data": {
-                "label": "수리통계및실습",
-                "학수번호": "IMEN213",
-                "세부전공": null,
-                "전공역량": "전공기초",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null,
-                "syllabus_kr": "수리통계(IND 207)의 補充科目으로 問題풀이를 통하여 槪念을 정립시킨다_x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN219",
-            "position": {
-                "x": 880,
-                "y": 100
-            },
-            "data": {
-                "label": "휴먼인터페이스",
-                "학수번호": "IMEN219",
-                "세부전공": null,
-                "전공역량": "인간공학",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null,
-                "syllabus_kr": "인간공학 분야의 기본과목으로서 시스템 설계의 한 부분이며 시스템 내에서의 인간 즉 사용자, 작업자, 소비자로서의 인간의 특성을 이해하고 이를 바탕으로 제품과 서비스, 작업장과 공장 등의 설계에 적용한다. 또한 관련된 작업설계, 표준시간 설정, 동작 분석 등의 기법 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN221",
-            "position": {
-                "x": 880,
-                "y": 200
-            },
-            "data": {
-                "label": "객체지향프로그래밍및실습",
-                "학수번호": "IMEN221",
-                "세부전공": null,
-                "전공역량": "전공기초",
-                "개설학과": null,
-                "개설횟수": 4,
-                "내용": "산업경영공학부",
-                "메모": null,
-                "syllabus_kr": "객체지향의 기본개념 및 원리를 습득하고 응용 가능한 소프트웨어를 개발할 수 있는 프레임을 학습한다.또한, 객체지향프로그래밍의 언어로는 파이썬을 사용하며, 본 과목에서는 파이썬의 기본문법을 기반으로 파이썬의 고급문법을 습득하여 데이터분석 및 인공지능 개발에  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN223",
-            "position": {
-                "x": 880,
-                "y": 300
-            },
-            "data": {
-                "label": "경영과학개론",
-                "학수번호": "IMEN223",
-                "세부전공": null,
-                "전공역량": "전공기초",
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "산업경영공학부",
-                "메모": null,
-                "syllabus_kr": "경영시스템의 설계와 개발에 관련한 기초이론과 실습을 하는 과목으로, 기술전략, 기술경영, 기술마케팅, 기술금융, 투자분석의 내용의 이론과 실습을 병행한다. 경영시스템의 계량분석기법에 대한 이해를 바탕으로 새로운 상품과 서비스 설계에 집중한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN225",
-            "position": {
-                "x": 880,
-                "y": 400
-            },
+            "학년": 2,
             "data": {
                 "label": "사용자 경험과 인공지능",
                 "학수번호": "IMEN225",
@@ -1133,8 +1056,9 @@
             "id": "EGRN230",
             "position": {
                 "x": 880,
-                "y": 500
+                "y": 100
             },
+            "학년": 2,
             "data": {
                 "label": "국제공학인턴쉽Ⅲ",
                 "학수번호": "EGRN230",
@@ -1151,6 +1075,118 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IMEN213",
+            "position": {
+                "x": 880,
+                "y": 200
+            },
+            "학년": 2,
+            "data": {
+                "label": "수리통계및실습",
+                "학수번호": "IMEN213",
+                "세부전공": null,
+                "전공역량": "전공기초",
+                "개설학과": null,
+                "개설횟수": 5,
+                "내용": "산업경영공학부",
+                "메모": null,
+                "syllabus_kr": "수리통계(IND 207)의 補充科目으로 問題풀이를 통하여 槪念을 정립시킨다_x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IMEN219",
+            "position": {
+                "x": 880,
+                "y": 300
+            },
+            "학년": 2,
+            "data": {
+                "label": "휴먼인터페이스",
+                "학수번호": "IMEN219",
+                "세부전공": null,
+                "전공역량": "인간공학",
+                "개설학과": null,
+                "개설횟수": 5,
+                "내용": "산업경영공학부",
+                "메모": null,
+                "syllabus_kr": "인간공학 분야의 기본과목으로서 시스템 설계의 한 부분이며 시스템 내에서의 인간 즉 사용자, 작업자, 소비자로서의 인간의 특성을 이해하고 이를 바탕으로 제품과 서비스, 작업장과 공장 등의 설계에 적용한다. 또한 관련된 작업설계, 표준시간 설정, 동작 분석 등의 기법 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IMEN221",
+            "position": {
+                "x": 880,
+                "y": 400
+            },
+            "학년": 2,
+            "data": {
+                "label": "객체지향프로그래밍및실습",
+                "학수번호": "IMEN221",
+                "세부전공": null,
+                "전공역량": "전공기초",
+                "개설학과": null,
+                "개설횟수": 4,
+                "내용": "산업경영공학부",
+                "메모": null,
+                "syllabus_kr": "객체지향의 기본개념 및 원리를 습득하고 응용 가능한 소프트웨어를 개발할 수 있는 프레임을 학습한다.또한, 객체지향프로그래밍의 언어로는 파이썬을 사용하며, 본 과목에서는 파이썬의 기본문법을 기반으로 파이썬의 고급문법을 습득하여 데이터분석 및 인공지능 개발에  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IMEN223",
+            "position": {
+                "x": 880,
+                "y": 500
+            },
+            "학년": 2,
+            "data": {
+                "label": "경영과학개론",
+                "학수번호": "IMEN223",
+                "세부전공": null,
+                "전공역량": "전공기초",
+                "개설학과": null,
+                "개설횟수": 2,
+                "내용": "산업경영공학부",
+                "메모": null,
+                "syllabus_kr": "경영시스템의 설계와 개발에 관련한 기초이론과 실습을 하는 과목으로, 기술전략, 기술경영, 기술마케팅, 기술금융, 투자분석의 내용의 이론과 실습을 병행한다. 경영시스템의 계량분석기법에 대한 이해를 바탕으로 새로운 상품과 서비스 설계에 집중한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
                 "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
@@ -1162,6 +1198,7 @@
                 "x": 1100,
                 "y": 0
             },
+            "학년": 2,
             "data": {
                 "label": "응용통계및실습",
                 "학수번호": "IMEN214",
@@ -1189,6 +1226,7 @@
                 "x": 1100,
                 "y": 100
             },
+            "학년": 2,
             "data": {
                 "label": "OR-Ⅰ및 실습",
                 "학수번호": "IMEN216",
@@ -1216,6 +1254,7 @@
                 "x": 1100,
                 "y": 200
             },
+            "학년": 2,
             "data": {
                 "label": "일반회계및원가계산",
                 "학수번호": "IMEN204",
@@ -1243,6 +1282,7 @@
                 "x": 1100,
                 "y": 300
             },
+            "학년": 2,
             "data": {
                 "label": "자료구조및알고리즘",
                 "학수번호": "IMEN224",
@@ -1265,227 +1305,12 @@
             }
         },
         {
-            "id": "IMEN315",
+            "id": "IMEN340",
             "position": {
                 "x": 1320,
                 "y": 0
             },
-            "data": {
-                "label": "인간공학",
-                "학수번호": "IMEN315",
-                "세부전공": null,
-                "전공역량": "인간공학",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null,
-                "syllabus_kr": "인간공학 과목에 요구되는 방법론에 대해 실험 및 실습을 통하여 그 이해를 높인다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN319",
-            "position": {
-                "x": 1320,
-                "y": 100
-            },
-            "data": {
-                "label": "OR-Ⅱ 및 실습",
-                "학수번호": "IMEN319",
-                "세부전공": null,
-                "전공역량": "시스템분석",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null,
-                "syllabus_kr": "OR-Ⅱ 교과목에 부수되는 實習科目으로 OR-Ⅱ에서 다루는 대기행렬이론,   수요예측이론, 마코브 의사결정이론 등 理論 模型의 現實 適用 方法論을    익힌다.  각 조별로 2~3개의 팀 프로젝트를 수행하고 事例硏究를 통해 模   型適用의 利點과 限界點을 體得한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN333",
-            "position": {
-                "x": 1320,
-                "y": 200
-            },
-            "data": {
-                "label": "생산계획",
-                "학수번호": "IMEN333",
-                "세부전공": null,
-                "전공역량": "생산/물류",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null,
-                "syllabus_kr": "제품의 제조를 위한 생산시스템과 이들의 관리특성을 이해하고 제조업의 장기, 중기, 단기 생산계획을 수립하기 위한 기업과 개념을 습득한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN335",
-            "position": {
-                "x": 1320,
-                "y": 300
-            },
-            "data": {
-                "label": "정보시스템설계",
-                "학수번호": "IMEN335",
-                "세부전공": null,
-                "전공역량": "정보시스템",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null,
-                "syllabus_kr": "정보시스템의 설계 및 관리를 위한 데이타베이스의 개념과 시스템분석 등에 관한 주제를 다루고 컴퓨터 네트워크, 정보시스템의 소프트웨어 개발 방법론, 정보시스템의 평가 및 개선 운영에 대하여 연구한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN321",
-            "position": {
-                "x": 1320,
-                "y": 400
-            },
-            "data": {
-                "label": "데이터마이닝",
-                "학수번호": "IMEN321",
-                "세부전공": null,
-                "전공역량": "품질/통계",
-                "개설학과": null,
-                "개설횟수": 5,
-                "내용": "산업경영공학부",
-                "메모": null,
-                "syllabus_kr": "대용량 데이터에서 유용한 정보를 획득하는 데이터마이닝 기법들을 다룬다. 대용량 데이터에서는 정보를 획득하는 기법들이 효율적이어야 한다. 여러 기법들 중 고전적인 데이터 마이닝 기법들인 클러스터링, 연관규칙 마이닝 등을 다룬다. 또한 데이터 마이닝에서의 프라이 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN357",
-            "position": {
-                "x": 1320,
-                "y": 500
-            },
-            "data": {
-                "label": "최적화이론",
-                "학수번호": "IMEN357",
-                "세부전공": null,
-                "전공역량": "시스템분석",
-                "개설학과": null,
-                "개설횟수": 4,
-                "내용": "산업경영공학부",
-                "메모": null,
-                "syllabus_kr": "最適化模型은 O.R.의 核心模型으로써 交通, 生産, 物流, 通信, 經營, 公共   機關, 金融 시스템 등 다양한 分野에서 應用된다. 본 敎科目은 整數計劃,    네트워크 흐름 模型, 非線型計劃, 게임 模型 등 最適化 模型과 이들 模型   을 위한 解法 節次를 다룬다. 또한, 現實  "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN361",
-            "position": {
-                "x": 1320,
-                "y": 600
-            },
-            "data": {
-                "label": "시스템공학특론-Ⅰ",
-                "학수번호": "IMEN361",
-                "세부전공": null,
-                "전공역량": "기타",
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "산업경영공학부",
-                "메모": null,
-                "syllabus_kr": "正規敎科課程에 包含되지 않은 産業工學 및 O.R. 전반에 관한 時宜適切한   主題를 選定하여 硏究하고 討議한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN389",
-            "position": {
-                "x": 1320,
-                "y": 700
-            },
-            "data": {
-                "label": "공학현장실습Ⅰ",
-                "학수번호": "IMEN389",
-                "세부전공": null,
-                "전공역량": "기타",
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": "산업경영공학부",
-                "메모": null,
-                "syllabus_kr": "산업 또는 연구개발 현장에 직접 참여하도록 하여, 학부과정에서 배운 이론과 실제능력을 적용하고 살아있는 지식을 습득할 수 있는 기회를 제공한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN340",
-            "position": {
-                "x": 1320,
-                "y": 800
-            },
+            "학년": 3,
             "data": {
                 "label": "지식재산과빅데이터분석",
                 "학수번호": "IMEN340",
@@ -1511,8 +1336,9 @@
             "id": "EGRN332",
             "position": {
                 "x": 1320,
-                "y": 900
+                "y": 100
             },
+            "학년": 3,
             "data": {
                 "label": "기술과창업",
                 "학수번호": "EGRN332",
@@ -1529,81 +1355,140 @@
             "targetPosition": "Left",
             "style": {
                 "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
+                "border": "2px solid #55aad4",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "IMEN239",
+            "id": "IMEN315",
             "position": {
-                "x": 1760,
-                "y": 0
+                "x": 1320,
+                "y": 200
             },
+            "학년": 3,
             "data": {
-                "label": "지식재산및기술의평가와활용",
-                "학수번호": "IMEN239",
+                "label": "인간공학",
+                "학수번호": "IMEN315",
                 "세부전공": null,
-                "전공역량": "기타",
+                "전공역량": "인간공학",
                 "개설학과": null,
-                "개설횟수": 2,
+                "개설횟수": 5,
                 "내용": "산업경영공학부",
                 "메모": null,
-                "syllabus_kr": "본 수업에서는 지식재산(IP)에 대한 기본적인 구조에 대해 이해하고, 이를 활용한 사업화 전략을 학습하는 것을 목표로 한다. 기술 사업화 과정에 있어 다양한 기술 가치평가와 기술 금융에 대해 이해하여 기술 사업화의 전 과정에 대한 이해를 통한 이를 활용하는 과정을 배"
+                "syllabus_kr": "인간공학 과목에 요구되는 방법론에 대해 실험 및 실습을 통하여 그 이해를 높인다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "IMEN407",
+            "id": "IMEN319",
             "position": {
-                "x": 1760,
-                "y": 100
+                "x": 1320,
+                "y": 300
             },
+            "학년": 3,
             "data": {
-                "label": "물류시스템설계",
-                "학수번호": "IMEN407",
+                "label": "OR-Ⅱ 및 실습",
+                "학수번호": "IMEN319",
+                "세부전공": null,
+                "전공역량": "시스템분석",
+                "개설학과": null,
+                "개설횟수": 5,
+                "내용": "산업경영공학부",
+                "메모": null,
+                "syllabus_kr": "OR-Ⅱ 교과목에 부수되는 實習科目으로 OR-Ⅱ에서 다루는 대기행렬이론,   수요예측이론, 마코브 의사결정이론 등 理論 模型의 現實 適用 方法論을    익힌다.  각 조별로 2~3개의 팀 프로젝트를 수행하고 事例硏究를 통해 模   型適用의 利點과 限界點을 體得한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IMEN333",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "학년": 3,
+            "data": {
+                "label": "생산계획",
+                "학수번호": "IMEN333",
                 "세부전공": null,
                 "전공역량": "생산/물류",
                 "개설학과": null,
-                "개설횟수": 2,
+                "개설횟수": 5,
                 "내용": "산업경영공학부",
                 "메모": null,
-                "syllabus_kr": "  물류시스템 설계를 위한 계량적인 방법을 학습한다. 일반적인 물류시스템 디자인 공정은 문제파악, 문제에 대한 분석, 디자인 대안의 형성 및 선택, 세부디자인의 결정으로 구성된다. 본 과목에서는 물류 네트워크 구성을 위해 시설에 대한 입지선정과 관련된 정성적, 정량"
+                "syllabus_kr": "제품의 제조를 위한 생산시스템과 이들의 관리특성을 이해하고 제조업의 장기, 중기, 단기 생산계획을 수립하기 위한 기업과 개념을 습득한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
                 "borderRadius": "5px",
                 "padding": "10px"
             }
         },
         {
-            "id": "IMEN415",
+            "id": "IMEN335",
             "position": {
-                "x": 1760,
-                "y": 200
+                "x": 1320,
+                "y": 500
             },
+            "학년": 3,
             "data": {
-                "label": "다변량분석",
-                "학수번호": "IMEN415",
+                "label": "정보시스템설계",
+                "학수번호": "IMEN335",
+                "세부전공": null,
+                "전공역량": "정보시스템",
+                "개설학과": null,
+                "개설횟수": 5,
+                "내용": "산업경영공학부",
+                "메모": null,
+                "syllabus_kr": "정보시스템의 설계 및 관리를 위한 데이타베이스의 개념과 시스템분석 등에 관한 주제를 다루고 컴퓨터 네트워크, 정보시스템의 소프트웨어 개발 방법론, 정보시스템의 평가 및 개선 운영에 대하여 연구한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IMEN321",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "학년": 3,
+            "data": {
+                "label": "데이터마이닝",
+                "학수번호": "IMEN321",
                 "세부전공": null,
                 "전공역량": "품질/통계",
                 "개설학과": null,
                 "개설횟수": 5,
                 "내용": "산업경영공학부",
                 "메모": null,
-                "syllabus_kr": "기본적 통계지식을 바탕으로 인간공학 연구방법에 대한 이론을 전달하며, 설문기법을 포함한 조사기법, 다변량 통계기법에 기초한 분석 방법론을 강의한다. 제품개발 과정에서 사용자의 의견과 선호도를 파악하여 반영하는 절차에 대한 이론을 습득한다._x000D_\n_x000D_\n"
+                "syllabus_kr": "대용량 데이터에서 유용한 정보를 획득하는 데이터마이닝 기법들을 다룬다. 대용량 데이터에서는 정보를 획득하는 기법들이 효율적이어야 한다. 여러 기법들 중 고전적인 데이터 마이닝 기법들인 클러스터링, 연관규칙 마이닝 등을 다룬다. 또한 데이터 마이닝에서의 프라이 "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1616,48 +1501,22 @@
             }
         },
         {
-            "id": "IMEN431",
+            "id": "IMEN357",
             "position": {
-                "x": 1760,
-                "y": 300
+                "x": 1320,
+                "y": 700
             },
+            "학년": 3,
             "data": {
-                "label": "예측애널리틱스",
-                "학수번호": "IMEN431",
-                "세부전공": null,
-                "전공역량": "품질/통계",
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "산업경영공학부",
-                "메모": null,
-                "syllabus_kr": "본 과목은 다양한 예측애널리틱스 방법론을 배운다. 방법론은 회귀분석, 로지스틱/포아송회귀분석, 평활법, ARIMA, 그리고 최신 머신러닝 기법을 포함한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN457",
-            "position": {
-                "x": 1760,
-                "y": 400
-            },
-            "data": {
-                "label": "시스템분석",
-                "학수번호": "IMEN457",
+                "label": "최적화이론",
+                "학수번호": "IMEN357",
                 "세부전공": null,
                 "전공역량": "시스템분석",
                 "개설학과": null,
-                "개설횟수": 3,
+                "개설횟수": 4,
                 "내용": "산업경영공학부",
                 "메모": null,
-                "syllabus_kr": "시스템 분석 기법은 문제 해결을 위한 기술이라 할 수 있다. 시스템 분석은 요구 분석을 통하여 문제를 정의하고, 분석 대상 시스템이 필요로 하는 입력 및 출력 정보자료 기반을 설계하고, 대안을 생성하여 최적 대안을 선정하고 분석하는 작업이다. 이 과목에서는 컴퓨터  "
+                "syllabus_kr": "最適化模型은 O.R.의 核心模型으로써 交通, 生産, 物流, 通信, 經營, 公共   機關, 金融 시스템 등 다양한 分野에서 應用된다. 본 敎科目은 整數計劃,    네트워크 흐름 模型, 非線型計劃, 게임 模型 등 最適化 模型과 이들 模型   을 위한 解法 節次를 다룬다. 또한, 現實  "
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1670,48 +1529,22 @@
             }
         },
         {
-            "id": "IMEN461",
+            "id": "IMEN361",
             "position": {
-                "x": 1760,
-                "y": 500
+                "x": 1320,
+                "y": 800
             },
+            "학년": 3,
             "data": {
-                "label": "시사경영과학",
-                "학수번호": "IMEN461",
-                "세부전공": null,
-                "전공역량": "시스템분석",
-                "개설학과": null,
-                "개설횟수": 2,
-                "내용": "산업경영공학부",
-                "메모": null,
-                "syllabus_kr": "과학, 경제, 문화, 체육 등 사회 전반에 걸쳐 해당 학기에 사회적 관심도가 큰 최신 이슈들을 선정하여 경영과학 시각에서 조사/분석하고, 논점 정리를 통해 문제해결능력과 글쓰기 능력 향상, 그리고 시사성 증대를 목표로 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IMEN471",
-            "position": {
-                "x": 1760,
-                "y": 600
-            },
-            "data": {
-                "label": "캡스톤디자인Ⅰ",
-                "학수번호": "IMEN471",
+                "label": "시스템공학특론-Ⅰ",
+                "학수번호": "IMEN361",
                 "세부전공": null,
                 "전공역량": "기타",
                 "개설학과": null,
                 "개설횟수": 3,
                 "내용": "산업경영공학부",
                 "메모": null,
-                "syllabus_kr": "교육과정중 지도교수에 의해 제시된 심화 설계 프로젝트 수행을 통해 학부생의 종합설계 능력을 향상시키기 위한 과목이다. 이 과목을 수강하면서 학부생들은 전공지식의 응용능력 및 구현 능력을 배양한다."
+                "syllabus_kr": "正規敎科課程에 包含되지 않은 産業工學 및 O.R. 전반에 관한 時宜適切한   主題를 選定하여 硏究하고 討議한다._x000D_\n"
             },
             "type": "customNode",
             "sourcePosition": "Right",
@@ -1724,54 +1557,28 @@
             }
         },
         {
-            "id": "EGRN430",
+            "id": "IMEN389",
             "position": {
-                "x": 1760,
-                "y": 700
+                "x": 1320,
+                "y": 900
             },
+            "학년": 3,
             "data": {
-                "label": "공학인턴십Ⅰ",
-                "학수번호": "EGRN430",
+                "label": "공학현장실습Ⅰ",
+                "학수번호": "IMEN389",
                 "세부전공": null,
-                "전공역량": null,
+                "전공역량": "기타",
                 "개설학과": null,
-                "개설횟수": 3,
-                "내용": "공과대학",
+                "개설횟수": 1,
+                "내용": "산업경영공학부",
                 "메모": null,
-                "syllabus_kr": "인턴쉽프로그램을 통해 수업에서 배운 이론을 실제로 적용하는 기회를 제공한다."
+                "syllabus_kr": "산업 또는 연구개발 현장에 직접 참여하도록 하여, 학부과정에서 배운 이론과 실제능력을 적용하고 살아있는 지식을 습득할 수 있는 기회를 제공한다."
             },
             "type": "customNode",
             "sourcePosition": "Right",
             "targetPosition": "Left",
             "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "EGRN440",
-            "position": {
-                "x": 1760,
-                "y": 800
-            },
-            "data": {
-                "label": "공학인턴십Ⅱ",
-                "학수번호": "EGRN440",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 3,
-                "내용": "공과대학",
-                "메모": null,
-                "syllabus_kr": "인턴쉽프로그램을 통해 R&D 분야와 같은 다양한 공학 현장에서 이론과 기술적 사항들을 실제 적용하는 기회를 제공한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
+                "backgroundColor": "#f8f8f8",
                 "border": "2px solid #8f8f8f",
                 "borderRadius": "5px",
                 "padding": "10px"
@@ -1783,6 +1590,7 @@
                 "x": 1540,
                 "y": 0
             },
+            "학년": 3,
             "data": {
                 "label": "공급사슬경영",
                 "학수번호": "IMEN302",
@@ -1810,6 +1618,7 @@
                 "x": 1540,
                 "y": 100
             },
+            "학년": 3,
             "data": {
                 "label": "최적화응용",
                 "학수번호": "IMEN320",
@@ -1837,6 +1646,7 @@
                 "x": 1540,
                 "y": 200
             },
+            "학년": 3,
             "data": {
                 "label": "시뮬레이션및실습",
                 "학수번호": "IMEN324",
@@ -1864,6 +1674,7 @@
                 "x": 1540,
                 "y": 300
             },
+            "학년": 3,
             "data": {
                 "label": "실험계획과통계분석",
                 "학수번호": "IMEN339",
@@ -1891,6 +1702,7 @@
                 "x": 1540,
                 "y": 400
             },
+            "학년": 3,
             "data": {
                 "label": "품질공학",
                 "학수번호": "IMEN358",
@@ -1918,6 +1730,7 @@
                 "x": 1540,
                 "y": 500
             },
+            "학년": 3,
             "data": {
                 "label": "시스템공학특론-Ⅱ",
                 "학수번호": "IMEN362",
@@ -1945,6 +1758,7 @@
                 "x": 1540,
                 "y": 600
             },
+            "학년": 3,
             "data": {
                 "label": "스마트생산운영관리",
                 "학수번호": "IMEN376",
@@ -1972,6 +1786,7 @@
                 "x": 1540,
                 "y": 700
             },
+            "학년": 3,
             "data": {
                 "label": "제품개발",
                 "학수번호": "IMEN382",
@@ -1999,6 +1814,7 @@
                 "x": 1540,
                 "y": 800
             },
+            "학년": 3,
             "data": {
                 "label": "헬스시스템엔지니어링",
                 "학수번호": "IMEN383",
@@ -2021,11 +1837,264 @@
             }
         },
         {
+            "id": "EGRN430",
+            "position": {
+                "x": 1760,
+                "y": 0
+            },
+            "학년": 4,
+            "data": {
+                "label": "공학인턴십Ⅰ",
+                "학수번호": "EGRN430",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 3,
+                "내용": "공과대학",
+                "메모": null,
+                "syllabus_kr": "인턴쉽프로그램을 통해 수업에서 배운 이론을 실제로 적용하는 기회를 제공한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "EGRN440",
+            "position": {
+                "x": 1760,
+                "y": 100
+            },
+            "학년": 4,
+            "data": {
+                "label": "공학인턴십Ⅱ",
+                "학수번호": "EGRN440",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 3,
+                "내용": "공과대학",
+                "메모": null,
+                "syllabus_kr": "인턴쉽프로그램을 통해 R&D 분야와 같은 다양한 공학 현장에서 이론과 기술적 사항들을 실제 적용하는 기회를 제공한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IMEN239",
+            "position": {
+                "x": 1760,
+                "y": 200
+            },
+            "학년": 4,
+            "data": {
+                "label": "지식재산및기술의평가와활용",
+                "학수번호": "IMEN239",
+                "세부전공": null,
+                "전공역량": "기타",
+                "개설학과": null,
+                "개설횟수": 2,
+                "내용": "산업경영공학부",
+                "메모": null,
+                "syllabus_kr": "본 수업에서는 지식재산(IP)에 대한 기본적인 구조에 대해 이해하고, 이를 활용한 사업화 전략을 학습하는 것을 목표로 한다. 기술 사업화 과정에 있어 다양한 기술 가치평가와 기술 금융에 대해 이해하여 기술 사업화의 전 과정에 대한 이해를 통한 이를 활용하는 과정을 배"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IMEN407",
+            "position": {
+                "x": 1760,
+                "y": 300
+            },
+            "학년": 4,
+            "data": {
+                "label": "물류시스템설계",
+                "학수번호": "IMEN407",
+                "세부전공": null,
+                "전공역량": "생산/물류",
+                "개설학과": null,
+                "개설횟수": 2,
+                "내용": "산업경영공학부",
+                "메모": null,
+                "syllabus_kr": "  물류시스템 설계를 위한 계량적인 방법을 학습한다. 일반적인 물류시스템 디자인 공정은 문제파악, 문제에 대한 분석, 디자인 대안의 형성 및 선택, 세부디자인의 결정으로 구성된다. 본 과목에서는 물류 네트워크 구성을 위해 시설에 대한 입지선정과 관련된 정성적, 정량"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IMEN415",
+            "position": {
+                "x": 1760,
+                "y": 400
+            },
+            "학년": 4,
+            "data": {
+                "label": "다변량분석",
+                "학수번호": "IMEN415",
+                "세부전공": null,
+                "전공역량": "품질/통계",
+                "개설학과": null,
+                "개설횟수": 5,
+                "내용": "산업경영공학부",
+                "메모": null,
+                "syllabus_kr": "기본적 통계지식을 바탕으로 인간공학 연구방법에 대한 이론을 전달하며, 설문기법을 포함한 조사기법, 다변량 통계기법에 기초한 분석 방법론을 강의한다. 제품개발 과정에서 사용자의 의견과 선호도를 파악하여 반영하는 절차에 대한 이론을 습득한다._x000D_\n_x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IMEN431",
+            "position": {
+                "x": 1760,
+                "y": 500
+            },
+            "학년": 4,
+            "data": {
+                "label": "예측애널리틱스",
+                "학수번호": "IMEN431",
+                "세부전공": null,
+                "전공역량": "품질/통계",
+                "개설학과": null,
+                "개설횟수": 3,
+                "내용": "산업경영공학부",
+                "메모": null,
+                "syllabus_kr": "본 과목은 다양한 예측애널리틱스 방법론을 배운다. 방법론은 회귀분석, 로지스틱/포아송회귀분석, 평활법, ARIMA, 그리고 최신 머신러닝 기법을 포함한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IMEN457",
+            "position": {
+                "x": 1760,
+                "y": 600
+            },
+            "학년": 4,
+            "data": {
+                "label": "시스템분석",
+                "학수번호": "IMEN457",
+                "세부전공": null,
+                "전공역량": "시스템분석",
+                "개설학과": null,
+                "개설횟수": 3,
+                "내용": "산업경영공학부",
+                "메모": null,
+                "syllabus_kr": "시스템 분석 기법은 문제 해결을 위한 기술이라 할 수 있다. 시스템 분석은 요구 분석을 통하여 문제를 정의하고, 분석 대상 시스템이 필요로 하는 입력 및 출력 정보자료 기반을 설계하고, 대안을 생성하여 최적 대안을 선정하고 분석하는 작업이다. 이 과목에서는 컴퓨터  "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IMEN461",
+            "position": {
+                "x": 1760,
+                "y": 700
+            },
+            "학년": 4,
+            "data": {
+                "label": "시사경영과학",
+                "학수번호": "IMEN461",
+                "세부전공": null,
+                "전공역량": "시스템분석",
+                "개설학과": null,
+                "개설횟수": 2,
+                "내용": "산업경영공학부",
+                "메모": null,
+                "syllabus_kr": "과학, 경제, 문화, 체육 등 사회 전반에 걸쳐 해당 학기에 사회적 관심도가 큰 최신 이슈들을 선정하여 경영과학 시각에서 조사/분석하고, 논점 정리를 통해 문제해결능력과 글쓰기 능력 향상, 그리고 시사성 증대를 목표로 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IMEN471",
+            "position": {
+                "x": 1760,
+                "y": 800
+            },
+            "학년": 4,
+            "data": {
+                "label": "캡스톤디자인Ⅰ",
+                "학수번호": "IMEN471",
+                "세부전공": null,
+                "전공역량": "기타",
+                "개설학과": null,
+                "개설횟수": 3,
+                "내용": "산업경영공학부",
+                "메모": null,
+                "syllabus_kr": "교육과정중 지도교수에 의해 제시된 심화 설계 프로젝트 수행을 통해 학부생의 종합설계 능력을 향상시키기 위한 과목이다. 이 과목을 수강하면서 학부생들은 전공지식의 응용능력 및 구현 능력을 배양한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "IMEN466",
             "position": {
                 "x": 1980,
                 "y": 0
             },
+            "학년": 4,
             "data": {
                 "label": "서비스공학",
                 "학수번호": "IMEN466",
@@ -2053,6 +2122,7 @@
                 "x": 1980,
                 "y": 100
             },
+            "학년": 4,
             "data": {
                 "label": "산업공학을위한딥러닝",
                 "학수번호": "IMEN468",
@@ -2080,6 +2150,7 @@
                 "x": 1980,
                 "y": 200
             },
+            "학년": 4,
             "data": {
                 "label": "캡스톤디자인Ⅱ",
                 "학수번호": "IMEN472",

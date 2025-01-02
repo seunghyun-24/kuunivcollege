@@ -185,281 +185,12 @@
             }
         },
         {
-            "id": "KORE201",
+            "id": "CHIN103\t",
             "position": {
                 "x": 440,
                 "y": 0
             },
-            "data": {
-                "label": "한국문학의이해",
-                "학수번호": "KORE201",
-                "세부전공": null,
-                "전공역량": "전문적자기실현",
-                "개설학과": "국어국문학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "국문학의 전체적 윤곽과 특징을 파악하고 주요 작품을 독서 과제로 섭렵하게 하여 국문학 각 부분의 바탕을 균형 있게 이해하게 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#D1C4E9",
-                "border": "2px solid #9a49c2",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "KORE003",
-            "position": {
-                "x": 440,
-                "y": 100
-            },
-            "data": {
-                "label": "무제강좌",
-                "학수번호": "KORE003",
-                "세부전공": null,
-                "전공역량": "세계속의한국문화",
-                "개설학과": "국어국문학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "국문학에서 중요한 현대 사회의 특정 주제나 그에 대한 새로운 접근 방법을 학습한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COLA173",
-            "position": {
-                "x": 440,
-                "y": 200
-            },
-            "data": {
-                "label": "디지털인문학응용",
-                "학수번호": "COLA173",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "문과대학",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "해당 과목은 디지털 시대에 문과 학생들이 필수적으로 알아야 할 다양한 기술이 인문학 분야에서 어떻게 응용되는지 직접 배우고 연습해보는 기회를 제공한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #ff3c3c",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "COLA200",
-            "position": {
-                "x": 440,
-                "y": 300
-            },
-            "data": {
-                "label": "인문융합세미나",
-                "학수번호": "COLA200",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": "문과대학",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "인문학을 중심으로 인문, 사회, 자연과학 등 타 학문 영역의 전문지식을 융합하는 세미나 형식으로 운영한다._x000D_\n※심화된 인문 융합 지식을 통섭하는 세미나로서 주관 학과의 전공과목에 준하는 수준으로 운영한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#FFFFFF",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GELI005",
-            "position": {
-                "x": 440,
-                "y": 400
-            },
-            "data": {
-                "label": "학문세계의탐구 I",
-                "학수번호": "GELI005",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEWR002",
-            "position": {
-                "x": 440,
-                "y": 500
-            },
-            "data": {
-                "label": "글쓰기",
-                "학수번호": "GEWR002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "IFLS800",
-            "position": {
-                "x": 440,
-                "y": 600
-            },
-            "data": {
-                "label": "Academic English I",
-                "학수번호": "IFLS800",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEKS007",
-            "position": {
-                "x": 440,
-                "y": 700
-            },
-            "data": {
-                "label": "[진로창업]1학년세미나 I",
-                "학수번호": "GEKS007",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GECT002",
-            "position": {
-                "x": 440,
-                "y": 800
-            },
-            "data": {
-                "label": "[진로창업]SW프로그래밍의기초",
-                "학수번호": "GECT002",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "GEBT001",
-            "position": {
-                "x": 440,
-                "y": 900
-            },
-            "data": {
-                "label": "[진로창업]생명과학의세계",
-                "학수번호": "GEBT001",
-                "세부전공": null,
-                "전공역량": null,
-                "개설학과": null,
-                "개설횟수": 1,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#C8E6C9",
-                "border": "2px solid #92c3a5",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "CHIN103\t",
-            "position": {
-                "x": 440,
-                "y": 1000
-            },
+            "학년": null,
             "data": {
                 "label": "교양중국어I",
                 "학수번호": "CHIN103\t",
@@ -485,8 +216,9 @@
             "id": "CHIN104",
             "position": {
                 "x": 440,
-                "y": 1100
+                "y": 100
             },
+            "학년": null,
             "data": {
                 "label": "교양중국어II",
                 "학수번호": "CHIN104",
@@ -512,8 +244,9 @@
             "id": "FRAN141",
             "position": {
                 "x": 440,
-                "y": 1200
+                "y": 200
             },
+            "학년": null,
             "data": {
                 "label": "교양프랑스어I",
                 "학수번호": "FRAN141",
@@ -539,8 +272,9 @@
             "id": "FRAN142",
             "position": {
                 "x": 440,
-                "y": 1300
+                "y": 300
             },
+            "학년": null,
             "data": {
                 "label": "교양프랑스어II",
                 "학수번호": "FRAN142",
@@ -566,8 +300,9 @@
             "id": "GERM161",
             "position": {
                 "x": 440,
-                "y": 1400
+                "y": 400
             },
+            "학년": null,
             "data": {
                 "label": "교양독일어I",
                 "학수번호": "GERM161",
@@ -593,8 +328,9 @@
             "id": "GERM162",
             "position": {
                 "x": 440,
-                "y": 1500
+                "y": 500
             },
+            "학년": null,
             "data": {
                 "label": "교양독일어II",
                 "학수번호": "GERM162",
@@ -620,8 +356,9 @@
             "id": "HANM141",
             "position": {
                 "x": 440,
-                "y": 1600
+                "y": 600
             },
+            "학년": null,
             "data": {
                 "label": "초급한문",
                 "학수번호": "HANM141",
@@ -647,8 +384,9 @@
             "id": "JAPN113",
             "position": {
                 "x": 440,
-                "y": 1700
+                "y": 700
             },
+            "학년": null,
             "data": {
                 "label": "교양일본어I",
                 "학수번호": "JAPN113",
@@ -674,8 +412,9 @@
             "id": "JAPN114",
             "position": {
                 "x": 440,
-                "y": 1800
+                "y": 800
             },
+            "학년": null,
             "data": {
                 "label": "교양일본어II",
                 "학수번호": "JAPN114",
@@ -701,8 +440,9 @@
             "id": "RUSS131",
             "position": {
                 "x": 440,
-                "y": 1900
+                "y": 900
             },
+            "학년": null,
             "data": {
                 "label": "교양러시아어I",
                 "학수번호": "RUSS131",
@@ -728,8 +468,9 @@
             "id": "RUSS132",
             "position": {
                 "x": 440,
-                "y": 2000
+                "y": 1000
             },
+            "학년": null,
             "data": {
                 "label": "교양러시아어II",
                 "학수번호": "RUSS132",
@@ -755,8 +496,9 @@
             "id": "SPAN121",
             "position": {
                 "x": 440,
-                "y": 2100
+                "y": 1100
             },
+            "학년": null,
             "data": {
                 "label": "교양스페인어I",
                 "학수번호": "SPAN121",
@@ -782,8 +524,9 @@
             "id": "SPAN122",
             "position": {
                 "x": 440,
-                "y": 2200
+                "y": 1200
             },
+            "학년": null,
             "data": {
                 "label": "교양스페인어II",
                 "학수번호": "SPAN122",
@@ -806,11 +549,292 @@
             }
         },
         {
+            "id": "COLA173",
+            "position": {
+                "x": 440,
+                "y": 1300
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "디지털인문학응용",
+                "학수번호": "COLA173",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "해당 과목은 디지털 시대에 문과 학생들이 필수적으로 알아야 할 다양한 기술이 인문학 분야에서 어떻게 응용되는지 직접 배우고 연습해보는 기회를 제공한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "COLA200",
+            "position": {
+                "x": 440,
+                "y": 1400
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "인문융합세미나",
+                "학수번호": "COLA200",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": "문과대학",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "인문학을 중심으로 인문, 사회, 자연과학 등 타 학문 영역의 전문지식을 융합하는 세미나 형식으로 운영한다._x000D_\n※심화된 인문 융합 지식을 통섭하는 세미나로서 주관 학과의 전공과목에 준하는 수준으로 운영한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#FFFFFF",
+                "border": "2px solid #55aad4",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GELI005",
+            "position": {
+                "x": 440,
+                "y": 1500
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "학문세계의탐구 I",
+                "학수번호": "GELI005",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "본 교과목은 학습자 주도형 토론 중심 수업으로 다양한 학문 세계를 탐구하며 비판적·창의적·융합적 사고 능력을 배양하는 것을 목적으로 한다. 학문세계의탐구Ⅰ은 토론과 협업을 통해 인간을 이해하고 가치를 탐구하는 교양필수 과목이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "IFLS800",
+            "position": {
+                "x": 440,
+                "y": 1600
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "Academic English I",
+                "학수번호": "IFLS800",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 학생들의 학술관련 영어능력 및 의사소통능력을 향상시키는 데 목적이 있다. 학업 관련 모든 영역에서 활용 가능한 전반적인 영어능력 향상을 위해 학술 내용을 바탕으로 수업을 진행하며, 학생들이 실제 상황에서 구사할 수 있는 영어능력 향상에 초점을 맞춘 다 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEBT001",
+            "position": {
+                "x": 440,
+                "y": 1700
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "[진로창업]생명과학의세계",
+                "학수번호": "GEBT001",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "생명과학의 세계는 생명공학의 기초 지식과 생명현상을 이용한 융복합 기술의 다양한 사례를 살펴봄으로써 변화하는 미래 환경을 대비하고 선도할 수 있는 융합적 사고를 함양하는 강좌이다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE201",
+            "position": {
+                "x": 440,
+                "y": 1800
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "한국문학의이해",
+                "학수번호": "KORE201",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "국문학의 전체적 윤곽과 특징을 파악하고 주요 작품을 독서 과제로 섭렵하게 하여 국문학 각 부분의 바탕을 균형 있게 이해하게 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#D1C4E9",
+                "border": "2px solid #9a49c2",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE003",
+            "position": {
+                "x": 440,
+                "y": 1900
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "무제강좌",
+                "학수번호": "KORE003",
+                "세부전공": null,
+                "전공역량": "세계속의한국문화",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "국문학에서 중요한 현대 사회의 특정 주제나 그에 대한 새로운 접근 방법을 학습한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEWR002",
+            "position": {
+                "x": 440,
+                "y": 2000
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "글쓰기",
+                "학수번호": "GEWR002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "<글쓰기>는 ‘글쓰기의 기초’를 훈련하는 과목으로, 대학 수학 능력의 기본이 되는 사고력과 자기 표현력을 기르는 것을 목표로 한다. 학업 과정에서?요구되는 글쓰기의 특성을 이해하고, 이를 바탕으로 글쓰기를 체계적으로 훈련한다. <글쓰기>는 전교 공통의 과정으로 1학"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GEKS007",
+            "position": {
+                "x": 440,
+                "y": 2100
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "[진로창업]1학년세미나 I",
+                "학수번호": "GEKS007",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "[진로·창업] 1학년세미나Ⅰ은 멘토 특성을 지닌 교양필수 교과목으로서, 1학년 세미나 지도교수의 통솔 하에 대학생활에 적응하고 대학생으로서 진로(연구, 취업, 창업)를 설계할 수 있도록, 온라인 합동강좌 수강, 개별 지도 및 면담, 교내외 다양한 프로그램 참여 등으로 "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "GECT002",
+            "position": {
+                "x": 440,
+                "y": 2200
+            },
+            "학년": 1.0,
+            "data": {
+                "label": "[진로창업]SW프로그래밍의기초",
+                "학수번호": "GECT002",
+                "세부전공": null,
+                "전공역량": null,
+                "개설학과": null,
+                "개설횟수": 1,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 과목은 컴퓨팅 사고와 프로그래밍의 기본 원리를 소개하는 과정이다. 소프트웨어의 근간이 되는 프로그래밍 언어에 대한 체계적인 이해를 바탕으로, Python 언어를 통해 기본 문법, 데이터 구조 및 제어 구조의 핵심 개념을 학습한다. 학생들은 이 과목을 통해 프로그래밍"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#C8E6C9",
+                "border": "2px solid #92c3a5",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "KORE230",
             "position": {
                 "x": 660,
                 "y": 0
             },
+            "학년": 1.0,
             "data": {
                 "label": "한국어학의이해",
                 "학수번호": "KORE230",
@@ -838,6 +862,7 @@
                 "x": 660,
                 "y": 100
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]1학년세미나 II",
                 "학수번호": "GEKS008",
@@ -865,6 +890,7 @@
                 "x": 660,
                 "y": 200
             },
+            "학년": 1.0,
             "data": {
                 "label": "[진로창업]데이터과학과인공지능",
                 "학수번호": "GECT003",
@@ -887,281 +913,12 @@
             }
         },
         {
-            "id": "KORE208",
-            "position": {
-                "x": 1320,
-                "y": 0
-            },
-            "data": {
-                "label": "한국어정보처리",
-                "학수번호": "KORE208",
-                "세부전공": null,
-                "전공역량": "디지털",
-                "개설학과": "국어국문학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "컴퓨터와 인터넷이 생활, 학문, 산업의 각 부문에 직접적인 영향을 끼치는 시대 조류 속에서 국어 국문학 및 인문 과학 전공자들이 한국어와 관련된 정보 처리의 주요 원리와 내용을 이해하도록 하는 데에 목적을 둔다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "KORE227",
-            "position": {
-                "x": 1320,
-                "y": 100
-            },
-            "data": {
-                "label": "국어교과교육론",
-                "학수번호": "KORE227",
-                "세부전공": null,
-                "전공역량": "전문적자기실현",
-                "개설학과": "국어국문학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "현행의 국어 교육을 비판하게 함으로써 바람직한 국어 교육의 이론과 방법을 개척하게 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "KORE236",
-            "position": {
-                "x": 1320,
-                "y": 200
-            },
-            "data": {
-                "label": "한국어의미의이해",
-                "학수번호": "KORE236",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "국어국문학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "현대 국어의 단어 의미, 구문 의미를 체계적으로 해명하게 하고 그 분석 방법을 이해하게 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "KORE305",
-            "position": {
-                "x": 1320,
-                "y": 300
-            },
-            "data": {
-                "label": "소설창작연습",
-                "학수번호": "KORE305",
-                "세부전공": null,
-                "전공역량": "창의적문제해결",
-                "개설학과": "국어국문학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "소설 창작 연습을 통하여 창작 의욕을 고취시키고 창작 능력을 계발한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "KORE309",
-            "position": {
-                "x": 1320,
-                "y": 400
-            },
-            "data": {
-                "label": "한국한문학개론",
-                "학수번호": "KORE309",
-                "세부전공": null,
-                "전공역량": "전문적자기실현",
-                "개설학과": "국어국문학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "한국 한문학의 작가, 작품, 사조를 사적으로 통관하게 한다._x000D_\n"
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "KORE311",
-            "position": {
-                "x": 1320,
-                "y": 500
-            },
-            "data": {
-                "label": "고전시가강독",
-                "학수번호": "KORE311",
-                "세부전공": null,
-                "전공역량": "문화콘텐츠",
-                "개설학과": "국어국문학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "한국고전시가의 주요 작품을 강독함으로써 작품의 주제적 지향, 미적 특질, 양식적 기반, 장르적 특성 등을 깊이 있게 이해하도록 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "KORE317",
-            "position": {
-                "x": 1320,
-                "y": 600
-            },
-            "data": {
-                "label": "외국어로서의한국어교육",
-                "학수번호": "KORE317",
-                "세부전공": null,
-                "전공역량": "세계속의한국문화",
-                "개설학과": "국어국문학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "외국어로 된 국어학, 언어학 관계 문헌을 자세히 뜯어 읽게 하여 외국 책을 읽고 비판하는 능력을 기르게 한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "KORE319",
-            "position": {
-                "x": 1320,
-                "y": 700
-            },
-            "data": {
-                "label": "한국어방언의이해",
-                "학수번호": "KORE319",
-                "세부전공": null,
-                "전공역량": "사회적변화주도",
-                "개설학과": "국어국문학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "방언의 개념과 이론을 살피고 이를 바탕으로 한국어 지역 방언의 특징을 이해하며, 사회 방언 및 언어적 디아스포라, 표준어 문제도 함께 탐색한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "KORE323",
-            "position": {
-                "x": 1320,
-                "y": 800
-            },
-            "data": {
-                "label": "작가와현대세계",
-                "학수번호": "KORE323",
-                "세부전공": null,
-                "전공역량": "세계속의한국문화",
-                "개설학과": "국어국문학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "‘작가와 현대세계’는 20세기를 중심으로 하여 다양한 국내외 작가를 살피면서 해당 시대의 사회적?문화적 흐름을 이해하고 문학의 역사적 변화를 고찰하는 것을 중심으로 한다. "
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
-            "id": "KORE325",
-            "position": {
-                "x": 1320,
-                "y": 900
-            },
-            "data": {
-                "label": "문학자료와문화기획",
-                "학수번호": "KORE325",
-                "세부전공": null,
-                "전공역량": "문화콘텐츠",
-                "개설학과": "국어국문학과",
-                "개설횟수": 0,
-                "내용": null,
-                "메모": null,
-                "syllabus_kr": "이 수업은 근현대 문학자료 중 잘 알려지지 않은 종류를 주제별로 탐색하는 한편, 오늘날 문화 생산의 현장 속에서 그들 자료를 활용할 수 있는 방법을 토의?실습한다."
-            },
-            "type": "customNode",
-            "sourcePosition": "Right",
-            "targetPosition": "Left",
-            "style": {
-                "backgroundColor": "#f8f8f8",
-                "border": "2px solid #8f8f8f",
-                "borderRadius": "5px",
-                "padding": "10px"
-            }
-        },
-        {
             "id": "KORE209",
             "position": {
                 "x": 880,
                 "y": 0
             },
+            "학년": 2.0,
             "data": {
                 "label": "현대시론",
                 "학수번호": "KORE209",
@@ -1189,6 +946,7 @@
                 "x": 880,
                 "y": 100
             },
+            "학년": 2.0,
             "data": {
                 "label": "현대희곡론",
                 "학수번호": "KORE211",
@@ -1216,6 +974,7 @@
                 "x": 880,
                 "y": 200
             },
+            "학년": 2.0,
             "data": {
                 "label": "고전문학사",
                 "학수번호": "KORE215",
@@ -1243,6 +1002,7 @@
                 "x": 880,
                 "y": 300
             },
+            "학년": 2.0,
             "data": {
                 "label": "구비문학론",
                 "학수번호": "KORE217",
@@ -1270,6 +1030,7 @@
                 "x": 880,
                 "y": 400
             },
+            "학년": 2.0,
             "data": {
                 "label": "고전소설론",
                 "학수번호": "KORE219",
@@ -1297,6 +1058,7 @@
                 "x": 880,
                 "y": 500
             },
+            "학년": 2.0,
             "data": {
                 "label": "현대소설론",
                 "학수번호": "KORE223",
@@ -1324,6 +1086,7 @@
                 "x": 880,
                 "y": 600
             },
+            "학년": 2.0,
             "data": {
                 "label": "한국어음운의이해",
                 "학수번호": "KORE231",
@@ -1351,6 +1114,7 @@
                 "x": 880,
                 "y": 700
             },
+            "학년": 2.0,
             "data": {
                 "label": "현대문학작품론",
                 "학수번호": "KORE239",
@@ -1378,6 +1142,7 @@
                 "x": 880,
                 "y": 800
             },
+            "학년": 2.0,
             "data": {
                 "label": "한국어형태론",
                 "학수번호": "KORE425",
@@ -1405,6 +1170,7 @@
                 "x": 1100,
                 "y": 0
             },
+            "학년": 2.0,
             "data": {
                 "label": "현대비평론",
                 "학수번호": "KORE210",
@@ -1432,6 +1198,7 @@
                 "x": 1100,
                 "y": 100
             },
+            "학년": 2.0,
             "data": {
                 "label": "한국근대문학의형성",
                 "학수번호": "KORE212",
@@ -1459,6 +1226,7 @@
                 "x": 1100,
                 "y": 200
             },
+            "학년": 2.0,
             "data": {
                 "label": "현대문학사",
                 "학수번호": "KORE213",
@@ -1486,6 +1254,7 @@
                 "x": 1100,
                 "y": 300
             },
+            "학년": 2.0,
             "data": {
                 "label": "한국한문학강독",
                 "학수번호": "KORE216",
@@ -1513,6 +1282,7 @@
                 "x": 1100,
                 "y": 400
             },
+            "학년": 2.0,
             "data": {
                 "label": "근세시가론",
                 "학수번호": "KORE218",
@@ -1540,6 +1310,7 @@
                 "x": 1100,
                 "y": 500
             },
+            "학년": 2.0,
             "data": {
                 "label": "한국어문법의이해",
                 "학수번호": "KORE234",
@@ -1567,6 +1338,7 @@
                 "x": 1100,
                 "y": 600
             },
+            "학년": 2.0,
             "data": {
                 "label": "한국어표현론",
                 "학수번호": "KORE235",
@@ -1594,6 +1366,7 @@
                 "x": 1100,
                 "y": 700
             },
+            "학년": 2.0,
             "data": {
                 "label": "한국문학과동아시아문학",
                 "학수번호": "KORE238",
@@ -1621,6 +1394,7 @@
                 "x": 1100,
                 "y": 800
             },
+            "학년": 2.0,
             "data": {
                 "label": "고전소설강독",
                 "학수번호": "KORE410",
@@ -1643,11 +1417,292 @@
             }
         },
         {
+            "id": "KORE208",
+            "position": {
+                "x": 1320,
+                "y": 0
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "한국어정보처리",
+                "학수번호": "KORE208",
+                "세부전공": null,
+                "전공역량": "디지털",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "컴퓨터와 인터넷이 생활, 학문, 산업의 각 부문에 직접적인 영향을 끼치는 시대 조류 속에서 국어 국문학 및 인문 과학 전공자들이 한국어와 관련된 정보 처리의 주요 원리와 내용을 이해하도록 하는 데에 목적을 둔다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE227",
+            "position": {
+                "x": 1320,
+                "y": 100
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "국어교과교육론",
+                "학수번호": "KORE227",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "현행의 국어 교육을 비판하게 함으로써 바람직한 국어 교육의 이론과 방법을 개척하게 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE236",
+            "position": {
+                "x": 1320,
+                "y": 200
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "한국어의미의이해",
+                "학수번호": "KORE236",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "현대 국어의 단어 의미, 구문 의미를 체계적으로 해명하게 하고 그 분석 방법을 이해하게 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE305",
+            "position": {
+                "x": 1320,
+                "y": 300
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "소설창작연습",
+                "학수번호": "KORE305",
+                "세부전공": null,
+                "전공역량": "창의적문제해결",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "소설 창작 연습을 통하여 창작 의욕을 고취시키고 창작 능력을 계발한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE309",
+            "position": {
+                "x": 1320,
+                "y": 400
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "한국한문학개론",
+                "학수번호": "KORE309",
+                "세부전공": null,
+                "전공역량": "전문적자기실현",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "한국 한문학의 작가, 작품, 사조를 사적으로 통관하게 한다._x000D_\n"
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE311",
+            "position": {
+                "x": 1320,
+                "y": 500
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "고전시가강독",
+                "학수번호": "KORE311",
+                "세부전공": null,
+                "전공역량": "문화콘텐츠",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "한국고전시가의 주요 작품을 강독함으로써 작품의 주제적 지향, 미적 특질, 양식적 기반, 장르적 특성 등을 깊이 있게 이해하도록 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE317",
+            "position": {
+                "x": 1320,
+                "y": 600
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "외국어로서의한국어교육",
+                "학수번호": "KORE317",
+                "세부전공": null,
+                "전공역량": "세계속의한국문화",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "외국어로 된 국어학, 언어학 관계 문헌을 자세히 뜯어 읽게 하여 외국 책을 읽고 비판하는 능력을 기르게 한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE319",
+            "position": {
+                "x": 1320,
+                "y": 700
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "한국어방언의이해",
+                "학수번호": "KORE319",
+                "세부전공": null,
+                "전공역량": "사회적변화주도",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "방언의 개념과 이론을 살피고 이를 바탕으로 한국어 지역 방언의 특징을 이해하며, 사회 방언 및 언어적 디아스포라, 표준어 문제도 함께 탐색한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE323",
+            "position": {
+                "x": 1320,
+                "y": 800
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "작가와현대세계",
+                "학수번호": "KORE323",
+                "세부전공": null,
+                "전공역량": "세계속의한국문화",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "‘작가와 현대세계’는 20세기를 중심으로 하여 다양한 국내외 작가를 살피면서 해당 시대의 사회적?문화적 흐름을 이해하고 문학의 역사적 변화를 고찰하는 것을 중심으로 한다. "
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
+            "id": "KORE325",
+            "position": {
+                "x": 1320,
+                "y": 900
+            },
+            "학년": 3.0,
+            "data": {
+                "label": "문학자료와문화기획",
+                "학수번호": "KORE325",
+                "세부전공": null,
+                "전공역량": "문화콘텐츠",
+                "개설학과": "국어국문학과",
+                "개설횟수": 0,
+                "내용": null,
+                "메모": null,
+                "syllabus_kr": "이 수업은 근현대 문학자료 중 잘 알려지지 않은 종류를 주제별로 탐색하는 한편, 오늘날 문화 생산의 현장 속에서 그들 자료를 활용할 수 있는 방법을 토의?실습한다."
+            },
+            "type": "customNode",
+            "sourcePosition": "Right",
+            "targetPosition": "Left",
+            "style": {
+                "backgroundColor": "#f8f8f8",
+                "border": "2px solid #8f8f8f",
+                "borderRadius": "5px",
+                "padding": "10px"
+            }
+        },
+        {
             "id": "KORE224",
             "position": {
                 "x": 1540,
                 "y": 0
             },
+            "학년": 3.0,
             "data": {
                 "label": "전통연희론",
                 "학수번호": "KORE224",
@@ -1675,6 +1730,7 @@
                 "x": 1540,
                 "y": 100
             },
+            "학년": 3.0,
             "data": {
                 "label": "국어교과논리및논술",
                 "학수번호": "KORE229",
@@ -1702,6 +1758,7 @@
                 "x": 1540,
                 "y": 200
             },
+            "학년": 3.0,
             "data": {
                 "label": "한국어발달사",
                 "학수번호": "KORE233",
@@ -1729,6 +1786,7 @@
                 "x": 1540,
                 "y": 300
             },
+            "학년": 3.0,
             "data": {
                 "label": "현대소설강독",
                 "학수번호": "KORE237",
@@ -1756,6 +1814,7 @@
                 "x": 1540,
                 "y": 400
             },
+            "학년": 3.0,
             "data": {
                 "label": "시창작연습",
                 "학수번호": "KORE306",
@@ -1783,6 +1842,7 @@
                 "x": 1540,
                 "y": 500
             },
+            "학년": 3.0,
             "data": {
                 "label": "현대극작가론",
                 "학수번호": "KORE307",
@@ -1810,6 +1870,7 @@
                 "x": 1540,
                 "y": 600
             },
+            "학년": 3.0,
             "data": {
                 "label": "고전산문강독",
                 "학수번호": "KORE312",
@@ -1837,6 +1898,7 @@
                 "x": 1540,
                 "y": 700
             },
+            "학년": 3.0,
             "data": {
                 "label": "고전비평선독",
                 "학수번호": "KORE314",
@@ -1864,6 +1926,7 @@
                 "x": 1540,
                 "y": 800
             },
+            "학년": 3.0,
             "data": {
                 "label": "북한의한국어학",
                 "학수번호": "KORE320",
@@ -1891,6 +1954,7 @@
                 "x": 1540,
                 "y": 900
             },
+            "학년": 3.0,
             "data": {
                 "label": "한국어화용론",
                 "학수번호": "KORE322",
@@ -1918,6 +1982,7 @@
                 "x": 1540,
                 "y": 1000
             },
+            "학년": 3.0,
             "data": {
                 "label": "디지털인문학과고전문학",
                 "학수번호": "KORE324",
@@ -1945,6 +2010,7 @@
                 "x": 1540,
                 "y": 1100
             },
+            "학년": 3.0,
             "data": {
                 "label": "한국어음성학",
                 "학수번호": "KORE420",
@@ -1972,6 +2038,7 @@
                 "x": 1760,
                 "y": 0
             },
+            "학년": 4.0,
             "data": {
                 "label": "국어교과교재연구및지도법",
                 "학수번호": "KORE228",
@@ -1999,6 +2066,7 @@
                 "x": 1760,
                 "y": 100
             },
+            "학년": 4.0,
             "data": {
                 "label": "향가와고려가요",
                 "학수번호": "KORE411",
@@ -2026,6 +2094,7 @@
                 "x": 1760,
                 "y": 200
             },
+            "학년": 4.0,
             "data": {
                 "label": "한문산문강독",
                 "학수번호": "KORE413",
@@ -2053,6 +2122,7 @@
                 "x": 1760,
                 "y": 300
             },
+            "학년": 4.0,
             "data": {
                 "label": "한국어사강독",
                 "학수번호": "KORE418",
@@ -2080,6 +2150,7 @@
                 "x": 1760,
                 "y": 400
             },
+            "학년": 4.0,
             "data": {
                 "label": "한국어정책론",
                 "학수번호": "KORE426",
@@ -2107,8 +2178,9 @@
                 "x": 1760,
                 "y": 500
             },
+            "학년": 4.0,
             "data": {
-                "label": null,
+                "label": "응용한국어학",
                 "학수번호": "KORE427",
                 "세부전공": null,
                 "전공역량": "세계속의한국문화",
@@ -2134,6 +2206,7 @@
                 "x": 1760,
                 "y": 600
             },
+            "학년": 4.0,
             "data": {
                 "label": "한국어문자론",
                 "학수번호": "KORE429",
@@ -2161,6 +2234,7 @@
                 "x": 1980,
                 "y": 0
             },
+            "학년": 4.0,
             "data": {
                 "label": "희곡창작연습",
                 "학수번호": "KORE406",
@@ -2188,6 +2262,7 @@
                 "x": 1980,
                 "y": 100
             },
+            "학년": 4.0,
             "data": {
                 "label": "현대시인론",
                 "학수번호": "KORE408",
@@ -2215,6 +2290,7 @@
                 "x": 1980,
                 "y": 200
             },
+            "학년": 4.0,
             "data": {
                 "label": "한국한시선독",
                 "학수번호": "KORE412",
