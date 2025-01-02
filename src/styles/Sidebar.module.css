@@ -3,9 +3,14 @@
   background-color: #ffffff;
   padding: 20px;
   border: #e0e0e0 1px solid;
+  justify-content: center;
+  display: flex;
   text-align: center;
+  align-items: center;
   font-family: "Nanum Gothic", sans-serif;
+  position: relative;
   font-size: 14px;
+  height: 500px;
 }
 
 .logoContainer {

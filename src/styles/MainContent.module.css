@@ -1,9 +1,14 @@
 .mainContent {
   flex: 1;
+  padding: 20px;
   background-color: #f9f9f9;
   border-radius: 8px;
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: relative;
   overflow: auto;
   width: 100%;
   height: 600px;
@@ -50,6 +55,7 @@
   line-height: 1.8;
   margin-bottom: 20px;
   text-align: left;
+  justify-content: flex-end;
 }
 
 .infoList {
